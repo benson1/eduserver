@@ -1,0 +1,131 @@
+[
+    {
+      "question": "Which sentence is scientifically correct?",
+      "options": [
+        { "sentence": "Boiling occurs when water reaches 100°C.", "correct": "true" },
+        { "sentence": "Boiling occurs when water turns into ice.", "correct": "false" },
+        { "sentence": "Boiling happens when water cools down.", "correct": "false" },
+        { "sentence": "Boiling is the process of melting a solid.", "correct": "false" },
+        { "sentence": "Boiling happens at any temperature.", "correct": "false" }
+      ],
+      "explanation": [
+        {
+          "english": "Boiling is the process where a liquid changes into a gas at a specific temperature (100°C for water at sea level).",
+          "chinese": "沸腾是液体在特定温度（海平面上水的沸点为100°C）变为气体的过程。"
+        }
+      ]
+    },
+    {
+      "question": "Which sentence is scientifically correct?",
+      "options": [
+        { "sentence": "A mixture contains two or more substances combined without a chemical change.", "correct": "true" },
+        { "sentence": "A mixture is always made of only one substance.", "correct": "false" },
+        { "sentence": "A mixture cannot be separated.", "correct": "false" },
+        { "sentence": "A mixture is the same as a chemical change.", "correct": "false" },
+        { "sentence": "A mixture forms a new substance.", "correct": "false" }
+      ],
+      "explanation": [
+        {
+          "english": "A mixture is made of two or more substances combined physically, meaning they can be separated without forming a new substance.",
+          "chinese": "混合物由两种或多种物质物理结合而成，因此可以分离，而不会形成新物质。"
+        }
+      ]
+    },
+    {
+      "question": "Which sentence is scientifically correct?",
+      "options": [
+        { "sentence": "A chemical change creates a new substance with different properties.", "correct": "true" },
+        { "sentence": "A chemical change is always reversible.", "correct": "false" },
+        { "sentence": "A chemical change does not involve any reaction.", "correct": "false" },
+        { "sentence": "A chemical change means simply mixing substances together.", "correct": "false" },
+        { "sentence": "A chemical change is the same as a physical change.", "correct": "false" }
+      ],
+      "explanation": [
+        {
+          "english": "A chemical change results in the formation of a new substance with different properties, and it is often irreversible.",
+          "chinese": "化学变化会形成具有不同性质的新物质，并且通常是不可逆的。"
+        }
+      ]
+    },
+    {
+      "question": "Which sentence is scientifically correct?",
+      "options": [
+        { "sentence": "Melting occurs when a solid turns into a liquid.", "correct": "true" },
+        { "sentence": "Melting occurs when a liquid turns into a gas.", "correct": "false" },
+        { "sentence": "Melting is the same as freezing.", "correct": "false" },
+        { "sentence": "Melting happens at any temperature.", "correct": "false" },
+        { "sentence": "Melting does not require heat.", "correct": "false" }
+      ],
+      "explanation": [
+        {
+          "english": "Melting is the process where a solid turns into a liquid due to heat energy.",
+          "chinese": "熔化是固体因吸收热能而变成液体的过程。"
+        }
+      ]
+    },
+    {
+      "question": "Which sentence is scientifically correct?",
+      "options": [
+        { "sentence": "Condensation happens when water vapor cools and turns into a liquid.", "correct": "true" },
+        { "sentence": "Condensation happens when liquid turns into a gas.", "correct": "false" },
+        { "sentence": "Condensation occurs when water freezes.", "correct": "false" },
+        { "sentence": "Condensation happens when ice melts.", "correct": "false" },
+        { "sentence": "Condensation is the same as evaporation.", "correct": "false" }
+      ],
+      "explanation": [
+        {
+          "english": "Condensation occurs when gas cools down and turns into a liquid, such as water droplets forming on a cold surface.",
+          "chinese": "冷凝是气体冷却并变成液体的过程，例如水滴在冷表面上形成。"
+        }
+      ]
+    },
+    {
+      "question": "Which sentence is scientifically correct?",
+      "options": [
+        { "sentence": "Evaporation occurs when a liquid turns into a gas at a temperature below boiling.", "correct": "true" },
+        { "sentence": "Evaporation is the same as condensation.", "correct": "false" },
+        { "sentence": "Evaporation only happens when water boils.", "correct": "false" },
+        { "sentence": "Evaporation turns gas into liquid.", "correct": "false" },
+        { "sentence": "Evaporation happens instantly.", "correct": "false" }
+      ],
+      "explanation": [
+        {
+          "english": "Evaporation is the process where a liquid slowly turns into a gas at a temperature below boiling, such as puddles drying in the sun.",
+          "chinese": "蒸发是液体在低于沸点的温度下缓慢变成气体的过程，例如水坑在阳光下变干。"
+        }
+      ]
+    },
+    {
+      "question": "Which sentence is scientifically correct?",
+      "options": [
+        { "sentence": "A physical change does not create a new substance.", "correct": "true" },
+        { "sentence": "A physical change is always permanent.", "correct": "false" },
+        { "sentence": "A physical change is the same as a chemical change.", "correct": "false" },
+        { "sentence": "A physical change cannot be reversed.", "correct": "false" },
+        { "sentence": "A physical change means a new substance is formed.", "correct": "false" }
+      ],
+      "explanation": [
+        {
+          "english": "A physical change alters the appearance or state of a substance but does not create a new substance, such as ice melting into water.",
+          "chinese": "物理变化改变物质的外观或状态，但不会形成新物质，例如冰融化成水。"
+        }
+      ]
+    },
+    {
+      "question": "Which sentence is scientifically correct?",
+      "options": [
+        { "sentence": "Water vapor is the gas form of water.", "correct": "true" },
+        { "sentence": "Water vapor is a liquid.", "correct": "false" },
+        { "sentence": "Water vapor is the same as ice.", "correct": "false" },
+        { "sentence": "Water vapor is solid water.", "correct": "false" },
+        { "sentence": "Water vapor is always visible.", "correct": "false" }
+      ],
+      "explanation": [
+        {
+          "english": "Water vapor is the gaseous state of water and is usually invisible in the air.",
+          "chinese": "水蒸气是水的气态形式，通常在空气中是不可见的。"
+        }
+      ]
+    }
+  ]
+  
