@@ -2,112 +2,144 @@
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
-      { "sentence": "Work is done when a force is applied, and the object moves in the direction of the force.", "correct": "true" },
-      { "sentence": "Work is done only when an object remains stationary.", "correct": "false" },
-      { "sentence": "Work is done without applying any force.", "correct": "false" },
-      { "sentence": "Work is always done, regardless of movement.", "correct": "false" },
-      { "sentence": "Work is independent of force and movement.", "correct": "false" }
+      { "sentence": "A simple machine makes work easier by changing the direction or magnitude of a force.", "correct": "true" },
+      { "sentence": "A simple machine creates energy.", "correct": "false" },
+      { "sentence": "A simple machine eliminates the need for force.", "correct": "false" },
+      { "sentence": "A simple machine requires electricity to work.", "correct": "false" },
+      { "sentence": "A simple machine makes work harder.", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "Work is done when a force is applied to an object, and the object moves in the same direction as the applied force.",
-        "chinese": "当对物体施加力并使其沿力的方向移动时，就做了功。"
+        "english": "A simple machine is a basic mechanical device that helps make work easier by changing force, direction, or distance.",
+        "chinese": "简单机械是一种基本的机械装置，它通过改变力、方向或距离来帮助减轻工作负担。"
       }
     ]
   },
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
-      { "sentence": "Energy is the ability to do work.", "correct": "true" },
-      { "sentence": "Energy is always created from nothing.", "correct": "false" },
-      { "sentence": "Energy does not exist in nature.", "correct": "false" },
-      { "sentence": "Energy cannot change forms.", "correct": "false" },
-      { "sentence": "Energy is only present in moving objects.", "correct": "false" }
+      { "sentence": "A fulcrum is the fixed point on which a lever pivots.", "correct": "true" },
+      { "sentence": "A fulcrum is the effort applied to a machine.", "correct": "false" },
+      { "sentence": "A fulcrum is the load being moved.", "correct": "false" },
+      { "sentence": "A fulcrum is always located at the end of a lever.", "correct": "false" },
+      { "sentence": "A fulcrum is a type of pulley.", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "Energy is the capacity to do work and can exist in different forms, such as kinetic or potential energy.",
-        "chinese": "能量是做功的能力，可以以不同形式存在，例如动能或势能。"
+        "english": "A fulcrum is the fixed point on which a lever rotates or pivots, allowing force to be applied efficiently.",
+        "chinese": "支点是杠杆旋转或支撑的固定点，使力能够有效地施加。"
       }
     ]
   },
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
-      { "sentence": "Potential energy is stored energy due to an object's position or condition.", "correct": "true" },
-      { "sentence": "Potential energy is the energy of motion.", "correct": "false" },
-      { "sentence": "Potential energy does not depend on height or position.", "correct": "false" },
-      { "sentence": "Potential energy can only be found in moving objects.", "correct": "false" },
-      { "sentence": "Potential energy and kinetic energy are the same thing.", "correct": "false" }
+      { "sentence": "Effort is the force applied to a simple machine to do work.", "correct": "true" },
+      { "sentence": "Effort is the resistance that a machine overcomes.", "correct": "false" },
+      { "sentence": "Effort is the weight of the load being lifted.", "correct": "false" },
+      { "sentence": "Effort is always greater than the load.", "correct": "false" },
+      { "sentence": "Effort and load are the same thing.", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "Potential energy is stored energy that depends on an object's position or condition, such as a stretched spring or an object held above the ground.",
-        "chinese": "势能是储存的能量，取决于物体的位置或状态，例如拉伸的弹簧或悬挂在空中的物体。"
+        "english": "Effort is the force that a person or another force applies to a simple machine to make it function.",
+        "chinese": "动力是人或其他力对简单机械施加的力，使其发挥作用。"
       }
     ]
   },
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
-      { "sentence": "Kinetic energy is the energy of motion.", "correct": "true" },
-      { "sentence": "Kinetic energy is stored energy.", "correct": "false" },
-      { "sentence": "Kinetic energy is independent of an object's movement.", "correct": "false" },
-      { "sentence": "Kinetic energy is always greater than potential energy.", "correct": "false" },
-      { "sentence": "Kinetic energy only exists when an object is at rest.", "correct": "false" }
+      { "sentence": "Load is the weight or resistance that a machine moves or lifts.", "correct": "true" },
+      { "sentence": "Load is the effort applied to a machine.", "correct": "false" },
+      { "sentence": "Load is always greater than effort.", "correct": "false" },
+      { "sentence": "Load is an electrical component of a machine.", "correct": "false" },
+      { "sentence": "Load and fulcrum are the same thing.", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "Kinetic energy is the energy an object has due to its motion. The faster an object moves, the more kinetic energy it has.",
-        "chinese": "动能是物体因运动而具有的能量。物体运动得越快，动能就越大。"
+        "english": "Load is the object or resistance that a machine, such as a lever or pulley, moves or lifts.",
+        "chinese": "负载是机器（如杠杆或滑轮）移动或提升的物体或阻力。"
       }
     ]
   },
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
-      { "sentence": "An action force causes a reaction force of equal magnitude in the opposite direction.", "correct": "true" },
-      { "sentence": "An action force does not have any reaction.", "correct": "false" },
-      { "sentence": "An action force is always stronger than the reaction force.", "correct": "false" },
-      { "sentence": "Action and reaction forces act on the same object.", "correct": "false" },
-      { "sentence": "Action and reaction forces cancel each other out.", "correct": "false" }
+      { "sentence": "A compound machine is made up of two or more simple machines.", "correct": "true" },
+      { "sentence": "A compound machine is a machine with only one moving part.", "correct": "false" },
+      { "sentence": "A compound machine does not use simple machines.", "correct": "false" },
+      { "sentence": "A compound machine always works without effort.", "correct": "false" },
+      { "sentence": "A compound machine can only include pulleys.", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "According to Newton’s Third Law, every action force has an equal and opposite reaction force that acts on a different object.",
-        "chinese": "根据牛顿第三定律，每个作用力都会产生一个大小相等、方向相反的反作用力，并作用在不同的物体上。"
+        "english": "A compound machine is a system that combines multiple simple machines to perform a task more efficiently.",
+        "chinese": "复合机械是结合多个简单机械以更高效完成任务的系统。"
       }
     ]
   },
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
-      { "sentence": "An unbalanced force causes an object to accelerate or change motion.", "correct": "true" },
-      { "sentence": "An unbalanced force has no effect on motion.", "correct": "false" },
-      { "sentence": "An unbalanced force is always weaker than a balanced force.", "correct": "false" },
-      { "sentence": "Unbalanced forces always keep objects at rest.", "correct": "false" },
-      { "sentence": "Unbalanced forces have no effect in space.", "correct": "false" }
+      { "sentence": "Efficiency is a measure of how much useful work a machine does compared to the energy put in.", "correct": "true" },
+      { "sentence": "Efficiency means a machine never loses energy.", "correct": "false" },
+      { "sentence": "Efficiency is always 100% for all machines.", "correct": "false" },
+      { "sentence": "Efficiency is not related to energy use.", "correct": "false" },
+      { "sentence": "Efficiency is the effort applied to a machine.", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "When forces acting on an object are unbalanced, they cause a change in motion, such as acceleration or deceleration.",
-        "chinese": "当作用在物体上的力不平衡时，它们会导致运动的变化，例如加速或减速。"
+        "english": "Efficiency measures how well a machine converts input energy into useful output work, considering energy loss due to friction or other factors.",
+        "chinese": "效率衡量机器将输入能量转换为有用功的能力，并考虑摩擦等因素导致的能量损失。"
       }
     ]
   },
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
-      { "sentence": "Newton’s Third Law states that for every action, there is an equal and opposite reaction.", "correct": "true" },
-      { "sentence": "Newton’s Third Law only applies to stationary objects.", "correct": "false" },
-      { "sentence": "Newton’s Third Law means that forces cancel each other out.", "correct": "false" },
-      { "sentence": "Newton’s Third Law applies only to large objects.", "correct": "false" },
-      { "sentence": "Newton’s Third Law states that force is independent of motion.", "correct": "false" }
+      { "sentence": "A lever is a simple machine consisting of a rigid bar that pivots on a fulcrum.", "correct": "true" },
+      { "sentence": "A lever is always straight and cannot rotate.", "correct": "false" },
+      { "sentence": "A lever is only used for lifting objects.", "correct": "false" },
+      { "sentence": "A lever is the same as a pulley.", "correct": "false" },
+      { "sentence": "A lever cannot make work easier.", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "Newton’s Third Law explains that forces always come in pairs—when one object applies a force on another, the second object applies an equal and opposite force in return.",
-        "chinese": "牛顿第三定律解释了力总是成对出现的——当一个物体对另一个物体施加力时，第二个物体会施加一个大小相等、方向相反的力作为回报。"
+        "english": "A lever is a simple machine consisting of a rigid bar that pivots around a fulcrum to help lift or move loads.",
+        "chinese": "杠杆是一种简单机械，由围绕支点旋转的刚性杆组成，可帮助提升或移动负载。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A pulley is a simple machine that uses a wheel and a rope to lift objects.", "correct": "true" },
+      { "sentence": "A pulley is a type of lever.", "correct": "false" },
+      { "sentence": "A pulley always requires electricity to function.", "correct": "false" },
+      { "sentence": "A pulley is only used in elevators.", "correct": "false" },
+      { "sentence": "A pulley does not help reduce effort.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A pulley is a simple machine that consists of a wheel and a rope, which helps lift loads by changing the direction of the applied force.",
+        "chinese": "滑轮是一种简单机械，由轮子和绳索组成，它通过改变施加力的方向来帮助提升负载。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Mechanical advantage is the ratio of output force to input force in a machine.", "correct": "true" },
+      { "sentence": "Mechanical advantage is the amount of effort needed to move an object.", "correct": "false" },
+      { "sentence": "Mechanical advantage measures how fast a machine moves.", "correct": "false" },
+      { "sentence": "Mechanical advantage is always equal to one.", "correct": "false" },
+      { "sentence": "Mechanical advantage is the energy efficiency of a machine.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Mechanical advantage is the factor by which a machine multiplies the input force to achieve a greater output force.",
+        "chinese": "机械优势是机器将输入力放大以获得更大输出力的比率。"
       }
     ]
   }
