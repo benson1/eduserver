@@ -1,0 +1,50 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A river is a moving body of water that flows toward a larger body like a lake or ocean.", "correct": "true" },
+      { "sentence": "A river is a dry landform that never contains water or supports life.", "correct": "false" },
+      { "sentence": "A river is a large pool of water that remains in one place permanently.", "correct": "false" },
+      { "sentence": "A river is a narrow rock formation that forms underground with no surface water.", "correct": "false" },
+      { "sentence": "A river is a stream of air that moves across the sky like the wind.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A river is a continuous flow of water traveling across land, usually toward a larger body of water.",
+        "chinese": "河流是穿过陆地并流向更大水体的连续水流。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A mountain is a tall landform that rises above surrounding areas with steep slopes.", "correct": "true" },
+      { "sentence": "A mountain is a flat area of land that has no elevation changes or peaks.", "correct": "false" },
+      { "sentence": "A mountain is a deep valley that is always covered by water.", "correct": "false" },
+      { "sentence": "A mountain is a small hill that appears and disappears with the seasons.", "correct": "false" },
+      { "sentence": "A mountain is a floating landform that moves like an iceberg on the ocean.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Mountains are high landforms created by geological processes such as tectonic activity and erosion.",
+        "chinese": "山脉是由构造活动和侵蚀等地质过程形成的高地形。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A valley is a low-lying area between hills or mountains, often shaped by erosion.", "correct": "true" },
+      { "sentence": "A valley is a tall peak that stands above the land like a mountain.", "correct": "false" },
+      { "sentence": "A valley is a small hole in the ground that appears due to earthquakes.", "correct": "false" },
+      { "sentence": "A valley is a raised plateau with steep sides and a flat top.", "correct": "false" },
+      { "sentence": "A valley is a frozen glacier that never melts or changes over time.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Valleys are low areas of land formed by water or glaciers cutting through rock over time.",
+        "chinese": "山谷是由水或冰川长期侵蚀岩石形成的低地。"
+      }
+    ]
+  }
+]
