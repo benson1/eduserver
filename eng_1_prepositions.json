@@ -1,0 +1,163 @@
+[
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "The old woman went to the shop.", "correct": "true" },
+      { "sentence": "The old woman went at the shop.", "correct": "false" },
+      { "sentence": "The old woman went of the shop.", "correct": "false" },
+      { "sentence": "The old woman went in the shop.", "correct": "false" },
+      { "sentence": "The old woman went by the shop.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The preposition 'to' is used when referring to movement toward a destination. 'Went in the shop' can also be correct if the meaning is that she entered the shop, but 'went to the shop' is the correct choice when emphasizing going to the location.",
+        "chinese": "介词 'to' 用于指向某个目的地的移动。'Went in the shop' 也是正确的，如果意思是她进入了商店，但当强调去某个地点时，'went to the shop' 是更合适的选择。"
+      }
+    ]
+  },
+    {
+      "question": "Which sentence is grammatically correct?",
+      "options": [
+        { "sentence": "She is interested in learning Spanish.", "correct": "true" },
+        { "sentence": "She is interested to learning Spanish.", "correct": "false" },
+        { "sentence": "She is interested for learning Spanish.", "correct": "false" },
+        { "sentence": "She is interested by learning Spanish.", "correct": "false" },
+        { "sentence": "She is interested with learning Spanish.", "correct": "false" }
+      ],
+      "explanation": [
+        {
+          "english": "We use 'interested in' when talking about curiosity or enthusiasm for something.",
+          "chinese": "当谈论对某事物感兴趣或好奇时，我们使用 'interested in'。"
+        }
+      ]
+    },
+    {
+      "question": "Which sentence is grammatically correct?",
+      "options": [
+        { "sentence": "He is good at playing football.", "correct": "true" },
+        { "sentence": "He is good in playing football.", "correct": "false" },
+        { "sentence": "He is good on playing football.", "correct": "false" },
+        { "sentence": "He is good by playing football.", "correct": "false" },
+        { "sentence": "He is good of playing football.", "correct": "false" }
+      ],
+      "explanation": [
+        {
+          "english": "The phrase 'good at' is used to describe someone's skill in an activity.",
+          "chinese": "'good at' 用于描述某人在某项活动中的技能。"
+        }
+      ]
+    },
+    {
+      "question": "Which sentence is grammatically correct?",
+      "options": [
+        { "sentence": "I am afraid of spiders.", "correct": "true" },
+        { "sentence": "I am afraid to spiders.", "correct": "false" },
+        { "sentence": "I am afraid in spiders.", "correct": "false" },
+        { "sentence": "I am afraid for spiders.", "correct": "false" },
+        { "sentence": "I am afraid by spiders.", "correct": "false" }
+      ],
+      "explanation": [
+        {
+          "english": "'Afraid of' is used when expressing fear towards something.",
+          "chinese": "'Afraid of' 用于表达对某事物的恐惧。"
+        }
+      ]
+    },
+    {
+      "question": "Which sentence is grammatically correct?",
+      "options": [
+        { "sentence": "We are looking forward to the holiday.", "correct": "true" },
+        { "sentence": "We are looking forward for the holiday.", "correct": "false" },
+        { "sentence": "We are looking forward in the holiday.", "correct": "false" },
+        { "sentence": "We are looking forward at the holiday.", "correct": "false" },
+        { "sentence": "We are looking forward on the holiday.", "correct": "false" }
+      ],
+      "explanation": [
+        {
+          "english": "'Look forward to' is a fixed phrase used when anticipating something with excitement.",
+          "chinese": "'Look forward to' 是一个固定短语，表示期待某件事。"
+        }
+      ]
+    },
+    {
+      "question": "Which sentence is grammatically correct?",
+      "options": [
+        { "sentence": "She is married to a doctor.", "correct": "true" },
+        { "sentence": "She is married with a doctor.", "correct": "false" },
+        { "sentence": "She is married by a doctor.", "correct": "false" },
+        { "sentence": "She is married for a doctor.", "correct": "false" },
+        { "sentence": "She is married in a doctor.", "correct": "false" }
+      ],
+      "explanation": [
+        {
+          "english": "'Married to' is the correct preposition to describe a person's spouse.",
+          "chinese": "'Married to' 是用来描述某人的配偶的正确介词搭配。"
+        }
+      ]
+    },
+    {
+      "question": "Which sentence is grammatically correct?",
+      "options": [
+        { "sentence": "He apologized for being late.", "correct": "true" },
+        { "sentence": "He apologized of being late.", "correct": "false" },
+        { "sentence": "He apologized to being late.", "correct": "false" },
+        { "sentence": "He apologized in being late.", "correct": "false" },
+        { "sentence": "He apologized at being late.", "correct": "false" }
+      ],
+      "explanation": [
+        {
+          "english": "'Apologize for' is used when expressing regret about an action.",
+          "chinese": "'Apologize for' 用于表达对某个行为的歉意。"
+        }
+      ]
+    },
+    {
+      "question": "Which sentence is grammatically correct?",
+      "options": [
+        { "sentence": "They were angry about the decision.", "correct": "true" },
+        { "sentence": "They were angry for the decision.", "correct": "false" },
+        { "sentence": "They were angry in the decision.", "correct": "false" },
+        { "sentence": "They were angry to the decision.", "correct": "false" },
+        { "sentence": "They were angry at the decision.", "correct": "false" }
+      ],
+      "explanation": [
+        {
+          "english": "'Angry about' is used when referring to the reason for anger.",
+          "chinese": "'Angry about' 用于指代生气的原因。"
+        }
+      ]
+    },
+    {
+      "question": "Which sentence is grammatically correct?",
+      "options": [
+        { "sentence": "She is famous for her paintings.", "correct": "true" },
+        { "sentence": "She is famous by her paintings.", "correct": "false" },
+        { "sentence": "She is famous at her paintings.", "correct": "false" },
+        { "sentence": "She is famous of her paintings.", "correct": "false" },
+        { "sentence": "She is famous in her paintings.", "correct": "false" }
+      ],
+      "explanation": [
+        {
+          "english": "'Famous for' is used to describe the reason someone is well known.",
+          "chinese": "'Famous for' 用于描述某人因何事而出名。"
+        }
+      ]
+    },
+    {
+      "question": "Which sentence is grammatically correct?",
+      "options": [
+        { "sentence": "He is responsible for the project.", "correct": "true" },
+        { "sentence": "He is responsible of the project.", "correct": "false" },
+        { "sentence": "He is responsible in the project.", "correct": "false" },
+        { "sentence": "He is responsible at the project.", "correct": "false" },
+        { "sentence": "He is responsible to the project.", "correct": "false" }
+      ],
+      "explanation": [
+        {
+          "english": "'Responsible for' is used to indicate someone's duty or obligation.",
+          "chinese": "'Responsible for' 用于表示某人的责任或义务。"
+        }
+      ]
+    }
+  ]
+  
