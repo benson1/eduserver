@@ -1,0 +1,114 @@
+[
+  {
+    "question": "Which statement best describes the Socratic Method?",
+    "options": [
+      { "sentence": "A teaching method that uses questioning to stimulate critical thinking and illuminate ideas.", "correct": "true" },
+      { "sentence": "A method of memorizing information through repetition without understanding.", "correct": "false" },
+      { "sentence": "A technique for solving problems by thinking outside the box.", "correct": "false" },
+      { "sentence": "A process of learning by observing others without active participation.", "correct": "false" },
+      { "sentence": "A method of teaching that relies solely on lectures and note-taking.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The Socratic Method is a form of dialogue where questions are used to challenge assumptions, stimulate critical thinking, and uncover underlying beliefs.",
+        "chinese": "苏格拉底式教学法是一种通过提问来挑战假设、激发批判性思维并揭示潜在信念的对话形式。"
+      }
+    ]
+  },
+  {
+    "question": "What is lateral thinking?",
+    "options": [
+      { "sentence": "A problem-solving approach that involves looking at problems from unconventional angles.", "correct": "true" },
+      { "sentence": "A method of memorizing information through repetition.", "correct": "false" },
+      { "sentence": "A process of learning by following strict rules and guidelines.", "correct": "false" },
+      { "sentence": "A technique for analyzing data in a linear and logical manner.", "correct": "false" },
+      { "sentence": "A way of thinking that avoids creativity and focuses on tradition.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Lateral thinking is a creative problem-solving technique that encourages looking at problems from new and unconventional perspectives.",
+        "chinese": "横向思维是一种创造性的问题解决方法，鼓励从新的和非传统的角度看待问题。"
+      }
+    ]
+  },
+  {
+    "question": "What is rote learning?",
+    "options": [
+      { "sentence": "A memorization technique based on repetition without understanding.", "correct": "true" },
+      { "sentence": "A method of learning that emphasizes critical thinking and analysis.", "correct": "false" },
+      { "sentence": "A technique for solving problems creatively.", "correct": "false" },
+      { "sentence": "A process of learning through hands-on experience and experimentation.", "correct": "false" },
+      { "sentence": "A way of learning that focuses on understanding concepts deeply.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Rote learning involves memorizing information through repetition without necessarily understanding the underlying concepts.",
+        "chinese": "死记硬背是通过重复记忆信息而不一定理解其背后的概念的学习方法。"
+      }
+    ]
+  },
+  {
+    "question": "What are Bloom’s Six Levels of Critical Thinking?",
+    "options": [
+      { "sentence": "Remembering, Understanding, Applying, Analyzing, Evaluating, and Creating.", "correct": "true" },
+      { "sentence": "Memorizing, Repeating, Testing, Practicing, Reviewing, and Mastering.", "correct": "false" },
+      { "sentence": "Observing, Hypothesizing, Experimenting, Concluding, Reporting, and Publishing.", "correct": "false" },
+      { "sentence": "Reading, Writing, Listening, Speaking, Calculating, and Drawing.", "correct": "false" },
+      { "sentence": "Learning, Practicing, Testing, Failing, Revising, and Succeeding.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Bloom’s Taxonomy includes six levels of cognitive learning: Remembering, Understanding, Applying, Analyzing, Evaluating, and Creating.",
+        "chinese": "布鲁姆分类法包括六个认知学习层次：记忆、理解、应用、分析、评估和创造。"
+      }
+    ]
+  },
+  {
+    "question": "What does mastery mean in education?",
+    "options": [
+      { "sentence": "Achieving a high level of proficiency or deep understanding of a subject.", "correct": "true" },
+      { "sentence": "Memorizing facts without understanding their meaning.", "correct": "false" },
+      { "sentence": "Completing a course or program without effort.", "correct": "false" },
+      { "sentence": "Learning only the basics of a subject.", "correct": "false" },
+      { "sentence": "Focusing on speed rather than accuracy in learning.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Mastery refers to achieving a deep and thorough understanding of a subject, often through practice and application.",
+        "chinese": "精通是指通过练习和应用对某一学科达到深入和透彻的理解。"
+      }
+    ]
+  },
+  {
+    "question": "What is Cognitive Load Theory?",
+    "options": [
+      { "sentence": "A theory about how the brain processes and retains information under different levels of mental effort.", "correct": "true" },
+      { "sentence": "A theory that suggests learning is only possible through repetition.", "correct": "false" },
+      { "sentence": "A theory that focuses on physical exercise to improve memory.", "correct": "false" },
+      { "sentence": "A theory that claims all learning happens unconsciously.", "correct": "false" },
+      { "sentence": "A theory that ignores the role of memory in learning.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Cognitive Load Theory explains how the brain processes information and how excessive mental effort can hinder learning.",
+        "chinese": "认知负荷理论解释了大脑如何处理信息，以及过度的脑力劳动如何阻碍学习。"
+      }
+    ]
+  },
+  {
+    "question": "What does the Ebbinghaus Forgetting Curve describe?",
+    "options": [
+      { "sentence": "The decline of memory retention over time without reinforcement.", "correct": "true" },
+      { "sentence": "The process of improving memory through repetition.", "correct": "false" },
+      { "sentence": "The idea that memory is permanent and never fades.", "correct": "false" },
+      { "sentence": "The relationship between sleep and memory formation.", "correct": "false" },
+      { "sentence": "The impact of diet on cognitive performance.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The Ebbinghaus Forgetting Curve shows how information is lost over time when there is no attempt to retain it.",
+        "chinese": "艾宾浩斯遗忘曲线描述了在没有尝试保留信息的情况下，信息是如何随时间流失的。"
+      }
+    ]
+  }
+]
