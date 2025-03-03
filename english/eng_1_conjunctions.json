@@ -1,0 +1,162 @@
+[
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "I wanted to go out, but it was raining.", "correct": "true" },
+      { "sentence": "I wanted to go out, and it was raining.", "correct": "false" },
+      { "sentence": "I wanted to go out, so it was raining.", "correct": "false" },
+      { "sentence": "I wanted to go out, or it was raining.", "correct": "false" },
+      { "sentence": "I wanted to go out, because it was raining.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The conjunction 'but' is used to contrast two opposing ideas: wanting to go out and the rain preventing it.",
+        "chinese": "连接词 'but' 用于对比两个相反的想法：想要外出和下雨阻止了外出。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "She stayed home because she was sick.", "correct": "true" },
+      { "sentence": "She stayed home so she was sick.", "correct": "false" },
+      { "sentence": "She stayed home or she was sick.", "correct": "false" },
+      { "sentence": "She stayed home but she was sick.", "correct": "false" },
+      { "sentence": "She stayed home yet she was sick.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Because' is the correct conjunction to indicate the reason for staying home.",
+        "chinese": "'Because' 是正确的连接词，表示呆在家里的原因。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "I was tired, so I went to bed early.", "correct": "true" },
+      { "sentence": "I was tired, but I went to bed early.", "correct": "false" },
+      { "sentence": "I was tired, or I went to bed early.", "correct": "false" },
+      { "sentence": "I was tired, yet I went to bed early.", "correct": "false" },
+      { "sentence": "I was tired, for I went to bed early.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'So' is used to show a cause-and-effect relationship between being tired and going to bed early.",
+        "chinese": "'So' 用于表示因果关系，说明累了所以早睡。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "She is smart and hardworking.", "correct": "true" },
+      { "sentence": "She is smart so hardworking.", "correct": "false" },
+      { "sentence": "She is smart but hardworking.", "correct": "false" },
+      { "sentence": "She is smart or hardworking.", "correct": "false" },
+      { "sentence": "She is smart because hardworking.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'And' is used to connect two similar positive qualities.",
+        "chinese": "'And' 用于连接两个相似的积极特质。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "You can take the bus or the train.", "correct": "true" },
+      { "sentence": "You can take the bus and the train.", "correct": "false" },
+      { "sentence": "You can take the bus but the train.", "correct": "false" },
+      { "sentence": "You can take the bus so the train.", "correct": "false" },
+      { "sentence": "You can take the bus yet the train.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Or' is used when offering a choice between two options.",
+        "chinese": "'Or' 用于提供两个选择之一。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "He didn’t study, yet he passed the exam.", "correct": "true" },
+      { "sentence": "He didn’t study, and he passed the exam.", "correct": "false" },
+      { "sentence": "He didn’t study, because he passed the exam.", "correct": "false" },
+      { "sentence": "He didn’t study, or he passed the exam.", "correct": "false" },
+      { "sentence": "He didn’t study, so he passed the exam.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Yet' is used to show a surprising contrast between not studying and passing.",
+        "chinese": "'Yet' 用于表示出乎意料的对比，没学习却通过了考试。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "I will call you when I arrive.", "correct": "true" },
+      { "sentence": "I will call you but I arrive.", "correct": "false" },
+      { "sentence": "I will call you so I arrive.", "correct": "false" },
+      { "sentence": "I will call you for I arrive.", "correct": "false" },
+      { "sentence": "I will call you or I arrive.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'When' is used to indicate a specific time relationship.",
+        "chinese": "'When' 用于表示时间上的关系。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "We left early because we were tired.", "correct": "true" },
+      { "sentence": "We left early so we were tired.", "correct": "false" },
+      { "sentence": "We left early but we were tired.", "correct": "false" },
+      { "sentence": "We left early or we were tired.", "correct": "false" },
+      { "sentence": "We left early and we were tired.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Because' is used to explain the reason for leaving early.",
+        "chinese": "'Because' 用于解释提早离开的原因。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "I like swimming, whereas he prefers running.", "correct": "true" },
+      { "sentence": "I like swimming, and he prefers running.", "correct": "false" },
+      { "sentence": "I like swimming, so he prefers running.", "correct": "false" },
+      { "sentence": "I like swimming, or he prefers running.", "correct": "false" },
+      { "sentence": "I like swimming, for he prefers running.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Whereas' is used to contrast two different preferences.",
+        "chinese": "'Whereas' 用于对比两种不同的喜好。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "She studied hard, so she passed the test.", "correct": "true" },
+      { "sentence": "She studied hard, but she passed the test.", "correct": "false" },
+      { "sentence": "She studied hard, yet she passed the test.", "correct": "false" },
+      { "sentence": "She studied hard, for she passed the test.", "correct": "false" },
+      { "sentence": "She studied hard, or she passed the test.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'So' is used to indicate a cause-and-effect relationship.",
+        "chinese": "'So' 用于表示因果关系。"
+      }
+    ]
+  }
+]
