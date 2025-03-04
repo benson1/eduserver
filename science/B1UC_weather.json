@@ -1,0 +1,114 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Weather describes the conditions of the atmosphere at a specific place and time.", "correct": "true" },
+      { "sentence": "Weather is the same everywhere on Earth all the time.", "correct": "false" },
+      { "sentence": "Weather never changes.", "correct": "false" },
+      { "sentence": "Weather is only about temperature and nothing else.", "correct": "false" },
+      { "sentence": "Weather is the study of space and planets.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Weather refers to the atmospheric conditions, including temperature, precipitation, wind, and humidity, at a particular place and time.",
+        "chinese": "天气是指特定地点和时间的大气状况，包括温度、降水、风和湿度。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Temperature measures how hot or cold something is.", "correct": "true" },
+      { "sentence": "Temperature tells how bright the sun is.", "correct": "false" },
+      { "sentence": "Temperature never changes.", "correct": "false" },
+      { "sentence": "Temperature is always the same around the world.", "correct": "false" },
+      { "sentence": "Temperature is the speed of the wind.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Temperature is a measure of heat energy, indicating how hot or cold an object or environment is.",
+        "chinese": "温度是衡量热能的指标，表示物体或环境的冷热程度。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A thermometer measures temperature.", "correct": "true" },
+      { "sentence": "A thermometer measures wind speed.", "correct": "false" },
+      { "sentence": "A thermometer creates heat.", "correct": "false" },
+      { "sentence": "A thermometer measures time.", "correct": "false" },
+      { "sentence": "A thermometer is used to measure weight.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A thermometer is an instrument used to measure temperature in degrees Celsius or Fahrenheit.",
+        "chinese": "温度计是一种测量温度的仪器，以摄氏度或华氏度表示。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A rain gauge measures how much rain has fallen.", "correct": "true" },
+      { "sentence": "A rain gauge measures temperature.", "correct": "false" },
+      { "sentence": "A rain gauge tells wind speed.", "correct": "false" },
+      { "sentence": "A rain gauge collects sunlight.", "correct": "false" },
+      { "sentence": "A rain gauge creates rain.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A rain gauge is a tool used to measure the amount of precipitation over a period of time.",
+        "chinese": "雨量计是一种用于测量一段时间内降水量的工具。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A wind vane shows wind direction.", "correct": "true" },
+      { "sentence": "A wind vane measures temperature.", "correct": "false" },
+      { "sentence": "A wind vane collects rainwater.", "correct": "false" },
+      { "sentence": "A wind vane creates wind.", "correct": "false" },
+      { "sentence": "A wind vane measures air pressure.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A wind vane, or weather vane, is an instrument used to determine the direction of the wind.",
+        "chinese": "风向标是一种用于测定风向的仪器。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Water vapor is water in gas form.", "correct": "true" },
+      { "sentence": "Water vapor is a solid form of water.", "correct": "false" },
+      { "sentence": "Water vapor is the same as liquid water.", "correct": "false" },
+      { "sentence": "Water vapor is always visible.", "correct": "false" },
+      { "sentence": "Water vapor does not exist in the air.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Water vapor is the gaseous form of water, which is part of the Earth's atmosphere and plays a role in the water cycle.",
+        "chinese": "水蒸气是水的气态形式，是地球大气的一部分，并在水循环中发挥作用。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Evaporation turns liquid water into water vapor.", "correct": "true" },
+      { "sentence": "Evaporation turns ice into liquid water instantly.", "correct": "false" },
+      { "sentence": "Evaporation only happens in cold temperatures.", "correct": "false" },
+      { "sentence": "Evaporation turns solid objects into gas.", "correct": "false" },
+      { "sentence": "Evaporation only happens in oceans.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Evaporation is the process where liquid water changes into water vapor due to heat, playing a key role in the water cycle.",
+        "chinese": "蒸发是液态水由于热量作用变成水蒸气的过程，在水循环中起着重要作用。"
+      }
+    ]
+  }
+]
