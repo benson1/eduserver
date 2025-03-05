@@ -1,0 +1,137 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A desert is a dry region with very little rainfall.", "correct": "true" },
+      { "sentence": "A desert is an area that receives consistent heavy rainfall throughout the year.", "correct": "false" },
+      { "sentence": "A desert has no plant life due to extreme conditions.", "correct": "false" },
+      { "sentence": "A desert is a type of wetland with high humidity.", "correct": "false" },
+      { "sentence": "A desert is only found near the ocean.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A desert is a biome characterized by low precipitation, which can be hot or cold.", "chinese": "沙漠是一种降水量低的生物群落，可以是热的或冷的。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The Arctic is a cold region near the North Pole.", "correct": "true" },
+      { "sentence": "The Arctic experiences warm temperatures year-round due to its location.", "correct": "false" },
+      { "sentence": "The Arctic has no native animal species due to extreme cold.", "correct": "false" },
+      { "sentence": "The Arctic is covered in dense forests similar to tropical regions.", "correct": "false" },
+      { "sentence": "The Arctic is a large desert with no ice cover.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The Arctic is a polar region surrounding the North Pole, characterized by extreme cold and ice-covered seas.", "chinese": "北极是围绕北极的极地地区，具有极端寒冷和冰覆盖的海洋。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A habitat is where an organism lives.", "correct": "true" },
+      { "sentence": "A habitat is an artificial structure created for animals in captivity.", "correct": "false" },
+      { "sentence": "A habitat refers to a single species rather than an environment.", "correct": "false" },
+      { "sentence": "A habitat only exists in extreme environments like deserts and polar regions.", "correct": "false" },
+      { "sentence": "A habitat is defined by the amount of rainfall it receives each year.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A habitat is the natural environment where an organism lives and thrives.", "chinese": "栖息地是生物生活和繁衍的自然环境。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An earthquake is the shaking of the Earth's surface caused by sudden movements in the crust.", "correct": "true" },
+      { "sentence": "An earthquake occurs when wind speeds reach extreme levels and shake the ground.", "correct": "false" },
+      { "sentence": "An earthquake happens when the Earth's core cools down rapidly, causing surface cracks.", "correct": "false" },
+      { "sentence": "An earthquake is a predictable event that happens at the same time every year.", "correct": "false" },
+      { "sentence": "An earthquake only affects areas near active volcanoes.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "An earthquake occurs when stress in the Earth's crust is released, causing seismic waves.", "chinese": "地震是地壳中的应力释放引起的震动。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A volcano is an opening in Earth's crust that allows magma to reach the surface.", "correct": "true" },
+      { "sentence": "A volcano forms when wind erosion creates deep holes in the ground.", "correct": "false" },
+      { "sentence": "A volcano is a permanent structure that never changes shape or erupts.", "correct": "false" },
+      { "sentence": "A volcano only exists in extremely cold climates where ice melts underground.", "correct": "false" },
+      { "sentence": "A volcano is caused by the rapid cooling of magma beneath the ocean floor.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A volcano is a geological feature where magma erupts through the Earth's crust.", "chinese": "火山是岩浆通过地壳喷发的地质特征。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The Earth's mantle is a thick layer of hot, semi-solid rock beneath the crust.", "correct": "true" },
+      { "sentence": "The Earth's mantle is a thin, icy layer between the core and crust.", "correct": "false" },
+      { "sentence": "The Earth's mantle is made entirely of liquid water.", "correct": "false" },
+      { "sentence": "The Earth's mantle is colder than the crust because it is deeper.", "correct": "false" },
+      { "sentence": "The Earth's mantle is a solid metal layer that never moves.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The mantle is the thick layer of rock between the Earth's crust and core, composed mostly of silicate minerals.", "chinese": "地幔是地壳和地核之间的厚岩石层，主要由硅酸盐矿物组成。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The Earth's core is composed mainly of iron and nickel.", "correct": "true" },
+      { "sentence": "The Earth's core is a layer of ice that keeps the mantle cool.", "correct": "false" },
+      { "sentence": "The Earth's core is responsible for generating the planet's magnetic field.", "correct": "true" },
+      { "sentence": "The Earth's core is made of lightweight gases like helium and oxygen.", "correct": "false" },
+      { "sentence": "The Earth's core is colder than the ocean because it is deep underground.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The Earth's core is primarily composed of iron and nickel, generating Earth's magnetic field.", "chinese": "地核主要由铁和镍组成，并产生地球的磁场。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Oceans cover about 70% of Earth's surface and contain most of its water.", "correct": "true" },
+      { "sentence": "Oceans exist only in the Northern Hemisphere.", "correct": "false" },
+      { "sentence": "Oceans contain only freshwater, with no salt content.", "correct": "false" },
+      { "sentence": "Oceans are small bodies of water surrounded entirely by land.", "correct": "false" },
+      { "sentence": "Oceans do not affect weather patterns or climate.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Oceans cover about 70% of Earth's surface and play a crucial role in climate regulation and the water cycle.", "chinese": "海洋覆盖地球表面的约70%，在气候调节和水循环中起着关键作用。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Tectonic plates are large sections of Earth's crust that move over the mantle.", "correct": "true" },
+      { "sentence": "Tectonic plates are fixed in place and never shift.", "correct": "false" },
+      { "sentence": "Tectonic plates are made of liquid rock that flows like water.", "correct": "false" },
+      { "sentence": "Tectonic plates only exist under the ocean and not on land.", "correct": "false" },
+      { "sentence": "Tectonic plates are responsible for ocean currents rather than geological activity.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Tectonic plates are massive pieces of Earth's lithosphere that move and interact, causing earthquakes, mountains, and volcanoes.", "chinese": "板块构造是地球岩石圈的大块，它们的运动和相互作用引发地震、山脉和火山。"
+      }
+    ]
+  }
+]
