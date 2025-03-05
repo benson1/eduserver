@@ -1,6 +1,7 @@
 [
   {
     "question": "Which sentence is scientifically correct?",
+    "image": "https://media.istockphoto.com/id/1339138376/photo/climate-change-from-drought-to-green-growth.jpg?s=612x612&w=0&k=20&c=05aOfOV32_8Ow5cgcRFV6vcKdmxvD2LHqWxiiZXi2pU=",
     "options": [
       { "sentence": "A desert is a dry region with very little rainfall.", "correct": "true" },
       { "sentence": "A desert is an area that receives consistent heavy rainfall throughout the year.", "correct": "false" },
@@ -16,6 +17,7 @@
   },
   {
     "question": "Which sentence is scientifically correct?",
+ "image": "https://media.istockphoto.com/id/1339138376/photo/climate-change-from-drought-to-green-growth.jpg?s=612x612&w=0&k=20&c=05aOfOV32_8Ow5cgcRFV6vcKdmxvD2LHqWxiiZXi2pU=",
     "options": [
       { "sentence": "The Arctic is a cold region near the North Pole.", "correct": "true" },
       { "sentence": "The Arctic experiences warm temperatures year-round due to its location.", "correct": "false" },
@@ -31,6 +33,7 @@
   },
   {
     "question": "Which sentence is scientifically correct?",
+ "image": "https://media.istockphoto.com/id/1339138376/photo/climate-change-from-drought-to-green-growth.jpg?s=612x612&w=0&k=20&c=05aOfOV32_8Ow5cgcRFV6vcKdmxvD2LHqWxiiZXi2pU=",
     "options": [
       { "sentence": "A habitat is where an organism lives.", "correct": "true" },
       { "sentence": "A habitat is an artificial structure created for animals in captivity.", "correct": "false" },
@@ -46,6 +49,7 @@
   },
   {
     "question": "Which sentence is scientifically correct?",
+ "image": "https://media.istockphoto.com/id/1339138376/photo/climate-change-from-drought-to-green-growth.jpg?s=612x612&w=0&k=20&c=05aOfOV32_8Ow5cgcRFV6vcKdmxvD2LHqWxiiZXi2pU=",
     "options": [
       { "sentence": "An earthquake is the shaking of the Earth's surface caused by sudden movements in the crust.", "correct": "true" },
       { "sentence": "An earthquake occurs when wind speeds reach extreme levels and shake the ground.", "correct": "false" },
@@ -61,6 +65,7 @@
   },
   {
     "question": "Which sentence is scientifically correct?",
+ "image": "https://media.istockphoto.com/id/1339138376/photo/climate-change-from-drought-to-green-growth.jpg?s=612x612&w=0&k=20&c=05aOfOV32_8Ow5cgcRFV6vcKdmxvD2LHqWxiiZXi2pU=",
     "options": [
       { "sentence": "A volcano is an opening in Earth's crust that allows magma to reach the surface.", "correct": "true" },
       { "sentence": "A volcano forms when wind erosion creates deep holes in the ground.", "correct": "false" },
@@ -76,6 +81,7 @@
   },
   {
     "question": "Which sentence is scientifically correct?",
+ "image": "https://media.istockphoto.com/id/1339138376/photo/climate-change-from-drought-to-green-growth.jpg?s=612x612&w=0&k=20&c=05aOfOV32_8Ow5cgcRFV6vcKdmxvD2LHqWxiiZXi2pU=",
     "options": [
       { "sentence": "The Earth's mantle is a thick layer of hot, semi-solid rock beneath the crust.", "correct": "true" },
       { "sentence": "The Earth's mantle is a thin, icy layer between the core and crust.", "correct": "false" },
@@ -91,6 +97,7 @@
   },
   {
     "question": "Which sentence is scientifically correct?",
+ "image": "https://media.istockphoto.com/id/1339138376/photo/climate-change-from-drought-to-green-growth.jpg?s=612x612&w=0&k=20&c=05aOfOV32_8Ow5cgcRFV6vcKdmxvD2LHqWxiiZXi2pU=",
     "options": [
       { "sentence": "The Earth's core is composed mainly of iron and nickel.", "correct": "true" },
       { "sentence": "The Earth's core is a layer of ice that keeps the mantle cool.", "correct": "false" },
@@ -106,6 +113,7 @@
   },
   {
     "question": "Which sentence is scientifically correct?",
+ "image": "https://media.istockphoto.com/id/1339138376/photo/climate-change-from-drought-to-green-growth.jpg?s=612x612&w=0&k=20&c=05aOfOV32_8Ow5cgcRFV6vcKdmxvD2LHqWxiiZXi2pU=",
     "options": [
       { "sentence": "Oceans cover about 70% of Earth's surface and contain most of its water.", "correct": "true" },
       { "sentence": "Oceans exist only in the Northern Hemisphere.", "correct": "false" },
@@ -121,6 +129,7 @@
   },
   {
     "question": "Which sentence is scientifically correct?",
+ "image": "https://media.istockphoto.com/id/1339138376/photo/climate-change-from-drought-to-green-growth.jpg?s=612x612&w=0&k=20&c=05aOfOV32_8Ow5cgcRFV6vcKdmxvD2LHqWxiiZXi2pU=",
     "options": [
       { "sentence": "Tectonic plates are large sections of Earth's crust that move over the mantle.", "correct": "true" },
       { "sentence": "Tectonic plates are fixed in place and never shift.", "correct": "false" },
