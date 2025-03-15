@@ -18,80 +18,16 @@
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
-      { "sentence": "A fulcrum is the fixed point on which a lever pivots.", "correct": "true" },
-      { "sentence": "A fulcrum is the effort applied to a machine.", "correct": "false" },
-      { "sentence": "A fulcrum is the load being moved.", "correct": "false" },
-      { "sentence": "A fulcrum is always located at the end of a lever.", "correct": "false" },
-      { "sentence": "A fulcrum is a type of pulley.", "correct": "false" }
+      { "sentence": "A pulley is a simple machine that uses a wheel and a rope to lift objects.", "correct": "true" },
+      { "sentence": "A pulley is a type of lever.", "correct": "false" },
+      { "sentence": "A pulley always requires electricity to function.", "correct": "false" },
+      { "sentence": "A pulley is only used in elevators.", "correct": "false" },
+      { "sentence": "A pulley does not help reduce effort.", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "A fulcrum is the fixed point on which a lever rotates or pivots, allowing force to be applied efficiently.",
-        "chinese": "支点是杠杆旋转或支撑的固定点，使力能够有效地施加。"
-      }
-    ]
-  },
-  {
-    "question": "Which sentence is scientifically correct?",
-    "options": [
-      { "sentence": "Effort is the force applied to a simple machine to do work.", "correct": "true" },
-      { "sentence": "Effort is the resistance that a machine overcomes.", "correct": "false" },
-      { "sentence": "Effort is the weight of the load being lifted.", "correct": "false" },
-      { "sentence": "Effort is always greater than the load.", "correct": "false" },
-      { "sentence": "Effort and load are the same thing.", "correct": "false" }
-    ],
-    "explanation": [
-      {
-        "english": "Effort is the force that a person or another force applies to a simple machine to make it function.",
-        "chinese": "动力是人或其他力对简单机械施加的力，使其发挥作用。"
-      }
-    ]
-  },
-  {
-    "question": "Which sentence is scientifically correct?",
-    "options": [
-      { "sentence": "Load is the weight or resistance that a machine moves or lifts.", "correct": "true" },
-      { "sentence": "Load is the effort applied to a machine.", "correct": "false" },
-      { "sentence": "Load is always greater than effort.", "correct": "false" },
-      { "sentence": "Load is an electrical component of a machine.", "correct": "false" },
-      { "sentence": "Load and fulcrum are the same thing.", "correct": "false" }
-    ],
-    "explanation": [
-      {
-        "english": "Load is the object or resistance that a machine, such as a lever or pulley, moves or lifts.",
-        "chinese": "负载是机器（如杠杆或滑轮）移动或提升的物体或阻力。"
-      }
-    ]
-  },
-  {
-    "question": "Which sentence is scientifically correct?",
-    "options": [
-      { "sentence": "A compound machine is made up of two or more simple machines.", "correct": "true" },
-      { "sentence": "A compound machine is a machine with only one moving part.", "correct": "false" },
-      { "sentence": "A compound machine does not use simple machines.", "correct": "false" },
-      { "sentence": "A compound machine always works without effort.", "correct": "false" },
-      { "sentence": "A compound machine can only include pulleys.", "correct": "false" }
-    ],
-    "explanation": [
-      {
-        "english": "A compound machine is a system that combines multiple simple machines to perform a task more efficiently.",
-        "chinese": "复合机械是结合多个简单机械以更高效完成任务的系统。"
-      }
-    ]
-  },
-  {
-    "question": "Which sentence is scientifically correct?",
-    "options": [
-      { "sentence": "Efficiency is a measure of how much useful work a machine does compared to the energy put in.", "correct": "true" },
-      { "sentence": "Efficiency means a machine never loses energy.", "correct": "false" },
-      { "sentence": "Efficiency is always 100% for all machines.", "correct": "false" },
-      { "sentence": "Efficiency is not related to energy use.", "correct": "false" },
-      { "sentence": "Efficiency is the effort applied to a machine.", "correct": "false" }
-    ],
-    "explanation": [
-      {
-        "english": "Efficiency measures how well a machine converts input energy into useful output work, considering energy loss due to friction or other factors.",
-        "chinese": "效率衡量机器将输入能量转换为有用功的能力，并考虑摩擦等因素导致的能量损失。"
+        "english": "A pulley is a simple machine that consists of a wheel and a rope, which helps lift loads by changing the direction of the applied force.",
+        "chinese": "滑轮是一种简单机械，由轮子和绳索组成，它通过改变施加力的方向来帮助提升负载。"
       }
     ]
   },
@@ -114,16 +50,48 @@
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
-      { "sentence": "A pulley is a simple machine that uses a wheel and a rope to lift objects.", "correct": "true" },
-      { "sentence": "A pulley is a type of lever.", "correct": "false" },
-      { "sentence": "A pulley always requires electricity to function.", "correct": "false" },
-      { "sentence": "A pulley is only used in elevators.", "correct": "false" },
-      { "sentence": "A pulley does not help reduce effort.", "correct": "false" }
+      { "sentence": "A wedge is a simple machine that is used to split or cut objects.", "correct": "true" },
+      { "sentence": "A wedge is only used in construction.", "correct": "false" },
+      { "sentence": "A wedge is a type of pulley.", "correct": "false" },
+      { "sentence": "A wedge does not reduce the amount of force required.", "correct": "false" },
+      { "sentence": "A wedge works only in vertical motion.", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "A pulley is a simple machine that consists of a wheel and a rope, which helps lift loads by changing the direction of the applied force.",
-        "chinese": "滑轮是一种简单机械，由轮子和绳索组成，它通过改变施加力的方向来帮助提升负载。"
+        "english": "A wedge is a simple machine with a sharp edge that helps split or cut objects by applying force.",
+        "chinese": "楔子是一种简单机械，具有锋利的边缘，通过施加力来帮助分裂或切割物体。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A wheel and axle is a simple machine that helps to reduce the force needed to move an object.", "correct": "true" },
+      { "sentence": "A wheel and axle works by increasing the force needed to move an object.", "correct": "false" },
+      { "sentence": "A wheel and axle can only be used on flat surfaces.", "correct": "false" },
+      { "sentence": "A wheel and axle always requires electricity to function.", "correct": "false" },
+      { "sentence": "A wheel and axle is not considered a simple machine.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A wheel and axle is a simple machine consisting of a wheel attached to a central axle, used to reduce the effort needed to move objects.",
+        "chinese": "轮轴是一种简单机械，由连接在中央轴上的轮子组成，用于减少移动物体所需的力量。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An inclined plane is a simple machine used to raise or lower objects.", "correct": "true" },
+      { "sentence": "An inclined plane is only used in construction.", "correct": "false" },
+      { "sentence": "An inclined plane increases the effort needed to move an object.", "correct": "false" },
+      { "sentence": "An inclined plane is a type of wedge.", "correct": "false" },
+      { "sentence": "An inclined plane always works without friction.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "An inclined plane is a simple machine with a sloped surface, making it easier to raise or lower objects.",
+        "chinese": "斜面是一种简单机械，具有倾斜的表面，使物体的升降变得更容易。"
       }
     ]
   },
@@ -140,6 +108,38 @@
       {
         "english": "Mechanical advantage is the factor by which a machine multiplies the input force to achieve a greater output force.",
         "chinese": "机械优势是机器将输入力放大以获得更大输出力的比率。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A second-class lever always has the load between the effort and the fulcrum.", "correct": "true" },
+      { "sentence": "A second-class lever has the effort between the load and the fulcrum.", "correct": "false" },
+      { "sentence": "A second-class lever only works in horizontal motion.", "correct": "false" },
+      { "sentence": "A second-class lever is the same as a pulley.", "correct": "false" },
+      { "sentence": "A second-class lever is only used for lifting objects.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "In a second-class lever, the load is between the effort and the fulcrum, which allows the force to be magnified.",
+        "chinese": "在第二类杠杆中，负载位于动力和支点之间，这使得力量得以放大。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A first-class lever has the fulcrum between the effort and the load.", "correct": "true" },
+      { "sentence": "A first-class lever has the load between the effort and the fulcrum.", "correct": "false" },
+      { "sentence": "A first-class lever only moves vertically.", "correct": "false" },
+      { "sentence": "A first-class lever cannot change the direction of a force.", "correct": "false" },
+      { "sentence": "A first-class lever is the same as a pulley.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "In a first-class lever, the fulcrum is between the effort and the load, often changing the direction of the applied force.",
+        "chinese": "在第一类杠杆中，支点位于动力和负载之间，通常会改变施加力的方向。"
       }
     ]
   }
