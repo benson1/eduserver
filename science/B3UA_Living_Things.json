@@ -1,0 +1,146 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An organism is made up of cells that perform different functions.", "correct": "true" },
+      { "sentence": "An organism can survive without nutrients.", "correct": "false" },
+      { "sentence": "An organism does not need an environment to live.", "correct": "false" },
+      { "sentence": "An organism's cells are always identical.", "correct": "false" },
+      { "sentence": "An organism does not need energy for survival.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "An organism is a living entity composed of cells, and cells are the basic unit of life.",
+        "chinese": "生物体是由细胞组成的，细胞是生命的基本单位。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A cell is the basic unit of structure and function in all living organisms.", "correct": "true" },
+      { "sentence": "A cell can live independently of its environment.", "correct": "false" },
+      { "sentence": "A cell cannot reproduce.", "correct": "false" },
+      { "sentence": "A cell is not involved in metabolism.", "correct": "false" },
+      { "sentence": "A cell does not require energy to function.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A cell is the fundamental unit of life, performing vital functions for the survival of an organism.",
+        "chinese": "细胞是生命的基本单位，执行生物体生存所必需的重要功能。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The environment includes all the living and non-living factors that affect an organism.", "correct": "true" },
+      { "sentence": "The environment only consists of non-living elements.", "correct": "false" },
+      { "sentence": "The environment does not impact an organism's survival.", "correct": "false" },
+      { "sentence": "The environment is not necessary for an organism's reproduction.", "correct": "false" },
+      { "sentence": "The environment cannot change the behavior of an organism.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The environment refers to all factors that influence an organism's life, including both living and non-living elements.",
+        "chinese": "环境包括所有影响生物体生活的因素，包括生物和非生物因素。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Vertebrates are animals with a backbone or spinal column.", "correct": "true" },
+      { "sentence": "Vertebrates do not have a nervous system.", "correct": "false" },
+      { "sentence": "Vertebrates cannot reproduce.", "correct": "false" },
+      { "sentence": "Vertebrates only live on land.", "correct": "false" },
+      { "sentence": "Vertebrates are the same as invertebrates.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Vertebrates are animals characterized by the presence of a backbone or spinal column, a key feature distinguishing them from invertebrates.",
+        "chinese": "脊椎动物是具有脊柱或脊柱的动物，这是将其与无脊椎动物区分开来的关键特征。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Photosynthesis is the process by which plants convert sunlight into energy.", "correct": "true" },
+      { "sentence": "Photosynthesis occurs only in animals.", "correct": "false" },
+      { "sentence": "Photosynthesis requires oxygen to take place.", "correct": "false" },
+      { "sentence": "Photosynthesis does not produce energy.", "correct": "false" },
+      { "sentence": "Photosynthesis happens only during the night.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Photosynthesis is the process in which plants use sunlight, carbon dioxide, and water to produce glucose and oxygen.",
+        "chinese": "光合作用是植物利用阳光、二氧化碳和水生产葡萄糖和氧气的过程。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A leaf is the part of a plant where photosynthesis primarily occurs.", "correct": "true" },
+      { "sentence": "A leaf does not play any role in a plant's nutrition.", "correct": "false" },
+      { "sentence": "A leaf is only used for reproduction in plants.", "correct": "false" },
+      { "sentence": "A leaf cannot absorb sunlight.", "correct": "false" },
+      { "sentence": "A leaf is a type of root.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Leaves are crucial in photosynthesis as they capture sunlight and help produce energy for the plant.",
+        "chinese": "叶子在光合作用中至关重要，它们吸收阳光，帮助植物产生能量。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A stem is the part of a plant that supports the leaves and transports nutrients.", "correct": "true" },
+      { "sentence": "A stem does not provide structure to the plant.", "correct": "false" },
+      { "sentence": "A stem is only used for reproduction in plants.", "correct": "false" },
+      { "sentence": "A stem does not help in water absorption.", "correct": "false" },
+      { "sentence": "A stem is located beneath the roots.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The stem supports the plant and acts as a conduit for nutrients, water, and food throughout the plant.",
+        "chinese": "茎支撑植物，并作为植物中营养、水和食物的传导通道。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Roots anchor the plant in the soil and absorb nutrients and water.", "correct": "true" },
+      { "sentence": "Roots only absorb sunlight.", "correct": "false" },
+      { "sentence": "Roots are located above the stem.", "correct": "false" },
+      { "sentence": "Roots are not necessary for a plant's survival.", "correct": "false" },
+      { "sentence": "Roots do not interact with the environment.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Roots anchor the plant in the soil, helping to absorb water and nutrients necessary for growth.",
+        "chinese": "根部将植物固定在土壤中，帮助吸收生长所需的水分和养分。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Reproduction is the biological process by which organisms produce offspring.", "correct": "true" },
+      { "sentence": "Reproduction only occurs in animals.", "correct": "false" },
+      { "sentence": "Reproduction does not involve genetic material.", "correct": "false" },
+      { "sentence": "Reproduction does not contribute to species survival.", "correct": "false" },
+      { "sentence": "Reproduction is not necessary for the survival of a species.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Reproduction is vital for the continuation of species, ensuring that organisms pass on their genetic material to offspring.",
+        "chinese": "繁殖对于物种的延续至关重要，确保有机体将其遗传物质传递给后代。"
+      }
+    ]
+  }
+]
