@@ -3,10 +3,10 @@
     "question": "Which sentence is scientifically correct?",
     "options": [
       { "sentence": "An organism is made up of cells that perform different functions.", "correct": "true" },
-      { "sentence": "An organism can survive without nutrients.", "correct": "false" },
-      { "sentence": "An organism does not need an environment to live.", "correct": "false" },
-      { "sentence": "An organism's cells are always identical.", "correct": "false" },
-      { "sentence": "An organism does not need energy for survival.", "correct": "false" }
+      { "sentence": "An organism is simply a group of non-living things.", "correct": "false" },
+      { "sentence": "An organism can survive without nutrients or energy from its environment.", "correct": "false" },
+      { "sentence": "An organism's cells are all identical in structure and function.", "correct": "false" },
+      { "sentence": "An organism does not require energy for survival, it simply exists.", "correct": "false" }
     ],
     "explanation": [
       {
@@ -19,10 +19,10 @@
     "question": "Which sentence is scientifically correct?",
     "options": [
       { "sentence": "A cell is the basic unit of structure and function in all living organisms.", "correct": "true" },
-      { "sentence": "A cell can live independently of its environment.", "correct": "false" },
-      { "sentence": "A cell cannot reproduce.", "correct": "false" },
-      { "sentence": "A cell is not involved in metabolism.", "correct": "false" },
-      { "sentence": "A cell does not require energy to function.", "correct": "false" }
+      { "sentence": "A cell cannot perform any of the vital functions that support life.", "correct": "false" },
+      { "sentence": "A cell is only found in large organisms like humans or animals.", "correct": "false" },
+      { "sentence": "A cell does not have any specific role in metabolism.", "correct": "false" },
+      { "sentence": "A cell is an entity that exists independently of other cells.", "correct": "false" }
     ],
     "explanation": [
       {
@@ -35,10 +35,10 @@
     "question": "Which sentence is scientifically correct?",
     "options": [
       { "sentence": "The environment includes all the living and non-living factors that affect an organism.", "correct": "true" },
-      { "sentence": "The environment only consists of non-living elements.", "correct": "false" },
-      { "sentence": "The environment does not impact an organism's survival.", "correct": "false" },
-      { "sentence": "The environment is not necessary for an organism's reproduction.", "correct": "false" },
-      { "sentence": "The environment cannot change the behavior of an organism.", "correct": "false" }
+      { "sentence": "The environment consists only of non-living elements that influence the survival of non-living entities.", "correct": "false" },
+      { "sentence": "The environment has no impact on an organism's ability to survive, as organisms can live independently of it.", "correct": "false" },
+      { "sentence": "The environment is not needed for an organism's reproduction, as organisms can reproduce without external factors.", "correct": "false" },
+      { "sentence": "The environment does not affect the behavior or survival strategies of an organism in any way.", "correct": "false" }
     ],
     "explanation": [
       {
@@ -51,10 +51,10 @@
     "question": "Which sentence is scientifically correct?",
     "options": [
       { "sentence": "Vertebrates are animals with a backbone or spinal column.", "correct": "true" },
-      { "sentence": "Vertebrates do not have a nervous system.", "correct": "false" },
-      { "sentence": "Vertebrates cannot reproduce.", "correct": "false" },
-      { "sentence": "Vertebrates only live on land.", "correct": "false" },
-      { "sentence": "Vertebrates are the same as invertebrates.", "correct": "false" }
+      { "sentence": "Vertebrates are the same as invertebrates because they both lack a spinal cord.", "correct": "false" },
+      { "sentence": "Vertebrates cannot reproduce, as their biological functions are too complex.", "correct": "false" },
+      { "sentence": "Vertebrates do not need a nervous system for survival.", "correct": "false" },
+      { "sentence": "Vertebrates are characterized by their lack of a skeleton or internal structure.", "correct": "false" }
     ],
     "explanation": [
       {
@@ -67,10 +67,10 @@
     "question": "Which sentence is scientifically correct?",
     "options": [
       { "sentence": "Photosynthesis is the process by which plants convert sunlight into energy.", "correct": "true" },
-      { "sentence": "Photosynthesis occurs only in animals.", "correct": "false" },
-      { "sentence": "Photosynthesis requires oxygen to take place.", "correct": "false" },
-      { "sentence": "Photosynthesis does not produce energy.", "correct": "false" },
-      { "sentence": "Photosynthesis happens only during the night.", "correct": "false" }
+      { "sentence": "Photosynthesis occurs in animals, which convert sunlight into energy for movement.", "correct": "false" },
+      { "sentence": "Photosynthesis occurs only in the presence of electricity and not sunlight.", "correct": "false" },
+      { "sentence": "Photosynthesis is a process in which plants create energy from non-living materials like dirt.", "correct": "false" },
+      { "sentence": "Photosynthesis does not involve sunlight but relies on other sources of energy like wind.", "correct": "false" }
     ],
     "explanation": [
       {
@@ -83,10 +83,10 @@
     "question": "Which sentence is scientifically correct?",
     "options": [
       { "sentence": "A leaf is the part of a plant where photosynthesis primarily occurs.", "correct": "true" },
-      { "sentence": "A leaf does not play any role in a plant's nutrition.", "correct": "false" },
-      { "sentence": "A leaf is only used for reproduction in plants.", "correct": "false" },
-      { "sentence": "A leaf cannot absorb sunlight.", "correct": "false" },
-      { "sentence": "A leaf is a type of root.", "correct": "false" }
+      { "sentence": "A leaf only serves as a storage organ for nutrients, not for energy conversion.", "correct": "false" },
+      { "sentence": "A leaf can perform photosynthesis only during the night, not during the day.", "correct": "false" },
+      { "sentence": "A leaf does not contribute to the plant's survival in any significant way.", "correct": "false" },
+      { "sentence": "A leaf is primarily responsible for reproduction and not photosynthesis.", "correct": "false" }
     ],
     "explanation": [
       {
@@ -99,10 +99,10 @@
     "question": "Which sentence is scientifically correct?",
     "options": [
       { "sentence": "A stem is the part of a plant that supports the leaves and transports nutrients.", "correct": "true" },
-      { "sentence": "A stem does not provide structure to the plant.", "correct": "false" },
-      { "sentence": "A stem is only used for reproduction in plants.", "correct": "false" },
-      { "sentence": "A stem does not help in water absorption.", "correct": "false" },
-      { "sentence": "A stem is located beneath the roots.", "correct": "false" }
+      { "sentence": "A stem is mainly used to store water and nutrients for long periods of time.", "correct": "false" },
+      { "sentence": "A stem does not provide any structural support to the plant.", "correct": "false" },
+      { "sentence": "A stem only serves the function of absorbing sunlight for the plant.", "correct": "false" },
+      { "sentence": "A stem does not interact with the roots or leaves in any way.", "correct": "false" }
     ],
     "explanation": [
       {
@@ -115,10 +115,10 @@
     "question": "Which sentence is scientifically correct?",
     "options": [
       { "sentence": "Roots anchor the plant in the soil and absorb nutrients and water.", "correct": "true" },
-      { "sentence": "Roots only absorb sunlight.", "correct": "false" },
-      { "sentence": "Roots are located above the stem.", "correct": "false" },
-      { "sentence": "Roots are not necessary for a plant's survival.", "correct": "false" },
-      { "sentence": "Roots do not interact with the environment.", "correct": "false" }
+      { "sentence": "Roots are simply a way for plants to store food and water but do not anchor the plant.", "correct": "false" },
+      { "sentence": "Roots only grow in one direction and are not involved in nutrient absorption.", "correct": "false" },
+      { "sentence": "Roots can exist outside the soil in any environment without needing to anchor the plant.", "correct": "false" },
+      { "sentence": "Roots are unnecessary for a plant's growth and development in any type of soil.", "correct": "false" }
     ],
     "explanation": [
       {
@@ -131,10 +131,10 @@
     "question": "Which sentence is scientifically correct?",
     "options": [
       { "sentence": "Reproduction is the biological process by which organisms produce offspring.", "correct": "true" },
-      { "sentence": "Reproduction only occurs in animals.", "correct": "false" },
-      { "sentence": "Reproduction does not involve genetic material.", "correct": "false" },
-      { "sentence": "Reproduction does not contribute to species survival.", "correct": "false" },
-      { "sentence": "Reproduction is not necessary for the survival of a species.", "correct": "false" }
+      { "sentence": "Reproduction is not necessary for the survival of any species, and it does not contribute to the continuation of life.", "correct": "false" },
+      { "sentence": "Reproduction only involves the act of growing but not passing on genetic material.", "correct": "false" },
+      { "sentence": "Reproduction can occur without any biological processes or genetic input.", "correct": "false" },
+      { "sentence": "Reproduction is primarily used for creating energy and not for species survival.", "correct": "false" }
     ],
     "explanation": [
       {
