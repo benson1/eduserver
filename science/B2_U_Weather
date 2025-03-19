@@ -1,0 +1,130 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Temperature affects the rate of evaporation and condensation in the atmosphere.", "correct": "true" },
+      { "sentence": "Temperature has no effect on evaporation or condensation.", "correct": "false" },
+      { "sentence": "Temperature is only relevant to the Earth's surface and not to the atmosphere.", "correct": "false" },
+      { "sentence": "Temperature only affects cloud formation and not water cycle processes.", "correct": "false" },
+      { "sentence": "Temperature increases condensation but decreases evaporation.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Temperature plays a key role in the water cycle, affecting both evaporation and condensation rates in the atmosphere.",
+        "chinese": "温度在水循环中起着关键作用，影响大气中的蒸发和冷凝速率。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Precipitation is the process by which water falls from the atmosphere to the Earth's surface.", "correct": "true" },
+      { "sentence": "Precipitation refers only to the rain that falls from the clouds.", "correct": "false" },
+      { "sentence": "Precipitation occurs only in tropical regions and never in colder climates.", "correct": "false" },
+      { "sentence": "Precipitation does not include snow, hail, or sleet.", "correct": "false" },
+      { "sentence": "Precipitation is a process where water evaporates back into the atmosphere.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Precipitation includes all forms of water falling from the atmosphere, including rain, snow, hail, and sleet.",
+        "chinese": "降水包括所有形式的水从大气中降到地球表面，包括雨、雪、冰雹和冻雨。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Cumulus clouds are typically large, puffy clouds that indicate fair weather.", "correct": "true" },
+      { "sentence": "Cumulus clouds are usually dark and are associated with thunderstorms.", "correct": "false" },
+      { "sentence": "Cumulus clouds are high-altitude clouds that form in cold weather.", "correct": "false" },
+      { "sentence": "Cumulus clouds are small and do not affect weather patterns.", "correct": "false" },
+      { "sentence": "Cumulus clouds are formed by the condensation of water vapor at ground level.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Cumulus clouds are large, white, fluffy clouds that typically indicate good weather.",
+        "chinese": "积云是大而白的蓬松云，通常表示天气良好。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Stratus clouds are low, gray clouds that often bring overcast skies and light precipitation.", "correct": "true" },
+      { "sentence": "Stratus clouds are tall, puffy clouds that indicate clear weather.", "correct": "false" },
+      { "sentence": "Stratus clouds form at high altitudes and bring heavy rainstorms.", "correct": "false" },
+      { "sentence": "Stratus clouds only form during cold weather and do not bring precipitation.", "correct": "false" },
+      { "sentence": "Stratus clouds are associated with tornadoes and severe thunderstorms.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Stratus clouds are low-level, gray clouds that often bring overcast skies and light precipitation.",
+        "chinese": "层云是低层的灰色云，通常带来阴天和轻微降水。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An anemometer is a device used to measure wind speed.", "correct": "true" },
+      { "sentence": "An anemometer measures the temperature of the atmosphere.", "correct": "false" },
+      { "sentence": "An anemometer is used to detect precipitation levels in the air.", "correct": "false" },
+      { "sentence": "An anemometer measures cloud cover and visibility.", "correct": "false" },
+      { "sentence": "An anemometer is used to measure air pressure, not wind speed.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "An anemometer is a tool used to measure the speed and strength of the wind, which is a key component in weather forecasting.",
+        "chinese": "风速计是用于测量风速和风力的工具，这是天气预报中的关键组成部分。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Evaporation is the process by which liquid water changes into a gas.", "correct": "true" },
+      { "sentence": "Evaporation occurs only when water is frozen into ice.", "correct": "false" },
+      { "sentence": "Evaporation only happens in the presence of sunlight and not in the dark.", "correct": "false" },
+      { "sentence": "Evaporation is the process of water turning into rain.", "correct": "false" },
+      { "sentence": "Evaporation happens only in oceans and lakes, not on land.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Evaporation is the process where liquid water changes into vapor or gas, contributing to the water cycle.",
+        "chinese": "蒸发是液态水变成水蒸气或气体的过程，促进了水循环。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Condensation is the process by which water vapor turns into liquid water.", "correct": "true" },
+      { "sentence": "Condensation only happens during the winter months.", "correct": "false" },
+      { "sentence": "Condensation occurs when water turns into a gas in the atmosphere.", "correct": "false" },
+      { "sentence": "Condensation is the reverse of evaporation and occurs only at high altitudes.", "correct": "false" },
+      { "sentence": "Condensation can only occur in the presence of high temperatures.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Condensation is the process where water vapor cools and changes into liquid form, such as the formation of clouds.",
+        "chinese": "冷凝是水蒸气冷却并转变为液态的过程，例如云的形成。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Cirrus clouds are high-altitude clouds that are wispy and thin, often indicating fair weather.", "correct": "true" },
+      { "sentence": "Cirrus clouds are low, dark clouds that bring heavy storms and precipitation.", "correct": "false" },
+      { "sentence": "Cirrus clouds are made of water droplets and form at the Earth's surface.", "correct": "false" },
+      { "sentence": "Cirrus clouds are the largest and heaviest cloud type in the atmosphere.", "correct": "false" },
+      { "sentence": "Cirrus clouds never indicate changes in weather and always remain unchanged.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Cirrus clouds are thin, wispy clouds that form at high altitudes and usually indicate fair weather, but they can also signal a change in weather.",
+        "chinese": "卷云是细长的、轻薄的云，形成在高空，通常表示天气良好，但也可能预示着天气变化。"
+      }
+    ]
+  }
+]
