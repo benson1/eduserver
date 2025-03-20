@@ -1,0 +1,162 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A simple machine is a mechanical device that changes the direction or magnitude of a force.", "correct": "true" },
+      { "sentence": "A simple machine cannot change the magnitude of a force, only its direction.", "correct": "false" },
+      { "sentence": "A simple machine requires no input force to function.", "correct": "false" },
+      { "sentence": "A simple machine uses more energy than a complex machine.", "correct": "false" },
+      { "sentence": "A simple machine is only useful for heavy objects.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A simple machine alters the force applied to make work easier, either by changing the direction or the magnitude of the force.",
+        "chinese": "简单机器通过改变施加的力的方向或大小来使工作变得更容易。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A lever consists of a rigid bar that pivots around a fixed point called the fulcrum.", "correct": "true" },
+      { "sentence": "A lever uses a spring to help transfer force.", "correct": "false" },
+      { "sentence": "A lever is always used to lift heavy objects.", "correct": "false" },
+      { "sentence": "A lever does not require any input force to operate.", "correct": "false" },
+      { "sentence": "A lever operates in a circular motion to increase force.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A lever is a simple machine that pivots around a fulcrum, using an input force to lift or move objects.",
+        "chinese": "杠杆是一种简单的机器，围绕支点旋转，使用输入力来提升或移动物体。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A pulley is a simple machine that uses a wheel and a rope to lift or move loads.", "correct": "true" },
+      { "sentence": "A pulley can only be used for vertical movement of objects.", "correct": "false" },
+      { "sentence": "A pulley does not change the direction of the applied force.", "correct": "false" },
+      { "sentence": "A pulley increases the force needed to lift an object.", "correct": "false" },
+      { "sentence": "A pulley requires no energy to function.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A pulley uses a wheel and rope to change the direction of force applied, making it easier to lift or move objects.",
+        "chinese": "滑轮使用轮子和绳子来改变施加的力的方向，使得提升或移动物体更容易。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A wheel and axle is a simple machine that uses rotational motion to move or lift objects.", "correct": "true" },
+      { "sentence": "A wheel and axle only works in one direction and cannot change the magnitude of force.", "correct": "false" },
+      { "sentence": "A wheel and axle uses a lever to apply force.", "correct": "false" },
+      { "sentence": "A wheel and axle can only be used for horizontal movements.", "correct": "false" },
+      { "sentence": "A wheel and axle cannot be used to increase the speed of movement.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A wheel and axle is a simple machine that transfers rotational motion to linear motion, useful for moving or lifting objects.",
+        "chinese": "轮轴是一种简单的机器，将旋转运动转化为线性运动，适用于移动或提升物体。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A ramp is an inclined plane that allows heavy objects to be moved with less force.", "correct": "true" },
+      { "sentence": "A ramp always increases the force required to move objects.", "correct": "false" },
+      { "sentence": "A ramp only works if it is vertical.", "correct": "false" },
+      { "sentence": "A ramp cannot be used to lift objects horizontally.", "correct": "false" },
+      { "sentence": "A ramp reduces the distance needed to move an object.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A ramp, or inclined plane, reduces the amount of force needed to lift an object by increasing the distance over which the force is applied.",
+        "chinese": "坡道或斜面通过增加施加力的距离来减少移动物体所需的力。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A screw is a simple machine that converts rotational motion into linear motion.", "correct": "true" },
+      { "sentence": "A screw does not change the direction of force applied.", "correct": "false" },
+      { "sentence": "A screw only works for horizontal movement of objects.", "correct": "false" },
+      { "sentence": "A screw cannot be used to lift or hold objects in place.", "correct": "false" },
+      { "sentence": "A screw requires no force to be applied in order to function.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A screw is a simple machine that uses a rotating motion to convert force and move or hold objects in place.",
+        "chinese": "螺旋是一种简单的机器，通过旋转运动来转换力并移动或固定物体。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A wedge is a simple machine that converts force applied to it into a splitting or separating force.", "correct": "true" },
+      { "sentence": "A wedge increases the force applied to an object by decreasing the distance.", "correct": "false" },
+      { "sentence": "A wedge can only be used to cut soft materials like wood.", "correct": "false" },
+      { "sentence": "A wedge works by using only compressive forces.", "correct": "false" },
+      { "sentence": "A wedge does not change the direction of force.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A wedge is a simple machine that converts force into a splitting force, useful for cutting or separating materials.",
+        "chinese": "楔子是一种简单的机器，将力转化为劈开力，适用于切割或分开材料。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Effort force is the force applied to a machine to perform work.", "correct": "true" },
+      { "sentence": "Effort force is the force that is produced by the machine to perform work.", "correct": "false" },
+      { "sentence": "Effort force does not have to overcome any resistance in order to perform work.", "correct": "false" },
+      { "sentence": "Effort force is always greater than output force in a machine.", "correct": "false" },
+      { "sentence": "Effort force is not required to move objects using a machine.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Effort force is the force applied by the user or source to make the machine perform work, overcoming resistance or output force.",
+        "chinese": "输入力是由用户或来源施加的力，使机器执行工作，克服阻力或输出力。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Output force is the force exerted by a machine to move or lift an object.", "correct": "true" },
+      { "sentence": "Output force is always greater than effort force in any machine.", "correct": "false" },
+      { "sentence": "Output force is not influenced by the design or type of machine used.", "correct": "false" },
+      { "sentence": "Output force is only related to the amount of energy in a machine.", "correct": "false" },
+      { "sentence": "Output force is irrelevant to the machine's function.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Output force is the force that a machine applies to an object to perform a task, often overcoming resistance.",
+        "chinese": "输出力是机器施加在物体上的力，用于执行任务，通常克服阻力。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A fulcrum is the fixed point around which a lever pivots.", "correct": "true" },
+      { "sentence": "A fulcrum is the force applied to a lever to create motion.", "correct": "false" },
+      { "sentence": "A fulcrum is the object being moved by the lever.", "correct": "false" },
+      { "sentence": "A fulcrum has no effect on the amount of force applied to a lever.", "correct": "false" },
+      { "sentence": "A fulcrum is used only in complex machines, not in simple ones.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A fulcrum is the support or pivot point that allows a lever to rotate and transfer force.",
+        "chinese": "支点是杠杆允许旋转并传递力的支撑或枢轴点。"
+      }
+    ]
+  }
+]
