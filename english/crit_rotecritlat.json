@@ -110,5 +110,117 @@
         "chinese": "艾宾浩斯遗忘曲线描述了在没有尝试保留信息的情况下，信息是如何随时间流失的。"
       }
     ]
+  },
+   {
+    "question": "What is a Logical Fallacy?",
+    "options": [
+      { "sentence": "An error in reasoning that weakens an argument.", "correct": "true" },
+      { "sentence": "A method of proving an argument using strong evidence.", "correct": "false" },
+      { "sentence": "A technique for building trust and rapport in discussions.", "correct": "false" },
+      { "sentence": "A way to enhance logical thinking by challenging assumptions.", "correct": "false" },
+      { "sentence": "A method of establishing conclusions through statistical analysis.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A logical fallacy is a flaw in reasoning that undermines the validity of an argument.",
+        "chinese": "逻辑谬误是推理中的缺陷，削弱了论点的有效性。"
+      }
+    ]
+  },
+  {
+    "question": "What is an Ad Hominem fallacy?",
+    "options": [
+      { "sentence": "An attack on the person making an argument rather than the argument itself.", "correct": "true" },
+      { "sentence": "A method of strengthening an argument by appealing to the audience's emotions.", "correct": "false" },
+      { "sentence": "A form of reasoning that uses statistical data to support an argument.", "correct": "false" },
+      { "sentence": "A strategy of creating a false sense of urgency in arguments.", "correct": "false" },
+      { "sentence": "A logical technique that focuses on facts rather than opinions.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The Ad Hominem fallacy occurs when the argument is directed against the person making it, rather than addressing the actual issue.",
+        "chinese": "人身攻击谬误发生在攻击提出论点的人，而不是回应实际问题时。"
+      }
+    ]
+  },
+  {
+    "question": "What is the Strawman Fallacy?",
+    "options": [
+      { "sentence": "Misrepresenting someone's argument to make it easier to attack.", "correct": "true" },
+      { "sentence": "A method of presenting an argument in its strongest form to ensure clarity.", "correct": "false" },
+      { "sentence": "A fallacy that occurs when the argument is based on a false cause-effect relationship.", "correct": "false" },
+      { "sentence": "A strategy that involves ignoring counterarguments to strengthen one's own position.", "correct": "false" },
+      { "sentence": "A technique used to focus on the most popular arguments and ignore the less popular ones.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The Strawman Fallacy involves misrepresenting someone's argument in a way that is easier to refute.",
+        "chinese": "稻草人谬误是通过扭曲他人论点，使其更容易反驳的方式。"
+      }
+    ]
+  },
+  {
+    "question": "What is a False Dichotomy?",
+    "options": [
+      { "sentence": "Presenting two options as the only possibilities when more options exist.", "correct": "true" },
+      { "sentence": "Arguing that something is true because it has not been proven false.", "correct": "false" },
+      { "sentence": "A reasoning fallacy that occurs when the premises are irrelevant to the conclusion.", "correct": "false" },
+      { "sentence": "A technique that involves offering a solution only after considering all possible outcomes.", "correct": "false" },
+      { "sentence": "Assuming that something is true because it has been traditionally accepted.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A False Dichotomy occurs when only two options are presented, ignoring other alternatives that may exist.",
+        "chinese": "虚假二分法发生在仅呈现两种选项，忽略可能存在的其他替代方案时。"
+      }
+    ]
+  },
+  {
+    "question": "What is the Appeal to Authority fallacy?",
+    "options": [
+      { "sentence": "Using the opinion of an authority figure as evidence, without examining the argument.", "correct": "true" },
+      { "sentence": "Using expert testimony to back up an argument by providing evidence-based support.", "correct": "false" },
+      { "sentence": "Citing statistical data from credible sources to support an argument.", "correct": "false" },
+      { "sentence": "A form of reasoning that focuses on the logic of an argument, rather than the person making it.", "correct": "false" },
+      { "sentence": "A tactic where only expert opinions are considered valid, excluding other perspectives.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The Appeal to Authority fallacy involves relying solely on an authority figure's opinion to support an argument, without critically evaluating the reasoning.",
+        "chinese": "诉诸权威谬误仅依赖于权威人物的意见来支持论点，而不对推理进行批判性评估。"
+      }
+    ]
+  },
+  {
+    "question": "What is the Slippery Slope fallacy?",
+    "options": [
+      { "sentence": "Arguing that a small action will lead to extreme consequences without evidence.", "correct": "true" },
+      { "sentence": "A logical fallacy that assumes because two things share some characteristics, they are identical.", "correct": "false" },
+      { "sentence": "Assuming that a particular event will inevitably cause a series of extreme outcomes.", "correct": "false" },
+      { "sentence": "A technique that involves making predictions based on broad and vague assumptions.", "correct": "false" },
+      { "sentence": "Claiming that something is true because it is the most convenient option.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The Slippery Slope fallacy suggests that a small initial step will inevitably lead to negative or extreme consequences, without evidence of such a progression.",
+        "chinese": "滑坡谬误认为一个小的初步行动会不可避免地导致负面或极端后果，而没有证据支持这种进展。"
+      }
+    ]
+  },
+  {
+    "question": "What are Cognitive Biases?",
+    "options": [
+      { "sentence": "Systematic patterns of deviation from norm or rationality in judgment.", "correct": "true" },
+      { "sentence": "The ability to think logically and objectively without personal influence.", "correct": "false" },
+      { "sentence": "A method of reasoning that is based purely on statistical evidence.", "correct": "false" },
+      { "sentence": "The act of focusing only on facts while ignoring personal beliefs or emotions.", "correct": "false" },
+      { "sentence": "A strategy that uses intuition rather than reasoning to form decisions.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Cognitive biases are systematic errors in thinking that affect judgments and decision-making.",
+        "chinese": "认知偏见是思维中的系统性错误，影响判断和决策。"
+      }
+    ]
   }
 ]
