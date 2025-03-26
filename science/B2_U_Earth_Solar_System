@@ -1,0 +1,194 @@
+[
+  {
+    "question": "Which sentence is scientifically correct about Earth's axis?",
+    "options": [
+      { "sentence": "The Earth's axis is tilted at an angle of approximately 23.5° from the perpendicular to its orbit.", "correct": "true" },
+      { "sentence": "The Earth's axis is always pointing directly at the Sun.", "correct": "false" },
+      { "sentence": "The Earth's axis is perpendicular to the plane of its orbit.", "correct": "false" },
+      { "sentence": "The Earth's axis does not affect the seasons.", "correct": "false" },
+      { "sentence": "The Earth's axis rotates every 24 hours.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The Earth's axis is tilted relative to its orbital plane, which is why we experience seasons.",
+        "chinese": "地球的轴线相对于其轨道平面倾斜，这就是我们经历四季的原因。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct about Earth's rotation?",
+    "options": [
+      { "sentence": "The Earth rotates on its axis once every 24 hours.", "correct": "true" },
+      { "sentence": "The Earth rotates around the Sun once every 24 hours.", "correct": "false" },
+      { "sentence": "The Earth rotates in the opposite direction of the Moon.", "correct": "false" },
+      { "sentence": "The Earth rotates at a constant speed.", "correct": "false" },
+      { "sentence": "The Earth stops rotating during the night.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Earth's rotation on its axis is responsible for the day-night cycle and takes about 24 hours to complete.",
+        "chinese": "地球绕轴的旋转是昼夜交替的原因，完成一圈大约需要24小时。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct about summer (related to Earth's position)?",
+    "options": [
+      { "sentence": "Summer occurs in the hemisphere tilted towards the Sun.", "correct": "true" },
+      { "sentence": "Summer occurs when the Earth is closest to the Sun.", "correct": "false" },
+      { "sentence": "Summer occurs when the Earth's axis is perpendicular to the Sun's rays.", "correct": "false" },
+      { "sentence": "Summer happens because the Earth is farther from the Sun.", "correct": "false" },
+      { "sentence": "Summer happens at the equinox when day and night are of equal length.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Summer occurs in the hemisphere that is tilted towards the Sun, receiving more direct sunlight.",
+        "chinese": "夏季发生在倾向太阳的半球，接收更多的直射阳光。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct about winter (related to Earth's position)?",
+    "options": [
+      { "sentence": "Winter occurs in the hemisphere tilted away from the Sun.", "correct": "true" },
+      { "sentence": "Winter occurs when the Earth is closest to the Sun.", "correct": "false" },
+      { "sentence": "Winter occurs when the Earth's axis is perpendicular to the Sun's rays.", "correct": "false" },
+      { "sentence": "Winter happens when the Earth's orbit is at its furthest point from the Sun.", "correct": "false" },
+      { "sentence": "Winter happens at the solstice when day and night are of equal length.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Winter occurs in the hemisphere that is tilted away from the Sun, receiving less direct sunlight.",
+        "chinese": "冬季发生在远离太阳的半球，接收较少的直射阳光。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct about spring (related to Earth's position)?",
+    "options": [
+      { "sentence": "Spring occurs when the Earth's axis is not tilted towards or away from the Sun, leading to equal day and night lengths.", "correct": "true" },
+      { "sentence": "Spring occurs when the Earth is closest to the Sun.", "correct": "false" },
+      { "sentence": "Spring happens when the Earth's axis is at its maximum tilt.", "correct": "false" },
+      { "sentence": "Spring happens when the Earth is farthest from the Sun.", "correct": "false" },
+      { "sentence": "Spring happens only in the Northern Hemisphere.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Spring occurs at the equinox when day and night are of equal length, and the Earth's axis is not tilted toward or away from the Sun.",
+        "chinese": "春季发生在春分时，白昼和黑夜长度相等，且地球的轴线不朝向或远离太阳。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct about autumn (related to Earth's position)?",
+    "options": [
+      { "sentence": "Autumn occurs when the Earth's axis is not tilted towards or away from the Sun, resulting in equal day and night lengths.", "correct": "true" },
+      { "sentence": "Autumn occurs when the Earth is closest to the Sun.", "correct": "false" },
+      { "sentence": "Autumn happens only in the Northern Hemisphere.", "correct": "false" },
+      { "sentence": "Autumn happens when the Earth's axis is at its maximum tilt.", "correct": "false" },
+      { "sentence": "Autumn occurs at the solstice when day and night are of equal length.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Autumn occurs at the equinox when day and night are of equal length, and the Earth's axis is not tilted towards or away from the Sun.",
+        "chinese": "秋季发生在秋分时，白昼和黑夜长度相等，且地球的轴线不朝向或远离太阳。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct about the moon phase?",
+    "options": [
+      { "sentence": "The moon's phases are caused by the changing angles of the Sun's light as the Moon orbits Earth.", "correct": "true" },
+      { "sentence": "The moon's phases are caused by the Earth's shadow blocking the Moon's light.", "correct": "false" },
+      { "sentence": "The moon always shows the same face to the Earth due to its rotation.", "correct": "false" },
+      { "sentence": "The moon phases are caused by the Earth's rotation on its axis.", "correct": "false" },
+      { "sentence": "The moon's phases are constant and never change.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The moon phases occur due to the changing angles of sunlight as the Moon orbits Earth, causing different portions to be illuminated.",
+        "chinese": "月相是由于月球围绕地球运动时，太阳光照射角度的变化，导致月亮不同部分被照亮。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct about the new moon?",
+    "options": [
+      { "sentence": "A new moon occurs when the Moon is between the Earth and the Sun, so the side of the Moon facing Earth is not illuminated.", "correct": "true" },
+      { "sentence": "A new moon occurs when the Earth is between the Moon and the Sun.", "correct": "false" },
+      { "sentence": "A new moon occurs when the Moon is fully illuminated by the Sun.", "correct": "false" },
+      { "sentence": "A new moon happens when the Earth blocks the Moon's light.", "correct": "false" },
+      { "sentence": "A new moon can only occur in the Northern Hemisphere.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A new moon happens when the Moon is between the Earth and the Sun, with the side facing Earth in shadow.",
+        "chinese": "新月发生在月亮位于地球和太阳之间时，月球面向地球的一侧处于阴影中。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct about the first quarter moon?",
+    "options": [
+      { "sentence": "The first quarter moon happens when the Earth blocks the Moon's light.", "correct": "false" },
+      { "sentence": "A first quarter moon occurs when the Moon is fully illuminated.", "correct": "false" },
+      { "sentence": "The first quarter moon occurs when half of the Moon is illuminated.", "correct": "true" },
+      { "sentence": "A first quarter moon happens when the Moon is a thin crescent.", "correct": "false" },
+      { "sentence": "A first quarter moon is caused by the Moon passing through Earth's shadow.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A first quarter moon occurs when the Moon is one-quarter of the way through its orbit, with half of it illuminated by the Sun.",
+        "chinese": "第一季度月亮发生在月球完成大约四分之一的轨道时，月亮的一半被太阳照亮。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct about the solar system?",
+    "options": [
+      { "sentence": "The solar system consists of the Sun and everything that orbits it, including planets, moons, asteroids, and comets.", "correct": "true" },
+      { "sentence": "The solar system is made up only of the Sun and the Earth.", "correct": "false" },
+      { "sentence": "The solar system is centered around the Earth.", "correct": "false" },
+      { "sentence": "The solar system contains the Sun, eight planets, and no other objects.", "correct": "false" },
+      { "sentence": "The solar system consists of the Sun and just the planets.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The solar system includes the Sun and all objects that are gravitationally bound to it, such as planets, moons, asteroids, and comets.",
+        "chinese": "太阳系包括太阳以及所有受到太阳引力影响的物体，如行星、卫星、小行星和彗星。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct about orbit?",
+    "options": [
+      { "sentence": "An orbit is a straight path that does not change.", "correct": "false" },
+      { "sentence": "An orbit depends on the mass of the object being orbited.", "correct": "false" },
+      { "sentence": "An orbit is the curved path an object takes due to gravity.", "correct": "true" },
+      { "sentence": "An orbit occurs only around the Sun.", "correct": "false" },
+      { "sentence": "An orbit is a perfect circle at all times.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "An orbit is the curved path an object follows around a star, planet, or moon due to gravitational forces.",
+        "chinese": "轨道是物体绕恒星、行星或卫星的曲线路径，受引力影响。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct about stars?",
+    "options": [
+      { "sentence": "A star is a planet that glows due to its high temperature.", "correct": "false" },
+      { "sentence": "A star generates its own light through nuclear fusion.", "correct": "true" },
+      { "sentence": "A star is a moon that orbits a planet.", "correct": "false" },
+      { "sentence": "A star is a hot ball of gas that only reflects sunlight.", "correct": "false" },
+      { "sentence": "A star does not generate light, it only reflects it.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A star is a massive ball of gas that generates light and heat through nuclear fusion in its core.",
+        "chinese": "恒星是一个巨大的气体球，通过核聚变在其核心生成光和热。"
+      }
+    ]
+  }
+]
