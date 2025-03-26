@@ -1,0 +1,162 @@
+[
+  {
+    "question": "Which sentence is scientifically correct about minerals?",
+    "options": [
+      { "sentence": "Minerals are natural substances with a fixed chemical makeup and crystal structure.", "correct": "true" },
+      { "sentence": "Minerals are exclusively found in rocks and never in water, soil, or other environments.", "correct": "false" },
+      { "sentence": "All minerals are shiny, metallic, and man-made through industrial processes.", "correct": "false" },
+      { "sentence": "Minerals are living things that grow and reproduce underground.", "correct": "false" },
+      { "sentence": "Minerals can only form in outer space, not on Earth.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Minerals are naturally occurring substances with a specific chemical composition and atomic structure, which can form in various geological processes.",
+        "chinese": "矿物是天然存在的物质，具有特定的化学成分和原子结构，可以通过各种地质过程形成。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct about rocks?",
+    "options": [
+      { "sentence": "Rocks can contain multiple minerals or be made of a single mineral.", "correct": "true" },
+      { "sentence": "Rocks are always soft, crumbly, and identical in texture worldwide.", "correct": "false" },
+      { "sentence": "Rocks are artificial materials created by humans for construction.", "correct": "false" },
+      { "sentence": "Rocks never change over time and remain the same forever.", "correct": "false" },
+      { "sentence": "Rocks are only found on mountain tops and nowhere else.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Rocks are solid aggregates of minerals or mineral-like substances that form naturally in the Earth's crust or mantle.",
+        "chinese": "岩石是天然形成的矿物或类似矿物的固体聚集体，通常在地壳或地幔中形成。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct about soil?",
+    "options": [
+      { "sentence": "Soil supports plant life by providing nutrients, water, and anchorage.", "correct": "true" },
+      { "sentence": "Soil is sterile and contains absolutely no living organisms.", "correct": "false" },
+      { "sentence": "Soil is identical in composition everywhere on Earth.", "correct": "false" },
+      { "sentence": "Soil forms instantly and doesn’t require weathering or organic decay.", "correct": "false" },
+      { "sentence": "Soil is made purely of water and air with no solid particles.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Soil is a complex mixture of organic material, minerals, water, air, and living organisms that is essential for supporting plant growth.",
+        "chinese": "土壤是有机物、矿物、水、空气和生物的复杂混合物，对支持植物生长至关重要。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct about natural resources?",
+    "options": [
+      { "sentence": "Natural resources include both renewable (e.g., sunlight) and non-renewable (e.g., coal) materials.", "correct": "true" },
+      { "sentence": "Natural resources are infinite and will never run out, no matter how humans use them.", "correct": "false" },
+      { "sentence": "Only forests and oceans provide natural resources; deserts have none.", "correct": "false" },
+      { "sentence": "Natural resources are synthetic products invented by scientists.", "correct": "false" },
+      { "sentence": "Natural resources are unnecessary for modern human civilization.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Natural resources are materials found in nature that are used by humans for various purposes, including energy, food, and raw materials.",
+        "chinese": "自然资源是人类用于各种目的的天然材料，包括能源、食物和原材料。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct about igneous rocks?",
+    "options": [
+      { "sentence": "Igneous rocks form when magma or lava cools and hardens.", "correct": "true" },
+      { "sentence": "Igneous rocks are always lightweight, porous, and float on water.", "correct": "false" },
+      { "sentence": "Igneous rocks can only be created in laboratories by scientists.", "correct": "false" },
+      { "sentence": "Igneous rocks are made entirely of organic material from plants.", "correct": "false" },
+      { "sentence": "Igneous rocks dissolve instantly in rainwater.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Igneous rocks are formed when molten material (magma or lava) cools and solidifies, either beneath the Earth's surface or on it.",
+        "chinese": "火成岩是在地球表面或地下，熔融物质（岩浆或熔岩）冷却并固化时形成的。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct about metamorphic rocks?",
+    "options": [
+      { "sentence": "Metamorphic rocks change due to heat, pressure, or chemical processes.", "correct": "true" },
+      { "sentence": "Metamorphic rocks are always bright red and smell like sulfur.", "correct": "false" },
+      { "sentence": "Metamorphic rocks form only at the Earth’s surface, never underground.", "correct": "false" },
+      { "sentence": "Metamorphic rocks are the only type that contains fossils.", "correct": "false" },
+      { "sentence": "Metamorphic rocks melt into candy when heated.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Metamorphic rocks are formed by the transformation of existing rocks under the influence of high heat, pressure, or chemically active fluids.",
+        "chinese": "变质岩是在高温、压力或化学活性流体的作用下，现有岩石的结构发生变化后形成的。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct about sedimentary rocks?",
+    "options": [
+      { "sentence": "Sedimentary rocks often contain fossils and form in layers.", "correct": "true" },
+      { "sentence": "Sedimentary rocks are always fiery hot to the touch.", "correct": "false" },
+      { "sentence": "Sedimentary rocks explode when exposed to sunlight.", "correct": "false" },
+      { "sentence": "Sedimentary rocks are made solely from volcanic ash.", "correct": "false" },
+      { "sentence": "Sedimentary rocks cannot be broken down by erosion.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Sedimentary rocks are formed from the accumulation of sediments that become compacted and cemented over time, often containing fossils.",
+        "chinese": "沉积岩是由沉积物积累、经过时间的压实和胶结形成的，通常包含化石。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct about luster?",
+    "options": [
+      { "sentence": "Luster describes how light reflects off a mineral’s surface.", "correct": "true" },
+      { "sentence": "Luster measures a mineral’s temperature.", "correct": "false" },
+      { "sentence": "Luster determines how fast a mineral can grow.", "correct": "false" },
+      { "sentence": "Luster is the sound a mineral makes when struck.", "correct": "false" },
+      { "sentence": "Luster is unrelated to a mineral’s appearance.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Luster is the way a mineral's surface reflects light, which can be described as metallic, glassy, or dull.",
+        "chinese": "光泽是指矿物表面反射光线的方式，可以描述为金属光泽、玻璃光泽或无光泽。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct about loam?",
+    "options": [
+      { "sentence": "Loam is fertile soil with balanced sand, silt, and clay.", "correct": "true" },
+      { "sentence": "Loam is a type of igneous rock found in volcanoes.", "correct": "false" },
+      { "sentence": "Loam is toxic and kills all plants that touch it.", "correct": "false" },
+      { "sentence": "Loam is made entirely of decomposed animal bones.", "correct": "false" },
+      { "sentence": "Loam cannot hold water or nutrients at all.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Loam is a fertile soil made up of a balanced mixture of sand, silt, and clay, ideal for growing most plants.",
+        "chinese": "壤土是由沙子、淤泥和粘土的平衡混合物组成的肥沃土壤，非常适合种植大多数植物。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct about geology?",
+    "options": [
+      { "sentence": "Geology studies Earth’s materials, structures, and processes.", "correct": "true" },
+      { "sentence": "Geology only focuses on predicting the weather.", "correct": "false" },
+      { "sentence": "Geology is the study of human anatomy and diseases.", "correct": "false" },
+      { "sentence": "Geologists only work in space, not on Earth.", "correct": "false" },
+      { "sentence": "Geology ignores rocks and minerals completely.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Geology is the scientific study of the Earth, including its structure, materials, and the processes that have shaped its surface over time.",
+        "chinese": "地质学是研究地球的科学，包括其结构、物质以及塑造其表面的过程。"
+      }
+    ]
+  }
+]
