@@ -1,0 +1,146 @@
+[
+  {
+    "question": "Which sentence is scientifically correct about heat?",
+    "options": [
+      { "sentence": "Heat is a form of energy that flows from a hotter object to a cooler one.", "correct": "true" },
+      { "sentence": "Heat is the same as temperature and cannot be transferred.", "correct": "false" },
+      { "sentence": "Heat cannot be measured directly.", "correct": "false" },
+      { "sentence": "Heat always makes things colder.", "correct": "false" },
+      { "sentence": "Heat is only produced by machines.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Heat is energy in transfer due to a difference in temperature, flowing from warmer objects to cooler ones.",
+        "chinese": "热是一种能量形式，由于温度差从较热的物体流向较冷的物体。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct about temperature?",
+    "options": [
+      { "sentence": "Temperature is a measure of the average kinetic energy of particles in a substance.", "correct": "true" },
+      { "sentence": "Temperature is the amount of heat in an object, regardless of size.", "correct": "false" },
+      { "sentence": "Temperature can never be measured accurately.", "correct": "false" },
+      { "sentence": "Temperature is always the same as heat.", "correct": "false" },
+      { "sentence": "Temperature only applies to gases, not solids or liquids.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Temperature measures the average kinetic energy of particles in a substance, indicating how hot or cold it is.",
+        "chinese": "温度是物质中粒子的平均动能的度量，表示它的热度或冷度。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct about vibration?",
+    "options": [
+      { "sentence": "Vibration is the rapid back-and-forth movement of particles in a medium.", "correct": "true" },
+      { "sentence": "Vibration is the permanent change of shape in a material.", "correct": "false" },
+      { "sentence": "Vibration only occurs in solids, never in liquids or gases.", "correct": "false" },
+      { "sentence": "Vibration can only occur at high temperatures.", "correct": "false" },
+      { "sentence": "Vibration is not related to sound production.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Vibration refers to the oscillating movement of particles in a medium, which is often responsible for producing sound.",
+        "chinese": "振动是指介质中粒子的振荡运动，通常是声音产生的原因。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct about sound?",
+    "options": [
+      { "sentence": "Sound is a mechanical wave that travels through a medium by vibrating particles.", "correct": "true" },
+      { "sentence": "Sound can travel through a vacuum because it doesn’t need a medium.", "correct": "false" },
+      { "sentence": "Sound is a type of light wave.", "correct": "false" },
+      { "sentence": "Sound can be heard without any vibration of air particles.", "correct": "false" },
+      { "sentence": "Sound travels faster in colder air.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Sound is a mechanical wave that requires a medium (solid, liquid, or gas) to travel through, and it involves the vibration of particles in that medium.",
+        "chinese": "声音是一种机械波，需要介质（固体、液体或气体）来传播，并涉及介质中粒子的振动。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct about electric current?",
+    "options": [
+      { "sentence": "Electric current is the flow of electric charge through a conductor.", "correct": "true" },
+      { "sentence": "Electric current can only flow in a vacuum.", "correct": "false" },
+      { "sentence": "Electric current is unaffected by the material through which it flows.", "correct": "false" },
+      { "sentence": "Electric current only flows in metals.", "correct": "false" },
+      { "sentence": "Electric current is the same as voltage.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Electric current refers to the flow of electric charge through a conductor, typically electrons moving through a wire.",
+        "chinese": "电流是电荷通过导体流动的过程，通常是电子通过导线流动。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct about conductors?",
+    "options": [
+      { "sentence": "Conductors are materials that allow electric current to flow easily.", "correct": "true" },
+      { "sentence": "Conductors are materials do not allow heat to pass through them.", "correct": "false" },
+      { "sentence": "Conductors are materials that only work for light, not for electricity.", "correct": "false" },
+      { "sentence": "Conductors are materials that are always insulators at high temperatures.", "correct": "false" },
+      { "sentence": "Conductors are materials that are never used in electrical circuits.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Conductors are materials that allow electric current or heat to flow easily through them, such as metals like copper.",
+        "chinese": "导体是允许电流或热量轻易通过的材料，如铜等金属。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct about insulators?",
+    "options": [
+      { "sentence": "Insulators are materials that resist the flow of electric current.", "correct": "true" },
+      { "sentence": "Insulators are perfect conductors of electricity.", "correct": "false" },
+      { "sentence": "Insulators only work for light, not for heat or electricity.", "correct": "false" },
+      { "sentence": "Insulators can conduct electricity at high temperatures.", "correct": "false" },
+      { "sentence": "Insulators are always transparent materials.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Insulators are materials that do not allow electric current or heat to pass through them easily, such as rubber or wood.",
+        "chinese": "绝缘体是阻止电流或热量轻易通过的材料，如橡胶或木材。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct about pitch?",
+    "options": [
+      { "sentence": "Pitch is the perceived frequency of a sound wave.", "correct": "true" },
+      { "sentence": "Pitch is determined by the loudness of a sound.", "correct": "false" },
+      { "sentence": "Pitch can only be heard by animals, not humans.", "correct": "false" },
+      { "sentence": "Pitch is the physical vibration speed of sound.", "correct": "false" },
+      { "sentence": "Pitch is unrelated to the frequency of sound waves.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Pitch refers to how high or low a sound is perceived, which is determined by the frequency of the sound wave.",
+        "chinese": "音高指的是声音的高低感知，由声波的频率决定。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct about volume?",
+    "options": [
+      { "sentence": "Volume is the perceived loudness or softness of a sound.", "correct": "true" },
+      { "sentence": "Volume is determined by the frequency of sound waves.", "correct": "false" },
+      { "sentence": "Volume is the same as pitch.", "correct": "false" },
+      { "sentence": "Volume is the physical size of the sound source.", "correct": "false" },
+      { "sentence": "Volume can only be measured with a light meter.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Volume refers to the perceived loudness or softness of a sound, which is determined by the amplitude of the sound wave.",
+        "chinese": "音量指的是声音的响亮或柔和感知，由声波的振幅决定。"
+      }
+    ]
+  }
+]
