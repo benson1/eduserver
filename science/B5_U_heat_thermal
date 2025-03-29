@@ -1,0 +1,114 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Heat is a form of energy that can be transferred from one object to another.", "correct": "true" },
+      { "sentence": "Heat is a substance that can be stored in objects.", "correct": "false" },
+      { "sentence": "Heat is the same as temperature.", "correct": "false" },
+      { "sentence": "Heat always travels from cold objects to hot objects.", "correct": "false" },
+      { "sentence": "Heat is a force that causes motion.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Heat is a form of energy that can be transferred from one object to another and can cause a change in temperature or phase of a material.",
+        "chinese": "热量是一种可以从一个物体传递到另一个物体的能量，能够引起物质的温度或相态变化。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Temperature measures the average kinetic energy of particles in an object.", "correct": "true" },
+      { "sentence": "Temperature is the amount of heat an object has.", "correct": "false" },
+      { "sentence": "Temperature can be measured only in Kelvin.", "correct": "false" },
+      { "sentence": "Temperature is always the same as the internal energy of a substance.", "correct": "false" },
+      { "sentence": "Temperature cannot affect the state of matter.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Temperature is the measure of the average kinetic energy of the particles in a substance, which affects its state and behavior.",
+        "chinese": "温度是物质中粒子平均动能的度量，影响其状态和行为。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Conduction is the transfer of heat through direct contact between particles.", "correct": "true" },
+      { "sentence": "Conduction requires the movement of fluids to transfer heat.", "correct": "false" },
+      { "sentence": "Conduction occurs faster in gases than in solids.", "correct": "false" },
+      { "sentence": "Conduction can only happen in gases.", "correct": "false" },
+      { "sentence": "Conduction does not transfer heat; it only moves matter.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Conduction is the process by which heat is transferred through a material by direct contact between particles, typically in solids.",
+        "chinese": "传导是通过物质中粒子之间的直接接触来传递热量的过程，通常发生在固体中。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Convection is the transfer of heat through the movement of fluids.", "correct": "true" },
+      { "sentence": "Convection occurs in solids and does not need fluids.", "correct": "false" },
+      { "sentence": "Convection only happens in liquids.", "correct": "false" },
+      { "sentence": "Convection involves the transfer of heat through electromagnetic waves.", "correct": "false" },
+      { "sentence": "Convection transfers heat by direct contact between particles.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Convection occurs when heat is transferred through the movement of fluids (liquids or gases) due to differences in temperature.",
+        "chinese": "对流是热量通过流体（液体或气体）因温差而发生的转移。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Radiation is the transfer of heat through electromagnetic waves.", "correct": "true" },
+      { "sentence": "Radiation requires a medium (like air or water) to transfer heat.", "correct": "false" },
+      { "sentence": "Radiation only happens when objects are in direct contact.", "correct": "false" },
+      { "sentence": "Radiation can only occur in solid materials.", "correct": "false" },
+      { "sentence": "Radiation reduces the temperature of an object.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Radiation transfers heat through electromagnetic waves, and it does not require a medium. This is how the Sun's heat reaches Earth.",
+        "chinese": "辐射通过电磁波传递热量，不需要介质。这是太阳的热量到达地球的方式。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Thermal conductivity is a property that determines how well a material can conduct heat.", "correct": "true" },
+      { "sentence": "Thermal conductivity only applies to metals.", "correct": "false" },
+      { "sentence": "Thermal conductivity increases with temperature.", "correct": "false" },
+      { "sentence": "Thermal conductivity cannot be measured.", "correct": "false" },
+      { "sentence": "Thermal conductivity is unrelated to the material's physical state.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Thermal conductivity is a property of materials that measures how well they can transfer heat. Metals typically have high thermal conductivity.",
+        "chinese": "热导率是材料的一个属性，衡量它们传导热量的能力。金属通常具有较高的热导率。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Electromagnetic rays are a form of radiation that transfers energy through space without needing a medium.", "correct": "true" },
+      { "sentence": "Electromagnetic rays can only travel through solids.", "correct": "false" },
+      { "sentence": "Electromagnetic rays have no effect on heat transfer.", "correct": "false" },
+      { "sentence": "Electromagnetic rays are only visible light.", "correct": "false" },
+      { "sentence": "Electromagnetic rays are made of particles that cannot travel through a vacuum.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Electromagnetic rays (such as light, radio waves, and X-rays) transfer energy through space via electromagnetic waves, and they do not require a medium.",
+        "chinese": "电磁射线（如光、无线电波和X射线）通过电磁波在空间中传递能量，不需要介质。"
+      }
+    ]
+  }
+]
