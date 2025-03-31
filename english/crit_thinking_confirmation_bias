@@ -96,36 +96,35 @@
     ]
   },
   {
-"question": "What is the Bandwagon Effect?",
-"options": [
-{ "sentence": "A cognitive bias where people adopt beliefs or behaviors because they see others doing so.", "correct": "true" },
-{ "sentence": "A logical fallacy that argues something is true because it has always been done that way.", "correct": "false" },
-{ "sentence": "A tendency to resist new ideas due to prior commitments.", "correct": "false" },
-{ "sentence": "An effect where people deliberately go against popular opinion.", "correct": "false" },
-{ "sentence": "A decision-making process based solely on expert recommendations.", "correct": "false" }
-],
-"explanation": [
-{
-"english": "The Bandwagon Effect describes the tendency of individuals to adopt certain behaviors, beliefs, or trends because they see many others doing so.",
-"chinese": "从众效应描述了个人因为看到许多人都在做某事，而倾向于采用某种行为、信念或趋势的现象。"
-}
+    "question": "What is the Bandwagon Effect?",
+    "options": [
+      { "sentence": "A cognitive bias where people adopt beliefs or behaviors because they see others doing so.", "correct": "true" },
+      { "sentence": "A logical fallacy that argues something is true because it has always been done that way.", "correct": "false" },
+      { "sentence": "A tendency to resist new ideas due to prior commitments.", "correct": "false" },
+      { "sentence": "An effect where people deliberately go against popular opinion.", "correct": "false" },
+      { "sentence": "A decision-making process based solely on expert recommendations.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The Bandwagon Effect describes the tendency of individuals to adopt certain behaviors, beliefs, or trends because they see many others doing so.",
+        "chinese": "从众效应描述了个人因为看到许多人都在做某事，而倾向于采用某种行为、信念或趋势的现象。"
+      }
+    ]
+  },
+  {
+    "question": "What is Hindsight Bias?",
+    "options": [
+      { "sentence": "The tendency to see past events as more predictable than they actually were.", "correct": "true" },
+      { "sentence": "A logical error that involves ignoring information that contradicts prior beliefs.", "correct": "false" },
+      { "sentence": "A bias where people assume they knew an outcome would happen before it occurred.", "correct": "false" },
+      { "sentence": "A decision-making error where individuals overestimate their ability to predict events.", "correct": "false" },
+      { "sentence": "A phenomenon where people remember events differently based on their current emotions.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Hindsight Bias is the tendency to perceive past events as having been more predictable than they really were, leading people to believe they 'knew it all along.'",
+        "chinese": "事后偏见是指人们倾向于将过去的事件视为比实际情况更可预测，从而导致他们认为自己“早就知道”结果。"
+      }
+    ]
+  }
 ]
-},
-{
-"question": "What is Hindsight Bias?",
-"options": [
-{ "sentence": "The tendency to see past events as more predictable than they actually were.", "correct": "true" },
-{ "sentence": "A logical error that involves ignoring information that contradicts prior beliefs.", "correct": "false" },
-{ "sentence": "A bias where people assume they knew an outcome would happen before it occurred.", "correct": "false" },
-{ "sentence": "A decision-making error where individuals overestimate their ability to predict events.", "correct": "false" },
-{ "sentence": "A phenomenon where people remember events differently based on their current emotions.", "correct": "false" }
-],
-"explanation": [
-{
-"english": "Hindsight Bias is the tendency to perceive past events as having been more predictable than they really were, leading people to believe they 'knew it all along.'",
-"chinese": "事后偏见是指人们倾向于将过去的事件视为比实际情况更可预测，从而导致他们认为自己“早就知道”结果。"
-}
-]
-}
-]
-
