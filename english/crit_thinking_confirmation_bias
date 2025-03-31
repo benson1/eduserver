@@ -1,0 +1,131 @@
+[
+  {
+    "question": "What is a Cognitive Bias?",
+    "options": [
+      { "sentence": "Systematic patterns of deviation from norm or rationality in judgment.", "correct": "true" },
+      { "sentence": "Thought processes that are entirely logical but influenced by prior experiences.", "correct": "false" },
+      { "sentence": "A cognitive process that relies heavily on the immediate information available, rather than broader context.", "correct": "false" },
+      { "sentence": "Biases that occur only in emotional decision-making and are unrelated to rational thinking.", "correct": "false" },
+      { "sentence": "A method of thinking that disregards all external factors and focuses only on direct observations.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Cognitive biases are systematic errors in thinking that affect judgments and decision-making.",
+        "chinese": "认知偏见是思维中的系统性错误，影响判断和决策。"
+      }
+    ]
+  },
+  {
+    "question": "Who is Peter Wason?",
+    "options": [
+      { "sentence": "A psychologist known for his work on confirmation bias and reasoning.", "correct": "true" },
+      { "sentence": "A philosopher who developed the theory of cognitive dissonance.", "correct": "false" },
+      { "sentence": "A mathematician who studied probability theory.", "correct": "false" },
+      { "sentence": "A neuroscientist who focused on memory formation.", "correct": "false" },
+      { "sentence": "A sociologist known for his research on group dynamics.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Peter Wason was a psychologist who studied reasoning and identified confirmation bias, a tendency to seek out information that confirms one's preexisting beliefs.",
+        "chinese": "彼得·沃森是一位心理学家，他研究推理并发现了确认偏误，即人们倾向于寻找支持自己先前信念的信息。"
+      }
+    ]
+  },
+  {
+    "question": "What is the Anchoring Bias?",
+    "options": [
+      { "sentence": "A tendency to rely heavily on the first piece of information encountered when making decisions.", "correct": "true" },
+      { "sentence": "A bias that causes people to ignore important information when forming opinions.", "correct": "false" },
+      { "sentence": "A mental shortcut that leads people to overestimate unlikely events.", "correct": "false" },
+      { "sentence": "A bias where individuals prefer information that aligns with their existing beliefs.", "correct": "false" },
+      { "sentence": "A cognitive tendency to remember only the most recent events.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The Anchoring Bias occurs when people rely too much on an initial piece of information when making decisions.",
+        "chinese": "锚定偏误是指人们在做决定时过于依赖最初获得的信息。"
+      }
+    ]
+  },
+  {
+    "question": "What is the Availability Heuristic?",
+    "options": [
+      { "sentence": "A mental shortcut that leads people to overestimate the likelihood of events based on how easily examples come to mind.", "correct": "true" },
+      { "sentence": "A reasoning error that leads people to rely solely on expert opinions.", "correct": "false" },
+      { "sentence": "A cognitive bias that causes people to ignore information that contradicts their beliefs.", "correct": "false" },
+      { "sentence": "A bias that leads people to make decisions based on emotional responses rather than facts.", "correct": "false" },
+      { "sentence": "A tendency to give more weight to recent experiences rather than historical data.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The Availability Heuristic leads people to judge the frequency or likelihood of an event based on how easily examples come to mind.",
+        "chinese": "可得性启发使人们根据容易想起的例子来判断事件的频率或可能性。"
+      }
+    ]
+  },
+  {
+    "question": "What is the Dunning-Kruger Effect?",
+    "options": [
+      { "sentence": "A cognitive bias where people with low ability overestimate their competence.", "correct": "true" },
+      { "sentence": "A tendency for experts to underestimate their own knowledge.", "correct": "false" },
+      { "sentence": "A bias that causes people to trust their intuition over logic.", "correct": "false" },
+      { "sentence": "A mental shortcut that leads people to prefer familiar options over new ones.", "correct": "false" },
+      { "sentence": "A psychological phenomenon where people believe their experiences are unique.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The Dunning-Kruger Effect describes how people with limited knowledge tend to overestimate their competence, while experts may underestimate theirs.",
+        "chinese": "邓宁-克鲁格效应描述了知识有限的人往往高估自己的能力，而专家可能低估自己的能力。"
+      }
+    ]
+  },
+  {
+    "question": "What is the Sunk Cost Fallacy?",
+    "options": [
+      { "sentence": "The tendency to continue investing in a losing proposition due to previously invested resources.", "correct": "true" },
+      { "sentence": "A cognitive bias that leads people to abandon decisions prematurely.", "correct": "false" },
+      { "sentence": "A tendency to focus only on potential future benefits, ignoring past investments.", "correct": "false" },
+      { "sentence": "A decision-making error that causes people to avoid all risks.", "correct": "false" },
+      { "sentence": "A mental shortcut that leads people to rely only on past successes.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The Sunk Cost Fallacy occurs when people continue an endeavor due to past investments, rather than assessing future benefits.",
+        "chinese": "沉没成本谬误发生在人们因为过去的投资而继续坚持某个决定，而不是评估未来的收益。"
+      }
+    ]
+  },
+  {
+"question": "What is the Bandwagon Effect?",
+"options": [
+{ "sentence": "A cognitive bias where people adopt beliefs or behaviors because they see others doing so.", "correct": "true" },
+{ "sentence": "A logical fallacy that argues something is true because it has always been done that way.", "correct": "false" },
+{ "sentence": "A tendency to resist new ideas due to prior commitments.", "correct": "false" },
+{ "sentence": "An effect where people deliberately go against popular opinion.", "correct": "false" },
+{ "sentence": "A decision-making process based solely on expert recommendations.", "correct": "false" }
+],
+"explanation": [
+{
+"english": "The Bandwagon Effect describes the tendency of individuals to adopt certain behaviors, beliefs, or trends because they see many others doing so.",
+"chinese": "从众效应描述了个人因为看到许多人都在做某事，而倾向于采用某种行为、信念或趋势的现象。"
+}
+]
+},
+{
+"question": "What is Hindsight Bias?",
+"options": [
+{ "sentence": "The tendency to see past events as more predictable than they actually were.", "correct": "true" },
+{ "sentence": "A logical error that involves ignoring information that contradicts prior beliefs.", "correct": "false" },
+{ "sentence": "A bias where people assume they knew an outcome would happen before it occurred.", "correct": "false" },
+{ "sentence": "A decision-making error where individuals overestimate their ability to predict events.", "correct": "false" },
+{ "sentence": "A phenomenon where people remember events differently based on their current emotions.", "correct": "false" }
+],
+"explanation": [
+{
+"english": "Hindsight Bias is the tendency to perceive past events as having been more predictable than they really were, leading people to believe they 'knew it all along.'",
+"chinese": "事后偏见是指人们倾向于将过去的事件视为比实际情况更可预测，从而导致他们认为自己“早就知道”结果。"
+}
+]
+}
+]
+
