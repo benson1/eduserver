@@ -1,0 +1,162 @@
+[
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "She go to the gym every morning.", "correct": "false" },
+      { "sentence": "She goes to the gym every morning.", "correct": "true" },
+      { "sentence": "She going to the gym every morning.", "correct": "false" },
+      { "sentence": "She gone to the gym every morning.", "correct": "false" },
+      { "sentence": "She to go to the gym every morning.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The subject 'She' requires the verb in the third-person singular form ('goes').",
+        "chinese": "'She' 需要用第三人称单数形式的动词 ('goes')。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "They is playing football.", "correct": "false" },
+      { "sentence": "They are playing football.", "correct": "true" },
+      { "sentence": "They plays football.", "correct": "false" },
+      { "sentence": "They playing football.", "correct": "false" },
+      { "sentence": "They are play football.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The subject 'They' is plural, so the verb should be 'are playing'.",
+        "chinese": "'They' 是复数形式，因此动词应为 'are playing'。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "He enjoy playing basketball.", "correct": "false" },
+      { "sentence": "He enjoys playing basketball.", "correct": "true" },
+      { "sentence": "He enjoyed playing basketball.", "correct": "false" },
+      { "sentence": "He enjoying playing basketball.", "correct": "false" },
+      { "sentence": "He to enjoy playing basketball.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The subject 'He' requires the verb in the third-person singular form ('enjoys').",
+        "chinese": "'He' 需要用第三人称单数形式的动词 ('enjoys')。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "The team are practicing for the match.", "correct": "false" },
+      { "sentence": "The team is practicing for the match.", "correct": "true" },
+      { "sentence": "The team practice for the match.", "correct": "false" },
+      { "sentence": "The team to practice for the match.", "correct": "false" },
+      { "sentence": "The team practicing for the match.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Although 'team' refers to a group, it is considered singular, so the verb should be 'is'.",
+        "chinese": "'Team' 虽然指的是一个团体，但被视为单数，所以动词应该是 'is'。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "I have a lot of work to do.", "correct": "true" },
+      { "sentence": "I has a lot of work to do.", "correct": "false" },
+      { "sentence": "I am a lot of work to do.", "correct": "false" },
+      { "sentence": "I do a lot of work to do.", "correct": "false" },
+      { "sentence": "I a lot of work to do.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The subject 'I' takes the verb 'have'.",
+        "chinese": "'I' 需要用动词 'have'。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "She were tired after the long journey.", "correct": "false" },
+      { "sentence": "She was tired after the long journey.", "correct": "true" },
+      { "sentence": "She is tired after the long journey.", "correct": "false" },
+      { "sentence": "She been tired after the long journey.", "correct": "false" },
+      { "sentence": "She tired after the long journey.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The subject 'She' requires the verb in the past tense form ('was').",
+        "chinese": "'She' 需要用过去时的动词形式 ('was')。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "The children plays in the park.", "correct": "false" },
+      { "sentence": "The children play in the park.", "correct": "true" },
+      { "sentence": "The children is playing in the park.", "correct": "false" },
+      { "sentence": "The children are playing in the park.", "correct": "false" },
+      { "sentence": "The children played in the park.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The subject 'children' is plural, so the verb should be 'play'.",
+        "chinese": "'Children' 是复数形式，所以动词应该是 'play'。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "The book are on the table.", "correct": "false" },
+      { "sentence": "The book is on the table.", "correct": "true" },
+      { "sentence": "The books is on the table.", "correct": "false" },
+      { "sentence": "The books are on the table.", "correct": "false" },
+      { "sentence": "The book were on the table.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The subject 'book' is singular, so the verb should be 'is'.",
+        "chinese": "'Book' 是单数形式，所以动词应该是 'is'。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "He don't like pizza.", "correct": "false" },
+      { "sentence": "He doesn't like pizza.", "correct": "true" },
+      { "sentence": "He don't likes pizza.", "correct": "false" },
+      { "sentence": "He doesn't likes pizza.", "correct": "false" },
+      { "sentence": "He like pizza.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The subject 'He' requires 'doesn't' followed by the base form of the verb ('like').",
+        "chinese": "'He' 需要用 'doesn't'，后面跟动词原形 ('like')。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "The dog run fast.", "correct": "false" },
+      { "sentence": "The dog runs fast.", "correct": "true" },
+      { "sentence": "The dog running fast.", "correct": "false" },
+      { "sentence": "The dog runned fast.", "correct": "false" },
+      { "sentence": "The dog is runs fast.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The subject 'dog' requires the verb in the third-person singular form ('runs').",
+        "chinese": "'Dog' 需要用第三人称单数形式的动词 ('runs')。"
+      }
+    ]
+  }
+]
