@@ -1,0 +1,162 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Mass is a measure of the amount of matter in an object.", "correct": "true" },
+      { "sentence": "Mass is the same as weight.", "correct": "false" },
+      { "sentence": "Mass can change depending on the object's location.", "correct": "false" },
+      { "sentence": "Mass is a force that causes objects to move.", "correct": "false" },
+      { "sentence": "Mass can be measured in units of temperature.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Mass is the measure of the amount of matter in an object and is constant regardless of location.",
+        "chinese": "质量是物体中物质的量的度量，不会因位置而改变。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A solid has a definite shape and volume.", "correct": "true" },
+      { "sentence": "Solids can flow like liquids.", "correct": "false" },
+      { "sentence": "Solids do not have a fixed volume.", "correct": "false" },
+      { "sentence": "Solids do not have a definite shape.", "correct": "false" },
+      { "sentence": "Solids are always hard and rigid.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Solids have a definite shape and volume because their particles are closely packed and vibrate in place.",
+        "chinese": "固体有固定的形状和体积，因为它们的粒子紧密排列并在原地振动。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A liquid has a definite volume but no definite shape.", "correct": "true" },
+      { "sentence": "Liquids can only exist in small containers.", "correct": "false" },
+      { "sentence": "Liquids do not have volume.", "correct": "false" },
+      { "sentence": "Liquids are unable to flow.", "correct": "false" },
+      { "sentence": "Liquids cannot change their state under temperature changes.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Liquids have a definite volume, but they can flow and take the shape of their container.",
+        "chinese": "液体有固定的体积，但可以流动并且会根据容器的形状而变化。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A gas has neither a definite shape nor a definite volume.", "correct": "true" },
+      { "sentence": "Gases have a fixed shape and volume.", "correct": "false" },
+      { "sentence": "Gases are always heavier than solids.", "correct": "false" },
+      { "sentence": "Gases cannot be compressed.", "correct": "false" },
+      { "sentence": "Gases do not move in all directions.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Gases have neither a fixed shape nor a fixed volume because their particles are far apart and move freely.",
+        "chinese": "气体没有固定的形状和体积，因为它们的粒子之间相隔较远，并且自由移动。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Matter is anything that has mass and occupies space.", "correct": "true" },
+      { "sentence": "Matter does not have mass.", "correct": "false" },
+      { "sentence": "Matter cannot be seen or touched.", "correct": "false" },
+      { "sentence": "Matter is not made of atoms.", "correct": "false" },
+      { "sentence": "Matter cannot change state.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Matter is defined as anything that has mass and takes up space, and it is made up of atoms.",
+        "chinese": "物质被定义为任何具有质量并占据空间的东西，它由原子组成。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Volume is the amount of space an object occupies.", "correct": "true" },
+      { "sentence": "Volume only applies to solids.", "correct": "false" },
+      { "sentence": "Volume is measured in mass units.", "correct": "false" },
+      { "sentence": "Volume can be ignored when calculating matter.", "correct": "false" },
+      { "sentence": "Volume is constant regardless of the object's state.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Volume is the amount of space an object or substance occupies, and it can change depending on the state of matter.",
+        "chinese": "体积是物体或物质占据的空间量，可以根据物质的状态变化。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A physical change does not change the chemical composition of a substance.", "correct": "true" },
+      { "sentence": "A physical change creates new substances.", "correct": "false" },
+      { "sentence": "Physical changes always involve a chemical reaction.", "correct": "false" },
+      { "sentence": "Physical changes only happen in gases.", "correct": "false" },
+      { "sentence": "Physical changes are always reversible.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A physical change affects the form of a substance but not its chemical composition, such as changes in state or shape.",
+        "chinese": "物理变化影响物质的形态，但不改变其化学成分，例如状态或形状的变化。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Evaporation is the process by which a liquid turns into a gas.", "correct": "true" },
+      { "sentence": "Evaporation occurs only at the boiling point of a liquid.", "correct": "false" },
+      { "sentence": "Evaporation is a type of chemical change.", "correct": "false" },
+      { "sentence": "Evaporation always happens in the presence of a flame.", "correct": "false" },
+      { "sentence": "Evaporation cannot happen at room temperature.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Evaporation is the process in which molecules at the surface of a liquid escape into the air, and it can occur at temperatures below the boiling point.",
+        "chinese": "蒸发是液体表面分子逃逸到空气中的过程，可以在低于沸点的温度下发生。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Condensation is the process by which a gas turns into a liquid.", "correct": "true" },
+      { "sentence": "Condensation occurs when a liquid turns into a gas.", "correct": "false" },
+      { "sentence": "Condensation only happens at high temperatures.", "correct": "false" },
+      { "sentence": "Condensation is the same as evaporation.", "correct": "false" },
+      { "sentence": "Condensation does not involve temperature changes.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Condensation is the process where a gas loses heat and changes into a liquid, typically when cooled.",
+        "chinese": "凝结是气体失去热量并转变为液体的过程，通常发生在冷却时。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A chemical change results in the formation of new substances.", "correct": "true" },
+      { "sentence": "A chemical change only changes the physical appearance of a substance.", "correct": "false" },
+      { "sentence": "Chemical changes are always reversible.", "correct": "false" },
+      { "sentence": "Chemical changes never involve energy changes.", "correct": "false" },
+      { "sentence": "Chemical changes only occur in solids.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A chemical change results in the creation of new substances, often accompanied by energy changes like heat, light, or sound.",
+        "chinese": "化学变化会产生新物质，通常伴随着热、光或声音等能量变化。"
+      }
+    ]
+  }
+]
