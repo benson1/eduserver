@@ -1,0 +1,142 @@
+[
+  {
+    "question": "Which statement about soil is scientifically accurate?",
+    "options": [
+      { "sentence": "Soil contains minerals, organic matter, water, and air.", "correct": true },
+      { "sentence": "Soil forms exclusively from weathered granite.", "correct": false },
+      { "sentence": "Desert soils are identical to forest soils in composition.", "correct": false },
+      { "sentence": "Soil air content remains constant in all environments.", "correct": false },
+      { "sentence": "Organic matter is absent in fertile agricultural soils.", "correct": false }
+    ],
+    "explanation": {
+      "english": "Soil is a dynamic mixture of minerals, organic material, water, and air, varying by ecosystem.",
+      "chinese": "土壤是矿物质、有机质、水和空气的动态混合物，因生态系统而异。"
+    }
+  },
+  {
+    "question": "What is true about fossils?",
+    "options": [
+      { "sentence": "Fossils can preserve traces of ancient behavior, like footprints.", "correct": true },
+      { "sentence": "Fossils form equally well in all rock types.", "correct": false },
+      { "sentence": "Fossilized bones are always pure carbon.", "correct": false },
+      { "sentence": "Fossils provide no clues about past climates.", "correct": false },
+      { "sentence": "Fossils decay within 100 years of burial.", "correct": false }
+    ],
+    "explanation": {
+      "english": "Fossils include body parts and activity traces (e.g., footprints), primarily preserved in sedimentary rocks.",
+      "chinese": "化石可保存生物遗骸或活动痕迹（如足迹），多见于沉积岩。"
+    }
+  },
+  {
+    "question": "Which statement about fossil fuels is correct?",
+    "options": [
+      { "sentence": "Coal forms from compressed plant matter over millions of years.", "correct": true },
+      { "sentence": "Fossil fuels regenerate within human lifetimes.", "correct": false },
+      { "sentence": "Natural gas is primarily composed of water vapor.", "correct": false },
+      { "sentence": "Oil deposits are evenly distributed globally.", "correct": false },
+      { "sentence": "Burning fossil fuels releases only nitrogen.", "correct": false }
+    ],
+    "explanation": {
+      "english": "Fossil fuels (coal, oil, gas) form from ancient organic matter and release CO₂ when burned.",
+      "chinese": "化石燃料（煤、石油、天然气）由古代有机质形成，燃烧时释放二氧化碳。"
+    }
+  },
+  {
+    "question": "What defines a renewable resource?",
+    "options": [
+      { "sentence": "It can be replenished naturally within a human lifespan.", "correct": true },
+      { "sentence": "It includes all underground metal ores.", "correct": false },
+      { "sentence": "It cannot be depleted under any circumstances.", "correct": false },
+      { "sentence": "It excludes wind and solar energy.", "correct": false },
+      { "sentence": "It requires mining to be usable.", "correct": false }
+    ],
+    "explanation": {
+      "english": "Renewable resources (e.g., wind, timber) replenish naturally if sustainably managed.",
+      "chinese": "可再生资源（如风能、木材）若可持续管理，能自然再生。"
+    }
+  },
+  {
+    "question": "How is solar energy harnessed?",
+    "options": [
+      { "sentence": "Through photovoltaic cells or thermal collectors.", "correct": true },
+      { "sentence": "By burning silicon crystals.", "correct": false },
+      { "sentence": "Only during summer solstices.", "correct": false },
+      { "sentence": "Exclusively in desert regions.", "correct": false },
+      { "sentence": "Through chemical reactions with groundwater.", "correct": false }
+    ],
+    "explanation": {
+      "english": "Solar energy is captured via panels (photovoltaic) or mirrors (thermal), usable globally.",
+      "chinese": "太阳能通过光伏板或集热器捕获，全球可用。"
+    }
+  },
+  {
+    "question": "What is groundwater?",
+    "options": [
+      { "sentence": "Water stored in underground aquifers.", "correct": true },
+      { "sentence": "Water vapor in the atmosphere.", "correct": false },
+      { "sentence": "Saltwater trapped in glaciers.", "correct": false },
+      { "sentence": "Water filtered through volcanic rock only.", "correct": false },
+      { "sentence": "A non-renewable resource.", "correct": false }
+    ],
+    "explanation": {
+      "english": "Groundwater fills porous rock layers (aquifers) and is a critical freshwater source.",
+      "chinese": "地下水储存于多孔岩层（含水层），是重要淡水资源。"
+    }
+  },
+  {
+    "question": "What causes pollution?",
+    "options": [
+      { "sentence": "Human activities and natural events like wildfires.", "correct": true },
+      { "sentence": "Exclusively industrial factories.", "correct": false },
+      { "sentence": "Photosynthesis in plants.", "correct": false },
+      { "sentence": "The water cycle.", "correct": false },
+      { "sentence": "Moonlight reflection.", "correct": false }
+    ],
+    "explanation": {
+      "english": "Pollution arises from human actions (e.g., emissions) and natural processes (e.g., volcanic ash).",
+      "chinese": "污染源于人类活动（如排放）和自然过程（如火山灰）。"
+    }
+  },
+  {
+    "question": "How can resources be conserved?",
+    "options": [
+      { "sentence": "Reducing waste, reusing materials, and recycling.", "correct": true },
+      { "sentence": "Exclusively by banning all industrial activity.", "correct": false },
+      { "sentence": "Ignoring sustainable practices.", "correct": false },
+      { "sentence": "Using only non-renewable resources.", "correct": false },
+      { "sentence": "Stopping all agricultural production.", "correct": false }
+    ],
+    "explanation": {
+      "english": "Conservation combines waste reduction, reuse, and recycling to protect resources.",
+      "chinese": "保护资源需减少浪费、重复利用和回收。"
+    }
+  },
+  {
+    "question": "How do metamorphic rocks form?",
+    "options": [
+      { "sentence": "Through heat and pressure on existing rocks.", "correct": true },
+      { "sentence": "By cooling of lava on the ocean floor.", "correct": false },
+      { "sentence": "From compressed atmospheric gases.", "correct": false },
+      { "sentence": "Through evaporation of mineral-rich water.", "correct": false },
+      { "sentence": "Exclusively in outer space.", "correct": false }
+    ],
+    "explanation": {
+      "english": "Metamorphic rocks form when existing rocks are altered by heat/pressure (e.g., marble from limestone).",
+      "chinese": "变质岩由现有岩石经高温高压转变而成（如石灰岩→大理石）。"
+    }
+  },
+  {
+    "question": "What characterizes igneous rocks?",
+    "options": [
+      { "sentence": "They form from cooled magma or lava.", "correct": true },
+      { "sentence": "They are primarily made of fossilized shells.", "correct": false },
+      { "sentence": "They cannot contain crystals.", "correct": false },
+      { "sentence": "They dissolve instantly in rainwater.", "correct": false },
+      { "sentence": "They form only in Earth's core.", "correct": false }
+    ],
+    "explanation": {
+      "english": "Igneous rocks (e.g., granite, basalt) crystallize from molten material.",
+      "chinese": "火成岩（如花岗岩、玄武岩）由熔融物质结晶而成。"
+    }
+  }
+]
