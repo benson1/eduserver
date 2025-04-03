@@ -1,0 +1,178 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Vibration is the back-and-forth movement of an object.", "correct": "true" },
+      { "sentence": "Vibrations only happen in solids.", "correct": "false" },
+      { "sentence": "Vibrations cannot produce sound.", "correct": "false" },
+      { "sentence": "Vibrations always stop immediately after they start.", "correct": "false" },
+      { "sentence": "Vibrations do not occur in liquids or gases.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Vibration is the repeated back-and-forth motion of an object, which can produce sound when it moves through a medium.",
+        "chinese": "振动是物体的反复往复运动，当它在介质中传播时可以产生声音。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Sound is a type of energy that travels in waves through a medium.", "correct": "true" },
+      { "sentence": "Sound can travel through empty space.", "correct": "false" },
+      { "sentence": "Sound only travels through air.", "correct": "false" },
+      { "sentence": "Sound moves faster in gases than in solids.", "correct": "false" },
+      { "sentence": "Sound is not affected by vibrations.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Sound is a form of energy that travels in waves through solids, liquids, and gases but cannot travel through a vacuum.",
+        "chinese": "声音是一种能量，以波的形式传播，通过固体、液体和气体传播，但不能在真空中传播。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Volume is the measure of how loud or soft a sound is.", "correct": "true" },
+      { "sentence": "Volume and pitch are the same thing.", "correct": "false" },
+      { "sentence": "Volume does not depend on the strength of vibrations.", "correct": "false" },
+      { "sentence": "Volume is measured in degrees.", "correct": "false" },
+      { "sentence": "Volume cannot be changed.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Volume is the perceived loudness or softness of a sound, which depends on the amplitude of the sound waves.",
+        "chinese": "音量是声音的响度或柔和度，取决于声波的振幅。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Pitch is how high or low a sound is, determined by its frequency.", "correct": "true" },
+      { "sentence": "Pitch and volume are the same thing.", "correct": "false" },
+      { "sentence": "Pitch depends on how loud a sound is.", "correct": "false" },
+      { "sentence": "Pitch cannot be changed in musical instruments.", "correct": "false" },
+      { "sentence": "Pitch is unrelated to sound waves.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Pitch is determined by the frequency of sound waves—higher frequencies produce higher-pitched sounds, while lower frequencies produce lower-pitched sounds.",
+        "chinese": "音调由声波的频率决定——较高的频率产生较高的音调，而较低的频率产生较低的音调。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Light is a form of energy that travels in waves.", "correct": "true" },
+      { "sentence": "Light needs a medium like air or water to travel.", "correct": "false" },
+      { "sentence": "Light travels slower than sound.", "correct": "false" },
+      { "sentence": "Light can only be seen at night.", "correct": "false" },
+      { "sentence": "Light is made of tiny particles of matter.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Light is an electromagnetic wave that can travel through a vacuum and does not need a medium like air or water to move.",
+        "chinese": "光是一种电磁波，可以在真空中传播，不需要像空气或水这样的介质。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Absorption occurs when light is taken in by an object.", "correct": "true" },
+      { "sentence": "Absorption means light is reflected.", "correct": "false" },
+      { "sentence": "Absorption only happens in black objects.", "correct": "false" },
+      { "sentence": "Absorption occurs only in liquids.", "correct": "false" },
+      { "sentence": "Absorption has no effect on temperature.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Absorption is when an object takes in light energy, which can increase its temperature.",
+        "chinese": "吸收是物体吸收光能的过程，这可能会增加其温度。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A shadow is formed when an object blocks light.", "correct": "true" },
+      { "sentence": "Shadows are caused by sound waves.", "correct": "false" },
+      { "sentence": "Shadows do not change with the position of the light source.", "correct": "false" },
+      { "sentence": "Shadows are always black.", "correct": "false" },
+      { "sentence": "Shadows can only be formed at night.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A shadow is created when light is blocked by an object, preventing it from reaching a surface behind the object.",
+        "chinese": "当物体挡住光线，阻止其到达物体后方的表面时，就会形成影子。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Transparent materials allow light to pass through them completely.", "correct": "true" },
+      { "sentence": "Transparent materials absorb all light.", "correct": "false" },
+      { "sentence": "Transparent objects block all light.", "correct": "false" },
+      { "sentence": "Transparent objects do not exist in nature.", "correct": "false" },
+      { "sentence": "Transparent means the material does not interact with light at all.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Transparent materials let most or all light pass through them, such as glass or clear plastic.",
+        "chinese": "透明材料让大部分或全部光线通过，例如玻璃或透明塑料。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Opaque materials do not allow any light to pass through them.", "correct": "true" },
+      { "sentence": "Opaque materials let all light pass through.", "correct": "false" },
+      { "sentence": "Opaque materials create no shadows.", "correct": "false" },
+      { "sentence": "Opaque materials are always black.", "correct": "false" },
+      { "sentence": "Opaque materials turn transparent over time.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Opaque materials block all light, preventing it from passing through and creating shadows.",
+        "chinese": "不透明材料阻挡所有光线通过，并形成影子。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Translucent materials allow some light to pass through but scatter it.", "correct": "true" },
+      { "sentence": "Translucent materials block all light.", "correct": "false" },
+      { "sentence": "Translucent materials allow all light to pass through without scattering.", "correct": "false" },
+      { "sentence": "Translucent materials create no shadows.", "correct": "false" },
+      { "sentence": "Translucent materials are the same as opaque materials.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Translucent materials, like frosted glass, allow some light to pass through but scatter it, making objects behind them appear blurry.",
+        "chinese": "半透明材料（如磨砂玻璃）允许部分光线通过，但会使其散射，使后面的物体模糊不清。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Refraction is the bending of light as it passes from one material to another.", "correct": "true" },
+      { "sentence": "Refraction happens when light is absorbed by a surface.", "correct": "false" },
+      { "sentence": "Refraction only occurs in water.", "correct": "false" },
+      { "sentence": "Refraction makes light move in a straight line.", "correct": "false" },
+      { "sentence": "Refraction has nothing to do with lenses or eyeglasses.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Refraction occurs when light changes speed as it moves between different materials, causing it to bend. This is why objects look distorted in water.",
+        "chinese": "折射是当光线在不同材料之间移动并改变速度时发生的，使其弯曲。这就是为什么物体在水中看起来会变形的原因。"
+      }
+    ]
+  }
+]
