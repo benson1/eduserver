@@ -82,7 +82,7 @@
   "michael_roberts_英语_group_2": { "amount": 15000, "currency": "cny", "minAmount": 100, "description": "Michael Roberts - 英语 (Age 2) - Group Rate" },
   "michael_roberts_英语_group_3": { "amount": 15000, "currency": "cny", "minAmount": 100, "description": "Michael Roberts - 英语 (Age 3) - Group Rate" },
   "michael_roberts_英语_group_4": { "amount": 15000, "currency": "cny", "minAmount": 100, "description": "Michael Roberts - 英语 (Age 4) - Group Rate" },
-  "michael_roberts_英语_group_5": { "amount": 15000, "currency": "cny", "minAmount": 100, "description": "Michael Roberts - 英语 (Age 5) - Group Rate" }
+  "michael_roberts_英语_group_5": { "amount": 15000, "currency": "cny", "minAmount": 100, "description": "Michael Roberts - 英语 (Age 5) - Group Rate" },
 
   "finn_benson_sciences_1": { "amount": 30000, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - Sciences (Age 1) - Regular Rate" },
   "finn_benson_sciences_2": { "amount": 30000, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - Sciences (Age 2) - Regular Rate" },
@@ -150,7 +150,6 @@
   "finn_benson_critical_thinking_debate_group_4": { "amount": 20000, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - Critical Thinking/Debate (Age 4) - Group Rate" },
   "finn_benson_critical_thinking_debate_group_5": { "amount": 20000, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - Critical Thinking/Debate (Age 5) - Group Rate" },
 
-  // Michael Roberts Subjects (Ages 1-5)
   "michael_roberts_sciences_1": { "amount": 17500, "currency": "gbp", "minAmount": 100, "description": "Michael Roberts - Sciences (Age 1) - Regular Rate" },
   "michael_roberts_sciences_2": { "amount": 17500, "currency": "gbp", "minAmount": 100, "description": "Michael Roberts - Sciences (Age 2) - Regular Rate" },
   "michael_roberts_sciences_3": { "amount": 17500, "currency": "gbp", "minAmount": 100, "description": "Michael Roberts - Sciences (Age 3) - Regular Rate" },
@@ -171,7 +170,7 @@
   "michael_roberts_english_group_2": { "amount": 15000, "currency": "gbp", "minAmount": 100, "description": "Michael Roberts - English (Age 2) - Group Rate" },
   "michael_roberts_english_group_3": { "amount": 15000, "currency": "gbp", "minAmount": 100, "description": "Michael Roberts - English (Age 3) - Group Rate" },
   "michael_roberts_english_group_4": { "amount": 15000, "currency": "gbp", "minAmount": 100, "description": "Michael Roberts - English (Age 4) - Group Rate" },
-  "michael_roberts_english_group_5": { "amount": 15000, "currency": "gbp", "minAmount": 100, "description": "Michael Roberts - English (Age 5) - Group Rate" }
+  "michael_roberts_english_group_5": { "amount": 15000, "currency": "gbp", "minAmount": 100, "description": "Michael Roberts - English (Age 5) - Group Rate" },
 
   "finn_benson_과학_1": { "amount": 60000, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 과학 (Age 1) - Regular Rate" },
   "finn_benson_과학_2": { "amount": 60000, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 과학 (Age 2) - Regular Rate" },
@@ -239,7 +238,6 @@
   "finn_benson_비판적_사고_논쟁_group_4": { "amount": 25000, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 비판적 사고/논쟁 (Age 4) - Group Rate" },
   "finn_benson_비판적_사고_논쟁_group_5": { "amount": 25000, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 비판적 사고/논쟁 (Age 5) - Group Rate" },
 
-  // Michael Roberts Subjects (Korean)
   "michael_roberts_과학_1": { "amount": 50000, "currency": "krw", "minAmount": 1000, "description": "Michael Roberts - 과학 (Age 1) - Regular Rate" },
   "michael_roberts_과학_2": { "amount": 50000, "currency": "krw", "minAmount": 1000, "description": "Michael Roberts - 과학 (Age 2) - Regular Rate" },
   "michael_roberts_과학_3": { "amount": 50000, "currency": "krw", "minAmount": 1000, "description": "Michael Roberts - 과학 (Age 3) - Regular Rate" },
