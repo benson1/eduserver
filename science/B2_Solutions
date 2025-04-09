@@ -1,0 +1,114 @@
+[
+  {
+    "question": "Which definition of solution is scientifically correct?",
+    "options": [
+      { "sentence": "A solution is a homogeneous mixture of two or more substances.", "correct": "true" },
+      { "sentence": "A solution is always made of solid substances only.", "correct": "false" },
+      { "sentence": "A solution is a type of pure substance.", "correct": "false" },
+      { "sentence": "A solution always has visible particles suspended in it.", "correct": "false" },
+      { "sentence": "A solution cannot be separated by physical means.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A solution is a homogeneous mixture in which one substance is dissolved in another, and the particles are evenly distributed.",
+        "chinese": "溶液是一种均匀混合物，其中一种物质溶解在另一种物质中，颗粒分布均匀。"
+      }
+    ]
+  },
+  {
+    "question": "What is the correct meaning of dissolve?",
+    "options": [
+      { "sentence": "To dissolve means to mix a substance completely with a liquid to form a solution.", "correct": "true" },
+      { "sentence": "To dissolve means to break a solid into smaller pieces without mixing.", "correct": "false" },
+      { "sentence": "To dissolve means to freeze a liquid.", "correct": "false" },
+      { "sentence": "To dissolve means to filter a substance.", "correct": "false" },
+      { "sentence": "To dissolve means to boil a substance until it disappears.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Dissolving happens when a substance breaks down and spreads evenly in a liquid, forming a solution.",
+        "chinese": "溶解是指一种物质分解并均匀分布在液体中，形成溶液。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence correctly describes a mixture?",
+    "options": [
+      { "sentence": "A mixture is made up of two or more substances that are physically combined.", "correct": "true" },
+      { "sentence": "A mixture always contains only liquids.", "correct": "false" },
+      { "sentence": "A mixture cannot be separated.", "correct": "false" },
+      { "sentence": "A mixture always undergoes a chemical change.", "correct": "false" },
+      { "sentence": "A mixture is the same as a compound.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Mixtures consist of two or more substances combined physically, and they can be separated by physical methods.",
+        "chinese": "混合物由两种或多种物质物理混合而成，可以通过物理方法分离。"
+      }
+    ]
+  },
+  {
+    "question": "What is filtration used for?",
+    "options": [
+      { "sentence": "Filtration is used to separate solid particles from a liquid or gas.", "correct": "true" },
+      { "sentence": "Filtration is used to combine two liquids into a solution.", "correct": "false" },
+      { "sentence": "Filtration turns a liquid into a solid.", "correct": "false" },
+      { "sentence": "Filtration is a method for heating mixtures.", "correct": "false" },
+      { "sentence": "Filtration changes the chemical properties of a substance.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Filtration is a physical separation method used to remove solids from liquids or gases.",
+        "chinese": "过滤是一种物理分离方法，用于从液体或气体中去除固体颗粒。"
+      }
+    ]
+  },
+  {
+    "question": "What happens during a chemical reaction?",
+    "options": [
+      { "sentence": "A chemical reaction produces one or more new substances.", "correct": "true" },
+      { "sentence": "A chemical reaction does not change the identity of substances.", "correct": "false" },
+      { "sentence": "A chemical reaction always results in freezing.", "correct": "false" },
+      { "sentence": "A chemical reaction can be undone by filtering.", "correct": "false" },
+      { "sentence": "A chemical reaction only changes physical properties.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A chemical reaction involves the rearrangement of atoms to form new substances with different properties.",
+        "chinese": "化学反应是原子重新排列，形成具有不同性质的新物质的过程。"
+      }
+    ]
+  },
+  {
+    "question": "Which of these best describes a physical change?",
+    "options": [
+      { "sentence": "A physical change affects the appearance or state of a substance but not its chemical composition.", "correct": "true" },
+      { "sentence": "A physical change results in new substances.", "correct": "false" },
+      { "sentence": "A physical change alters the molecular structure permanently.", "correct": "false" },
+      { "sentence": "A physical change is always irreversible.", "correct": "false" },
+      { "sentence": "A physical change is always a chemical reaction.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Physical changes include changes in state, shape, or size, but the substance remains the same chemically.",
+        "chinese": "物理变化包括状态、形状或大小的变化，但物质的化学本质不变。"
+      }
+    ]
+  },
+  {
+    "question": "What is distillation?",
+    "options": [
+      { "sentence": "Distillation is a method of separating mixtures based on differences in boiling points.", "correct": "true" },
+      { "sentence": "Distillation is the same as filtration.", "correct": "false" },
+      { "sentence": "Distillation separates solids from gases.", "correct": "false" },
+      { "sentence": "Distillation only works for solids.", "correct": "false" },
+      { "sentence": "Distillation changes the chemical composition of substances.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Distillation is a process that separates components of a mixture using differences in their boiling points.",
+        "chinese": "蒸馏是利用混合物中各成分沸点不同进行分离的过程。"
+      }
+    ]
+  }
+]
