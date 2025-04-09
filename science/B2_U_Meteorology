@@ -1,0 +1,292 @@
+[
+  {
+    "question": "Which definition is correct about weather?",
+    "options": [
+      {
+        "sentence": "Weather refers to the short-term atmospheric conditions in a specific area, including changes in temperature, humidity, wind, and precipitation over hours or days.",
+        "correct": true
+      },
+      {
+        "sentence": "Weather is the consistent, unchanging state of the atmosphere that remains the same in all locations throughout the year.",
+        "correct": false
+      },
+      {
+        "sentence": "Weather describes only extreme atmospheric events like hurricanes and tornadoes, excluding normal daily conditions.",
+        "correct": false
+      },
+      {
+        "sentence": "Weather is a measurement of underground geological activity and its effects on surface temperatures.",
+        "correct": false
+      },
+      {
+        "sentence": "Weather refers exclusively to the amount of sunlight a region receives, without considering other atmospheric factors.",
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "english": "Weather encompasses all short-term atmospheric phenomena in a local area, typically observed over time periods ranging from minutes to weeks.",
+      "chinese": "天气包含了一个地区短期内所有的天气现象，通常观察时间范围从几分钟到几周不等。"
+    }
+  },
+  {
+    "question": "Which statement accurately describes precipitation?",
+    "options": [
+      {
+        "sentence": "Precipitation is any form of water particles, whether liquid or solid, that falls from the atmosphere and reaches the ground.",
+        "correct": true
+      },
+      {
+        "sentence": "Precipitation occurs only when the temperature is below freezing, resulting exclusively in snowfall or hail.",
+        "correct": false
+      },
+      {
+        "sentence": "Precipitation refers to the process of water evaporating from surfaces and rising into the atmosphere.",
+        "correct": false
+      },
+      {
+        "sentence": "Precipitation is measured by calculating the amount of water vapor present in clouds before any falling occurs.",
+        "correct": false
+      },
+      {
+        "sentence": "Precipitation includes only man-made water dispersion systems like sprinklers and irrigation, which are commonly used in agricultural areas to aid in crop growth.",
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "english": "Precipitation encompasses all forms of falling atmospheric moisture, including rain, snow, sleet, and hail, which result from condensed water vapor becoming too heavy to remain suspended in clouds.",
+      "chinese": "降水包括所有形式的大气降水，如雨、雪、雨夹雪和冰雹，它们是水蒸气凝结后因重量过大而从云中降落的产物。"
+    }
+  },
+  {
+    "question": "What best defines a cloud?",
+    "options": [
+      {
+        "sentence": "A visible accumulation of tiny water droplets or ice crystals suspended in the atmosphere at various altitudes.",
+        "correct": true
+      },
+      {
+        "sentence": "Clouds are solid formations of mineral dust that originate from volcanic eruptions and desert winds.",
+        "correct": false
+      },
+      {
+        "sentence": "All clouds produce precipitation immediately after formation and cannot exist without raining or snowing.",
+        "correct": false
+      },
+      {
+        "sentence": "Clouds are artificial weather phenomena created solely by aircraft exhaust at high altitudes, which form only in the immediate wake of the aircraft and are short-lived.",
+        "correct": false
+      },
+      {
+        "sentence": "A cloud is an area of complete atmospheric vacuum where no air or moisture exists.",
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "english": "Clouds form when water vapor condenses into microscopic droplets or ice crystals around atmospheric particles, becoming visible when concentrations are sufficient.",
+      "chinese": "当水蒸气在大气颗粒周围凝结成微观水滴或冰晶，并且浓度足够时，就会形成可见的云。"
+    }
+  },
+  {
+    "question": "Which of the following best describes the water cycle?",
+    "options": [
+      {
+        "sentence": "The water cycle is the continuous movement of water on, above, and below the Earth's surface, including processes like evaporation, condensation, and precipitation.",
+        "correct": true
+      },
+      {
+        "sentence": "The water cycle only involves the movement of water in oceans, with no role for lakes, rivers, or groundwater.",
+        "correct": false
+      },
+      {
+        "sentence": "The water cycle is a periodic process that occurs only during the rainy season.",
+        "correct": false
+      },
+      {
+        "sentence": "The water cycle refers to the collection of water in underground reserves without any surface interaction, which results in the formation of groundwater that flows over time.",
+        "correct": false
+      },
+      {
+        "sentence": "The water cycle primarily focuses on the melting of glaciers and its effects on sea level rise, with little consideration for other atmospheric processes like precipitation and evaporation.",
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "english": "The water cycle refers to the continuous processes of evaporation, condensation, precipitation, and runoff, which ensure water circulates through the atmosphere and Earth's surface.",
+      "chinese": "水循环是指水在地球表面、空中和地下之间的持续运动，包括蒸发、凝结和降水等过程。"
+    }
+  },
+  {
+    "question": "Which definition is correct about climate?",
+    "options": [
+      {
+        "sentence": "Climate refers to the long-term average of weather patterns in a particular region, typically observed over decades or centuries.",
+        "correct": true
+      },
+      {
+        "sentence": "Climate is the day-to-day atmospheric conditions experienced in a specific location.",
+        "correct": false
+      },
+      {
+        "sentence": "Climate describes only extreme weather events such as tornadoes and hurricanes.",
+        "correct": false
+      },
+      {
+        "sentence": "Climate refers to the Earth's surface temperature measured in relation to solar energy, which is often analyzed by scientists to study how the Earth responds to changes in sunlight intensity over long periods.",
+        "correct": false
+      },
+      {
+        "sentence": "Climate refers to the temperature of the ocean's surface, excluding atmospheric conditions.",
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "english": "Climate is the long-term average of temperature, humidity, precipitation, and other atmospheric factors in a specific region.",
+      "chinese": "气候是指特定区域内的温度、湿度、降水量以及其他大气因素的长期平均值。"
+    }
+  },
+  {
+    "question": "Which of the following best describes a season?",
+    "options": [
+      {
+        "sentence": "A season is a division of the year based on changes in weather, ecology, and daylight, usually associated with the Earth's tilt and orbit.",
+        "correct": true
+      },
+      {
+        "sentence": "A season is an unpredictable and short-term change in weather patterns that can occur at any time.",
+        "correct": false
+      },
+      {
+        "sentence": "A season only refers to periods of time with extreme temperatures, such as heat waves or freezing conditions.",
+        "correct": false
+      },
+      {
+        "sentence": "A season is the time it takes for the Earth to complete one full rotation around the sun, with each season being part of a cycle of equinoxes and solstices.",
+        "correct": false
+      },
+      {
+        "sentence": "Seasons are only experienced near the poles of the Earth, where changes in sunlight are more pronounced than at the equator or in other regions.",
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "english": "Seasons are the four periods of the year (spring, summer, fall, winter) determined by Earth's tilt and orbit around the Sun, leading to variations in temperature and daylight.",
+      "chinese": "季节是根据地球绕太阳公转和地轴倾斜产生的四个时段（春季、夏季、秋季和冬季），它们导致温度和日照的变化。"
+    }
+  },
+  {
+    "question": "Which statement best defines the atmosphere?",
+    "options": [
+      {
+        "sentence": "The atmosphere is a layer of gases surrounding the Earth, including oxygen, nitrogen, and carbon dioxide, which is essential for life.",
+        "correct": true
+      },
+      {
+        "sentence": "The atmosphere refers exclusively to the layer of air above the Earth's oceans.",
+        "correct": false
+      },
+      {
+        "sentence": "The atmosphere is a solid shell surrounding the Earth, protecting it from harmful solar radiation.",
+        "correct": false
+      },
+      {
+        "sentence": "The atmosphere is a thin, invisible layer that only affects the weather during extreme events like tornadoes and hurricanes, with no influence on daily conditions.",
+        "correct": false
+      },
+      {
+        "sentence": "The atmosphere is a permanent vacuum, with no air or gases present, existing only as an absence of matter surrounding the Earth and playing no role in the conditions that allow life to thrive.",
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "english": "The atmosphere consists of layers of gases that surround Earth, providing oxygen for respiration and protecting life from harmful radiation.",
+      "chinese": "大气层由围绕地球的气体层组成，为呼吸提供氧气，并保护生命免受有害辐射的影响。"
+    }
+  },
+  {
+    "question": "Which of the following best explains air pressure?",
+    "options": [
+      {
+        "sentence": "Air pressure is the force exerted by the weight of the atmosphere on a given area of the Earth's surface.",
+        "correct": true
+      },
+      {
+        "sentence": "Air pressure is a measure of the temperature of the atmosphere at sea level.",
+        "correct": false
+      },
+      {
+        "sentence": "Air pressure is the force that only exists near the Earth's poles.",
+        "correct": false
+      },
+      {
+        "sentence": "Air pressure is the measurement of how much sunlight reaches the Earth's surface, affecting temperature and weather patterns, particularly during the day.",
+        "correct": false
+      },
+      {
+        "sentence": "Air pressure refers to the density of the atmosphere's gases, which can fluctuate greatly depending on altitude and weather systems, resulting in higher or lower pressure zones across the Earth's surface.",
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "english": "Air pressure is the force that air exerts on the surface below it due to the weight of the air in the atmosphere.",
+      "chinese": "气压是大气中空气因其重量作用于下方表面产生的力。"
+    }
+  },
+  {
+    "question": "What best defines an anemometer?",
+    "options": [
+      {
+        "sentence": "An anemometer is a device used to measure wind speed and direction.",
+        "correct": true
+      },
+      {
+        "sentence": "An anemometer is a device used to measure the temperature of the atmosphere.",
+        "correct": false
+      },
+      {
+        "sentence": "An anemometer is used to measure the amount of precipitation in a specific area.",
+        "correct": false
+      },
+      {
+        "sentence": "An anemometer is used to monitor solar radiation levels, which are vital in understanding the interaction between sunlight and weather patterns, and are important for various scientific studies.",
+        "correct": false
+      },
+      {
+        "sentence": "An anemometer is a tool that measures the Earth's magnetic field, which fluctuates with solar winds and can have a direct impact on atmospheric phenomena like auroras.",
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "english": "An anemometer is an instrument used in meteorology to measure wind speed and direction.",
+      "chinese": "风速计是用于测量风速和风向的仪器，广泛用于气象学中。"
+    }
+  },
+  {
+    "question": "Which definition is correct about meteorology?",
+    "options": [
+      {
+        "sentence": "Meteorology is the scientific study of the atmosphere, weather patterns, and climate.",
+        "correct": true
+      },
+      {
+        "sentence": "Meteorology is the study of ocean currents and their effects on weather.",
+        "correct": false
+      },
+      {
+        "sentence": "Meteorology focuses only on the study of earthquakes and geological events.",
+        "correct": false
+      },
+      {
+        "sentence": "Meteorology refers to the analysis of the Earth's geological history, particularly the examination of ancient weather patterns from millions of years ago to understand the evolution of climate.",
+        "correct": false
+      },
+      {
+        "sentence": "Meteorology is the study of celestial bodies and their influence on Earth's climate, specifically looking at how solar activity and other space phenomena affect atmospheric conditions.",
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "english": "Meteorology is the science that studies atmospheric phenomena and the processes that influence weather and climate.",
+      "chinese": "气象学是研究大气现象及其对天气和气候影响的科学。"
+    }
+  }
+]
