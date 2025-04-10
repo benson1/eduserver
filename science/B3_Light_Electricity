@@ -1,0 +1,180 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Refraction is the bending of light when it passes between materials of different densities.", "correct": "true" },
+      { "sentence": "Refraction occurs when light bounces off a shiny surface at the same angle.", "correct": "false" },
+      { "sentence": "Refraction only changes the color of light but not its direction.", "correct": "false" },
+      { "sentence": "Refraction happens when light is completely absorbed by a dark material.", "correct": "false" },
+      { "sentence": "Refraction describes how light spreads out after passing through a small opening.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Refraction occurs when light changes speed while moving between different transparent materials, causing the light to bend at the boundary.",
+        "chinese": "折射发生在光在不同透明介质之间传播时速度改变，导致光线在边界处弯曲。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A convex lens causes light rays to converge toward a focal point.", "correct": "true" },
+      { "sentence": "All lenses make objects appear smaller regardless of their shape.", "correct": "false" },
+      { "sentence": "Lenses work by reflecting rather than refracting light.", "correct": "false" },
+      { "sentence": "The thickness of a lens doesn't affect how it bends light.", "correct": "false" },
+      { "sentence": "Concave lenses always produce larger images than convex lenses.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Lenses precisely refract light based on their shape - convex lenses converge light while concave lenses diverge light.",
+        "chinese": "透镜根据形状精确折射光线——凸透镜会聚光线，凹透镜发散光线。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Protons have positive electrical charge while electrons have negative charge.", "correct": "true" },
+      { "sentence": "Neutrons carry a small positive charge in most atoms.", "correct": "false" },
+      { "sentence": "Electrical charge depends on an object's temperature rather than its particles.", "correct": "false" },
+      { "sentence": "All materials naturally have exactly balanced positive and negative charges.", "correct": "false" },
+      { "sentence": "Electrical charge is created by friction rather than being a property of matter.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Electrical charge is an intrinsic property of particles - protons (+) and electrons (-) with neutrons being neutral.",
+        "chinese": "电荷是粒子的固有属性——质子带正电，电子带负电，中子不带电。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Static electricity involves the transfer of electrons between objects through contact.", "correct": "true" },
+      { "sentence": "Static charge builds up when protons move between materials.", "correct": "false" },
+      { "sentence": "Only metals can accumulate static electricity.", "correct": "false" },
+      { "sentence": "Static electricity requires a complete circuit to occur.", "correct": "false" },
+      { "sentence": "Static charges always cancel out immediately after separation.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Static electricity results from electron transfer during contact between materials, creating charge imbalances.",
+        "chinese": "静电由材料接触时电子转移产生，造成电荷不平衡。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Electric current is measured in amperes and represents charge flow per second.", "correct": "true" },
+      { "sentence": "Current flows from negative to positive in both conventional and electron flow.", "correct": "false" },
+      { "sentence": "Higher voltage always means more current in a circuit.", "correct": "false" },
+      { "sentence": "Alternating current flows in one constant direction.", "correct": "false" },
+      { "sentence": "Current can flow indefinitely without any voltage source.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Electric current is the rate of charge flow (coulombs per second), measured in amperes, requiring a voltage source.",
+        "chinese": "电流是电荷流动速率（库仑/秒），以安培为单位，需要电压源驱动。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A complete circuit must have a continuous conductive path for current to flow.", "correct": "true" },
+      { "sentence": "Parallel circuits have only one possible path for current.", "correct": "false" },
+      { "sentence": "Adding more resistors always increases current in a series circuit.", "correct": "false" },
+      { "sentence": "Circuits can operate normally with multiple breaks in the wiring.", "correct": "false" },
+      { "sentence": "The power source location doesn't affect how current flows.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Electric circuits require closed loops with proper connections between components for current to flow.",
+        "chinese": "电路需要元件之间形成闭合回路才能使电流流动。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A switch controls current flow by making or breaking circuit connections.", "correct": "true" },
+      { "sentence": "Switches work by gradually reducing voltage rather than stopping current.", "correct": "false" },
+      { "sentence": "All switches automatically turn on when current is detected.", "correct": "false" },
+      { "sentence": "A switch must be made of metal to function properly.", "correct": "false" },
+      { "sentence": "Switches generate small amounts of electricity when toggled.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Switches are mechanical or electronic devices that physically connect or disconnect parts of a circuit.",
+        "chinese": "开关是通过物理连接或断开电路部分来工作的机械或电子装置。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Batteries convert chemical energy to electrical energy through redox reactions.", "correct": "true" },
+      { "sentence": "All batteries are rechargeable indefinitely without losing capacity.", "correct": "false" },
+      { "sentence": "Battery voltage depends solely on its physical size.", "correct": "false" },
+      { "sentence": "Connecting batteries in parallel increases the total voltage.", "correct": "false" },
+      { "sentence": "Batteries store electrons rather than creating them through chemical reactions.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Batteries produce electricity through electrochemical reactions between their electrodes and electrolyte.",
+        "chinese": "电池通过电极和电解质之间的电化学反应产生电能。"
+      }
+    ]
+  },
+{
+  "question": "Which sentence is scientifically correct?",
+  "options": [
+    { "sentence": "A translucent material allows some light to pass through but scatters it, making objects appear blurry.", "correct": "true" },
+    { "sentence": "Translucent materials block all light completely.", "correct": "false" },
+    { "sentence": "Only gases can be translucent, not solids or liquids.", "correct": "false" },
+    { "sentence": "Translucent and opaque mean the same thing.", "correct": "false" },
+    { "sentence": "A mirror is an example of a translucent object.", "correct": "false" }
+  ],
+  "explanation": [
+    {
+      "english": "Translucent materials let some light through but scatter it, so you can't see clearly through them.",
+      "chinese": "半透明材料允许部分光线通过但会散射光线，因此无法清晰看到其背后的物体。"
+    }
+  ]
+},
+{
+  "question": "Which sentence is scientifically correct?",
+  "options": [
+    { "sentence": "An opaque material does not allow any light to pass through.", "correct": "true" },
+    { "sentence": "Opaque materials let all light through without scattering it.", "correct": "false" },
+    { "sentence": "Opaque substances are always transparent under bright light.", "correct": "false" },
+    { "sentence": "Only liquids can be opaque, not solids.", "correct": "false" },
+    { "sentence": "Glass is an example of an opaque material.", "correct": "false" }
+  ],
+  "explanation": [
+    {
+      "english": "Opaque materials block light completely, so no image or light passes through.",
+      "chinese": "不透明材料完全阻挡光线，因此无法看到或透光。"
+    }
+  ]
+},
+{
+  "question": "Which sentence is scientifically correct?",
+  "options": [
+    { "sentence": "Transparent materials let most or all light pass through, allowing clear vision through them.", "correct": "true" },
+    { "sentence": "Transparent materials absorb all incoming light, allowing clear or partially clear vision through them.", "correct": "false" },
+    { "sentence": "You cannot see through any transparent material.", "correct": "false" },
+    { "sentence": "All metals are transparent under normal conditions.", "correct": "false" },
+    { "sentence": "Transparency only occurs in the absence of light.", "correct": "false" }
+  ],
+  "explanation": [
+    {
+      "english": "Transparent materials allow light to pass through with minimal scattering, making objects clearly visible.",
+      "chinese": "透明材料允许光线几乎不散射地通过，使物体清晰可见。"
+    }
+  ]
+}
+
+
+]
