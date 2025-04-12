@@ -1,0 +1,130 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An organism is any living thing that can grow, reproduce, and react to its surroundings.", "correct": "true" },
+      { "sentence": "An organism is only a plant or an animal, but not tiny organisms like bacteria even though they react to their surroundings.", "correct": "false" },
+      { "sentence": "An organism can’t reproduce, it only grows.", "correct": "false" },
+      { "sentence": "All organisms are too small to see without a microscope, but they still reproduce like larger animals.", "correct": "false" },
+      { "sentence": "An organism is a non-living thing, like a rock.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "An organism is any living thing that can grow, reproduce, and react to its surroundings.",
+        "chinese": "有机体是任何可以生长、繁殖和对环境做出反应的生物。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A seedling is a young plant that has just started growing from a seed.", "correct": "true" },
+      { "sentence": "A seedling is a fully grown plant, just like an adult tree that can produce fruit.", "correct": "false" },
+      { "sentence": "A seedling is a tiny plant before it has even started to grow from a seed.", "correct": "false" },
+      { "sentence": "A seedling is a tiny plant that does not need roots to survive.", "correct": "false" },
+      { "sentence": "A seedling is made of dirt and can’t grow into full plants unless it is in a laboratory.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A seedling is a young plant that has just started growing from a seed.",
+        "chinese": "幼苗是刚开始从种子中生长出来的年轻植物。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Germinate means a seed beginning to grow into a plant.", "correct": "true" },
+      { "sentence": "Germinate is when a plant dies.", "correct": "false" },
+      { "sentence": "Germination happens when a plant grows without any water.", "correct": "false" },
+      { "sentence": "Germination happens only after the plant flowers.", "correct": "false" },
+      { "sentence": "Germination refers to the time when seeds stop growing.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Germination refers to the process by which a seed begins to develop into a new plant. However, this process will only occur under the right environmental conditions, including proper moisture, oxygen, suitable temperature, and adequate nutrients in the soil. Without these essential factors, the seed may remain dormant or fail to sprout successfully.",
+        "chinese": "发芽是指种子开始生长并发育成新植株的过程。然而，这一过程只有在适宜的环境条件下才会发生，包括适当的水分、氧气、合适的温度以及土壤中充足的养分。如果缺乏这些关键因素，种子可能会保持休眠状态或无法成功萌芽"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The life cycle is the series of stages an organism goes through from birth to death.", "correct": "true" },
+      { "sentence": "The life cycle of a plant only includes flowering.", "correct": "false" },
+      { "sentence": "The life cycle of an organism doesn’t include reproduction.", "correct": "false" },
+      { "sentence": "An organism’s life cycle is not important for its survival.", "correct": "false" },
+      { "sentence": "All life cycles are exactly the same for every organism.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The life cycle is the series of stages an organism goes through from birth to death.",
+        "chinese": "生命周期是一个生物从出生到死亡所经历的一系列阶段。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Reproduction is the process by which organisms create offspring.", "correct": "true" },
+      { "sentence": "Reproduction is when an organism grows without making babies.", "correct": "false" },
+      { "sentence": "All organisms can reproduce without any help from other organisms.", "correct": "false" },
+      { "sentence": "Reproduction is only for animals, not for plants.", "correct": "false" },
+      { "sentence": "Organisms can reproduce without using energy.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Reproduction is the process by which organisms create offspring.",
+        "chinese": "繁殖是生物通过创造后代来延续物种的过程。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An embryo is the early stage of development for animals and plants.", "correct": "true" },
+      { "sentence": "Embryos are already fully formed babies when they are first created.", "correct": "false" },
+      { "sentence": "Embryos can only exist in plants, not in animals.", "correct": "false" },
+      { "sentence": "An embryo doesn’t need food or water to grow.", "correct": "false" },
+      { "sentence": "An embryo is not part of the life cycle as it occurs just before the seedling has started growing.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "An embryo is the early stage of development for animals and plants.",
+        "chinese": "胚胎是动植物发育的早期阶段。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A habitat is the natural environment where an organism lives.", "correct": "true" },
+      { "sentence": "A habitat is a place where only humans live.", "correct": "false" },
+      { "sentence": "A habitat is an artificial environment created by humans.", "correct": "false" },
+      { "sentence": "Organisms can live anywhere, as long as they are alive.", "correct": "false" },
+      { "sentence": "Habitats are not important for an organism’s survival.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A habitat is the natural environment where an organism lives.",
+        "chinese": "栖息地是生物生活的自然环境。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A cell is the smallest unit of life that can carry out all life functions.", "correct": "true" },
+      { "sentence": "Cells are only found in animals, not plants.", "correct": "false" },
+      { "sentence": "A cell can’t reproduce or divide on its own.", "correct": "false" },
+      { "sentence": "Cells are not important for living things to survive.", "correct": "false" },
+      { "sentence": "A cell is a type of living thing, but not part of organisms.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A cell is the smallest unit of life that can carry out all life functions.",
+        "chinese": "细胞是能够执行所有生命功能的最小生命单位。"
+      }
+    ]
+  }
+]
