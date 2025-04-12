@@ -1,0 +1,178 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A sound wave is a mechanical wave that needs a medium to travel.", "correct": "true" },
+      { "sentence": "A sound wave can travel through a vacuum because the absence of particles allows sound to propagate even faster than in solids or liquids.", "correct": "false" },
+      { "sentence": "Sound waves are electromagnetic in nature, just like light waves, and can travel through empty space without any medium at all.", "correct": "false" },
+      { "sentence": "Sound waves do not require particles to transfer energy because they can create their own invisible pathways through quantum fluctuations in a vacuum.", "correct": "false" },
+      { "sentence": "Sound waves travel faster than light waves in air because sound vibrations can bypass the limitations of electromagnetic radiation entirely.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Sound waves are mechanical waves that require a medium like air, water, or solids to travel.",
+        "chinese": "声波是机械波，需要像空气、水或固体这样的介质来传播。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A medium is a substance through which a wave can travel.", "correct": "true" },
+      { "sentence": "A medium is only needed for electromagnetic waves because mechanical waves like sound can propagate freely in a vacuum without any assistance.", "correct": "false" },
+      { "sentence": "A medium can only be a gas, as liquids and solids are too dense to allow any kind of wave to pass through them efficiently.", "correct": "false" },
+      { "sentence": "Waves cannot travel through a medium because the presence of particles disrupts the natural flow of energy required for wave propagation.", "correct": "false" },
+      { "sentence": "A medium increases the frequency of a wave by adding extra energy to it, which is why sound travels faster in denser materials like water or steel.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A medium is any material—solid, liquid, or gas—that a mechanical wave, like a sound wave, needs to travel through.",
+        "chinese": "介质是任何物质——固体、液体或气体——机械波（如声波）需要传播的物体。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Sound cannot travel through a vacuum because there are no particles to carry the wave.", "correct": "true" },
+      { "sentence": "Sound travels faster in a vacuum than in air because the lack of resistance allows sound waves to reach infinite speeds unimpeded.", "correct": "false" },
+      { "sentence": "Vacuum enhances sound transmission by eliminating interfering particles, making it the ideal environment for clear and distortion-free audio.", "correct": "false" },
+      { "sentence": "Sound requires vacuum to travel because the absence of particles creates a perfect pathway for vibrations to move without any obstructions.", "correct": "false" },
+      { "sentence": "Sound can be heard in space because space is a vacuum, and the emptiness amplifies vibrations, making them audible across vast distances.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "In a vacuum, there are no particles, so sound, which is a mechanical wave, cannot propagate.",
+        "chinese": "在真空中没有粒子，因此声波作为机械波无法传播。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Absorption occurs when sound energy is taken in by a material instead of being reflected.", "correct": "true" },
+      { "sentence": "Absorption increases the volume of sound by capturing and amplifying the waves within the material, making them louder than before.", "correct": "false" },
+      { "sentence": "Absorption only happens in metals because their crystalline structure is uniquely capable of trapping sound waves permanently.", "correct": "false" },
+      { "sentence": "Absorption amplifies sound waves by converting them into electrical energy, which then boosts the original signal to much higher levels.", "correct": "false" },
+      { "sentence": "Absorption means sound bounces back with greater force, as the material stores the energy and releases it in a more powerful reflected wave.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Absorption is the process where sound energy is converted to heat or dissipated within a material, reducing the sound that passes through.",
+        "chinese": "吸收是将声能转化为热能或在材料中消散的过程，从而减少传递的声音。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Frequency is the number of vibrations or waves that pass a point in one second.", "correct": "true" },
+      { "sentence": "Frequency measures the loudness of a sound by calculating the total energy carried by the wave over a specific period of time.", "correct": "false" },
+      { "sentence": "Frequency is the speed at which sound travels, and it changes depending on the temperature and pressure of the surrounding environment.", "correct": "false" },
+      { "sentence": "Frequency is measured in decibels because it represents the intensity of the sound wave as perceived by the human ear.", "correct": "false" },
+      { "sentence": "Frequency depends only on the medium, and it remains constant regardless of the source or the observer's motion.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Frequency measures how many wave cycles occur per second and is measured in hertz (Hz).",
+        "chinese": "频率表示每秒发生的波动次数，单位是赫兹（Hz）。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Pitch is the perception of how high or low a sound is, related to its frequency.", "correct": "true" },
+      { "sentence": "Pitch is determined by amplitude, with larger amplitudes producing higher pitches and smaller amplitudes resulting in lower pitches.", "correct": "false" },
+      { "sentence": "Pitch measures loudness, and the higher the pitch, the louder the sound will be perceived by the human ear.", "correct": "false" },
+      { "sentence": "Pitch is the speed of sound, and it varies depending on the density and composition of the material through which the sound is traveling.", "correct": "false" },
+      { "sentence": "Pitch depends on the air temperature only, as warmer air molecules vibrate faster, creating higher-pitched sounds.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Pitch is how we perceive the frequency of a sound; higher frequency means higher pitch.",
+        "chinese": "音调是我们对声音频率的感知；频率越高，音调越高。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Amplitude determines the loudness or volume of a sound.", "correct": "true" },
+      { "sentence": "Amplitude is the same as frequency, and both terms can be used interchangeably to describe the properties of a sound wave.", "correct": "false" },
+      { "sentence": "Amplitude controls pitch, with higher amplitudes leading to higher pitches and lower amplitudes resulting in lower pitches.", "correct": "false" },
+      { "sentence": "Amplitude is unrelated to sound and instead refers to the brightness of light waves in the electromagnetic spectrum.", "correct": "false" },
+      { "sentence": "Amplitude is measured in hertz because it represents the number of times a wave oscillates within a given time frame.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Amplitude refers to the height of the wave and is related to how loud the sound is.",
+        "chinese": "振幅是指波的高度，与声音的响度有关。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Echolocation is a method animals use to locate objects using reflected sound waves.", "correct": "true" },
+      { "sentence": "Echolocation uses light to detect objects, as the reflection of photons provides much more accurate information than sound waves ever could.", "correct": "false" },
+      { "sentence": "Echolocation can only happen underwater because the density of liquid allows sound waves to travel much farther and with greater precision.", "correct": "false" },
+      { "sentence": "Echolocation is unrelated to sound and instead relies on magnetic fields to navigate and identify objects in the environment.", "correct": "false" },
+      { "sentence": "Echolocation makes objects emit sound by stimulating their molecular structure to vibrate at frequencies detectable by the animal.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Echolocation involves sending out sound waves and listening for the echoes that bounce back from objects.",
+        "chinese": "回声定位是通过发出声波并聆听从物体反射回来的回声来定位物体的方法。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A compressional wave is a type of mechanical wave in which particles move back and forth in the same direction as the wave.", "correct": "true" },
+      { "sentence": "Compressional waves move particles perpendicular to the wave, creating a side-to-side motion that is characteristic of all types of mechanical waves.", "correct": "false" },
+      { "sentence": "Compressional waves do not involve particle movement, as the energy is transferred purely through electromagnetic interactions between adjacent molecules.", "correct": "false" },
+      { "sentence": "Compressional waves are only found in liquids because the fluidity of liquids allows for the unique back-and-forth motion required for these waves to exist.", "correct": "false" },
+      { "sentence": "Compressional waves are electromagnetic and can travel through a vacuum just like radio waves and visible light.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Sound waves are compressional (or longitudinal) waves, where particles vibrate in the same direction as the wave moves.",
+        "chinese": "声波是压缩波（或纵波），粒子的振动方向与波的传播方向相同。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Hertz (Hz) is the unit used to measure frequency.", "correct": "true" },
+      { "sentence": "Hertz measures volume, and the higher the hertz value, the louder the sound will be perceived by the human ear.", "correct": "false" },
+      { "sentence": "Hertz is used to measure amplitude, as it quantifies the maximum displacement of particles in a wave from their resting position.", "correct": "false" },
+      { "sentence": "Hertz is a measure of temperature, specifically the rate at which molecules vibrate in a substance when heated or cooled.", "correct": "false" },
+      { "sentence": "Hertz is used for light only, as sound waves require a completely different unit of measurement due to their mechanical nature.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Frequency, the number of cycles per second, is measured in hertz (Hz).",
+        "chinese": "频率（每秒的周期数）的单位是赫兹（Hz）。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The Doppler effect describes the change in frequency of a wave in relation to an observer moving relative to the source.", "correct": "true" },
+      { "sentence": "The Doppler effect only applies to light, as sound waves are too slow to exhibit any noticeable frequency shifts under normal circumstances.", "correct": "false" },
+      { "sentence": "The Doppler effect makes objects move faster by adding energy to the wave, which then pushes the source or observer in the direction of motion.", "correct": "false" },
+      { "sentence": "The Doppler effect only occurs in space, where the absence of a medium allows for pure and undistorted frequency changes to take place.", "correct": "false" },
+      { "sentence": "The Doppler effect is unrelated to sound or motion and instead refers to the bending of light as it passes through different mediums.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The Doppler effect explains why a sound seems higher-pitched as it approaches and lower-pitched as it moves away.",
+        "chinese": "多普勒效应解释了为什么声音在接近时听起来更高，在远离时听起来更低。"
+      }
+    ]
+  }
+]
