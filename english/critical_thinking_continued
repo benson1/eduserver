@@ -143,5 +143,92 @@
       "english": "Peter Wason made significant contributions to understanding human reasoning errors and cognitive biases.",
       "chinese": "彼得·沃森对人类推理错误和认知偏差的理解做出了重要贡献。"
     }
+  },
+  {
+    "question": "Who was Edward de Bono?",
+    "options": [
+      {
+        "sentence": "A thinker who developed the concept of lateral thinking and parallel thinking.",
+        "correct": true
+      },
+      {
+        "sentence": "A cognitive psychologist specializing in the neurological basis of creative problem-solving.",
+        "correct": false
+      },
+      {
+        "sentence": "An educational reformer who developed structured approaches to teaching traditional logic.",
+        "correct": false
+      },
+      {
+        "sentence": "A linguist who studied how language structures influence patterns of reasoning.",
+        "correct": false
+      },
+      {
+        "sentence": "A philosopher who argued for the superiority of analytical over intuitive thinking.",
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "english": "Edward de Bono pioneered creative thinking techniques and emphasized deliberate thought processes.",
+      "chinese": "爱德华·德·波诺开创了创造性思维技巧，强调有意识的思考过程。"
+    }
+  },
+  {
+    "question": "Who was Benjamin Bloom?",
+    "options": [
+      {
+        "sentence": "An educational psychologist who created a taxonomy of learning objectives.",
+        "correct": true
+      },
+      {
+        "sentence": "A developmental psychologist who studied stages of moral reasoning in children.",
+        "correct": false
+      },
+      {
+        "sentence": "A cognitive scientist who researched how memory encoding varies with emotional context.",
+        "correct": false
+      },
+      {
+        "sentence": "A behavioral economist who developed models of decision-making under uncertainty.",
+        "correct": false
+      },
+      {
+        "sentence": "A neuroscientist who mapped how different brain regions activate during learning.",
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "english": "Bloom's taxonomy categorizes educational goals and is foundational in instructional design.",
+      "chinese": "布鲁姆的分类学对教育目标进行分类，是教学设计的基础。"
+    }
+  },
+  {
+    "question": "Who was John Dewey?",
+    "options": [
+      {
+        "sentence": "A philosopher and educational reformer who advocated experiential learning.",
+        "correct": true
+      },
+      {
+        "sentence": "A psychologist who believed learning occurs best through strict discipline and rote memorization.",
+        "correct": false
+      },
+      {
+        "sentence": "A sociologist who argued that education should focus solely on transmitting cultural knowledge.",
+        "correct": false
+      },
+      {
+        "sentence": "A cognitive scientist who developed models of information processing in the brain.",
+        "correct": false
+      },
+      {
+        "sentence": "A political theorist who saw schools as tools for maintaining social hierarchies.",
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "english": "Dewey emphasized learning through experience and reflection, influencing progressive education.",
+      "chinese": "杜威强调通过经验和反思学习，影响了进步教育。"
+    }
   }
 ]
