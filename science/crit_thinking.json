@@ -1,0 +1,130 @@
+[
+  {
+    "question": "Which sentence best describes the Socratic method?",
+    "options": [
+      { "sentence": "A form of cooperative argumentative dialogue that stimulates critical thinking through questioning.", "correct": "true" },
+      { "sentence": "A teaching approach where instructors provide authoritative answers to philosophical questions through direct lectures.", "correct": "false" },
+      { "sentence": "A debate technique focused on defeating opponents by exposing contradictions in their arguments.", "correct": "false" },
+      { "sentence": "A memorization strategy using repetitive questioning to reinforce factual recall.", "correct": "false" },
+      { "sentence": "A therapeutic intervention where clinicians use scripted questions to guide clients to predetermined insights.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The Socratic method uses systematic questioning to expose contradictions in thinking and guide learners to discover knowledge themselves.",
+        "chinese": "苏格拉底式教学法通过系统提问揭示思维矛盾，引导学习者自主发现知识。"
+      }
+    ]
+  },
+  {
+    "question": "Which best illustrates Hermann Ebbinghaus's forgetting curve?",
+    "options": [
+      { "sentence": "Memory retention declines rapidly at first, then levels off over time without practice.", "correct": "true" },
+      { "sentence": "All types of memories decay at a constant, predictable rate regardless of their content or significance.", "correct": "false" },
+      { "sentence": "Emotionally charged memories remain perfectly intact while neutral information is quickly forgotten.", "correct": "false" },
+      { "sentence": "Procedural skills like riding a bicycle show the same forgetting pattern as factual knowledge.", "correct": "false" },
+      { "sentence": "Information that isn't reviewed within 24 hours is permanently lost from long-term memory.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Ebbinghaus discovered that forgetting follows an exponential decay pattern, with most loss occurring soon after learning.",
+        "chinese": "艾宾浩斯发现遗忘遵循指数衰减模式，大部分遗忘发生在学习后不久。"
+      }
+    ]
+  },
+  {
+    "question": "Which is the most accurate example of cognitive bias?",
+    "options": [
+      { "sentence": "Confirming existing beliefs while ignoring contradictory evidence.", "correct": "true" },
+      { "sentence": "Making arithmetic errors due to temporary lapses in concentration during calculations.", "correct": "false" },
+      { "sentence": "Forgetting where you parked your car after visiting an unfamiliar shopping mall.", "correct": "false" },
+      { "sentence": "Cultural differences in how people from various societies interpret visual illusions.", "correct": "false" },
+      { "sentence": "Neurological conditions that impair logical reasoning abilities in certain individuals.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Cognitive biases are systematic thinking errors that affect judgments, often favoring existing beliefs or simplifying complex information.",
+        "chinese": "认知偏差是影响判断的系统性思维错误，通常偏向现有信念或简化复杂信息。"
+      }
+    ]
+  },
+  {
+    "question": "Which represents a valid syllogism?",
+    "options": [
+      { "sentence": "All humans are mortal. Socrates is human. Therefore, Socrates is mortal.", "correct": "true" },
+      { "sentence": "Many Greeks were philosophers. Socrates was Greek. Therefore, Socrates was a philosopher.", "correct": "false" },
+      { "sentence": "If it rains, the ground gets wet. The ground is wet. Therefore, it must have rained.", "correct": "false" },
+      { "sentence": "No birds are mammals. Some bats are mammals. Therefore, some bats are not birds.", "correct": "false" },
+      { "sentence": "Either we accept skepticism or we embrace rationalism. Descartes rejected skepticism. Therefore, he embraced rationalism.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A syllogism is a form of deductive reasoning with two premises and a conclusion, used in logical arguments.",
+        "chinese": "三段论是由两个前提和一个结论组成的演绎推理形式，用于逻辑论证。"
+      }
+    ]
+  },
+  {
+    "question": "Who was Peter Wason?",
+    "options": [
+      { "sentence": "A cognitive psychologist who studied confirmation bias and developed the selection task.", "correct": "true" },
+      { "sentence": "A behaviorist researcher who conducted landmark studies on operant conditioning in animal learning.", "correct": "false" },
+      { "sentence": "A neuroscientist who pioneered research on the biological basis of memory formation and storage.", "correct": "false" },
+      { "sentence": "An educational theorist who developed influential models of developmental learning stages.", "correct": "false" },
+      { "sentence": "A philosopher who extended Karl Popper's theories of falsification in scientific reasoning.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Peter Wason made significant contributions to understanding human reasoning errors and cognitive biases.",
+        "chinese": "彼得·沃森对人类推理错误和认知偏差的理解做出了重要贡献。"
+      }
+    ]
+  },
+  {
+    "question": "Who was Edward de Bono?",
+    "options": [
+      { "sentence": "A thinker who developed the concept of lateral thinking and parallel thinking.", "correct": "true" },
+      { "sentence": "A cognitive psychologist specializing in the neurological basis of creative problem-solving.", "correct": "false" },
+      { "sentence": "An educational reformer who developed structured approaches to teaching traditional logic.", "correct": "false" },
+      { "sentence": "A linguist who studied how language structures influence patterns of reasoning.", "correct": "false" },
+      { "sentence": "A philosopher who argued for the superiority of analytical over intuitive thinking.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Edward de Bono pioneered creative thinking techniques and emphasized deliberate thought processes.",
+        "chinese": "爱德华·德·波诺开创了创造性思维技巧，强调有意识的思考过程。"
+      }
+    ]
+  },
+  {
+    "question": "Who was Benjamin Bloom?",
+    "options": [
+      { "sentence": "An educational psychologist who created a taxonomy of learning objectives.", "correct": "true" },
+      { "sentence": "A developmental psychologist who studied stages of moral reasoning in children.", "correct": "false" },
+      { "sentence": "A cognitive scientist who researched how memory encoding varies with emotional context.", "correct": "false" },
+      { "sentence": "A behavioral economist who developed models of decision-making under uncertainty.", "correct": "false" },
+      { "sentence": "A neuroscientist who mapped how different brain regions activate during learning.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Bloom's taxonomy categorizes educational goals and is foundational in instructional design.",
+        "chinese": "布鲁姆的分类学对教育目标进行分类，是教学设计的基础。"
+      }
+    ]
+  },
+  {
+    "question": "Who was John Dewey?",
+    "options": [
+      { "sentence": "A philosopher and educational reformer who advocated experiential learning.", "correct": "true" },
+      { "sentence": "A psychologist who believed learning occurs best through strict discipline and rote memorization.", "correct": "false" },
+      { "sentence": "A sociologist who argued that education should focus solely on transmitting cultural knowledge.", "correct": "false" },
+      { "sentence": "A cognitive scientist who developed models of information processing in the brain.", "correct": "false" },
+      { "sentence": "A political theorist who saw schools as tools for maintaining social hierarchies.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Dewey emphasized learning through experience and reflection, influencing progressive education.",
+        "chinese": "杜威强调通过经验和反思学习，影响了进步教育。"
+      }
+    ]
+  }
+]
