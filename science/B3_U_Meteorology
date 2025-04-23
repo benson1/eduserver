@@ -23,10 +23,12 @@
         "correct": false
       }
     ],
-    "explanation": {
-      "english": "Weather encompasses all short-term atmospheric phenomena in a local area, typically observed over time periods ranging from minutes to weeks.",
-      "chinese": "天气包含了一个地区短期内所有的天气现象，通常观察时间范围从几分钟到几周不等。"
-    }
+    "explanation": [
+      {
+        "english": "Weather encompasses all short-term atmospheric phenomena in a local area, typically observed over time periods ranging from minutes to weeks.",
+        "chinese": "天气包含了一个地区短期内所有的天气现象，通常观察时间范围从几分钟到几周不等。"
+      }
+    ]
   },
   {
     "question": "Which statement accurately describes precipitation?",
@@ -48,14 +50,16 @@
         "correct": false
       },
       {
-        "sentence": "Precipitation includes only man-made water dispersion systems like sprinklers and irrigation, which are commonly used in agricultural areas to aid in crop growth.",
+        "sentence": "Precipitation includes only man-made water dispersion systems like sprinklers and irrigation.",
         "correct": false
       }
     ],
-    "explanation": {
-      "english": "Precipitation encompasses all forms of falling atmospheric moisture, including rain, snow, sleet, and hail, which result from condensed water vapor becoming too heavy to remain suspended in clouds.",
-      "chinese": "降水包括所有形式的大气降水，如雨、雪、雨夹雪和冰雹，它们是水蒸气凝结后因重量过大而从云中降落的产物。"
-    }
+    "explanation": [
+      {
+        "english": "Precipitation encompasses all forms of falling atmospheric moisture, including rain, snow, sleet, and hail, which result from condensed water vapor becoming too heavy to remain suspended in clouds.",
+        "chinese": "降水包括所有形式的大气降水，如雨、雪、雨夹雪和冰雹，它们是水蒸气凝结后因重量过大而从云中降落的产物。"
+      }
+    ]
   },
   {
     "question": "What best defines a cloud?",
@@ -73,7 +77,7 @@
         "correct": false
       },
       {
-        "sentence": "Clouds are artificial weather phenomena created solely by aircraft exhaust at high altitudes, which form only in the immediate wake of the aircraft and are short-lived.",
+        "sentence": "Clouds are artificial weather phenomena created solely by aircraft exhaust at high altitudes.",
         "correct": false
       },
       {
@@ -81,10 +85,12 @@
         "correct": false
       }
     ],
-    "explanation": {
-      "english": "Clouds form when water vapor condenses into microscopic droplets or ice crystals around atmospheric particles, becoming visible when concentrations are sufficient.",
-      "chinese": "当水蒸气在大气颗粒周围凝结成微观水滴或冰晶，并且浓度足够时，就会形成可见的云。"
-    }
+    "explanation": [
+      {
+        "english": "Clouds form when water vapor condenses into microscopic droplets or ice crystals around atmospheric particles, becoming visible when concentrations are sufficient.",
+        "chinese": "当水蒸气在大气颗粒周围凝结成微观水滴或冰晶，并且浓度足够时，就会形成可见的云。"
+      }
+    ]
   },
   {
     "question": "Which of the following best describes the water cycle?",
@@ -102,18 +108,20 @@
         "correct": false
       },
       {
-        "sentence": "The water cycle refers to the collection of water in underground reserves without any surface interaction, which results in the formation of groundwater that flows over time.",
+        "sentence": "The water cycle refers to the collection of water in underground reserves without any surface interaction.",
         "correct": false
       },
       {
-        "sentence": "The water cycle primarily focuses on the melting of glaciers and its effects on sea level rise, with little consideration for other atmospheric processes like precipitation and evaporation.",
+        "sentence": "The water cycle primarily focuses on the melting of glaciers and its effects on sea level rise.",
         "correct": false
       }
     ],
-    "explanation": {
-      "english": "The water cycle refers to the continuous processes of evaporation, condensation, precipitation, and runoff, which ensure water circulates through the atmosphere and Earth's surface.",
-      "chinese": "水循环是指水在地球表面、空中和地下之间的持续运动，包括蒸发、凝结和降水等过程。"
-    }
+    "explanation": [
+      {
+        "english": "The water cycle refers to the continuous processes of evaporation, condensation, precipitation, and runoff, which ensure water circulates through the atmosphere and Earth's surface.",
+        "chinese": "水循环是指水在地球表面、空中和地下之间的持续运动，包括蒸发、凝结和降水等过程。"
+      }
+    ]
   },
   {
     "question": "Which definition is correct about climate?",
@@ -131,7 +139,7 @@
         "correct": false
       },
       {
-        "sentence": "Climate refers to the Earth's surface temperature measured in relation to solar energy, which is often analyzed by scientists to study how the Earth responds to changes in sunlight intensity over long periods.",
+        "sentence": "Climate refers to the Earth's surface temperature measured in relation to solar energy.",
         "correct": false
       },
       {
@@ -139,10 +147,12 @@
         "correct": false
       }
     ],
-    "explanation": {
-      "english": "Climate is the long-term average of temperature, humidity, precipitation, and other atmospheric factors in a specific region.",
-      "chinese": "气候是指特定区域内的温度、湿度、降水量以及其他大气因素的长期平均值。"
-    }
+    "explanation": [
+      {
+        "english": "Climate is the long-term average of temperature, humidity, precipitation, and other atmospheric factors in a specific region.",
+        "chinese": "气候是指特定区域内的温度、湿度、降水量以及其他大气因素的长期平均值。"
+      }
+    ]
   },
   {
     "question": "Which of the following best describes a season?",
@@ -160,18 +170,20 @@
         "correct": false
       },
       {
-        "sentence": "A season is the time it takes for the Earth to complete one full rotation around the sun, with each season being part of a cycle of equinoxes and solstices.",
+        "sentence": "A season is the time it takes for the Earth to complete one full rotation around the sun.",
         "correct": false
       },
       {
-        "sentence": "Seasons are only experienced near the poles of the Earth, where changes in sunlight are more pronounced than at the equator or in other regions.",
+        "sentence": "Seasons are only experienced near the poles of the Earth.",
         "correct": false
       }
     ],
-    "explanation": {
-      "english": "Seasons are the four periods of the year (spring, summer, fall, winter) determined by Earth's tilt and orbit around the Sun, leading to variations in temperature and daylight.",
-      "chinese": "季节是根据地球绕太阳公转和地轴倾斜产生的四个时段（春季、夏季、秋季和冬季），它们导致温度和日照的变化。"
-    }
+    "explanation": [
+      {
+        "english": "Seasons are the four periods of the year (spring, summer, fall, winter) determined by Earth's tilt and orbit around the Sun, leading to variations in temperature and daylight.",
+        "chinese": "季节是根据地球绕太阳公转和地轴倾斜产生的四个时段（春季、夏季、秋季和冬季），它们导致温度和日照的变化。"
+      }
+    ]
   },
   {
     "question": "Which statement best defines the atmosphere?",
@@ -189,18 +201,20 @@
         "correct": false
       },
       {
-        "sentence": "The atmosphere is a thin, invisible layer that only affects the weather during extreme events like tornadoes and hurricanes, with no influence on daily conditions.",
+        "sentence": "The atmosphere is a thin, invisible layer that only affects the weather during extreme events like tornadoes and hurricanes.",
         "correct": false
       },
       {
-        "sentence": "The atmosphere is a permanent vacuum, with no air or gases present, existing only as an absence of matter surrounding the Earth and playing no role in the conditions that allow life to thrive.",
+        "sentence": "The atmosphere is a permanent vacuum, with no air or gases present.",
         "correct": false
       }
     ],
-    "explanation": {
-      "english": "The atmosphere consists of layers of gases that surround Earth, providing oxygen for respiration and protecting life from harmful radiation.",
-      "chinese": "大气层由围绕地球的气体层组成，为呼吸提供氧气，并保护生命免受有害辐射的影响。"
-    }
+    "explanation": [
+      {
+        "english": "The atmosphere consists of layers of gases that surround Earth, providing oxygen for respiration and protecting life from harmful radiation.",
+        "chinese": "大气层由围绕地球的气体层组成，为呼吸提供氧气，并保护生命免受有害辐射的影响。"
+      }
+    ]
   },
   {
     "question": "Which of the following best explains air pressure?",
@@ -218,18 +232,20 @@
         "correct": false
       },
       {
-        "sentence": "Air pressure is the measurement of how much sunlight reaches the Earth's surface, affecting temperature and weather patterns, particularly during the day.",
+        "sentence": "Air pressure is the measurement of how much sunlight reaches the Earth's surface.",
         "correct": false
       },
       {
-        "sentence": "Air pressure refers to the density of the atmosphere's gases, which can fluctuate greatly depending on altitude and weather systems, resulting in higher or lower pressure zones across the Earth's surface.",
+        "sentence": "Air pressure refers to the density of the atmosphere's gases, which can fluctuate greatly depending on altitude.",
         "correct": false
       }
     ],
-    "explanation": {
-      "english": "Air pressure is the force that air exerts on the surface below it due to the weight of the air in the atmosphere.",
-      "chinese": "气压是大气中空气因其重量作用于下方表面产生的力。"
-    }
+    "explanation": [
+      {
+        "english": "Air pressure is the force that air exerts on the surface below it due to the weight of the air in the atmosphere.",
+        "chinese": "气压是大气中空气因其重量作用于下方表面产生的力。"
+      }
+    ]
   },
   {
     "question": "What best defines an anemometer?",
@@ -247,18 +263,20 @@
         "correct": false
       },
       {
-        "sentence": "An anemometer is used to monitor solar radiation levels, which are vital in understanding the interaction between sunlight and weather patterns, and are important for various scientific studies.",
+        "sentence": "An anemometer is used to monitor solar radiation levels.",
         "correct": false
       },
       {
-        "sentence": "An anemometer is a tool that measures the Earth's magnetic field, which fluctuates with solar winds and can have a direct impact on atmospheric phenomena like auroras.",
+        "sentence": "An anemometer is a tool that measures the Earth's magnetic field.",
         "correct": false
       }
     ],
-    "explanation": {
-      "english": "An anemometer is an instrument used in meteorology to measure wind speed and direction.",
-      "chinese": "风速计是用于测量风速和风向的仪器，广泛用于气象学中。"
-    }
+    "explanation": [
+      {
+        "english": "An anemometer is an instrument used in meteorology to measure wind speed and direction.",
+        "chinese": "风速计是用于测量风速和风向的仪器，广泛用于气象学中。"
+      }
+    ]
   },
   {
     "question": "Which definition is correct about meteorology?",
@@ -276,17 +294,19 @@
         "correct": false
       },
       {
-        "sentence": "Meteorology refers to the analysis of the Earth's geological history, particularly the examination of ancient weather patterns from millions of years ago to understand the evolution of climate.",
+        "sentence": "Meteorology refers to the analysis of the Earth's geological history.",
         "correct": false
       },
       {
-        "sentence": "Meteorology is the study of celestial bodies and their influence on Earth's climate, specifically looking at how solar activity and other space phenomena affect atmospheric conditions.",
+        "sentence": "Meteorology is the study of celestial bodies and their influence on Earth's climate.",
         "correct": false
       }
     ],
-    "explanation": {
-      "english": "Meteorology is the science that studies atmospheric phenomena and the processes that influence weather and climate.",
-      "chinese": "气象学是研究大气现象及其对天气和气候影响的科学。"
-    }
+    "explanation": [
+      {
+        "english": "Meteorology is the science that studies atmospheric phenomena and the processes that influence weather and climate.",
+        "chinese": "气象学是研究大气现象及其对天气和气候影响的科学。"
+      }
+    ]
   }
 ]
