@@ -4,23 +4,23 @@
     "options": [
       {
         "sentence": "Weather refers to the short-term atmospheric conditions in a specific area, including changes in temperature, humidity, wind, and precipitation over hours or days.",
-        "correct": true
+        "correct": "true"
       },
       {
         "sentence": "Weather is the consistent, unchanging state of the atmosphere that remains the same in all locations throughout the year.",
-        "correct": false
+        "correct": "false"
       },
       {
         "sentence": "Weather describes only extreme atmospheric events like hurricanes and tornadoes, excluding normal daily conditions.",
-        "correct": false
+        "correct": "false"
       },
       {
         "sentence": "Weather is a measurement of underground geological activity and its effects on surface temperatures.",
-        "correct": false
+        "correct": "false"
       },
       {
         "sentence": "Weather refers exclusively to the amount of sunlight a region receives, without considering other atmospheric factors.",
-        "correct": false
+        "correct": "false"
       }
     ],
     "explanation": [
@@ -35,23 +35,23 @@
     "options": [
       {
         "sentence": "Precipitation is any form of water particles, whether liquid or solid, that falls from the atmosphere and reaches the ground.",
-        "correct": true
+        "correct": "true"
       },
       {
         "sentence": "Precipitation occurs only when the temperature is below freezing, resulting exclusively in snowfall or hail.",
-        "correct": false
+        "correct": "false"
       },
       {
         "sentence": "Precipitation refers to the process of water evaporating from surfaces and rising into the atmosphere.",
-        "correct": false
+        "correct": "false"
       },
       {
         "sentence": "Precipitation is measured by calculating the amount of water vapor present in clouds before any falling occurs.",
-        "correct": false
+        "correct": "false"
       },
       {
         "sentence": "Precipitation includes only man-made water dispersion systems like sprinklers and irrigation.",
-        "correct": false
+        "correct": "false"
       }
     ],
     "explanation": [
@@ -66,23 +66,23 @@
     "options": [
       {
         "sentence": "A visible accumulation of tiny water droplets or ice crystals suspended in the atmosphere at various altitudes.",
-        "correct": true
+        "correct": "true"
       },
       {
         "sentence": "Clouds are solid formations of mineral dust that originate from volcanic eruptions and desert winds.",
-        "correct": false
+        "correct": "false"
       },
       {
         "sentence": "All clouds produce precipitation immediately after formation and cannot exist without raining or snowing.",
-        "correct": false
+        "correct": "false"
       },
       {
         "sentence": "Clouds are artificial weather phenomena created solely by aircraft exhaust at high altitudes.",
-        "correct": false
+        "correct": "false"
       },
       {
         "sentence": "A cloud is an area of complete atmospheric vacuum where no air or moisture exists.",
-        "correct": false
+        "correct": "false"
       }
     ],
     "explanation": [
@@ -97,23 +97,23 @@
     "options": [
       {
         "sentence": "The water cycle is the continuous movement of water on, above, and below the Earth's surface, including processes like evaporation, condensation, and precipitation.",
-        "correct": true
+        "correct": "true"
       },
       {
         "sentence": "The water cycle only involves the movement of water in oceans, with no role for lakes, rivers, or groundwater.",
-        "correct": false
+        "correct": "false"
       },
       {
         "sentence": "The water cycle is a periodic process that occurs only during the rainy season.",
-        "correct": false
+        "correct": "false"
       },
       {
         "sentence": "The water cycle refers to the collection of water in underground reserves without any surface interaction.",
-        "correct": false
+        "correct": "false"
       },
       {
         "sentence": "The water cycle primarily focuses on the melting of glaciers and its effects on sea level rise.",
-        "correct": false
+        "correct": "false"
       }
     ],
     "explanation": [
@@ -128,23 +128,23 @@
     "options": [
       {
         "sentence": "Climate refers to the long-term average of weather patterns in a particular region, typically observed over decades or centuries.",
-        "correct": true
+        "correct": "true"
       },
       {
         "sentence": "Climate is the day-to-day atmospheric conditions experienced in a specific location.",
-        "correct": false
+        "correct": "false"
       },
       {
         "sentence": "Climate describes only extreme weather events such as tornadoes and hurricanes.",
-        "correct": false
+        "correct": "false"
       },
       {
         "sentence": "Climate refers to the Earth's surface temperature measured in relation to solar energy.",
-        "correct": false
+        "correct": "false"
       },
       {
         "sentence": "Climate refers to the temperature of the ocean's surface, excluding atmospheric conditions.",
-        "correct": false
+        "correct": "false"
       }
     ],
     "explanation": [
@@ -159,23 +159,23 @@
     "options": [
       {
         "sentence": "A season is a division of the year based on changes in weather, ecology, and daylight, usually associated with the Earth's tilt and orbit.",
-        "correct": true
+        "correct": "true"
       },
       {
         "sentence": "A season is an unpredictable and short-term change in weather patterns that can occur at any time.",
-        "correct": false
+        "correct": "false"
       },
       {
         "sentence": "A season only refers to periods of time with extreme temperatures, such as heat waves or freezing conditions.",
-        "correct": false
+        "correct": "false"
       },
       {
         "sentence": "A season is the time it takes for the Earth to complete one full rotation around the sun.",
-        "correct": false
+        "correct": "false"
       },
       {
         "sentence": "Seasons are only experienced near the poles of the Earth.",
-        "correct": false
+        "correct": "false"
       }
     ],
     "explanation": [
@@ -190,23 +190,23 @@
     "options": [
       {
         "sentence": "The atmosphere is a layer of gases surrounding the Earth, including oxygen, nitrogen, and carbon dioxide, which is essential for life.",
-        "correct": true
+        "correct": "true"
       },
       {
         "sentence": "The atmosphere refers exclusively to the layer of air above the Earth's oceans.",
-        "correct": false
+        "correct": "false"
       },
       {
         "sentence": "The atmosphere is a solid shell surrounding the Earth, protecting it from harmful solar radiation.",
-        "correct": false
+        "correct": "false"
       },
       {
         "sentence": "The atmosphere is a thin, invisible layer that only affects the weather during extreme events like tornadoes and hurricanes.",
-        "correct": false
+        "correct": "false"
       },
       {
         "sentence": "The atmosphere is a permanent vacuum, with no air or gases present.",
-        "correct": false
+        "correct": "false"
       }
     ],
     "explanation": [
@@ -221,23 +221,23 @@
     "options": [
       {
         "sentence": "Air pressure is the force exerted by the weight of the atmosphere on a given area of the Earth's surface.",
-        "correct": true
+        "correct": "true"
       },
       {
         "sentence": "Air pressure is a measure of the temperature of the atmosphere at sea level.",
-        "correct": false
+        "correct": "false"
       },
       {
         "sentence": "Air pressure is the force that only exists near the Earth's poles.",
-        "correct": false
+        "correct": "false"
       },
       {
         "sentence": "Air pressure is the measurement of how much sunlight reaches the Earth's surface.",
-        "correct": false
+        "correct": "false"
       },
       {
         "sentence": "Air pressure refers to the density of the atmosphere's gases, which can fluctuate greatly depending on altitude.",
-        "correct": false
+        "correct": "false"
       }
     ],
     "explanation": [
@@ -252,23 +252,23 @@
     "options": [
       {
         "sentence": "An anemometer is a device used to measure wind speed and direction.",
-        "correct": true
+        "correct": "true"
       },
       {
         "sentence": "An anemometer is a device used to measure the temperature of the atmosphere.",
-        "correct": false
+        "correct": "false"
       },
       {
         "sentence": "An anemometer is used to measure the amount of precipitation in a specific area.",
-        "correct": false
+        "correct": "false"
       },
       {
         "sentence": "An anemometer is used to monitor solar radiation levels.",
-        "correct": false
+        "correct": "false"
       },
       {
         "sentence": "An anemometer is a tool that measures the Earth's magnetic field.",
-        "correct": false
+        "correct": "false"
       }
     ],
     "explanation": [
@@ -283,23 +283,23 @@
     "options": [
       {
         "sentence": "Meteorology is the scientific study of the atmosphere, weather patterns, and climate.",
-        "correct": true
+        "correct": "true"
       },
       {
         "sentence": "Meteorology is the study of ocean currents and their effects on weather.",
-        "correct": false
+        "correct": "false"
       },
       {
         "sentence": "Meteorology focuses only on the study of earthquakes and geological events.",
-        "correct": false
+        "correct": "false"
       },
       {
         "sentence": "Meteorology refers to the analysis of the Earth's geological history.",
-        "correct": false
+        "correct": "false"
       },
       {
         "sentence": "Meteorology is the study of celestial bodies and their influence on Earth's climate.",
-        "correct": false
+        "correct": "false"
       }
     ],
     "explanation": [
