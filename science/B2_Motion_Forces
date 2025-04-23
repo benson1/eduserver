@@ -1,0 +1,130 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Motion is a change in the position of an object over time.", "correct": "true" },
+      { "sentence": "Motion is when an object stays still, but the things around it move.", "correct": "false" },
+      { "sentence": "Motion only happens when something moves fast in a straight line.", "correct": "false" },
+      { "sentence": "Motion means an object moves back and forth but doesn’t go anywhere.", "correct": "false" },
+      { "sentence": "Motion is when something changes shape but doesn’t move its location.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Motion means something is changing its position. If it's moving from one place to another, it's in motion.",
+        "chinese": "运动意味着某物正在改变其位置。如果它从一个地方移动到另一个地方，它就在运动。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Friction is a force that opposes motion between two surfaces that are in contact.", "correct": "true" },
+      { "sentence": "Friction is a force that helps objects move faster by making the surface smoother as they touch.", "correct": "false" },
+      { "sentence": "Friction only happens when two very soft or slippery surfaces rub together and create heat.", "correct": "false" },
+      { "sentence": "Friction is a pulling force that causes objects to fall straight down to the ground quickly.", "correct": "false" },
+      { "sentence": "Friction makes objects speed up when they roll across rough or bumpy surfaces.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Friction is the force that makes it harder for things to slide past each other. It slows things down.",
+        "chinese": "摩擦力是使物体相互滑动变得更难的力量。它会使运动减慢。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A lever is a simple machine consisting of a rigid bar that pivots on a fulcrum.", "correct": "true" },
+      { "sentence": "A lever is a tool that moves in a circle and uses spinning to lift things off the ground.", "correct": "false" },
+      { "sentence": "A lever is a kind of stick that works only if you press both ends at the same time equally.", "correct": "false" },
+      { "sentence": "A lever is a tool that uses electricity to push or pull objects without any physical contact.", "correct": "false" },
+      { "sentence": "A lever is something you pull on one side and it lifts both ends instead of rotating on a point.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A lever is a basic machine like a seesaw. It turns around a point in the middle, called the fulcrum.",
+        "chinese": "杠杆是一种基本机械，像跷跷板一样。它围绕中间的支点旋转。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Like charges or magnetic poles repel each other.", "correct": "true" },
+      { "sentence": "Repel is when two magnets pull toward each other with strong force.", "correct": "false" },
+      { "sentence": "Repel happens when a strong magnet attracts a metal object fast.", "correct": "false" },
+      { "sentence": "Repel is when magnets are broken and can no longer stick together.", "correct": "false" },
+      { "sentence": "Repel means one magnet pulls another closer but then lets go.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "When magnets or electric charges are the same, they push away from each other. That’s called repelling.",
+        "chinese": "当磁铁或电荷相同时，它们会相互排斥。这叫做排斥。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Speed is the distance an object travels in a certain amount of time.", "correct": "true" },
+      { "sentence": "Speed is how hard an object pushes against the air while it is trying to stop moving.", "correct": "false" },
+      { "sentence": "Speed is a measure of how much force an object needs before it begins to move forward.", "correct": "false" },
+      { "sentence": "Speed means how often something bounces or moves up and down during a short time.", "correct": "false" },
+      { "sentence": "Speed is the strength of something’s motion, even if it never changes its location.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Speed tells us how fast something is moving. It’s about how far it goes in a certain amount of time.",
+        "chinese": "速度告诉我们某物移动得有多快。它是指在一定时间内移动了多远。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Position is the location of an object relative to a reference point.", "correct": "true" },
+      { "sentence": "Position tells how fast something is going compared to how far it still needs to travel.", "correct": "false" },
+      { "sentence": "Position is the weight and size of something before it starts moving or changing shape.", "correct": "false" },
+      { "sentence": "Position is the way an object spins or rolls in space, no matter where it is located.", "correct": "false" },
+      { "sentence": "Position shows how long it takes for an object to get to a certain place after starting to move.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Position means where something is. We compare it to another place to describe where it’s located.",
+        "chinese": "位置是指某物在哪里。我们用它和另一个地方做比较来说明它的位置。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Force is a push or pull on an object that can cause it to move or change shape.", "correct": "true" },
+      { "sentence": "Force is something an object creates after it moves a long distance or gets very hot.", "correct": "false" },
+      { "sentence": "Force is the total amount of weight an object has when it’s sitting perfectly still.", "correct": "false" },
+      { "sentence": "Force is the same thing as speed, and it shows how far something goes when pushed.", "correct": "false" },
+      { "sentence": "Force only works when objects are connected by wires or magnets to pull on each other.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A force makes things move or change how they move. It's a push or a pull on an object.",
+        "chinese": "力让东西运动或改变运动方式。它是一种推动或拉动物体的作用。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Gravity is the force that pulls objects toward each other, especially toward the center of the Earth.", "correct": "true" },
+      { "sentence": "Gravity is a force that makes light objects float slowly and move away from the ground.", "correct": "false" },
+      { "sentence": "Gravity pushes things away from Earth when they are full of air or made of soft materials.", "correct": "false" },
+      { "sentence": "Gravity only works when something heavy is dropped from very high into the sky.", "correct": "false" },
+      { "sentence": "Gravity helps keep objects spinning in place without letting them fall or touch the ground.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Gravity is what makes things fall to the ground. It pulls objects toward each other, like toward the Earth.",
+        "chinese": "重力使物体落到地上。它将物体相互吸引，比如吸引向地球。"
+      }
+    ]
+  }
+]
