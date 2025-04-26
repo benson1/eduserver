@@ -1,0 +1,350 @@
+[
+  {
+    "question": "What makes a habitat suitable for an animal?",
+    "options": [
+      {
+        "sentence": "It provides the right food, water, and shelter for that species.",
+        "correct": true
+      },
+      {
+        "sentence": "It must be a forest with tall trees and lots of plants.",
+        "correct": false
+      },
+      {
+        "sentence": "It has to be wet and rainy all year round.",
+        "correct": false
+      },
+      {
+        "sentence": "It should look exactly like a zoo enclosure.",
+        "correct": false
+      },
+      {
+        "sentence": "It needs to be completely free of other animals.",
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "english": "Different animals need different habitats—polar bears need ice, while camels thrive in deserts!",
+      "chinese": "不同的动物需要不同的栖息地——北极熊需要冰雪环境，而骆驼在沙漠中生存得很好！"
+    }
+  },
+  {
+    "question": "How can you identify a rodent?",
+    "options": [
+      {
+        "sentence": "They have sharp front teeth that grow continuously throughout their lives.",
+        "correct": true
+      },
+      {
+        "sentence": "They are all larger than house cats and have long trunks like elephants.",
+        "correct": false
+      },
+      {
+        "sentence": "They have wings and can fly between trees like birds.",
+        "correct": false
+      },
+      {
+        "sentence": "They live only in water and have gills like fish.",
+        "correct": false
+      },
+      {
+        "sentence": "They produce venom like snakes and have no fur.",
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "english": "Mice, squirrels, and beavers are rodents—they gnaw constantly to wear down their ever-growing teeth.",
+      "chinese": "老鼠、松鼠和海狸都是啮齿动物——它们不停地啃咬，以磨损不断生长的门牙。"
+    }
+  },
+  {
+    "question": "Which features do all mammals share?",
+    "options": [
+      {
+        "sentence": "They have hair or fur at some stage and feed milk to their young.",
+        "correct": true
+      },
+      {
+        "sentence": "They all lay eggs with hard shells like chickens do.",
+        "correct": false
+      },
+      {
+        "sentence": "They spend their entire lives underwater with gills.",
+        "correct": false
+      },
+      {
+        "sentence": "They are cold-blooded and need sunlight to warm up.",
+        "correct": false
+      },
+      {
+        "sentence": "They have scales covering their entire bodies like snakes.",
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "english": "From tiny bats to giant whales, mammals nourish babies with milk and usually have hair.",
+      "chinese": "从微小的蝙蝠到巨大的鲸鱼，哺乳动物都会用奶水喂养幼崽，并且通常有毛发。"
+    }
+  },
+  {
+    "question": "What makes birds different from other animals?",
+    "options": [
+      {
+        "sentence": "They are the only animals with feathers covering their bodies.",
+        "correct": true
+      },
+      {
+        "sentence": "They all build nests high in trees and sing beautiful songs.",
+        "correct": false
+      },
+      {
+        "sentence": "They give birth to live young that can fly immediately.",
+        "correct": false
+      },
+      {
+        "sentence": "They have smooth, slimy skin like frogs and toads.",
+        "correct": false
+      },
+      {
+        "sentence": "They are all flightless and live only on the ground.",
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "english": "Feathers are unique to birds—even flightless ones like penguins and ostriches have them!",
+      "chinese": "羽毛是鸟类独有的特征——即使是不会飞的企鹅和鸵鸟也有羽毛！"
+    }
+  },
+  {
+    "question": "Why are amphibians special?",
+    "options": [
+      {
+        "sentence": "They can breathe through their skin when it's wet while also using lungs.",
+        "correct": true
+      },
+      {
+        "sentence": "They spend their entire lives only in water with gills like fish.",
+        "correct": false
+      },
+      {
+        "sentence": "They have dry, scaly skin that never gets wet or damp.",
+        "correct": false
+      },
+      {
+        "sentence": "They are covered in thick fur to keep them warm on land.",
+        "correct": false
+      },
+      {
+        "sentence": "They build nests in trees and care for their young like birds.",
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "english": "Frogs and salamanders start life underwater but develop lungs to live on land as adults.",
+      "chinese": "青蛙和蝾螈在水中开始生命，但成年后会长出肺在陆地上生活。"
+    }
+  },
+  {
+    "question": "What makes an animal an insect?",
+    "options": [
+      {
+        "sentence": "It has six legs, three body parts, and often wings.",
+        "correct": true
+      },
+      {
+        "sentence": "It has a backbone and breathes through lungs like mammals.",
+        "correct": false
+      },
+      {
+        "sentence": "It is covered in fur and produces milk for its young.",
+        "correct": false
+      },
+      {
+        "sentence": "It lives only in the ocean and has fins and gills.",
+        "correct": false
+      },
+      {
+        "sentence": "It has four legs and lays hard-shelled eggs like birds.",
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "english": "Insects like ants, bees, and butterflies all have six legs and three main body parts: head, thorax, and abdomen.",
+      "chinese": "蚂蚁、蜜蜂和蝴蝶等昆虫都有六条腿和三部分身体结构：头部、胸部和腹部。"
+    }
+  },
+  {
+    "question": "What is the purpose of gills in animals like fish?",
+    "options": [
+      {
+        "sentence": "Gills take oxygen from water so the animal can breathe.",
+        "correct": true
+      },
+      {
+        "sentence": "Gills are used to make sounds underwater like whales do.",
+        "correct": false
+      },
+      {
+        "sentence": "Gills help fish see better in dark water.",
+        "correct": false
+      },
+      {
+        "sentence": "Gills are storage organs for extra food.",
+        "correct": false
+      },
+      {
+        "sentence": "Gills pump blood through the body like a heart.",
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "english": "Fish and some amphibians use gills to pull oxygen out of water, which lets them survive underwater.",
+      "chinese": "鱼类和某些两栖动物使用鳃从水中提取氧气，从而能够在水下生存。"
+    }
+  },
+  {
+    "question": "Why are lungs important for land animals?",
+    "options": [
+      {
+        "sentence": "They help the animal breathe oxygen from the air.",
+        "correct": true
+      },
+      {
+        "sentence": "They allow the animal to swim faster underwater.",
+        "correct": false
+      },
+      {
+        "sentence": "They make the animal heavier so it can stay on land.",
+        "correct": false
+      },
+      {
+        "sentence": "They store food for long periods during hibernation.",
+        "correct": false
+      },
+      {
+        "sentence": "They act as a second stomach to digest tough plants.",
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "english": "Lungs are special organs that pull oxygen from the air—almost all land animals, including mammals, reptiles, and birds, use them to survive.",
+      "chinese": "肺是从空气中吸取氧气的特殊器官——几乎所有陆地动物，包括哺乳动物、爬行动物和鸟类，都依赖肺来生存。"
+    }
+  },
+  {
+    "question": "What does a carnivore mostly eat?",
+    "options": [
+      {
+        "sentence": "It mainly eats other animals (meat).",
+        "correct": true
+      },
+      {
+        "sentence": "It only eats fruits, seeds, and berries.",
+        "correct": false
+      },
+      {
+        "sentence": "It drinks nectar from flowers like a hummingbird.",
+        "correct": false
+      },
+      {
+        "sentence": "It survives on sunlight and water without eating.",
+        "correct": false
+      },
+      {
+        "sentence": "It only eats dead plants from the forest floor.",
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "english": "Lions, eagles, and sharks are all carnivores—they hunt or scavenge for meat to survive.",
+      "chinese": "狮子、老鹰和鲨鱼都是食肉动物——它们通过捕食或觅食肉类来生存。"
+    }
+  },
+  {
+    "question": "What makes an omnivore different from other animals?",
+    "options": [
+      {
+        "sentence": "It eats both plants and animals.",
+        "correct": true
+      },
+      {
+        "sentence": "It can survive by eating only rocks and minerals.",
+        "correct": false
+      },
+      {
+        "sentence": "It breathes underwater and never leaves the ocean.",
+        "correct": false
+      },
+      {
+        "sentence": "It only eats plants and refuses to eat meat.",
+        "correct": false
+      },
+      {
+        "sentence": "It grows its own food inside its body.",
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "english": "Bears, raccoons, and humans are omnivores—they eat a mix of fruits, plants, and meat to stay healthy.",
+      "chinese": "熊、浣熊和人类是杂食动物——它们通过食用水果、植物和肉类来保持健康。"
+    }
+  },
+  {
+    "question": "What are the key traits of reptiles?",
+    "options": [
+      {
+        "sentence": "They have dry, scaly skin and usually lay eggs on land.",
+        "correct": true
+      },
+      {
+        "sentence": "They are warm-blooded and covered in thick fur.",
+        "correct": false
+      },
+      {
+        "sentence": "They breathe through gills their entire lives.",
+        "correct": false
+      },
+      {
+        "sentence": "They must live only in water like fish.",
+        "correct": false
+      },
+      {
+        "sentence": "They transform into insects during part of their life.",
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "english": "Snakes, lizards, turtles, and crocodiles are reptiles—they have dry, scaly skin and lay eggs.",
+      "chinese": "蛇、蜥蜴、乌龟和鳄鱼都是爬行动物——它们有干燥的鳞片状皮肤，并在陆地上产卵。"
+    }
+  },
+  {
+    "question": "What does a herbivore mostly eat?",
+    "options": [
+      {
+        "sentence": "It eats only plants like leaves, grasses, and fruits.",
+        "correct": true
+      },
+      {
+        "sentence": "It hunts other animals for meat every day.",
+        "correct": false
+      },
+      {
+        "sentence": "It eats only rocks and sand to get minerals.",
+        "correct": false
+      },
+      {
+        "sentence": "It eats only other herbivores.",
+        "correct": false
+      },
+      {
+        "sentence": "It drinks only water without ever eating anything.",
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "english": "Deer, cows, and rabbits are herbivores—they get their energy from eating plants, not animals.",
+      "chinese": "鹿、牛和兔子都是食草动物——它们通过吃植物而不是动物来获得能量。"
+    }
+  }
+]
