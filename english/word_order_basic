@@ -1,0 +1,162 @@
+[
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "She always eats breakfast at 7 a.m.", "correct": "true" },
+      { "sentence": "Always she eats breakfast at 7 a.m.", "correct": "false" },
+      { "sentence": "She eats always breakfast at 7 a.m.", "correct": "false" },
+      { "sentence": "She eats breakfast always at 7 a.m.", "correct": "false" },
+      { "sentence": "She eats at 7 a.m. always breakfast.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Adverbs of frequency like 'always' usually go after the subject and before the main verb.",
+        "chinese": "像 'always' 这样的频率副词通常位于主语之后、主要动词之前。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "What time does he go to bed?", "correct": "true" },
+      { "sentence": "What time he does go to bed?", "correct": "false" },
+      { "sentence": "What time goes he to bed?", "correct": "false" },
+      { "sentence": "What time he go to bed?", "correct": "false" },
+      { "sentence": "He goes to bed what time?", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "In direct questions, the auxiliary verb comes before the subject.",
+        "chinese": "在直接疑问句中，助动词位于主语之前。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "I saw a cat in the garden yesterday.", "correct": "true" },
+      { "sentence": "Yesterday I saw in the garden a cat.", "correct": "false" },
+      { "sentence": "I yesterday saw a cat in the garden.", "correct": "false" },
+      { "sentence": "I saw yesterday a cat in the garden.", "correct": "false" },
+      { "sentence": "In the garden I saw yesterday a cat.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Time expressions like 'yesterday' are usually placed at the end unless emphasized. Objects normally follow the verb.",
+        "chinese": "像 'yesterday' 这样的时间状语通常位于句末。宾语通常紧跟在动词之后。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "There is a book on the table.", "correct": "true" },
+      { "sentence": "Is there a book on the table.", "correct": "false" },
+      { "sentence": "A book there is on the table.", "correct": "false" },
+      { "sentence": "On the table is a book there.", "correct": "false" },
+      { "sentence": "There on the table is a book.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The structure 'there is/are' is used to say something exists in a place. The subject comes after 'there is/are'.",
+        "chinese": "'There is/are' 结构用于表达某物存在，主语位于其后。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "He quickly finished his homework before dinner.", "correct": "true" },
+      { "sentence": "Quickly he finished his homework before dinner.", "correct": "false" },
+      { "sentence": "He finished his homework quickly before dinner.", "correct": "false" },
+      { "sentence": "He finished quickly his homework before dinner.", "correct": "false" },
+      { "sentence": "Finished he quickly his homework before dinner.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Adverbs of manner usually go between the subject and main verb or at the end of the clause, but object placement matters too.",
+        "chinese": "方式副词通常位于主语和动词之间或句尾，但宾语的位置也需要正确。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "Why are they leaving so early?", "correct": "true" },
+      { "sentence": "Why they are leaving so early?", "correct": "false" },
+      { "sentence": "Are why they leaving so early?", "correct": "false" },
+      { "sentence": "They are why leaving so early?", "correct": "false" },
+      { "sentence": "Why are so early they leaving?", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "In wh- questions, the auxiliary verb comes immediately after the question word and before the subject.",
+        "chinese": "在 wh- 疑问句中，助动词应紧跟在疑问词之后并在主语之前。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "Rarely do I go to the cinema.", "correct": "true" },
+      { "sentence": "I do rarely go to the cinema.", "correct": "false" },
+      { "sentence": "Do I rarely go to the cinema.", "correct": "false" },
+      { "sentence": "Rarely I do go to the cinema.", "correct": "false" },
+      { "sentence": "I rarely do go to the cinema.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "When starting a sentence with a negative or limiting adverb like 'rarely', subject-verb inversion is required.",
+        "chinese": "以否定或限制副词开头时，需使用主谓倒装语序。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "He said that he would call me later.", "correct": "true" },
+      { "sentence": "He said he would that call me later.", "correct": "false" },
+      { "sentence": "He said that would he call me later.", "correct": "false" },
+      { "sentence": "He that said he would call me later.", "correct": "false" },
+      { "sentence": "That he would call me later he said.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "In reported speech, use the normal subject-verb-object word order.",
+        "chinese": "在间接引语中，使用正常的主谓宾语序。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "Not only does she sing, but she also dances.", "correct": "true" },
+      { "sentence": "She not only sing but also dances.", "correct": "false" },
+      { "sentence": "Does not only she sing, but also dances.", "correct": "false" },
+      { "sentence": "She not sing only, but also dances.", "correct": "false" },
+      { "sentence": "Not only she sings but also she dances.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "When 'not only' starts a sentence, subject-auxiliary inversion must follow.",
+        "chinese": "'Not only' 置于句首时，需使用主语与助动词倒装结构。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "Can you tell me where she lives?", "correct": "true" },
+      { "sentence": "Can you tell me where does she live?", "correct": "false" },
+      { "sentence": "Can you tell me where is she living?", "correct": "false" },
+      { "sentence": "Can you tell me where lives she?", "correct": "false" },
+      { "sentence": "Can you tell me where she does live?", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "In indirect questions, the word order follows that of a statement: subject + verb.",
+        "chinese": "在间接疑问句中，语序应为主语 + 动词，即陈述语序。"
+      }
+    ]
+  }
+]
