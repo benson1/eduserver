@@ -1,0 +1,236 @@
+[
+  {
+    "question": "What is evolution in biology?",
+    "options": [
+      {
+        "sentence": "The gradual change in heritable traits of a population over generations, driven by mechanisms like natural selection, genetic drift, and mutations.",
+        "correct": "true"
+      },
+      {
+        "sentence": "The rapid transformation of a single organism within its lifetime to better suit its environment, such as a bird growing longer wings during a drought to find water more easily.",
+        "correct": "false",
+        "note": "Evolution occurs over generations, not within an individual's lifespan."
+      },
+      {
+        "sentence": "The intentional migration of species to new habitats where they develop entirely new traits, like fish moving to land and spontaneously evolving lungs.",
+        "correct": "false",
+        "note": "Evolution is not goal-directed; traits arise from random mutations and selection pressures."
+      },
+      {
+        "sentence": "The process by which humans selectively breed animals to emphasize certain traits, such as dogs developing different sizes and temperaments under domestication.",
+        "correct": "false",
+        "note": "This describes artificial selection, not natural evolution."
+      },
+      {
+        "sentence": "The sudden appearance of fully formed complex traits, like a reptile instantly gaining feathers and the ability to fly without intermediate stages.",
+        "correct": "false",
+        "note": "Evolution involves incremental changes over long periods, not sudden leaps."
+      }
+    ],
+    "explanation": {
+      "english": "Evolution explains how genetic mutations and environmental pressures shape species over time (e.g., whales evolving from land-dwelling ancestors).",
+      "chinese": "进化解释了基因突变和环境压力如何随时间塑造物种（如鲸类从陆地祖先演化而来）。"
+    }
+  },
+  {
+    "question": "What is natural selection?",
+    "options": [
+      {
+        "sentence": "The process by which organisms with traits that enhance survival and reproduction pass those traits to more offspring, leading to evolutionary change.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A conscious decision by animals to develop advantageous traits, such as deer choosing to run faster to escape predators over their lifetime.",
+        "correct": "false",
+        "note": "Natural selection is not a conscious choice; it acts on random genetic variations."
+      },
+      {
+        "sentence": "The idea that only the physically strongest individuals survive, while weaker ones are always eliminated, regardless of other survival strategies.",
+        "correct": "false",
+        "note": "Fitness includes reproduction and adaptability, not just brute strength."
+      },
+      {
+        "sentence": "Human intervention to ensure the survival of certain species, like breeding programs for endangered pandas to maintain genetic diversity.",
+        "correct": "false",
+        "note": "This is conservation biology, not natural selection."
+      },
+      {
+        "sentence": "A random process where mutations arise with no correlation to an organism's environment or survival needs.",
+        "correct": "false",
+        "note": "Mutations are random, but selection is non-random and environment-dependent."
+      }
+    ],
+    "explanation": {
+      "english": "Example: Antibiotic resistance in bacteria occurs when only resistant strains survive and reproduce after exposure to drugs.",
+      "chinese": "例子：细菌的抗生素抗性发生在暴露于药物后，只有抗性菌株存活并繁殖的情况下。"
+    }
+  },
+  {
+    "question": "What is camouflage?",
+    "options": [
+      {
+        "sentence": "An adaptation that allows organisms to blend into their surroundings, reducing detection by predators or prey through coloration, patterns, or behavior.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A chemical defense mechanism where animals secrete toxins to deter predators, making them appear unappealing or dangerous.",
+        "correct": "false",
+        "note": "This describes aposematism (warning coloration), not camouflage."
+      },
+      {
+        "sentence": "The ability of some species to mimic human-made objects, like certain insects resembling leaves or sticks to avoid being noticed.",
+        "correct": "false",
+        "note": "While mimicry exists, it’s not the primary definition of camouflage."
+      },
+      {
+        "sentence": "A seasonal change in fur or feather density to regulate body temperature, which coincidentally alters appearance.",
+        "correct": "false",
+        "note": "This is thermoregulation, not an adaptation for concealment."
+      },
+      {
+        "sentence": "A social behavior where animals coordinate their movements to confuse predators, like schools of fish swimming in synchronized patterns.",
+        "correct": "false",
+        "note": "This is predator confusion, not camouflage."
+      }
+    ],
+    "explanation": {
+      "english": "Example: The peppered moth’s color shift during the Industrial Revolution to match soot-covered tree bark.",
+      "chinese": "例子：工业革命期间，胡椒蛾颜色变深以匹配被煤烟覆盖的树皮。"
+    }
+  },
+  {
+    "question": "What is adaptation?",
+    "options": [
+      {
+        "sentence": "A heritable trait that increases an organism’s fitness in a specific environment, shaped by natural selection over generations.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A short-term physiological response to environmental changes, such as shivering to generate heat in cold weather.",
+        "correct": "false",
+        "note": "This is acclimatization, not a genetic adaptation."
+      },
+      {
+        "sentence": "The loss of unnecessary traits over time due to disuse, such as cave-dwelling fish losing functional eyes in perpetual darkness.",
+        "correct": "false",
+        "note": "This is regressive evolution, not an adaptive trait."
+      },
+      {
+        "sentence": "A behavior learned from other members of a species, like monkeys teaching their young to use tools.",
+        "correct": "false",
+        "note": "This is cultural transmission, not biological adaptation."
+      },
+      {
+        "sentence": "The intentional modification of an organism’s body to suit human needs, like selective breeding for larger crop yields.",
+        "correct": "false",
+        "note": "This is artificial selection, not natural adaptation."
+      }
+    ],
+    "explanation": {
+      "english": "Example: Cacti store water in their stems to survive arid climates.",
+      "chinese": "例子：仙人掌在茎中储水以适应干旱气候。"
+    }
+  },
+  {
+    "question": "What is metamorphosis?",
+    "options": [
+      {
+        "sentence": "A biological process where an organism undergoes a dramatic physical transformation between life stages, often involving distinct larval and adult forms.",
+        "correct": "true"
+      },
+      {
+        "sentence": "The gradual growth and maturation of an animal from infancy to adulthood, like a kitten developing into a cat.",
+        "correct": "false",
+        "note": "This is direct development, not metamorphosis."
+      },
+      {
+        "sentence": "The seasonal shedding of fur, feathers, or skin to accommodate temperature changes, such as Arctic foxes growing winter coats.",
+        "correct": "false",
+        "note": "This is molting or seasonal adaptation, not metamorphosis."
+      },
+      {
+        "sentence": "The regeneration of lost body parts, like starfish regrowing arms or lizards regrowing tails after injury.",
+        "correct": "false",
+        "note": "This is regeneration, a separate process."
+      },
+      {
+        "sentence": "A sudden mutation that causes an organism to develop entirely new features, like a fish sprouting legs to walk on land.",
+        "correct": "false",
+        "note": "Mutations are gradual; metamorphosis is a programmed life cycle stage."
+      }
+    ],
+    "explanation": {
+      "english": "Example: Butterflies transition from caterpillars (larva) to winged adults via pupation.",
+      "chinese": "例子：蝴蝶通过蛹化从毛毛虫（幼虫）转变为有翅膀的成虫。"
+    }
+  },
+{
+  "question": "Which of these is the best example of phenotypic plasticity?",
+  "options": [
+    {
+      "sentence": "Chameleons changing color to match their environment, as their skin pigments respond to external stimuli like light and temperature.",
+      "correct": "true",
+      "note": "Phenotypic plasticity involves reversible, environment-driven changes within an organism's lifetime."
+    },
+    {
+      "sentence": "Snakes shedding their skin periodically to accommodate growth, a fixed biological process unrelated to environmental conditions.",
+      "correct": "false",
+      "note": "Skin shedding is developmental, not a plastic response to the environment."
+    },
+    {
+      "sentence": "Puppies losing baby teeth as they mature into adult dogs, a genetically predetermined life-stage transition.",
+      "correct": "false",
+      "note": "Tooth replacement is ontogeny (development), not plasticity."
+    },
+    {
+      "sentence": "Polar bears appearing white year-round due to their unchanging fur pigmentation, which is genetically encoded for camouflage in snow.",
+      "correct": "false",
+      "note": "Static traits (like bear fur color) are not examples of plasticity."
+    },
+    {
+      "sentence": "Trees growing taller in sunny areas compared to shaded ones, reflecting resource allocation rather than reversible plasticity.",
+      "correct": "false",
+      "note": "While plants show plasticity, this example is less reversible than chameleon color change."
+    }
+  ],
+  "explanation": {
+    "english": "Phenotypic plasticity refers to reversible, environment-driven changes (e.g., chameleon color shifts). Fixed traits (like polar bear fur) or developmental stages (like tooth loss) don’t qualify.",
+    "chinese": "表型可塑性指可逆的、环境驱动的变化（如变色龙变色）。固定特征（如北极熊毛发）或发育阶段（如换牙）不符合。"
+  }
+},
+{
+  "question": "Which of these best demonstrates selective breeding by humans?",
+  "options": [
+    {
+      "sentence": "The development of modern corn from wild teosinte plants over thousands of years, where humans chose kernels with desirable traits like larger size and softer husks.",
+      "correct": "true",
+      "note": "This is a classic example of artificial selection driving dramatic changes."
+    },
+    {
+      "sentence": "Antibiotic resistance in bacteria emerging after repeated exposure to medicines, where only resistant strains survive and reproduce.",
+      "correct": "false",
+      "note": "This is natural selection, not human-directed breeding."
+    },
+    {
+      "sentence": "The variety of dog breeds, from Chihuahuas to Great Danes, created by intentionally mating animals with specific physical and behavioral traits over generations.",
+      "correct": "true",
+      "note": "Dogs are the most diverse land vertebrate due to human selection."
+    },
+    {
+      "sentence": "Peppered moths in England darkening during the Industrial Revolution to blend with soot-covered trees, improving survival against predators.",
+      "correct": "false",
+      "note": "This is natural selection in response to environmental change, not human intervention."
+    },
+    {
+      "sentence": "Wild foxes becoming tamer over generations when living near cities, as bolder individuals more successfully scavenge human food waste.",
+      "correct": "false",
+      "note": "This is unintentional selection (no human breeding goals), unlike deliberate domestication."
+    }
+  ],
+  "explanation": {
+    "english": "Selective breeding requires intentional human choice of traits (e.g., crop yields or dog breeds). Natural selection (antibiotic resistance, moth color) lacks human direction.",
+    "chinese": "人工选择需要人类刻意选择性状（如作物产量或犬种）。自然选择（抗生素抗性、蛾子颜色）则无人为引导。"
+  },
+  "note": "Two options are technically correct (corn and dogs) to challenge learners to identify multiple valid examples of selective breeding."
+}
+]
