@@ -256,7 +256,7 @@
       },
       {
         "sentence": "A form of long-term dormancy where animals reduce their body temperature to match the surrounding environment, staying inactive until temperatures rise.",
-        "correct": "false"
+        "correct": "true"
       },
       {
         "sentence": "A behavior in which animals sleep for extended periods to recover from physical injuries or illnesses, often in a sheltered environment.",
