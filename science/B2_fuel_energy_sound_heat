@@ -1,0 +1,436 @@
+[
+  {
+    "question": "What is fuel used for?",
+    "options": [
+      {
+        "sentence": "Fuel is a material that can be burned or used in chemical reactions to produce energy for heat, electricity, or motion.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Fuel is a substance stored only in batteries, where it converts chemical energy into electricity but cannot produce heat or light.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Fuel is a type of metal alloy used to construct engines and machinery, but it does not release energy when burned.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Fuel is a rare mineral that absorbs sunlight during the day and releases a faint glow in darkness, like a natural nightlight.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Fuel is a special liquid added to the air to purify it and create pleasant smells, often used in air fresheners.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Fuels like gasoline, wood, or coal release stored energy through combustion or chemical reactions.",
+        "chinese": "汽油、木材或煤炭等燃料通过燃烧或化学反应释放储存的能量。"
+      }
+    ]
+  },
+  {
+    "question": "What is thermal energy?",
+    "options": [
+      {
+        "sentence": "Thermal energy is the total kinetic energy of particles in a substance, which we perceive as heat.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Thermal energy is a unique form of energy that only exists in freezing temperatures, like inside glaciers or polar ice caps.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Thermal energy is the gravitational force that pulls objects toward Earth’s core, generating heat under pressure.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Thermal energy is a visible spectrum of light emitted by certain minerals when exposed to ultraviolet rays.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Thermal energy is trapped exclusively in frozen solids and cannot transfer to liquids or gases under any conditions.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Thermal energy depends on particle movement—faster motion means higher temperature.",
+        "chinese": "热能取决于粒子运动——运动越快，温度越高。"
+      }
+    ]
+  },
+  {
+    "question": "What does temperature measure?",
+    "options": [
+      {
+        "sentence": "Temperature measures the average kinetic energy of particles in a substance, indicating how hot or cold it is.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Temperature measures the density of an object, determining whether it will float or sink in water.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Temperature is a scale that quantifies the color intensity of light emitted by glowing objects.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Temperature calculates the decibel level of sounds produced by vibrating materials.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Temperature assesses the gravitational pull on an object in space, affecting its weightlessness.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Thermometers measure temperature in Celsius (°C) or Fahrenheit (°F).",
+        "chinese": "温度计以摄氏度（°C）或华氏度（°F）测量温度。"
+      }
+    ]
+  },
+  {
+    "question": "What is a conductor?",
+    "options": [
+      {
+        "sentence": "A conductor is a material (like metal) that allows heat or electricity to flow through it with minimal resistance.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A conductor is a specialized digging tool used by scientists to excavate conductive minerals from deep underground.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A conductor is a liquid solution that completely blocks electric current but changes color when heated.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A conductor is a ceramic coating that reflects heat away from surfaces but cannot transfer energy itself.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A conductor is a type of gas that ionizes when exposed to water, creating brief sparks but no sustained energy flow.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Copper wires conduct electricity; aluminum foil conducts heat efficiently.",
+        "chinese": "铜线导电；铝箔能高效导热。"
+      }
+    ]
+  },
+  {
+    "question": "What is an insulator?",
+    "options": [
+      {
+        "sentence": "An insulator is a material (like rubber or glass) that resists the flow of heat or electricity.",
+        "correct": "true"
+      },
+      {
+        "sentence": "An insulator is a metal alloy designed to amplify electrical currents while cooling overheated circuits.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An insulator is a device that redirects electricity through magnetic fields to power wireless gadgets.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An insulator is a kitchen utensil used to melt chocolate evenly without scorching, using thermal reflection.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An insulator is a porous material that absorbs all forms of energy and converts them into light.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Insulators like plastic or wood prevent energy transfer, keeping hands safe from heat/electricity.",
+        "chinese": "塑料或木材等绝缘体阻止能量传递，保护手部免受热/电伤害。"
+      }
+    ]
+  },
+  {
+    "question": "What is friction?",
+    "options": [
+      {
+        "sentence": "Friction is a force that opposes motion when two surfaces rub against each other, generating heat.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Friction is a high-frequency sound produced when musical instruments vibrate at resonant frequencies.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Friction is a chemical reaction that occurs when metals oxidize at extremely low temperatures.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Friction is a propulsion technique that allows objects to move without physical contact, like hovercrafts.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Friction is a luminescent effect caused by grinding certain crystals together in darkness.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Friction slows sleds on snow and lets brakes stop cars.",
+        "chinese": "摩擦力会减缓雪橇滑动，也能让刹车停下汽车。"
+      }
+    ]
+  },
+  {
+    "question": "What is motion?",
+    "options": [
+      {
+        "sentence": "Motion is the change in an object’s position over time, described by speed and direction.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Motion is a theoretical state where an object remains perfectly stationary in all dimensions indefinitely.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Motion is a geometric property of shapes that determines their symmetry in mathematical models.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Motion is an acoustic phenomenon where seismic waves create audible rumbles during earthquakes.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Motion is the process by which leaves change pigmentation in response to seasonal sunlight.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Motion can be linear (a rolling ball) or rotational (a spinning top).",
+        "chinese": "运动可以是直线的（滚动的球）或旋转的（旋转的陀螺）。"
+      }
+    ]
+  },
+  {
+    "question": "What is gravity?",
+    "options": [
+      {
+        "sentence": "Gravity is the attractive force between masses, pulling objects toward planets like Earth.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Gravity is a synthetic compound used as rocket fuel to propel spacecraft beyond Earth’s atmosphere.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Gravity is the thermal radiation emitted by flames, causing air currents to rise and disperse heat.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Gravity is a chronometer device that measures spacetime curvature in astrophysics laboratories.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Gravity is a lightweight foam material engineered to counteract weight, making objects float.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Gravity keeps moons in orbit and makes dropped apples fall downward.",
+        "chinese": "引力维持卫星轨道，也让掉落的苹果向下坠落。"
+      }
+    ]
+  },
+  {
+    "question": "What is sound energy?",
+    "options": [
+      {
+        "sentence": "Sound energy is produced by vibrating objects, creating pressure waves that travel through air or other mediums.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Sound energy is a form of electromagnetic radiation that travels as visible light in a vacuum.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Sound energy is the chromatic distortion of light when it passes through a glass prism.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Sound energy is a type of kinetic energy stored exclusively in icebergs and glaciers.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Sound energy is generated by perfectly motionless objects emitting resonant frequencies.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Sound requires a medium (like air) to travel—it can’t propagate in a vacuum.",
+        "chinese": "声音需要介质（如空气）传播，真空中无法传递。"
+      }
+    ]
+  },
+  {
+    "question": "What is pitch in sound?",
+    "options": [
+      {
+        "sentence": "Pitch describes how high or low a sound is, determined by the frequency of its sound waves.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Pitch measures the velocity of light as it refracts through water or dense materials.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Pitch is the hue or color tone produced when sound waves interact with special pigments.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Pitch quantifies the rebound distance of sound echoes when they collide with hard surfaces.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Pitch is a geometric pattern formed by sound waves during thunderstorms.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "High-frequency sounds (e.g., whistles) have high pitch; low-frequency sounds (e.g., drums) have low pitch.",
+        "chinese": "高频声音（如哨声）音调高；低频声音（如鼓声）音调低。"
+      }
+    ]
+  },
+  {
+    "question": "What does it mean to refract?",
+    "options": [
+      {
+        "sentence": "Refraction is the bending of light as it passes between materials of different densities, like air to water.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Refraction is the crystallization of light into solid forms when cooled to absolute zero.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Refraction is the conversion of sound vibrations into liquid droplets under pressure.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Refraction is the instantaneous disappearance of objects when exposed to intense heat.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Refraction is the emission of thermal radiation from dark surfaces when illuminated.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Lenses like eyes rely on refraction to focus light onto the retina.",
+        "chinese": "人眼等感官依赖折射将光线聚焦到视网膜上。"
+      }
+    ]
+  },
+  {
+    "question": "What is an electrical circuit?",
+    "options": [
+      {
+        "sentence": "An electrical circuit is a closed loop through which current flows, powering devices like bulbs or motors.",
+        "correct": "true"
+      },
+      {
+        "sentence": "An electrical circuit is a sealed chamber that traps electricity for storage without allowing any current flow.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An electrical circuit is a diagram mapping how acoustic waves travel through solids and liquids.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An electrical circuit is a battery variant that emits photons instead of electrons, creating cold light.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An electrical circuit is a frozen conductive wire that shatters when exposed to voltage.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Circuits require a power source (e.g., battery), wires, and a load (e.g., lightbulb) to function.",
+        "chinese": "电路需要电源（如电池）、导线和负载（如灯泡）才能工作。"
+      }
+    ]
+  },
+  {
+    "question": "What is electrical current?",
+    "options": [
+      {
+        "sentence": "Electrical current is the flow of electric charge (electrons) through a conductor, measured in amperes (A).",
+        "correct": "true"
+      },
+      {
+        "sentence": "Electrical current is a plasma state where ionized gases emit colored light but cannot conduct energy.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Electrical current is the speed at which sound travels through copper wires underwater.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Electrical current is a magnetic field generated by sunlight striking solar panels.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Electrical current is a rhythmic vibration produced by tuning forks in musical instruments.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Current can be direct (DC, like batteries) or alternating (AC, like wall outlets).",
+        "chinese": "电流可以是直流电（如电池）或交流电（如插座）。"
+      }
+    ]
+  },
+  {
+    "question": "What is static electricity?",
+    "options": [
+      {
+        "sentence": "Static electricity is an imbalance of electric charges on a surface, causing sparks or shocks when discharged.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Static electricity is a luminous fluid that seeps from certain rocks when crushed in darkness.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Static electricity is the thermal energy released when metals freeze at subzero temperatures.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Static electricity is an audible frequency emitted only during heavy rainfall or thunderstorms.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Static electricity is identical to sound waves reverberating in enclosed spaces.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Static buildup occurs when electrons transfer between materials (e.g., rubbing a balloon on hair).",
+        "chinese": "当电子在材料间转移时（如在头发上摩擦气球），会产生静电。"
+      }
+    ]
+  }
+]
