@@ -1,0 +1,405 @@
+[
+  {
+    "question": "What is matter?",
+    "options": [
+      {
+        "sentence": "Matter is anything that has mass and takes up space, including solids, liquids, and gases.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Matter is only visible substances that can be touched, excluding gases and microscopic particles.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Matter is a special form of energy that exists only in living organisms like plants and animals.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Matter refers exclusively to man-made materials like plastic and metal, not natural substances.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Matter is an invisible force that holds planets in their orbits around stars.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "All physical objects are made of matter, from air molecules to mountains.",
+        "chinese": "从空气分子到山脉，所有物理对象都是由物质组成的。"
+      }
+    ]
+  },
+  {
+    "question": "What is density?",
+    "options": [
+      {
+        "sentence": "Density is the measure of how much mass is contained in a given volume of a substance.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Density measures how transparent or opaque a material is to light passing through it.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Density is the speed at which particles move within a solid or liquid substance.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Density refers to the electrical charge stored within one cubic centimeter of any material.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Density describes how quickly heat travels through different layers of the Earth's atmosphere.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Dense materials like lead have tightly packed particles; less dense materials like foam have more space between particles.",
+        "chinese": "像铅这样的高密度材料粒子排列紧密；像泡沫这样的低密度材料粒子间有更多空间。"
+      }
+    ]
+  },
+  {
+    "question": "What is volume?",
+    "options": [
+      {
+        "sentence": "Volume is the amount of three-dimensional space an object occupies.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Volume measures the total number of atoms contained within any solid object.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Volume is the brightness level of light reflected off an object's surface.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Volume refers to the maximum weight an object can support before breaking.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Volume is the temperature at which a liquid turns into a solid state.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Volume can be measured in liters (for liquids) or cubic meters (for solids).",
+        "chinese": "液体的体积可以用升计量，固体可以用立方米计量。"
+      }
+    ]
+  },
+  {
+    "question": "What is mass?",
+    "options": [
+      {
+        "sentence": "Mass is the amount of matter in an object, measured in kilograms or grams.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Mass is the physical size of an object from one end to the other.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Mass refers to how much space an object takes up in a container.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Mass is the speed at which an object moves through a gravitational field.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Mass is the color intensity of an object when exposed to bright light.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Mass remains constant regardless of location, while weight changes with gravity.",
+        "chinese": "质量不受位置影响，而重量会随重力变化。"
+      }
+    ]
+  },
+  {
+    "question": "What is an electrical conductor?",
+    "options": [
+      {
+        "sentence": "An electrical conductor is a material that allows electric current to flow through it easily.",
+        "correct": "true"
+      },
+      {
+        "sentence": "An electrical conductor is a device that stores static electricity in insulated containers.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An electrical conductor is a tool used to measure the resistance of rubber or plastic materials.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An electrical conductor is a type of battery that can only power digital clocks.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An electrical conductor is a liquid that glows when exposed to high voltages.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Metals like copper and silver are excellent electrical conductors.",
+        "chinese": "铜和银等金属是优良的电导体。"
+      }
+    ]
+  },
+  {
+    "question": "What is a thermal insulator?",
+    "options": [
+      {
+        "sentence": "A thermal insulator is a material that reduces or prevents the transfer of heat.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A thermal insulator is a device that converts heat directly into electrical energy.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A thermal insulator is a metal alloy designed to amplify thermal energy in engines.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A thermal insulator is a chemical that releases heat when mixed with water.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A thermal insulator is a type of thermometer that works in extreme cold.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Materials like fiberglass or wool trap air pockets to slow heat transfer.",
+        "chinese": "玻璃纤维或羊毛等材料通过困住空气来减缓热传递。"
+      }
+    ]
+  },
+  {
+    "question": "What is an electrical insulator?",
+    "options": [
+      {
+        "sentence": "An electrical insulator is a material that resists the flow of electric current.",
+        "correct": "true"
+      },
+      {
+        "sentence": "An electrical insulator is a machine that generates static electricity through friction.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An electrical insulator is a type of wire that only works in high-voltage power lines.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An electrical insulator is a liquid that becomes conductive when frozen.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An electrical insulator is a device that measures electrical resistance in metals.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Rubber and glass are common insulators used to protect against electric shocks.",
+        "chinese": "橡胶和玻璃是常见的绝缘体，用于防止触电。"
+      }
+    ]
+  },
+  {
+    "question": "What is thermal energy?",
+    "options": [
+      {
+        "sentence": "Thermal energy is the total kinetic energy of particles in a substance due to their motion.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Thermal energy is a special form of light emitted by radioactive materials.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Thermal energy is the gravitational potential energy stored in large objects.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Thermal energy is the electrical charge produced by rubbing two insulators together.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Thermal energy is a type of sound wave that travels through solids faster than air.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "The faster particles vibrate, the more thermal energy a substance has.",
+        "chinese": "粒子振动越快，物质的热能就越多。"
+      }
+    ]
+  },
+  {
+    "question": "What is a particle?",
+    "options": [
+      {
+        "sentence": "A particle is a tiny piece of matter that makes up all substances, from atoms to dust.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A particle is a type of energy wave that only exists in outer space.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A particle is a microscopic organism visible only under special ultraviolet light.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A particle is a fragment of broken glass or metal created during explosions.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A particle is a unit of measurement for the brightness of stars.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Particles range in size from subatomic (electrons) to visible (pollen grains).",
+        "chinese": "粒子的尺寸范围从亚原子（电子）到可见（花粉颗粒）不等。"
+      }
+    ]
+  },
+  {
+    "question": "What is an atom?",
+    "options": [
+      {
+        "sentence": "An atom is the smallest unit of an element that retains its chemical properties.",
+        "correct": "true"
+      },
+      {
+        "sentence": "An atom is a type of microscope used to observe microscopic organisms.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An atom is a single-celled organism found in pond water.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An atom is a unit of measurement for electrical power in circuits.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An atom is a miniature solar system with planets orbiting a star at its center.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Atoms combine to form molecules, like two hydrogen atoms and one oxygen atom making water.",
+        "chinese": "原子组合形成分子，比如两个氢原子和一个氧原子组成水分子。"
+      }
+    ]
+  },
+  {
+    "question": "What is a proton?",
+    "options": [
+      {
+        "sentence": "A proton is a positively charged subatomic particle found in an atom's nucleus.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A proton is a type of energy wave emitted by radioactive materials.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A proton is a microscopic organism that feeds on electrons in electrical circuits.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A proton is a unit of measurement for the strength of magnetic fields.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A proton is a negatively charged particle that orbits the nucleus of an atom.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "The number of protons determines an element's identity (e.g., 1 proton = hydrogen).",
+        "chinese": "质子数决定元素的种类（如1个质子=氢）。"
+      }
+    ]
+  },
+  {
+    "question": "What is a neutron?",
+    "options": [
+      {
+        "sentence": "A neutron is a neutral subatomic particle in an atom's nucleus that adds mass but no charge.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A neutron is a particle that carries electrical current through wires.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A neutron is a type of electromagnetic radiation similar to X-rays.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A neutron is a tool used to measure nuclear reactions in power plants.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A neutron is another name for an electron when it gains extra energy.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Neutrons help stabilize the nucleus by balancing proton repulsion.",
+        "chinese": "中子通过平衡质子间的排斥力来稳定原子核。"
+      }
+    ]
+  },
+  {
+    "question": "What is an electron?",
+    "options": [
+      {
+        "sentence": "An electron is a negatively charged subatomic particle that orbits an atom's nucleus.",
+        "correct": "true"
+      },
+      {
+        "sentence": "An electron is a type of light particle only emitted by the sun.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An electron is a microscopic organism that lives in electrical wires.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An electron is a unit of heat measurement in thermal systems.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An electron is a neutral particle that forms the core of all atoms.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Electrons moving between atoms create electricity in conductors.",
+        "chinese": "电子在原子间的移动形成了导体中的电流。"
+      }
+    ]
+  }
+]
