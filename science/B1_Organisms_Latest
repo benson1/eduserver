@@ -7,19 +7,19 @@
         "correct": "true"
       },
       {
-        "sentence": "An organism is a machine programmed to mimic life, like a robot with organic components.",
+        "sentence": "An organism is any biological system that can maintain homeostasis, including ecosystems and entire biomes.",
         "correct": "false"
       },
       {
-        "sentence": "An organism must be visible to the naked eye, excluding microbes and fungi.",
+        "sentence": "An organism is defined by its ability to perform photosynthesis, meaning animals and fungi don't qualify.",
         "correct": "false"
       },
       {
-        "sentence": "An organism is a cluster of atoms that temporarily behaves like life due to energy surges.",
+        "sentence": "An organism must have at least 1000 cells to be considered alive, excluding all single-celled life forms.",
         "correct": "false"
       },
       {
-        "sentence": "An organism is a scientific term for non-living things that resemble living structures, like crystals.",
+        "sentence": "An organism is any collection of cells working together, meaning individual cells can't be organisms themselves.",
         "correct": "false"
       }
     ],
@@ -38,19 +38,19 @@
         "correct": "true"
       },
       {
-        "sentence": "Adaptations are temporary changes, like a tan from sunlight, that disappear in future generations.",
+        "sentence": "Adaptations are temporary physiological changes that occur within an organism's lifetime but aren't inherited.",
         "correct": "false"
       },
       {
-        "sentence": "Adaptations are only physical features, such as sharp teeth, and do not include behaviors.",
+        "sentence": "Adaptations are always physical characteristics; behavioral changes can't be considered true adaptations.",
         "correct": "false"
       },
       {
-        "sentence": "Adaptations are human inventions applied to animals, like training dogs to herd sheep.",
+        "sentence": "Adaptations are features that develop in response to immediate environmental threats within a single generation.",
         "correct": "false"
       },
       {
-        "sentence": "Adaptations are random mutations that always harm an organism’s survival.",
+        "sentence": "Adaptations are characteristics that make organisms less suited to their environment over time.",
         "correct": "false"
       }
     ],
@@ -69,19 +69,19 @@
         "correct": "true"
       },
       {
-        "sentence": "A habitat is a man-made structure, like a zoo enclosure, where animals are kept for display.",
+        "sentence": "A habitat is the geographic range where a species can be found, regardless of environmental conditions.",
         "correct": "false"
       },
       {
-        "sentence": "A habitat refers only to the climate of a region, not the physical surroundings.",
+        "sentence": "A habitat refers specifically to the climate zone where an organism lives, not its immediate surroundings.",
         "correct": "false"
       },
       {
-        "sentence": "A habitat is a genetic trait that determines an organism’s lifespan.",
+        "sentence": "A habitat is the evolutionary history of a species and where its ancestors originated.",
         "correct": "false"
       },
       {
-        "sentence": "A habitat is a fossilized remains of an ancient ecosystem, no longer relevant to living species.",
+        "sentence": "A habitat is the genetic code that determines where an organism can potentially survive.",
         "correct": "false"
       }
     ],
@@ -100,19 +100,19 @@
         "correct": "true"
       },
       {
-        "sentence": "Extinct means a species is no longer found in the wild but survives in captivity.",
+        "sentence": "Extinct means a species no longer exists in its natural habitat but survives in laboratories.",
         "correct": "false"
       },
       {
-        "sentence": "Extinct describes a species that has evolved into a completely different form.",
+        "sentence": "Extinct describes species that have become extremely rare but may still exist in small numbers.",
         "correct": "false"
       },
       {
-        "sentence": "Extinct refers to organisms that are invisible to humans but still exist.",
+        "sentence": "Extinct refers to species that have stopped evolving and remain unchanged for millions of years.",
         "correct": "false"
       },
       {
-        "sentence": "Extinct is a term for species that hibernate for centuries before reappearing.",
+        "sentence": "Extinct means a species has been replaced by a more advanced version of itself through evolution.",
         "correct": "false"
       }
     ],
@@ -131,19 +131,19 @@
         "correct": "true"
       },
       {
-        "sentence": "A vertebrate is any animal with an exoskeleton, like insects or crabs.",
+        "sentence": "A vertebrate is any animal with a hard internal or external structure for support.",
         "correct": "false"
       },
       {
-        "sentence": "A vertebrate is a plant that has developed a rigid stem for support.",
+        "sentence": "A vertebrate is an organism with bilateral symmetry, regardless of skeletal structure.",
         "correct": "false"
       },
       {
-        "sentence": "A vertebrate is a microscopic organism with a flexible, gelatinous structure.",
+        "sentence": "A vertebrate is any animal that develops from an embryo with a notochord at some stage.",
         "correct": "false"
       },
       {
-        "sentence": "A vertebrate is a mythical creature with bones made of crystal.",
+        "sentence": "A vertebrate is an animal that maintains a constant body temperature through metabolism.",
         "correct": "false"
       }
     ],
@@ -151,316 +151,6 @@
       {
         "english": "Vertebrates have a spinal column protecting their nervous system.",
         "chinese": "脊椎动物有保护神经系统的脊柱。"
-      }
-    ]
-  },
-  {
-    "question": "What is evolution?",
-    "options": [
-      {
-        "sentence": "Evolution is the process by which species gradually change over generations through genetic variation and natural selection.",
-        "correct": "true"
-      },
-      {
-        "sentence": "Evolution is a sudden transformation of one species into another within a single lifetime.",
-        "correct": "false"
-      },
-      {
-        "sentence": "Evolution is a myth about how rocks turn into living creatures over centuries.",
-        "correct": "false"
-      },
-      {
-        "sentence": "Evolution refers only to the development of technology, not biological organisms.",
-        "correct": "false"
-      },
-      {
-        "sentence": "Evolution is a controlled laboratory experiment that creates new species in a day.",
-        "correct": "false"
-      }
-    ],
-    "explanation": [
-      {
-        "english": "Darwin’s finches are a classic example of evolutionary adaptation.",
-        "chinese": "达尔文的雀鸟是进化适应的经典例子。"
-      }
-    ]
-  },
-  {
-    "question": "What defines a species?",
-    "options": [
-      {
-        "sentence": "A species is a group of organisms that can interbreed and produce fertile offspring under natural conditions.",
-        "correct": "true"
-      },
-      {
-        "sentence": "A species is any group of animals that look similar, regardless of their ability to reproduce.",
-        "correct": "false"
-      },
-      {
-        "sentence": "A species is a human classification with no basis in biological reality.",
-        "correct": "false"
-      },
-      {
-        "sentence": "A species is a single organism that has mutated into a unique form.",
-        "correct": "false"
-      },
-      {
-        "sentence": "A species is a collection of extinct fossils with no living relatives.",
-        "correct": "false"
-      }
-    ],
-    "explanation": [
-      {
-        "english": "Lions and tigers are different species; they rarely produce viable offspring (ligers/tigons).",
-        "chinese": "狮子和老虎是不同的物种，它们很少能产生可存活的后代（狮虎兽/虎狮兽）。"
-      }
-    ]
-  },
-  {
-    "question": "What are offspring?",
-    "options": [
-      {
-        "sentence": "Offspring are the young produced by organisms through reproduction, inheriting traits from parents.",
-        "correct": "true"
-      },
-      {
-        "sentence": "Offspring are genetically identical clones created in laboratories.",
-        "correct": "false"
-      },
-      {
-        "sentence": "Offspring are the discarded body parts of organisms that regenerate into new individuals.",
-        "correct": "false"
-      },
-      {
-        "sentence": "Offspring are non-living byproducts of cellular metabolism, like sweat or tears.",
-        "correct": "false"
-      },
-      {
-        "sentence": "Offspring are energy waves emitted by plants during photosynthesis.",
-        "correct": "false"
-      }
-    ],
-    "explanation": [
-      {
-        "english": "Offspring can result from sexual or asexual reproduction.",
-        "chinese": "后代可以来自有性繁殖或无性繁殖。"
-      }
-    ]
-  },
-  {
-    "question": "What is reproduction?",
-    "options": [
-      {
-        "sentence": "Reproduction is the biological process by which organisms produce new individuals of their own kind.",
-        "correct": "true"
-      },
-      {
-        "sentence": "Reproduction is the process of organisms consuming food to grow larger.",
-        "correct": "false"
-      },
-      {
-        "sentence": "Reproduction refers to the migration of animals to new habitats.",
-        "correct": "false"
-      },
-      {
-        "sentence": "Reproduction is the decay of dead organisms into nutrients for soil.",
-        "correct": "false"
-      },
-      {
-        "sentence": "Reproduction is a chemical reaction that breaks down rocks into sand.",
-        "correct": "false"
-      }
-    ],
-    "explanation": [
-      {
-        "english": "Methods include laying eggs (birds), live birth (mammals), or binary fission (bacteria).",
-        "chinese": "繁殖方式包括产卵（鸟类）、胎生（哺乳动物）或二分裂（细菌）。"
-      }
-    ]
-  },
-  {
-    "question": "What is a life cycle?",
-    "options": [
-      {
-        "sentence": "A life cycle describes the series of stages an organism passes through from birth to reproduction and death.",
-        "correct": "true"
-      },
-      {
-        "sentence": "A life cycle is a wheel-like structure that allows organisms to roll for mobility.",
-        "correct": "false"
-      },
-      {
-        "sentence": "A life cycle is a solar-powered device that measures an organism’s lifespan.",
-        "correct": "false"
-      },
-      {
-        "sentence": "A life cycle is a single day in the existence of a microorganism.",
-        "correct": "false"
-      },
-      {
-        "sentence": "A life cycle is a mythological concept with no scientific basis.",
-        "correct": "false"
-      }
-    ],
-    "explanation": [
-      {
-        "english": "Examples: Butterfly (egg → larva → pupa → adult) or human (infant → adult → senior).",
-        "chinese": "例子：蝴蝶（卵→幼虫→蛹→成虫）或人类（婴儿→成人→老年）。"
-      }
-    ]
-  },
-  {
-    "question": "What are nutrients?",
-    "options": [
-      {
-        "sentence": "Nutrients are substances (like proteins, vitamins, and minerals) that organisms need to grow and maintain health.",
-        "correct": "true"
-      },
-      {
-        "sentence": "Nutrients are toxic chemicals that organisms must avoid to survive.",
-        "correct": "false"
-      },
-      {
-        "sentence": "Nutrients are invisible gases that only plants can absorb through their leaves.",
-        "correct": "false"
-      },
-      {
-        "sentence": "Nutrients are decorative patterns on animal fur or feathers.",
-        "correct": "false"
-      },
-      {
-        "sentence": "Nutrients are synthetic materials created in factories for industrial use.",
-        "correct": "false"
-      }
-    ],
-    "explanation": [
-      {
-        "english": "Plants get nutrients from soil; animals get them from food.",
-        "chinese": "植物从土壤中获取营养；动物从食物中获取。"
-      }
-    ]
-  },
-  {
-    "question": "What is metamorphosis?",
-    "options": [
-      {
-        "sentence": "Metamorphosis is a dramatic physical transformation during an organism’s life cycle, like tadpoles becoming frogs.",
-        "correct": "true"
-      },
-      {
-        "sentence": "Metamorphosis is the sudden mutation of genes due to radiation exposure.",
-        "correct": "false"
-      },
-      {
-        "sentence": "Metamorphosis is the process of rocks eroding into smaller particles over time.",
-        "correct": "false"
-      },
-      {
-        "sentence": "Metamorphosis is the blending of two species into one hybrid creature.",
-        "correct": "false"
-      },
-      {
-        "sentence": "Metamorphosis is a fictional concept from mythology, like shape-shifting gods.",
-        "correct": "false"
-      }
-    ],
-    "explanation": [
-      {
-        "english": "Butterflies undergo complete metamorphosis (egg → caterpillar → chrysalis → adult).",
-        "chinese": "蝴蝶经历完全变态（卵→毛毛虫→蛹→成虫）。"
-      }
-    ]
-  },
-  {
-    "question": "What is oxygen used for in organisms?",
-    "options": [
-      {
-        "sentence": "Oxygen is used by many organisms for respiration, releasing energy from food.",
-        "correct": "true"
-      },
-      {
-        "sentence": "Oxygen is a waste product excreted by all animals during digestion.",
-        "correct": "false"
-      },
-      {
-        "sentence": "Oxygen is a type of nutrient absorbed only through the skin.",
-        "correct": "false"
-      },
-      {
-        "sentence": "Oxygen is a solid mineral required for building bones and shells.",
-        "correct": "false"
-      },
-      {
-        "sentence": "Oxygen is a bioluminescent gas that makes organisms glow in the dark.",
-        "correct": "false"
-      }
-    ],
-    "explanation": [
-      {
-        "english": "Humans inhale oxygen; plants produce it as a byproduct of photosynthesis.",
-        "chinese": "人类吸入氧气；植物通过光合作用产生氧气。"
-      }
-    ]
-  },
-  {
-    "question": "What are gills?",
-    "options": [
-      {
-        "sentence": "Gills are organs that allow aquatic animals to extract oxygen from water.",
-        "correct": "true"
-      },
-      {
-        "sentence": "Gills are wings adapted for flying underwater.",
-        "correct": "false"
-      },
-      {
-        "sentence": "Gills are digestive structures that break down plankton into minerals.",
-        "correct": "false"
-      },
-      {
-        "sentence": "Gills are sensory organs that detect light in deep-sea creatures.",
-        "correct": "false"
-      },
-      {
-        "sentence": "Gills are external shells that protect fish from predators.",
-        "correct": "false"
-      }
-    ],
-    "explanation": [
-      {
-        "english": "Fish and some amphibians rely on gills; mammals use lungs.",
-        "chinese": "鱼类和一些两栖动物依赖鳃；哺乳动物用肺呼吸。"
-      }
-    ]
-  },
-  {
-    "question": "What is an omnivore?",
-    "options": [
-      {
-        "sentence": "An omnivore is an organism that eats both plants and animals, like humans or bears.",
-        "correct": "true"
-      },
-      {
-        "sentence": "An omnivore is a plant that consumes small insects for nutrients.",
-        "correct": "false"
-      },
-      {
-        "sentence": "An omnivore is an animal that exclusively eats other animals.",
-        "correct": "false"
-      },
-      {
-        "sentence": "An omnivore is a microbe that feeds on rocks and metals.",
-        "correct": "false"
-      },
-      {
-        "sentence": "An omnivore is a mythical creature that eats only sunlight.",
-        "correct": "false"
-      }
-    ],
-    "explanation": [
-      {
-        "english": "Omnivores have versatile diets, unlike herbivores (plants only) or carnivores (meat only).",
-        "chinese": "杂食动物饮食多样，不同于草食动物（仅植物）或肉食动物（仅肉类）。"
       }
     ]
   }
