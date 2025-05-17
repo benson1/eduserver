@@ -7,19 +7,19 @@
         "correct": "true"
       },
       {
-        "sentence": "An organism is any biological system that can maintain homeostasis, including ecosystems and entire biomes.",
+        "sentence": "An organism is a biological system that includes many interacting parts but is not necessarily alive on its own.",
         "correct": "false"
       },
       {
-        "sentence": "An organism is defined by its ability to perform photosynthesis, meaning animals and fungi don't qualify.",
+        "sentence": "An organism is a type of cell that only exists in plants and cannot move on its own.",
         "correct": "false"
       },
       {
-        "sentence": "An organism must have at least 1000 cells to be considered alive, excluding all single-celled life forms.",
+        "sentence": "An organism refers to non-living things like rocks and water that support life.",
         "correct": "false"
       },
       {
-        "sentence": "An organism is any collection of cells working together, meaning individual cells can't be organisms themselves.",
+        "sentence": "An organism is any object that does not change or respond to its surroundings in any way.",
         "correct": "false"
       }
     ],
@@ -38,19 +38,19 @@
         "correct": "true"
       },
       {
-        "sentence": "Adaptations are temporary physiological changes that occur within an organism's lifetime but aren't inherited.",
+        "sentence": "Adaptations are changes in an organism's body that happen during its life but are not passed to offspring.",
         "correct": "false"
       },
       {
-        "sentence": "Adaptations are always physical characteristics; behavioral changes can't be considered true adaptations.",
+        "sentence": "Adaptations refer only to physical features, not to how an organism acts or behaves.",
         "correct": "false"
       },
       {
-        "sentence": "Adaptations are features that develop in response to immediate environmental threats within a single generation.",
+        "sentence": "Adaptations happen quickly and only last for one generation before disappearing.",
         "correct": "false"
       },
       {
-        "sentence": "Adaptations are characteristics that make organisms less suited to their environment over time.",
+        "sentence": "Adaptations make organisms weaker and less suited to their surroundings over time.",
         "correct": "false"
       }
     ],
@@ -69,19 +69,19 @@
         "correct": "true"
       },
       {
-        "sentence": "A habitat is the geographic range where a species can be found, regardless of environmental conditions.",
+        "sentence": "A habitat is any place where an organism might be found, even if it does not live or survive there long-term.",
         "correct": "false"
       },
       {
-        "sentence": "A habitat refers specifically to the climate zone where an organism lives, not its immediate surroundings.",
+        "sentence": "A habitat only refers to the climate or weather in a general area, not the actual home of a species.",
         "correct": "false"
       },
       {
-        "sentence": "A habitat is the evolutionary history of a species and where its ancestors originated.",
+        "sentence": "A habitat is the history of how a species changed over many years in different places.",
         "correct": "false"
       },
       {
-        "sentence": "A habitat is the genetic code that determines where an organism can potentially survive.",
+        "sentence": "A habitat is the genetic instructions that tell an organism where to live and eat.",
         "correct": "false"
       }
     ],
@@ -100,19 +100,19 @@
         "correct": "true"
       },
       {
-        "sentence": "Extinct means a species no longer exists in its natural habitat but survives in laboratories.",
+        "sentence": "Extinct means a species lives only in zoos or protected areas but not in the wild.",
         "correct": "false"
       },
       {
-        "sentence": "Extinct describes species that have become extremely rare but may still exist in small numbers.",
+        "sentence": "Extinct describes a species that is very rare but can still be found in some places.",
         "correct": "false"
       },
       {
-        "sentence": "Extinct refers to species that have stopped evolving and remain unchanged for millions of years.",
+        "sentence": "Extinct refers to species that have stopped changing but still live today.",
         "correct": "false"
       },
       {
-        "sentence": "Extinct means a species has been replaced by a more advanced version of itself through evolution.",
+        "sentence": "Extinct means a species has been replaced by newer animals but still exists in small groups.",
         "correct": "false"
       }
     ],
@@ -131,19 +131,19 @@
         "correct": "true"
       },
       {
-        "sentence": "A vertebrate is any animal with a hard internal or external structure for support.",
+        "sentence": "A vertebrate is any animal with a hard outer shell or exoskeleton for protection.",
         "correct": "false"
       },
       {
-        "sentence": "A vertebrate is an organism with bilateral symmetry, regardless of skeletal structure.",
+        "sentence": "A vertebrate is an animal that has symmetrical body parts but no bones inside.",
         "correct": "false"
       },
       {
-        "sentence": "A vertebrate is any animal that develops from an embryo with a notochord at some stage.",
+        "sentence": "A vertebrate includes all animals that breathe air regardless of their skeleton type.",
         "correct": "false"
       },
       {
-        "sentence": "A vertebrate is an animal that maintains a constant body temperature through metabolism.",
+        "sentence": "A vertebrate is any animal that keeps its body temperature constant through fur or feathers.",
         "correct": "false"
       }
     ],
@@ -162,19 +162,19 @@
         "correct": "true"
       },
       {
-        "sentence": "Evolution is a sudden transformation of an individual within one generation.",
+        "sentence": "Evolution is a sudden change in an individual animal that happens during its lifetime.",
         "correct": "false"
       },
       {
-        "sentence": "Evolution refers to an organism adapting within its lifetime.",
+        "sentence": "Evolution means a species quickly learns new skills to survive better in its environment.",
         "correct": "false"
       },
       {
-        "sentence": "Evolution is the extinction of weaker species and survival of the strongest.",
+        "sentence": "Evolution is the idea that only the strongest animals survive, ignoring inherited traits.",
         "correct": "false"
       },
       {
-        "sentence": "Evolution is when animals learn new behaviors quickly.",
+        "sentence": "Evolution is the process by which animals choose to change their bodies to fit new places.",
         "correct": "false"
       }
     ],
@@ -193,19 +193,19 @@
         "correct": "true"
       },
       {
-        "sentence": "A species includes any group of animals that live in the same habitat.",
+        "sentence": "A species is any group of animals that live together in the same place regardless of breeding.",
         "correct": "false"
       },
       {
-        "sentence": "A species is defined by how long its members live.",
+        "sentence": "A species is defined by how long the members of a group typically live in the wild.",
         "correct": "false"
       },
       {
-        "sentence": "A species is a group of organisms that eat the same food.",
+        "sentence": "A species means animals that look alike but cannot reproduce with each other.",
         "correct": "false"
       },
       {
-        "sentence": "A species is any set of animals that look alike.",
+        "sentence": "A species is a group of organisms that eat the same type of food daily.",
         "correct": "false"
       }
     ],
@@ -224,19 +224,19 @@
         "correct": "true"
       },
       {
-        "sentence": "Offspring are animals that live in the same group as their parents.",
+        "sentence": "Offspring are animals that live in the same area but may not be related by birth.",
         "correct": "false"
       },
       {
-        "sentence": "Offspring are only considered such if they look exactly like their parents.",
+        "sentence": "Offspring refers to adult animals that take care of the young in a group.",
         "correct": "false"
       },
       {
-        "sentence": "Offspring are organisms that care for the adults in a species.",
+        "sentence": "Offspring are organisms that share the same food source but not parents.",
         "correct": "false"
       },
       {
-        "sentence": "Offspring are adult members of a population who can reproduce.",
+        "sentence": "Offspring only includes animals that look exactly like their parents when born.",
         "correct": "false"
       }
     ],
@@ -255,19 +255,19 @@
         "correct": "true"
       },
       {
-        "sentence": "Reproduction is the growth of an organism during its lifetime.",
+        "sentence": "Reproduction is when an organism grows larger or develops new body parts during life.",
         "correct": "false"
       },
       {
-        "sentence": "Reproduction means learning new behaviors to survive.",
+        "sentence": "Reproduction means an organism learns new skills to survive in its environment.",
         "correct": "false"
       },
       {
-        "sentence": "Reproduction is when organisms adapt to their environment.",
+        "sentence": "Reproduction is the way animals change their habits to live better in different places.",
         "correct": "false"
       },
       {
-        "sentence": "Reproduction is the change of an organism into a different species.",
+        "sentence": "Reproduction is when one species turns into another species over time through change.",
         "correct": "false"
       }
     ],
@@ -286,19 +286,19 @@
         "correct": "true"
       },
       {
-        "sentence": "A life cycle includes only the time when an organism is fully grown.",
+        "sentence": "A life cycle refers only to the time when an organism reaches full size or maturity.",
         "correct": "false"
       },
       {
-        "sentence": "A life cycle is when an organism repeats the same actions daily.",
+        "sentence": "A life cycle is the daily routine an animal follows to find food and shelter.",
         "correct": "false"
       },
       {
-        "sentence": "A life cycle is the time it takes for an animal to find food.",
+        "sentence": "A life cycle means how long an animal can live without eating or drinking water.",
         "correct": "false"
       },
       {
-        "sentence": "A life cycle is when organisms grow without changing their form.",
+        "sentence": "A life cycle is the process by which an organism remains unchanged throughout life.",
         "correct": "false"
       }
     ],
@@ -317,19 +317,19 @@
         "correct": "true"
       },
       {
-        "sentence": "Nutrients are any liquid organisms drink daily.",
+        "sentence": "Nutrients are liquids that animals drink but do not help them grow or stay healthy.",
         "correct": "false"
       },
       {
-        "sentence": "Nutrients are only found in meat and dairy products.",
+        "sentence": "Nutrients only include minerals found in bones and shells of animals and plants.",
         "correct": "false"
       },
       {
-        "sentence": "Nutrients are minerals that make up bones and shells only.",
+        "sentence": "Nutrients are chemicals that only plants use to make food through photosynthesis.",
         "correct": "false"
       },
       {
-        "sentence": "Nutrients are substances used only by plants, not animals.",
+        "sentence": "Nutrients are any substances that animals or plants produce during growth or reproduction.",
         "correct": "false"
       }
     ],
@@ -348,19 +348,19 @@
         "correct": "true"
       },
       {
-        "sentence": "Metamorphosis is how animals grow bigger without changing form.",
+        "sentence": "Metamorphosis means an organism grows bigger but keeps the same body form its whole life.",
         "correct": "false"
       },
       {
-        "sentence": "Metamorphosis only occurs in reptiles and birds.",
+        "sentence": "Metamorphosis happens only in some reptiles and birds during early stages of life.",
         "correct": "false"
       },
       {
-        "sentence": "Metamorphosis means living in water before moving to land.",
+        "sentence": "Metamorphosis describes animals that move from water to land but do not change shape.",
         "correct": "false"
       },
       {
-        "sentence": "Metamorphosis is when an organism becomes extinct.",
+        "sentence": "Metamorphosis is when a species becomes extinct and no longer exists on Earth.",
         "correct": "false"
       }
     ],
@@ -379,19 +379,19 @@
         "correct": "true"
       },
       {
-        "sentence": "Oxygen is a liquid that flows through animal bodies.",
+        "sentence": "Oxygen is a type of liquid that circulates inside animals to carry nutrients.",
         "correct": "false"
       },
       {
-        "sentence": "Oxygen is found only in food and not in air.",
+        "sentence": "Oxygen can only be found in food and is not part of the air we breathe.",
         "correct": "false"
       },
       {
-        "sentence": "Oxygen is a type of nutrient animals get from plants only.",
+        "sentence": "Oxygen is a nutrient produced by animals during photosynthesis only at night.",
         "correct": "false"
       },
       {
-        "sentence": "Oxygen is produced only at night by all organisms.",
+        "sentence": "Oxygen is a solid mineral that animals get from eating plants and soil.",
         "correct": "false"
       }
     ],
@@ -402,34 +402,65 @@
       }
     ]
   },
-  {
-    "question": "What are gills?",
+{
+    "question": "What is a life cycle?",
     "options": [
       {
-        "sentence": "Gills are organs that allow fish and some animals to take in oxygen from water.",
+        "sentence": "A life cycle is the series of stages an organism goes through from birth to reproduction and death.",
         "correct": "true"
       },
       {
-        "sentence": "Gills are the parts fish use to find food underwater.",
+        "sentence": "A life cycle refers only to the time when an organism reaches full size or maturity.",
         "correct": "false"
       },
       {
-        "sentence": "Gills are like lungs but used only by mammals.",
+        "sentence": "A life cycle is the daily routine an animal follows to find food and shelter.",
         "correct": "false"
       },
       {
-        "sentence": "Gills are fins that help fish swim faster.",
+        "sentence": "A life cycle means how long an animal can live without eating or drinking water.",
         "correct": "false"
       },
       {
-        "sentence": "Gills are tools fish use to dig in sand.",
+        "sentence": "A life cycle is the process by which an organism remains unchanged throughout life.",
         "correct": "false"
       }
     ],
     "explanation": [
       {
-        "english": "Fish use gills to breathe underwater instead of lungs.",
-        "chinese": "鱼用鳃在水下呼吸，而不是用肺。"
+        "english": "Examples of life cycles include egg to frog or seed to tree.",
+        "chinese": "生命循环的例子包括从卵到青蛙或从种子到树。"
+      }
+    ]
+  },
+  {
+    "question": "What are gills?",
+    "options": [
+      {
+        "sentence": "Gills are organs that fish and some other animals use to breathe underwater.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Gills are the hard outer shells that protect aquatic animals from predators.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Gills are the fins that fish use to swim quickly in water.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Gills are special skin patches on animals that help them absorb sunlight.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Gills are the teeth fish use to chew plants and small animals.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Gills extract oxygen dissolved in water so fish can breathe.",
+        "chinese": "鱼鳃从水中提取溶解的氧气以便呼吸。"
       }
     ]
   },
@@ -437,30 +468,30 @@
     "question": "What is an omnivore?",
     "options": [
       {
-        "sentence": "An omnivore is an animal that eats both plants and other animals.",
+        "sentence": "An omnivore is an animal that eats both plants and animals.",
         "correct": "true"
       },
       {
-        "sentence": "An omnivore is a plant that produces its own food.",
+        "sentence": "An omnivore is an animal that eats only plants.",
         "correct": "false"
       },
       {
-        "sentence": "An omnivore is an animal that only eats meat.",
+        "sentence": "An omnivore is an animal that eats only meat.",
         "correct": "false"
       },
       {
-        "sentence": "An omnivore is an animal that only eats plants.",
+        "sentence": "An omnivore is an animal that does not need food to survive.",
         "correct": "false"
       },
       {
-        "sentence": "An omnivore is a type of decomposer that feeds on waste.",
+        "sentence": "An omnivore is an animal that only eats insects and small bugs.",
         "correct": "false"
       }
     ],
     "explanation": [
       {
-        "english": "Humans, bears, and raccoons are examples of omnivores.",
-        "chinese": "人类、熊和浣熊是杂食动物的例子。"
+        "english": "Examples of omnivores include humans, bears, and crows.",
+        "chinese": "杂食动物的例子包括人类、熊和乌鸦。"
       }
     ]
   }
