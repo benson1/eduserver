@@ -1,0 +1,130 @@
+[
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "The cat is sleeping on the couch.", "correct": "true" },
+      { "sentence": "The cats is sleeping on the couch.", "correct": "false" },
+      { "sentence": "The cat are sleeping on the couch.", "correct": "false" },
+      { "sentence": "The cat sleep on the couch.", "correct": "false" },
+      { "sentence": "The cats sleeps on the couch.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "\"Cat\" is singular, so we use \"is sleeping.\"",
+        "chinese": "“Cat” 是单数，所以要用 “is sleeping”。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "The children are playing outside.", "correct": "true" },
+      { "sentence": "The children is playing outside.", "correct": "false" },
+      { "sentence": "The child are playing outside.", "correct": "false" },
+      { "sentence": "The childrens are playing outside.", "correct": "false" },
+      { "sentence": "The childs is playing outside.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "\"Children\" is the irregular plural of \"child\" and takes \"are.\"",
+        "chinese": "“Children” 是 “child” 的不规则复数形式，所以用 “are”。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "My brother likes pizza.", "correct": "true" },
+      { "sentence": "My brother like pizza.", "correct": "false" },
+      { "sentence": "My brothers likes pizza.", "correct": "false" },
+      { "sentence": "My brothers like pizza.", "correct": "true" },
+      { "sentence": "My brother liking pizza.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "\"Brother\" is singular and takes \"likes\". \"Brothers\" is plural and takes \"like.\" Both are correct depending on the subject.",
+        "chinese": "“Brother” 是单数，用 “likes”；“Brothers” 是复数，用 “like”。两个句子都正确，取决于主语。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "The dogs bark at strangers.", "correct": "true" },
+      { "sentence": "The dog bark at strangers.", "correct": "false" },
+      { "sentence": "The dogs barks at strangers.", "correct": "false" },
+      { "sentence": "The dog barking at strangers.", "correct": "false" },
+      { "sentence": "The dogs barking at strangers.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "\"Dogs\" is plural, so use the base verb \"bark\" without -s.",
+        "chinese": "“Dogs” 是复数，所以动词不用加 -s，使用 “bark”。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "There is a book on the table.", "correct": "true" },
+      { "sentence": "There are a book on the table.", "correct": "false" },
+      { "sentence": "There is books on the table.", "correct": "false" },
+      { "sentence": "There are book on the table.", "correct": "false" },
+      { "sentence": "There is the books on the table.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Use \"is\" with a singular noun like \"a book.\"",
+        "chinese": "“A book” 是单数，要用 “is”。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "These apples are sweet.", "correct": "true" },
+      { "sentence": "These apple is sweet.", "correct": "false" },
+      { "sentence": "This apples are sweet.", "correct": "false" },
+      { "sentence": "This apple are sweet.", "correct": "false" },
+      { "sentence": "These apples is sweet.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "\"These\" goes with plural nouns and uses \"are.\"",
+        "chinese": "“These” 用于复数，要用 “are”。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "A pair of shoes is on the floor.", "correct": "true" },
+      { "sentence": "A pair of shoes are on the floor.", "correct": "false" },
+      { "sentence": "A pairs of shoes is on the floor.", "correct": "false" },
+      { "sentence": "Shoes is on the floor.", "correct": "false" },
+      { "sentence": "Pair of shoes are on the floor.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "\"A pair\" is singular even though it refers to two items, so use \"is.\"",
+        "chinese": "“A pair” 是单数，即使指两个物品，所以用 “is”。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "None of the students are absent.", "correct": "true" },
+      { "sentence": "None of the student are absent.", "correct": "false" },
+      { "sentence": "None of the students is absent.", "correct": "true" },
+      { "sentence": "No students is absent.", "correct": "false" },
+      { "sentence": "None students are absent.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "\"None of the students\" can be treated as plural or singular depending on context. Both 'are' and 'is' may be used.",
+        "chinese": "“None of the students” 根据上下文可用单数或复数，'are' 和 'is' 都可以。"
+      }
+    ]
+  }
+]
