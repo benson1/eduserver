@@ -1,0 +1,219 @@
+[
+  {
+    "question": "What is a mammal?",
+    "options": [
+      {
+        "sentence": "A mammal is a warm-blooded vertebrate animal that has hair or fur and produces milk to feed its young.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A mammal is a cold-blooded animal that lays eggs in water and breathes through gills for its entire life.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A mammal is an animal that spends its whole life in water, breathes using gills, and does not produce milk for its young.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A mammal is a type of plant that grows in tropical regions and uses sunlight to make its own food through photosynthesis.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A mammal is an insect with six legs and wings that undergoes metamorphosis during its life cycle.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Mammals include animals like humans, dogs, and whales, all of which have hair and feed their young with milk.",
+        "chinese": "哺乳动物包括人类、狗和鲸鱼等动物，它们都有毛发，并用乳汁喂养幼崽。"
+      }
+    ]
+  },
+  {
+    "question": "What are fungi?",
+    "options": [
+      {
+        "sentence": "Fungi are organisms like mushrooms and molds that decompose organic material.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Fungi are aquatic animals that use gills to breathe and swim using fins in freshwater lakes and rivers.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Fungi are green plants that use sunlight, carbon dioxide, and water to perform photosynthesis and make food.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Fungi are insects with wings that help pollinate flowering plants during their life cycle.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Fungi are a type of mineral or rock found in soil that supports plant root systems.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Fungi, such as mushrooms and molds, play a crucial role in breaking down dead organisms and recycling nutrients.",
+        "chinese": "真菌，如蘑菇和霉菌，在分解死去的生物和循环养分方面起着关键作用。"
+      }
+    ]
+  },
+  {
+    "question": "What is soil?",
+    "options": [
+      {
+        "sentence": "Soil is a mixture of minerals, organic matter, air, and water that supports plant life.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Soil is a solid rock layer deep beneath Earth's surface that does not support any biological life.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Soil is a type of clear liquid that flows in rivers and is used by animals for drinking.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Soil is the protective outer layer of an animal's body that prevents water loss and injury.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Soil is a gas that plants absorb from the atmosphere through tiny pores in their leaves.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Soil provides nutrients and a medium for plants to grow, and it's home to many organisms.",
+        "chinese": "土壤为植物生长提供养分和介质，并且是许多生物的家园。"
+      }
+    ]
+  },
+  {
+    "question": "What are rodents?",
+    "options": [
+      {
+        "sentence": "Rodents are small mammals with continuously growing front teeth, like mice and squirrels.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Rodents are reptiles with scaly skin that lay eggs and bask in the sun to regulate body temperature.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Rodents are flightless birds that use their beaks to dig into soil and eat insects for food.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Rodents are insects that build large colonies in underground tunnels and communicate using pheromones.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Rodents are amphibians that go through metamorphosis and spend part of their life in water and part on land.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Rodents include animals like rats, beavers, and hamsters, known for their sharp incisors.",
+        "chinese": "啮齿动物包括老鼠、海狸和仓鼠等，以其锋利的门牙而闻名。"
+      }
+    ]
+  },
+  {
+    "question": "What is hibernation?",
+    "options": [
+      {
+        "sentence": "Hibernation is a state where animals sleep for extended periods during winter to conserve energy.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Hibernation is when animals travel to warmer regions during colder months to find more food and shelter.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Hibernation is the biological process where animals shed their outer layer of skin as they grow.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Hibernation is a daily sleeping cycle where animals rest at night and are active during the day.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Hibernation is when animals develop thicker fur and a layer of fat before the winter season begins.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Animals like bears and bats hibernate to survive cold seasons with limited food.",
+        "chinese": "熊和蝙蝠等动物通过冬眠来度过食物有限的寒冷季节。"
+      }
+    ]
+  },
+  {
+    "question": "What is an amphibian?",
+    "options": [
+      {
+        "sentence": "An amphibian is a cold-blooded vertebrate that lives both in water and on land, like frogs and salamanders.",
+        "correct": "true"
+      },
+      {
+        "sentence": "An amphibian is a warm-blooded flying animal that uses feathers to travel long distances.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An amphibian is a saltwater fish that breathes using gills and never leaves the ocean.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An amphibian is a mammal that lays eggs and feeds its young with milk in freshwater ponds.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An amphibian is a dry-skinned reptile that lives entirely on land and lays leathery eggs.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Amphibians, such as frogs and toads, begin life in water and often move to land as they mature.",
+        "chinese": "两栖动物，如青蛙和蟾蜍，生命始于水中，成熟后常移居陆地。"
+      }
+    ]
+  },
+  {
+    "question": "What is a reptile?",
+    "options": [
+      {
+        "sentence": "A reptile is a cold-blooded vertebrate with dry, scaly skin, like snakes and lizards.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A reptile is a feathered animal that lays hard-shelled eggs and flies using strong wings.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A reptile is an amphibian that starts its life in water and breathes through gills before growing lungs.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A reptile is a warm-blooded animal with fur that nurses its young with milk.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A reptile is a fish with fins and scales that lives only in saltwater environments.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Reptiles include animals like turtles, crocodiles, and snakes, characterized by their scaly skin.",
+        "chinese": "爬行动物包括乌龟、鳄鱼和蛇等，以其鳞片状皮肤为特征。"
+      }
+    ]
+  }
+]
