@@ -1,0 +1,312 @@
+[
+    {
+        "question": "What are particles?",
+        "options": [
+            {
+                "sentence": "Particles are tiny units of matter, such as atoms or molecules, that make up all substances.",
+                "correct": "true"
+            },
+            {
+                "sentence": "Particles are large objects like planets and moons that orbit around stars in space.",
+                "correct": "false"
+            },
+            {
+                "sentence": "Particles are living organisms too small to be seen without a microscope, like bacteria.",
+                "correct": "false"
+            },
+            {
+                "sentence": "Particles are beams of light that travel in straight lines and cannot be seen directly.",
+                "correct": "false"
+            },
+            {
+                "sentence": "Particles are clouds of gas that float in the atmosphere and cause weather changes.",
+                "correct": "false"
+            }
+        ],
+        "explanation": [
+            {
+                "english": "Particles are the building blocks of matter, including atoms and molecules.",
+                "chinese": "粒子是物质的基本组成部分，包括原子和分子。"
+            }
+        ]
+    },
+    {
+        "question": "What are atoms?",
+        "options": [
+            {
+                "sentence": "Atoms are the smallest units of matter that retain the properties of an element.",
+                "correct": "true"
+            },
+            {
+                "sentence": "Atoms are cells found in the human body that help fight off infections.",
+                "correct": "false"
+            },
+            {
+                "sentence": "Atoms are particles of light that carry energy and travel through space.",
+                "correct": "false"
+            },
+            {
+                "sentence": "Atoms are types of rocks that form deep inside Earth's crust.",
+                "correct": "false"
+            },
+            {
+                "sentence": "Atoms are gases in the atmosphere that make the sky appear blue.",
+                "correct": "false"
+            }
+        ],
+        "explanation": [
+            {
+                "english": "Atoms consist of a nucleus with protons and neutrons, surrounded by electrons.",
+                "chinese": "原子由含有质子和中子的原子核以及围绕其旋转的电子组成。"
+            }
+        ]
+    },
+    {
+        "question": "What is Sagittarius A*?",
+        "options": [
+            {
+                "sentence": "Sagittarius A* is a supermassive black hole located at the center of the Milky Way galaxy.",
+                "correct": "true"
+            },
+            {
+                "sentence": "Sagittarius A* is a bright star visible from Earth that changes color every few years.",
+                "correct": "false"
+            },
+            {
+                "sentence": "Sagittarius A* is a planet with rings located in the Sagittarius constellation.",
+                "correct": "false"
+            },
+            {
+                "sentence": "Sagittarius A* is a large asteroid that passes near Earth every century.",
+                "correct": "false"
+            },
+            {
+                "sentence": "Sagittarius A* is a space telescope used to study distant galaxies.",
+                "correct": "false"
+            }
+        ],
+        "explanation": [
+            {
+                "english": "Sagittarius A* is believed to be a black hole with a mass millions of times that of the Sun.",
+                "chinese": "人们认为人马座A*是一个质量是太阳数百万倍的黑洞，位于银河系中心。"
+            }
+        ]
+    },
+    {
+        "question": "How fast does sound travel in air?",
+        "options": [
+            {
+                "sentence": "Sound travels in air at about 1235 kilometers per hour (km/h).",
+                "correct": "true"
+            },
+            {
+                "sentence": "Sound travels in air faster than light at nearly 300,000 kilometers per hour.",
+                "correct": "false"
+            },
+            {
+                "sentence": "Sound cannot travel in air; it only travels through solids and liquids.",
+                "correct": "false"
+            },
+            {
+                "sentence": "Sound travels in air at the speed of walking, about 5 kilometers per hour.",
+                "correct": "false"
+            },
+            {
+                "sentence": "Sound travels in air at a constant speed of 100 kilometers per second.",
+                "correct": "false"
+            }
+        ],
+        "explanation": [
+            {
+                "english": "In dry air at 20°C, sound travels at approximately 343 meters per second or about 1235 km/h.",
+                "chinese": "在20摄氏度的干燥空气中，声音以大约343米/秒或约1235公里/小时的速度传播。"
+            }
+        ]
+    },
+    {
+        "question": "What is pitch in sound?",
+        "options": [
+            {
+                "sentence": "Pitch is how high or low a sound seems to a listener.",
+                "correct": "true"
+            },
+            {
+                "sentence": "Pitch is the loudness or softness of a sound.",
+                "correct": "false"
+            },
+            {
+                "sentence": "Pitch is the speed at which sound travels through the air.",
+                "correct": "false"
+            },
+            {
+                "sentence": "Pitch is the amount of time it takes for a sound to fade away.",
+                "correct": "false"
+            },
+            {
+                "sentence": "Pitch is the direction from which a sound is coming.",
+                "correct": "false"
+            }
+        ],
+        "explanation": [
+            {
+                "english": "Pitch depends on the frequency of a sound wave; higher frequencies produce higher pitches.",
+                "chinese": "音调取决于声波的频率；频率越高，音调越高。"
+            }
+        ]
+    },
+    {
+        "question": "What is a high frequency sound?",
+        "options": [
+            {
+                "sentence": "A high frequency sound has more waves per second and a higher pitch, like a whistle.",
+                "correct": "true"
+            },
+            {
+                "sentence": "A high frequency sound is quieter than low frequency sounds.",
+                "correct": "false"
+            },
+            {
+                "sentence": "A high frequency sound travels slower than low frequency sounds in air.",
+                "correct": "false"
+            },
+            {
+                "sentence": "A high frequency sound is only found in music and not in nature.",
+                "correct": "false"
+            },
+            {
+                "sentence": "A high frequency sound has fewer vibrations per second than a low frequency sound.",
+                "correct": "false"
+            }
+        ],
+        "explanation": [
+            {
+                "english": "High frequency sounds have shorter wavelengths and are heard as high-pitched tones.",
+                "chinese": "高频声音具有较短的波长，听起来像是高音。"
+            }
+        ]
+    },
+    {
+        "question": "What is a low frequency sound?",
+        "options": [
+            {
+                "sentence": "A low frequency sound has fewer waves per second and a lower pitch, like a drum beat.",
+                "correct": "true"
+            },
+            {
+                "sentence": "A low frequency sound is always louder than high frequency sounds.",
+                "correct": "false"
+            },
+            {
+                "sentence": "A low frequency sound cannot travel through air.",
+                "correct": "false"
+            },
+            {
+                "sentence": "A low frequency sound has a very high pitch, like a whistle.",
+                "correct": "false"
+            },
+            {
+                "sentence": "A low frequency sound is the same as silence.",
+                "correct": "false"
+            }
+        ],
+        "explanation": [
+            {
+                "english": "Low frequency sounds have longer wavelengths and are heard as deep or low-pitched tones.",
+                "chinese": "低频声音具有较长的波长，听起来像是低音。"
+            }
+        ]
+    },
+    {
+        "question": "Which type of wave is a sound wave?",
+        "options": [
+            {
+                "sentence": "A sound wave is a longitudinal wave that moves through a medium like air, water, or solids.",
+                "correct": "true"
+            },
+            {
+                "sentence": "A sound wave is a transverse wave like light that can travel through a vacuum.",
+                "correct": "false"
+            },
+            {
+                "sentence": "A sound wave is a magnetic wave that affects electrical devices nearby.",
+                "correct": "false"
+            },
+            {
+                "sentence": "A sound wave is a standing wave that remains still in one place.",
+                "correct": "false"
+            },
+            {
+                "sentence": "A sound wave is a circular wave that moves in spirals like a tornado.",
+                "correct": "false"
+            }
+        ],
+        "explanation": [
+            {
+                "english": "Sound waves are longitudinal, meaning the particles in the medium move back and forth in the same direction as the wave.",
+                "chinese": "声波是纵波，介质中的粒子沿波的传播方向来回振动。"
+            }
+        ]
+    },
+    {
+        "question": "What is the eardrum?",
+        "options": [
+            {
+                "sentence": "The eardrum is a thin membrane in the ear that vibrates when sound waves hit it.",
+                "correct": "true"
+            },
+            {
+                "sentence": "The eardrum is a bone in the ear that helps us chew food.",
+                "correct": "false"
+            },
+            {
+                "sentence": "The eardrum is a muscle that controls how much light enters the eye.",
+                "correct": "false"
+            },
+            {
+                "sentence": "The eardrum is a part of the brain that processes sounds.",
+                "correct": "false"
+            },
+            {
+                "sentence": "The eardrum is a liquid-filled sac that helps with balance and movement.",
+                "correct": "false"
+            }
+        ],
+        "explanation": [
+            {
+                "english": "The eardrum transfers sound vibrations to the bones of the middle ear.",
+                "chinese": "鼓膜将声音的振动传递到中耳的听小骨。"
+            }
+        ]
+    },
+    {
+        "question": "What is the auditory nerve?",
+        "options": [
+            {
+                "sentence": "The auditory nerve is a nerve that carries sound signals from the ear to the brain.",
+                "correct": "true"
+            },
+            {
+                "sentence": "The auditory nerve is a blood vessel that supplies the eardrum with oxygen.",
+                "correct": "false"
+            },
+            {
+                "sentence": "The auditory nerve is a muscle that moves the ear to capture more sound.",
+                "correct": "false"
+            },
+            {
+                "sentence": "The auditory nerve is a tube that drains fluid from the ear to the throat.",
+                "correct": "false"
+            },
+            {
+                "sentence": "The auditory nerve is a bone in the inner ear that helps us stay balanced.",
+                "correct": "false"
+            }
+        ],
+        "explanation": [
+            {
+                "english": "The auditory nerve sends electrical signals from the cochlea to the brain for sound processing.",
+                "chinese": "听神经将来自耳蜗的电信号传送到大脑进行声音处理。"
+            }
+        ]
+    }
+]
