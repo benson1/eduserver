@@ -1,0 +1,343 @@
+[
+  {
+    "question": "What is a particle?",
+    "options": [
+      {
+        "sentence": "A particle is a tiny piece of matter, such as an atom or a molecule, which is one of the basic units that make up everything in the universe.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A particle is a large celestial body like a planet or star that exists in space and has its own gravitational field influencing other bodies around it.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A particle is a type of living organism that can grow, reproduce, and respond to stimuli in its environment, similar to bacteria or plants.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A particle is a form of energy like light or heat that can travel through space but does not have mass or occupy space like physical matter does.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A particle is a large-scale chemical mixture composed of multiple compounds that reacts strongly with water and air, often used in industrial manufacturing.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Particles are the small units of matter that combine to form all substances, including atoms, molecules, and subatomic components.",
+        "chinese": "粒子是构成所有物质的小单位，包括原子、分子和亚原子成分。"
+      }
+    ]
+  },
+  {
+    "question": "What is a metal alloy?",
+    "options": [
+      {
+        "sentence": "A metal alloy is a material made by combining two or more metals, or a metal with other elements, to enhance its strength, durability, or other properties.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A metal alloy is a single pure metal that cannot be mixed with any other elements or metals and always exists in a natural, uncombined form.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A metal alloy is a non-metallic compound formed entirely of gases that are used in chemical reactions to produce light and sound but lack solidity.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A metal alloy is a liquid solution composed of water and dissolved minerals found in oceans and lakes, providing essential nutrients to aquatic life.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A metal alloy is an organic substance produced by plants during photosynthesis that stores energy for growth and reproduction processes.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Metal alloys like steel and bronze are created to improve the characteristics of metals, such as making them harder or more resistant to corrosion.",
+        "chinese": "金属合金如钢和青铜被制造出来以改善金属的特性，比如使其更坚硬或更耐腐蚀。"
+      }
+    ]
+  },
+  {
+    "question": "What is an element?",
+    "options": [
+      {
+        "sentence": "An element is a pure substance made up of only one type of atom, which cannot be broken down into simpler substances by chemical means.",
+        "correct": "true"
+      },
+      {
+        "sentence": "An element is a mixture of various substances that can be physically separated into different components without changing their chemical properties.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An element is a large biological structure found in plants and animals that performs a specific function, like the heart or the leaf.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An element is a form of electromagnetic radiation, such as X-rays or ultraviolet light, which does not have mass or occupy space as matter does.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An element is a complex machine built by humans to carry out tasks in factories and industries, operating based on programmed instructions.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Elements like hydrogen, oxygen, and gold are the fundamental building blocks of all matter and are listed in the periodic table.",
+        "chinese": "元素如氢、氧和金是所有物质的基本组成部分，列在元素周期表中。"
+      }
+    ]
+  },
+  {
+    "question": "What is a metallic element?",
+    "options": [
+      {
+        "sentence": "A metallic element is an element that has properties such as good electrical conductivity, malleability, and luster, like iron, copper, and gold.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A metallic element is a gas that is colorless, odorless, and is found abundantly in the Earth's atmosphere, primarily responsible for supporting life through respiration.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A metallic element is a type of plastic polymer used extensively in packaging and manufacturing due to its lightweight and flexible properties.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A metallic element is a liquid chemical used in laboratories for cooling purposes, which evaporates quickly and is non-conductive to electricity.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A metallic element is a type of rock that forms the Earth's crust, composed mainly of non-living minerals and does not conduct electricity or heat effectively.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Metallic elements conduct electricity and heat well and are typically shiny and malleable, important in construction and manufacturing.",
+        "chinese": "金属元素导电和导热性能好，通常有光泽且易锻造，在建筑和制造业中非常重要。"
+      }
+    ]
+  },
+  {
+    "question": "What is carbon?",
+    "options": [
+      {
+        "sentence": "Carbon is a chemical element that forms the basis of all known life, existing in forms like graphite and diamond, and is essential in organic compounds.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Carbon is a rare gas found only in deep space, which does not react with other elements and is used primarily for cooling spacecraft systems.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Carbon is a synthetic plastic material created in laboratories for use in packaging and insulation, lacking any natural occurrence in the environment.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Carbon is a heavy metal element that is toxic to living organisms and is often found in industrial waste but not in natural biological systems.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Carbon is a type of water-soluble vitamin necessary for human nutrition and energy metabolism, often found in fruits and vegetables.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Carbon is fundamental to organic chemistry and life, forming countless compounds including those that make up living organisms.",
+        "chinese": "碳是有机化学和生命的基础，形成无数化合物，包括构成生物体的物质。"
+      }
+    ]
+  },
+  {
+    "question": "What is iron?",
+    "options": [
+      {
+        "sentence": "Iron is a metallic element known for its strength and magnetic properties, commonly used in construction and manufacturing tools and machinery.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Iron is a type of gas released during volcanic eruptions that cools quickly to form atmospheric clouds affecting weather patterns temporarily.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Iron is an organic compound found in fruits and vegetables, essential for human health but not used in any industrial applications due to instability.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Iron is a synthetic fiber produced in textile factories, used to make lightweight and breathable clothing materials for sportswear and outdoor gear.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Iron is a non-metallic mineral found in soil that plants absorb directly to perform photosynthesis and energy conversion processes efficiently.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Iron is widely used in the form of steel and other alloys due to its durability and magnetic properties essential in construction.",
+        "chinese": "铁因其耐用性和磁性，在建筑中以钢铁和其他合金形式广泛使用。"
+      }
+    ]
+  },
+  {
+    "question": "What is a chemical compound?",
+    "options": [
+      {
+        "sentence": "A chemical compound is a substance formed when two or more different elements chemically bond together in fixed proportions, like water or salt.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A chemical compound is a mixture of various elements physically combined, where each component retains its own chemical properties and can be separated by filtration.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A chemical compound is a type of energy wave that travels through space and does not have mass or a fixed chemical structure, such as microwaves or radio waves.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A chemical compound is a living organism capable of photosynthesis and reproduction, responsible for maintaining ecosystems by producing oxygen.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A chemical compound is a geological formation consisting of layers of sedimentary rock formed over millions of years through erosion and compression.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Chemical compounds like water (H₂O) and sodium chloride (NaCl) have unique properties different from their component elements.",
+        "chinese": "化合物如水（H₂O）和氯化钠（NaCl）具有与其组成元素不同的独特性质。"
+      }
+    ]
+  },
+  {
+    "question": "What is an atom?",
+    "options": [
+      {
+        "sentence": "An atom is the smallest unit of an element that retains the chemical properties of that element, consisting of protons, neutrons, and electrons.",
+        "correct": "true"
+      },
+      {
+        "sentence": "An atom is a large cluster of molecules forming a solid mass visible to the naked eye, such as a rock or a piece of metal.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An atom is a form of electromagnetic radiation that travels at the speed of light and has no mass or electrical charge.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An atom is a biological cell capable of independent reproduction and metabolism, forming the basic unit of life in organisms.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An atom is a manufactured device used in laboratories to detect particles and measure radiation levels accurately.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Atoms are the basic building blocks of matter, making up everything around us through various combinations.",
+        "chinese": "原子是物质的基本组成部分，通过不同组合构成我们周围的万物。"
+      }
+    ]
+  },
+  {
+    "question": "What is a proton?",
+    "options": [
+      {
+        "sentence": "A proton is a positively charged subatomic particle found in the nucleus of an atom, contributing to the atomic number and identity of an element.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A proton is a neutral particle located in the outer regions of an atom, responsible for chemical bonding and electrical conductivity in materials.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A proton is a negatively charged particle that orbits the nucleus in an atom and determines the isotope type of that element.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A proton is a type of electromagnetic wave emitted during radioactive decay, which can penetrate materials and is used in medical imaging.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A proton is a macroscopic object visible to the naked eye, such as a metal ball used in experiments to demonstrate magnetism and gravity.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Protons carry a positive electrical charge and reside in the atomic nucleus, determining the element’s identity.",
+        "chinese": "质子带正电荷，位于原子核中，决定元素的身份。"
+      }
+    ]
+  },
+  {
+    "question": "What is a neutron?",
+    "options": [
+      {
+        "sentence": "A neutron is an electrically neutral subatomic particle found in the nucleus of an atom that helps stabilize the nucleus and affects isotopes.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A neutron is a positively charged particle located outside the nucleus that influences the chemical properties of an element through bonding.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A neutron is a charged particle that carries electricity through wires, enabling the flow of electric current in circuits and devices.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A neutron is a type of radiation emitted by the sun, responsible for causing sunburn and affecting the Earth's ozone layer over time.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A neutron is a microscopic living organism found in soil that contributes to nutrient recycling and soil fertility for plant growth.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Neutrons have no charge and contribute to the mass of the nucleus, playing a role in nuclear stability and isotopes.",
+        "chinese": "中子不带电荷，增加原子核的质量，参与核稳定性和同位素形成。"
+      }
+    ]
+  },
+  {
+    "question": "What is an electron?",
+    "options": [
+      {
+        "sentence": "An electron is a negatively charged subatomic particle that orbits the nucleus of an atom and is involved in chemical bonding and electricity.",
+        "correct": "true"
+      },
+      {
+        "sentence": "An electron is a large particle found inside the nucleus with a positive charge that determines the atomic mass of an element.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An electron is a neutral particle that makes up the majority of an atom’s mass and is responsible for holding the nucleus together through strong forces.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An electron is a type of biological cell that carries oxygen through the bloodstream to different parts of the body for respiration.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An electron is a type of chemical compound found in soil that provides nutrients essential for plant growth and development.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Electrons carry a negative charge and are essential for forming chemical bonds and conducting electricity.",
+        "chinese": "电子带负电荷，对于形成化学键和导电至关重要。"
+      }
+    ]
+  }
+]
