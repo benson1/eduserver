@@ -1,0 +1,405 @@
+[
+    {
+        "question": "What is a mixture?",
+        "options": [
+            {
+                "sentence": "A mixture is made by combining two or more substances without a chemical change occurring.",
+                "correct": "true"
+            },
+            {
+                "sentence": "A mixture is a single pure substance that cannot be broken down into simpler substances.",
+                "correct": "false"
+            },
+            {
+                "sentence": "A mixture is a type of metal that is made entirely from one kind of atom or molecule.",
+                "correct": "false"
+            },
+            {
+                "sentence": "A mixture is a gas that fills a room and always reacts with any other gas around it.",
+                "correct": "false"
+            },
+            {
+                "sentence": "A mixture is a type of energy that flows when substances are heated or cooled.",
+                "correct": "false"
+            }
+        ],
+        "explanation": [
+            {
+                "english": "Mixtures involve combining substances without changing their individual properties.",
+                "chinese": "混合物是由两种或多种物质混合而成，各种成分保持其原有性质。"
+            }
+        ]
+    },
+    {
+        "question": "What is a solution?",
+        "options": [
+            {
+                "sentence": "A solution is a type of mixture where one substance dissolves completely into another.",
+                "correct": "true"
+            },
+            {
+                "sentence": "A solution is a solid object that cannot be separated into different parts or materials.",
+                "correct": "false"
+            },
+            {
+                "sentence": "A solution is a container used in science labs to hold liquids during an experiment.",
+                "correct": "false"
+            },
+            {
+                "sentence": "A solution is a type of energy wave that travels through water and air as sound.",
+                "correct": "false"
+            },
+            {
+                "sentence": "A solution is a mineral found deep underground that forms crystals under pressure.",
+                "correct": "false"
+            }
+        ],
+        "explanation": [
+            {
+                "english": "In a solution, substances mix at a molecular level and appear uniform throughout.",
+                "chinese": "溶液是其中一种物质完全溶解在另一种中的均匀混合物。"
+            }
+        ]
+    },
+    {
+        "question": "What is a homogeneous mixture?",
+        "options": [
+            {
+                "sentence": "A homogeneous mixture is a mixture that looks the same throughout and has uniform properties.",
+                "correct": "true"
+            },
+            {
+                "sentence": "A homogeneous mixture is a type of solid that has completely different substances in it.",
+                "correct": "false"
+            },
+            {
+                "sentence": "A homogeneous mixture is a group of elements that have never been chemically combined.",
+                "correct": "false"
+            },
+            {
+                "sentence": "A homogeneous mixture is a form of heat energy produced by friction and movement.",
+                "correct": "false"
+            },
+            {
+                "sentence": "A homogeneous mixture is a living organism that contains many different tissues and cells.",
+                "correct": "false"
+            }
+        ],
+        "explanation": [
+            {
+                "english": "Homogeneous mixtures have evenly distributed components and look the same throughout.",
+                "chinese": "均匀混合物的成分分布均匀，整个看起来一致。"
+            }
+        ]
+    },
+    {
+        "question": "What is a heterogeneous mixture?",
+        "options": [
+            {
+                "sentence": "A heterogeneous mixture is a mixture where the different parts are visible and not evenly mixed.",
+                "correct": "true"
+            },
+            {
+                "sentence": "A heterogeneous mixture is a type of gas that flows in only one direction in a straight line.",
+                "correct": "false"
+            },
+            {
+                "sentence": "A heterogeneous mixture is a type of animal that can live on both land and in water.",
+                "correct": "false"
+            },
+            {
+                "sentence": "A heterogeneous mixture is a liquid that changes into a gas at room temperature without heating.",
+                "correct": "false"
+            },
+            {
+                "sentence": "A heterogeneous mixture is a musical instrument made from different metals and strings.",
+                "correct": "false"
+            }
+        ],
+        "explanation": [
+            {
+                "english": "In a heterogeneous mixture, the individual components remain distinct and are often visible.",
+                "chinese": "非均匀混合物中，各种成分不均匀分布，通常可以看见不同的部分。"
+            }
+        ]
+    },
+    {
+        "question": "What is filtration?",
+        "options": [
+            {
+                "sentence": "Filtration is a method used to separate solid particles from a liquid or gas using a filter material.",
+                "correct": "true"
+            },
+            {
+                "sentence": "Filtration is a process that joins atoms together to form new chemical compounds and structures.",
+                "correct": "false"
+            },
+            {
+                "sentence": "Filtration is the act of measuring the temperature of a substance using a glass thermometer.",
+                "correct": "false"
+            },
+            {
+                "sentence": "Filtration is when two substances are mixed until one becomes invisible under a microscope.",
+                "correct": "false"
+            },
+            {
+                "sentence": "Filtration is the process of heating a material until it reaches a point of magnetic activity.",
+                "correct": "false"
+            }
+        ],
+        "explanation": [
+            {
+                "english": "Filtration is commonly used in laboratories and homes to remove solid impurities from liquids.",
+                "chinese": "过滤常用于实验室和家庭中，从液体中去除固体杂质。"
+            }
+        ]
+    },
+    {
+        "question": "What is distillation?",
+        "options": [
+            {
+                "sentence": "Distillation is a technique used to separate substances based on their boiling points through heating and cooling.",
+                "correct": "true"
+            },
+            {
+                "sentence": "Distillation is the melting of solid materials into new liquids under intense pressure and light.",
+                "correct": "false"
+            },
+            {
+                "sentence": "Distillation is the grinding of substances into powder using mechanical energy in factories.",
+                "correct": "false"
+            },
+            {
+                "sentence": "Distillation is the breaking apart of molecules into atoms using chemical reactions alone.",
+                "correct": "false"
+            },
+            {
+                "sentence": "Distillation is when heat changes a substance into a gas that does not return to a liquid form.",
+                "correct": "false"
+            }
+        ],
+        "explanation": [
+            {
+                "english": "Distillation helps purify liquids or separate liquid mixtures by using different boiling points.",
+                "chinese": "蒸馏通过加热和冷却，根据沸点不同净化或分离液体混合物。"
+            }
+        ]
+    },
+    {
+        "question": "What is a chemical change?",
+        "options": [
+            {
+                "sentence": "A chemical change results in the formation of a new substance with different properties from the original.",
+                "correct": "true"
+            },
+            {
+                "sentence": "A chemical change is when an object only changes its shape without any new substances forming.",
+                "correct": "false"
+            },
+            {
+                "sentence": "A chemical change is the movement of objects from one place to another through applied force.",
+                "correct": "false"
+            },
+            {
+                "sentence": "A chemical change is when a gas turns into a solid by extreme cold without liquid formation.",
+                "correct": "false"
+            },
+            {
+                "sentence": "A chemical change is the warming of an object without changing its color or composition.",
+                "correct": "false"
+            }
+        ],
+        "explanation": [
+            {
+                "english": "Chemical changes are usually irreversible and often involve color changes, gas production, or temperature change.",
+                "chinese": "化学变化通常是不可逆的，伴随颜色变化、气体产生或温度变化。"
+            }
+        ]
+    },
+    {
+        "question": "What is rust?",
+        "options": [
+            {
+                "sentence": "Rust is a reddish-brown substance formed when iron reacts with oxygen and moisture in the air.",
+                "correct": "true"
+            },
+            {
+                "sentence": "Rust is a soft material formed when rubber is burned completely without oxygen added.",
+                "correct": "false"
+            },
+            {
+                "sentence": "Rust is a pure metal found in underground mines that has not been altered by weathering.",
+                "correct": "false"
+            },
+            {
+                "sentence": "Rust is a dark gas that appears during the melting of steel at very high temperatures.",
+                "correct": "false"
+            },
+            {
+                "sentence": "Rust is a strong chemical used to stop water from evaporating in metal containers.",
+                "correct": "false"
+            }
+        ],
+        "explanation": [
+            {
+                "english": "Rusting is a type of chemical change where iron reacts with water and oxygen over time.",
+                "chinese": "生锈是一种化学变化，铁与水和氧气反应形成氧化铁。"
+            }
+        ]
+    },
+    {
+        "question": "What is a physical change?",
+        "options": [
+            {
+                "sentence": "A physical change affects a substance's appearance but does not change its chemical structure.",
+                "correct": "true"
+            },
+            {
+                "sentence": "A physical change forms entirely new chemical substances that cannot be turned back easily.",
+                "correct": "false"
+            },
+            {
+                "sentence": "A physical change only happens in gases when they are compressed under pressure quickly.",
+                "correct": "false"
+            },
+            {
+                "sentence": "A physical change creates new elements from simple compounds through fusion reactions.",
+                "correct": "false"
+            },
+            {
+                "sentence": "A physical change is when sound travels differently based on temperature conditions around it.",
+                "correct": "false"
+            }
+        ],
+        "explanation": [
+            {
+                "english": "Physical changes can often be reversed and do not involve new substances being created.",
+                "chinese": "物理变化通常是可逆的，不会产生新物质。"
+            }
+        ]
+    },
+    {
+        "question": "What is evaporation?",
+        "options": [
+            {
+                "sentence": "Evaporation is the process where liquid changes into gas, usually from the surface at room temperature.",
+                "correct": "true"
+            },
+            {
+                "sentence": "Evaporation is the mixing of two solids into a single new solid without applying heat.",
+                "correct": "false"
+            },
+            {
+                "sentence": "Evaporation is when gas becomes a denser liquid through direct freezing with chemicals.",
+                "correct": "false"
+            },
+            {
+                "sentence": "Evaporation is a reaction between light and metal that forms a temporary glow or spark.",
+                "correct": "false"
+            },
+            {
+                "sentence": "Evaporation is the filtering of gases to remove all particles by spinning rapidly in space.",
+                "correct": "false"
+            }
+        ],
+        "explanation": [
+            {
+                "english": "Evaporation happens when molecules in a liquid gain energy and escape into the air as vapor.",
+                "chinese": "蒸发是液体分子获得能量并逃逸到空气中形成蒸汽的过程。"
+            }
+        ]
+    },
+    {
+        "question": "What is condensation?",
+        "options": [
+            {
+                "sentence": "Condensation is the process where gas turns into liquid when it loses heat and cools down.",
+                "correct": "true"
+            },
+            {
+                "sentence": "Condensation is a method of filtering solids using gases under strong pressure and light.",
+                "correct": "false"
+            },
+            {
+                "sentence": "Condensation is a change where solids melt without any heat due to electrical discharge.",
+                "correct": "false"
+            },
+            {
+                "sentence": "Condensation is the complete breakdown of a molecule into individual elements by magnets.",
+                "correct": "false"
+            },
+            {
+                "sentence": "Condensation is the combination of cold air and sound waves that create small explosions.",
+                "correct": "false"
+            }
+        ],
+        "explanation": [
+            {
+                "english": "Condensation usually occurs when warm, moist air meets a cold surface and forms droplets.",
+                "chinese": "凝结通常发生在温暖潮湿的空气遇到冷表面时，形成水滴。"
+            }
+        ]
+    },
+    {
+        "question": "What is sublimation?",
+        "options": [
+            {
+                "sentence": "Sublimation is the process where a solid changes directly into a gas without becoming liquid.",
+                "correct": "true"
+            },
+            {
+                "sentence": "Sublimation is the solidification of gases into sharp crystals through extreme weather pressure.",
+                "correct": "false"
+            },
+            {
+                "sentence": "Sublimation is the separation of liquids through slow heating until bubbles form.",
+                "correct": "false"
+            },
+            {
+                "sentence": "Sublimation is the measurement of surface tension in liquids during exposure to magnets.",
+                "correct": "false"
+            },
+            {
+                "sentence": "Sublimation is the chemical bonding of two metals to form new magnetic properties.",
+                "correct": "false"
+            }
+        ],
+        "explanation": [
+            {
+                "english": "Sublimation can be seen when dry ice turns directly into carbon dioxide gas.",
+                "chinese": "升华可以在干冰直接变成二氧化碳气体时观察到。"
+            }
+        ]
+    },
+    {
+        "question": "What is melting?",
+        "options": [
+            {
+                "sentence": "Melting is the process where a solid turns into a liquid when it gains enough heat.",
+                "correct": "true"
+            },
+            {
+                "sentence": "Melting is the freezing of gases into solids using cold temperatures and strong magnetic fields.",
+                "correct": "false"
+            },
+            {
+                "sentence": "Melting is the explosion of liquid particles when heated in a vacuum without pressure.",
+                "correct": "false"
+            },
+            {
+                "sentence": "Melting is the ability of metals to stick together through pressure without changing shape.",
+                "correct": "false"
+            },
+            {
+                "sentence": "Melting is the result of physical force separating water molecules from soil particles.",
+                "correct": "false"
+            }
+        ],
+        "explanation": [
+            {
+                "english": "Melting occurs when a substance absorbs heat and its molecules move faster, turning into liquid.",
+                "chinese": "熔化是物质吸收热量后分子运动加快，由固态变为液态的过程。"
+            }
+        ]
+    }
+]
