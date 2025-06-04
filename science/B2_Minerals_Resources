@@ -1,0 +1,312 @@
+[
+  {
+    "question": "What is graphite?",
+    "options": [
+      {
+        "sentence": "Graphite is a soft form of carbon used in pencils and as a dry lubricant.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Graphite is a metal found underground and used in heavy machinery.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Graphite is a plant material found in forests and used in herbal medicine.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Graphite is a chemical spray used to prevent rust and surface damage.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Graphite is a volcanic gas that affects climate and air conditions.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Graphite is a natural form of carbon often used in pencils and as a lubricant.",
+        "chinese": "石墨是一种天然形式的碳，常用于铅笔和润滑剂。"
+      }
+    ]
+  },
+  {
+    "question": "What is soil?",
+    "options": [
+      {
+        "sentence": "Soil is the top layer of Earth that supports plant growth and contains nutrients.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Soil is a hard metal extracted from deep rocks for industrial production.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Soil is water stored underground in rocky layers and used for drinking.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Soil is a sky-based gas that helps control pressure and weather events.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Soil is a fossil compound burned for heat and transportation energy.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Soil is the upper layer of the Earth that plants grow in and animals live on.",
+        "chinese": "土壤是地球的表层，植物在其中生长，动物也在其上生活。"
+      }
+    ]
+  },
+  {
+    "question": "What does it mean to decompose?",
+    "options": [
+      {
+        "sentence": "To decompose means to break down into simpler parts through natural decay.",
+        "correct": "true"
+      },
+      {
+        "sentence": "To decompose means to freeze materials until they harden into solid ice.",
+        "correct": "false"
+      },
+      {
+        "sentence": "To decompose means to clean surfaces using chemicals that dissolve dirt.",
+        "correct": "false"
+      },
+      {
+        "sentence": "To decompose means to burn items into smoke and fine ashes by fire.",
+        "correct": "false"
+      },
+      {
+        "sentence": "To decompose means to mix items to create a brand new combined object.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Decompose means to break down naturally into simpler materials over time.",
+        "chinese": "分解是指在一段时间内自然分解为更简单的物质。"
+      }
+    ]
+  },
+  {
+    "question": "What does it mean to biodegrade?",
+    "options": [
+      {
+        "sentence": "Biodegrade means to be broken down naturally by microbes over time.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Biodegrade means to melt materials into new shapes using high heat.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Biodegrade means to dissolve materials with strong pressurized water.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Biodegrade means to change into a harder and more durable material.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Biodegrade means to resist change through long-term weather effects.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Biodegrade means to break down through the action of natural organisms.",
+        "chinese": "生物降解是指在微生物作用下自然分解。"
+      }
+    ]
+  },
+  {
+    "question": "What does it mean to recycle?",
+    "options": [
+      {
+        "sentence": "To recycle means to process old materials so they can be used again.",
+        "correct": "true"
+      },
+      {
+        "sentence": "To recycle means to dump trash into oceans away from the mainland.",
+        "correct": "false"
+      },
+      {
+        "sentence": "To recycle means to burn waste to make energy for heating systems.",
+        "correct": "false"
+      },
+      {
+        "sentence": "To recycle means to bury trash in layers with soil in a landfill site.",
+        "correct": "false"
+      },
+      {
+        "sentence": "To recycle means to leave garbage in forests for slow breakdown.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Recycling turns waste into usable materials to reduce environmental harm.",
+        "chinese": "回收是指将废物转化为可再利用的材料，以减少环境危害。"
+      }
+    ]
+  },
+  {
+    "question": "What does it mean to reuse something?",
+    "options": [
+      {
+        "sentence": "Reuse means to use something more than once instead of throwing it out.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Reuse means to treat items with chemicals that make them look new.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Reuse means to burn trash to create fuel in waste-to-energy plants.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Reuse means to hide waste deep underground to keep it out of sight.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Reuse means to design products that are meant to be used one time.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Reusing means using items again to reduce waste and save resources.",
+        "chinese": "重复使用是指再次使用物品，以减少浪费并节约资源。"
+      }
+    ]
+  },
+  {
+    "question": "What does reduce mean in waste management?",
+    "options": [
+      {
+        "sentence": "Reduce means to lower how much we use or throw away in daily life.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Reduce means to cut waste into small bits using sharp machines.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Reduce means to throw garbage away as fast and often as possible.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Reduce means to add more packaging so items look more appealing.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Reduce means to create products that cannot be recycled at all.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "To reduce means to use fewer resources and generate less waste overall.",
+        "chinese": "减少是指尽量少使用资源，减少垃圾的产生。"
+      }
+    ]
+  },
+  {
+    "question": "What is pollution?",
+    "options": [
+      {
+        "sentence": "Pollution is harmful waste added to air, water, or land by human activity.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Pollution is wind movement that helps clear the skies and dry the air.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Pollution is a cloud formation that creates patterns in the sky daily.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Pollution is cold weather that causes plants to lose their green leaves.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Pollution is the shaking of Earth caused by natural underground forces.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Pollution is contamination of the environment due to human waste or activity.",
+        "chinese": "污染是指由于人类活动而造成环境的破坏和污染。"
+      }
+    ]
+  },
+  {
+    "question": "What is a renewable resource?",
+    "options": [
+      {
+        "sentence": "A renewable resource can naturally replenish itself, like wind or sunlight.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A renewable resource is mined once and cannot be reused after burning.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A renewable resource is stored in landfills for use in future factories.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A renewable resource is made by mixing plastic and metal to reuse it.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A renewable resource is a chemical that can burn for a long period.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Renewable resources are naturally replaced and won’t run out quickly.",
+        "chinese": "可再生资源是指可以自然补充，不会很快用尽的资源。"
+      }
+    ]
+  },
+  {
+    "question": "What is a non-renewable resource?",
+    "options": [
+      {
+        "sentence": "A non-renewable resource is used faster than nature can replace it, like coal or oil.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A non-renewable resource is created by sunlight and wind energy daily.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A non-renewable resource is formed by recycling materials over time.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A non-renewable resource is found in trees and regrows every season.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A non-renewable resource is built in labs to generate reusable energy.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Non-renewable resources are limited and cannot be replaced quickly by nature.",
+        "chinese": "不可再生资源是指自然界不能快速补充的有限资源。"
+      }
+    ]
+  }
+]
