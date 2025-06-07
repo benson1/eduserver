@@ -1,0 +1,146 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A natural resource is something found in nature that people use.", "correct": "true" },
+      { "sentence": "A natural resource is a machine made in a factory.", "correct": "false" },
+      { "sentence": "A natural resource is always man-made.", "correct": "false" },
+      { "sentence": "A natural resource is a type of toy.", "correct": "false" },
+      { "sentence": "A natural resource cannot be found on Earth.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Natural resources are materials from Earth, such as water, air, soil, and minerals, used by humans for survival and development.",
+        "chinese": "自然资源是地球上的材料，如水、空气、土壤和矿物，人类用来生存和发展。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Reuse means using something again instead of throwing it away.", "correct": "true" },
+      { "sentence": "Reuse means buying new things every day.", "correct": "false" },
+      { "sentence": "Reuse means breaking things on purpose.", "correct": "false" },
+      { "sentence": "Reuse means using more electricity.", "correct": "false" },
+      { "sentence": "Reuse means burning trash for fun.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Reusing involves using items more than once to reduce waste and save resources.",
+        "chinese": "重复使用是指多次使用物品，以减少浪费和节省资源。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Reduce means using less of something to help the environment.", "correct": "true" },
+      { "sentence": "Reduce means making more garbage.", "correct": "false" },
+      { "sentence": "Reduce means using more water and electricity.", "correct": "false" },
+      { "sentence": "Reduce means cutting down more trees.", "correct": "false" },
+      { "sentence": "Reduce means driving more cars.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Reducing is the practice of using fewer resources to minimize environmental impact.",
+        "chinese": "减少是使用更少资源以减少对环境影响的做法。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Recycle means turning waste into new products.", "correct": "true" },
+      { "sentence": "Recycle means throwing trash on the ground.", "correct": "false" },
+      { "sentence": "Recycle means using food as paper.", "correct": "false" },
+      { "sentence": "Recycle means burning plastic in the open.", "correct": "false" },
+      { "sentence": "Recycle means never cleaning up.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Recycling involves processing used materials into new items to prevent waste.",
+        "chinese": "回收是将用过的材料加工成新物品，以减少浪费。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "To conserve means to protect and save resources.", "correct": "true" },
+      { "sentence": "To conserve means to waste water.", "correct": "false" },
+      { "sentence": "To conserve means to pollute rivers.", "correct": "false" },
+      { "sentence": "To conserve means using extra energy.", "correct": "false" },
+      { "sentence": "To conserve means cutting all the trees.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Conserving means using resources wisely to make sure they are available in the future.",
+        "chinese": "保护是明智地使用资源，以确保未来仍可使用。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Water vapour is water in gas form in the air.", "correct": "true" },
+      { "sentence": "Water vapour is solid ice.", "correct": "false" },
+      { "sentence": "Water vapour is dry land.", "correct": "false" },
+      { "sentence": "Water vapour is made of metal.", "correct": "false" },
+      { "sentence": "Water vapour is rain falling from the sky.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Water vapour is the gaseous form of water found in the atmosphere, often created through evaporation.",
+        "chinese": "水蒸气是大气中水的气态形式，通常通过蒸发产生。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Fossil fuels come from ancient plants and animals.", "correct": "true" },
+      { "sentence": "Fossil fuels are made from plastic bottles.", "correct": "false" },
+      { "sentence": "Fossil fuels are completely clean and renewable.", "correct": "false" },
+      { "sentence": "Fossil fuels grow on trees.", "correct": "false" },
+      { "sentence": "Fossil fuels are not real energy sources.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Fossil fuels, such as coal, oil, and natural gas, are formed from the remains of ancient organisms.",
+        "chinese": "化石燃料，如煤、石油和天然气，是由古代生物的遗骸形成的。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Renewable energy comes from natural sources that can be replaced.", "correct": "true" },
+      { "sentence": "Renewable energy never exists in nature.", "correct": "false" },
+      { "sentence": "Renewable energy comes only from fossil fuels.", "correct": "false" },
+      { "sentence": "Renewable energy is used only once and thrown away.", "correct": "false" },
+      { "sentence": "Renewable energy means burning garbage.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Renewable energy includes solar, wind, hydro, and other sources that can be replenished naturally.",
+        "chinese": "可再生能源包括太阳能、风能、水能等可以自然补充的能源。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Non-renewable energy comes from sources that can run out.", "correct": "true" },
+      { "sentence": "Non-renewable energy never ends and lasts forever.", "correct": "false" },
+      { "sentence": "Non-renewable energy is made from recycling cans.", "correct": "false" },
+      { "sentence": "Non-renewable energy grows on trees.", "correct": "false" },
+      { "sentence": "Non-renewable energy comes from rainwater.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Non-renewable energy sources like coal, oil, and gas are limited and cannot be replaced quickly.",
+        "chinese": "不可再生能源，如煤、石油和天然气，是有限的，无法迅速补充。"
+      }
+    ]
+  }
+]
