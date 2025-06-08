@@ -126,5 +126,133 @@
         "chinese": "杜威强调通过经验和反思学习，影响了进步教育。"
       }
     ]
+  },
+   {
+    "question": "What best illustrates the anchoring bias?",
+    "options": [
+      { "sentence": "Judging the value of a used car based on its initial sticker price, even after being told it's overpriced.", "correct": "true" },
+      { "sentence": "Refusing to update one's beliefs even after receiving credible new evidence.", "correct": "false" },
+      { "sentence": "Accepting an expert's opinion without evaluating the evidence.", "correct": "false" },
+      { "sentence": "Comparing two arguments based on the speaker's charisma rather than content.", "correct": "false" },
+      { "sentence": "Avoiding risk due to a previous bad decision.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Anchoring bias occurs when individuals rely too heavily on an initial piece of information when making decisions.",
+        "chinese": "锚定偏差是指人在做决策时过于依赖最初获得的信息。"
+      }
+    ]
+  },
+  {
+    "question": "Which example best represents the availability heuristic?",
+    "options": [
+      { "sentence": "Assuming plane crashes are more common than they are because of frequent news reports.", "correct": "true" },
+      { "sentence": "Choosing the first answer that comes to mind on a test without verifying it.", "correct": "false" },
+      { "sentence": "Believing your favorite team is the best due to emotional attachment.", "correct": "false" },
+      { "sentence": "Buying a lottery ticket because you saw someone win on TV.", "correct": "false" },
+      { "sentence": "Judging the likelihood of an event based on statistical data.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The availability heuristic is a mental shortcut that relies on immediate examples that come to a person's mind.",
+        "chinese": "可得性启发是指人们倾向于根据脑中容易想起的例子来判断事情的可能性。"
+      }
+    ]
+  },
+  {
+    "question": "What best demonstrates the Dunning-Kruger effect?",
+    "options": [
+      { "sentence": "A novice confidently giving advice on a subject they barely understand.", "correct": "true" },
+      { "sentence": "An expert hesitating to speak due to awareness of complexity.", "correct": "false" },
+      { "sentence": "Changing opinions based on popular trends rather than evidence.", "correct": "false" },
+      { "sentence": "Ignoring feedback that contradicts your assumptions.", "correct": "false" },
+      { "sentence": "Remembering past events as more predictable than they were.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The Dunning-Kruger effect describes how people with low ability tend to overestimate their competence.",
+        "chinese": "邓宁-克鲁格效应描述了能力较低的人倾向于高估自己的能力。"
+      }
+    ]
+  },
+  {
+    "question": "Which is the best example of the sunk cost fallacy?",
+    "options": [
+      { "sentence": "Continuing to invest in a failing business because you've already spent so much on it.", "correct": "true" },
+      { "sentence": "Comparing multiple options before making a decision.", "correct": "false" },
+      { "sentence": "Choosing to quit a project after realizing it's unworkable.", "correct": "false" },
+      { "sentence": "Switching to a better plan when new data becomes available.", "correct": "false" },
+      { "sentence": "Avoiding decisions to prevent regret.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The sunk cost fallacy is the tendency to continue an endeavor once an investment in money, effort, or time has been made.",
+        "chinese": "沉没成本谬误是指在已经投入金钱、精力或时间后，继续进行一项注定失败的事情。"
+      }
+    ]
+  },
+  {
+    "question": "Which situation best shows the bandwagon effect?",
+    "options": [
+      { "sentence": "Adopting a belief simply because it is popular among peers.", "correct": "true" },
+      { "sentence": "Supporting a cause after doing extensive independent research.", "correct": "false" },
+      { "sentence": "Changing your opinion after learning new factual information.", "correct": "false" },
+      { "sentence": "Being skeptical of popular views unless supported by evidence.", "correct": "false" },
+      { "sentence": "Rejecting a trend because it conflicts with personal values.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The bandwagon effect is a psychological phenomenon where people do something primarily because others are doing it.",
+        "chinese": "从众效应是一种心理现象，人们主要因为他人都在做某事而去模仿。"
+      }
+    ]
+  },
+  {
+    "question": "Which best reflects hindsight bias?",
+    "options": [
+      { "sentence": "Believing an event was predictable after it has already happened.", "correct": "true" },
+      { "sentence": "Blaming someone for not foreseeing an unpredictable crisis.", "correct": "false" },
+      { "sentence": "Assuming good outcomes were the result of skill, not luck.", "correct": "false" },
+      { "sentence": "Expecting future events to follow past patterns.", "correct": "false" },
+      { "sentence": "Overemphasizing the importance of intuition in decision-making.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Hindsight bias is the tendency to see past events as having been more predictable than they actually were.",
+        "chinese": "事后偏差是指人们倾向于认为过去的事件比实际更容易预测。"
+      }
+    ]
+  },
+  {
+    "question": "What demonstrates confirmation bias?",
+    "options": [
+      { "sentence": "Only reading news sources that agree with your political beliefs.", "correct": "true" },
+      { "sentence": "Feeling uncertain when exposed to opposing viewpoints.", "correct": "false" },
+      { "sentence": "Ignoring political news altogether.", "correct": "false" },
+      { "sentence": "Actively questioning both sides of an argument.", "correct": "false" },
+      { "sentence": "Relying on experts for information rather than social media.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Confirmation bias is the tendency to search for, interpret, and recall information that confirms one’s preexisting beliefs.",
+        "chinese": "确认偏差是指人们倾向于寻找、解释和记住支持自己既有信念的信息。"
+      }
+    ]
+  },
+  {
+    "question": "Which scenario demonstrates the framing effect?",
+    "options": [
+      { "sentence": "Choosing a surgery with a 90% survival rate over one with a 10% mortality rate, despite them being identical.", "correct": "true" },
+      { "sentence": "Favoring products that are priced higher due to perceived value.", "correct": "false" },
+      { "sentence": "Using past experiences to guide decisions.", "correct": "false" },
+      { "sentence": "Avoiding decisions when information is too complex.", "correct": "false" },
+      { "sentence": "Changing your view when provided with statistical data.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The framing effect occurs when people make different decisions based on how information is presented, even if logically equivalent.",
+        "chinese": "框架效应是指人们会根据信息呈现方式的不同做出不同决策，即使这些信息在逻辑上是等同的。"
+      }
+    ]
   }
 ]
