@@ -1,0 +1,281 @@
+[
+  {
+    "question": "What is condensation?",
+    "options": [
+      {
+        "sentence": "Condensation is the process where gas turns into liquid when it cools down.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Condensation is when a solid melts into a liquid due to a rise in temperature, usually involving ice or metal.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Condensation is the freezing of water droplets into ice cubes without any intermediate stage of liquid.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Condensation is the process used to separate salt from seawater using evaporation and collection of the steam.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Condensation breaks chemicals into simpler forms.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Condensation happens when water vapor cools and turns into liquid water.",
+        "chinese": "凝结是水蒸气冷却并变成液态水的过程。"
+      }
+    ]
+  },
+  {
+    "question": "What is evaporation?",
+    "options": [
+      {
+        "sentence": "Evaporation is the process where liquid turns into gas from the surface.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Evaporation is the process where water turns into ice crystals by losing energy and changing state to a solid.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Evaporation refers to when water breaks down into hydrogen and oxygen molecules during electrolysis.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Evaporation is a natural process where solid surfaces absorb moisture from the surrounding air and retain it.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Evaporation is sunlight reacting with dust.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Evaporation occurs when liquid water gains energy and becomes water vapor.",
+        "chinese": "蒸发是液态水获得能量后变成水蒸气的过程。"
+      }
+    ]
+  },
+  {
+    "question": "What is precipitation?",
+    "options": [
+      {
+        "sentence": "Precipitation is any form of water that falls from the atmosphere to the ground.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Precipitation is a phase change where gases are converted into plasma due to extreme heating in the upper atmosphere.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Precipitation is the upward movement of water vapor into the sky, forming clouds through evaporation.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Precipitation refers to removing impurities from water using advanced filtration systems or chemical treatments.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Precipitation is only snow.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Precipitation includes rain, snow, sleet, or hail falling from clouds.",
+        "chinese": "降水包括从云中落下的雨、雪、冻雨或冰雹等水的形式。"
+      }
+    ]
+  },
+  {
+    "question": "What is the water cycle?",
+    "options": [
+      {
+        "sentence": "The water cycle is the continuous movement of water through evaporation, condensation, and precipitation.",
+        "correct": "true"
+      },
+      {
+        "sentence": "The water cycle is a one-time process where water changes into vapor and remains in the atmosphere permanently without returning.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The water cycle describes how animals drink and store water in their bodies for hydration and energy conversion.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The water cycle only occurs in large oceans and doesn't involve clouds or land areas.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The water cycle splits water into gases.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "The water cycle moves water through the environment in a repeating pattern.",
+        "chinese": "水循环是水在环境中以蒸发、凝结和降水等方式不断循环的过程。"
+      }
+    ]
+  },
+  {
+    "question": "What are cumulus clouds?",
+    "options": [
+      {
+        "sentence": "Cumulus clouds are fluffy, white clouds that often appear on sunny days.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Cumulus clouds are very thin, icy clouds that stretch across the sky in streaks and usually form at high altitudes.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Cumulus clouds only develop at night during intense storms and are known for producing hail and lightning.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Cumulus clouds are large and dark, mostly filled with snow and commonly found in freezing conditions.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Cumulus clouds touch the ground.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Cumulus clouds look like cotton balls and usually signal fair weather.",
+        "chinese": "积云看起来像棉花球，通常表示天气晴朗。"
+      }
+    ]
+  },
+  {
+    "question": "What are cirrus clouds?",
+    "options": [
+      {
+        "sentence": "Cirrus clouds are thin, wispy clouds high in the sky made mostly of ice crystals.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Cirrus clouds are heavy, rain-filled clouds that bring strong winds, lightning, and thunder during storms.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Cirrus clouds form at very low altitudes and are responsible for fog and mist in valley areas.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Cirrus clouds are tall and thick clouds that hover just above mountains and produce heavy snow.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Cirrus clouds form tornadoes.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Cirrus clouds are high-level clouds that often signal changing weather.",
+        "chinese": "卷云是高空中的细长云层，通常预示天气即将变化。"
+      }
+    ]
+  },
+  {
+    "question": "What are stratus clouds?",
+    "options": [
+      {
+        "sentence": "Stratus clouds are low, gray clouds that often cover the sky like a blanket.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Stratus clouds are thin layers of clouds that appear high above the earth and are composed of tiny ice particles.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Stratus clouds are known for intense thunderstorms and often carry large amounts of electricity and hail.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Stratus clouds only appear at mountain peaks and are shaped like towers or cones pointing upward.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Stratus clouds are invisible.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Stratus clouds form low in the sky and can bring light rain or drizzle.",
+        "chinese": "层云在低空形成，可能带来小雨或毛毛雨。"
+      }
+    ]
+  },
+  {
+    "question": "What is a tornado?",
+    "options": [
+      {
+        "sentence": "A tornado is a spinning column of air that touches both the cloud and the ground.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A tornado is a massive ocean wave caused by earthquakes beneath the sea, often leading to flooding on coasts.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A tornado is a special kind of cloud that only forms during heavy snowfall in cold regions.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A tornado is a large storm that lasts for days over the ocean, creating strong winds and heavy rainfall.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A tornado is a heatwave.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Tornadoes are powerful rotating windstorms that can cause damage when they reach the ground.",
+        "chinese": "龙卷风是强烈旋转的风暴，触地时会造成破坏。"
+      }
+    ]
+  },
+  {
+    "question": "What is meteorology?",
+    "options": [
+      {
+        "sentence": "Meteorology is the study of weather and atmospheric conditions.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Meteorology is the scientific study of rocks, volcanoes, and other geological formations beneath the Earth’s crust.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Meteorology is a scientific method for detecting earthquakes by analyzing seismic waves and ground vibrations.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Meteorology is the science of tracking planets, stars, and celestial bodies through telescopes and space probes.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Meteorology creates maps.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Meteorology helps scientists predict weather by studying the atmosphere.",
+        "chinese": "气象学通过研究大气帮助科学家预测天气。"
+      }
+    ]
+  }
+]
