@@ -126,5 +126,53 @@
         "chinese": "重力使物体落到地上。它将物体相互吸引，比如吸引向地球。"
       }
     ]
-  }
+  },
+{
+  "question": "Which sentence is scientifically correct?",
+  "options": [
+    { "sentence": "An object in motion stays in motion and an object at rest stays at rest unless acted upon by a force.", "correct": "true" },
+    { "sentence": "Objects stop moving on their own even if no force is applied.", "correct": "false" },
+    { "sentence": "Objects only move when gravity is completely removed.", "correct": "false" },
+    { "sentence": "Motion only starts when an object loses all of its weight.", "correct": "false" },
+    { "sentence": "Things only stay still if they are frozen or stuck in place.", "correct": "false" }
+  ],
+  "explanation": [
+    {
+      "english": "Newton's First Law says that things don't start or stop moving unless something causes them to. It's called the law of inertia.",
+      "chinese": "牛顿第一定律说，物体不会自行开始或停止运动，除非有外力作用。这叫做惯性定律。"
+    }
+  ]
+},
+{
+  "question": "Which sentence is scientifically correct?",
+  "options": [
+    { "sentence": "Force equals mass times acceleration (F = ma).", "correct": "true" },
+    { "sentence": "Mass equals force divided by time (m = F/t).", "correct": "false" },
+    { "sentence": "Acceleration happens only when gravity is removed.", "correct": "false" },
+    { "sentence": "The lighter something is, the slower it always moves.", "correct": "false" },
+    { "sentence": "Force is unrelated to how much an object weighs.", "correct": "false" }
+  ],
+  "explanation": [
+    {
+      "english": "Newton's Second Law shows how much force is needed to move something. The more mass it has, the more force you need.",
+      "chinese": "牛顿第二定律说明了需要多少力才能让物体移动。物体质量越大，需要的力也越大。"
+    }
+  ]
+},
+{
+  "question": "Which sentence is scientifically correct?",
+  "options": [
+    { "sentence": "For every action, there is an equal and opposite reaction.", "correct": "true" },
+    { "sentence": "Objects react only when forces come from above or below.", "correct": "false" },
+    { "sentence": "Pushing on something small causes it to pull you the same way.", "correct": "false" },
+    { "sentence": "Reactions happen first, and then actions follow.", "correct": "false" },
+    { "sentence": "Force always moves from the stronger object to the weaker one.", "correct": "false" }
+  ],
+  "explanation": [
+    {
+      "english": "Newton's Third Law means that if you push something, it pushes back with the same amount of force in the opposite direction.",
+      "chinese": "牛顿第三定律表示，如果你推动某物，它也会以相同的力向相反方向推回你。"
+    }
+  ]
+}
 ]
