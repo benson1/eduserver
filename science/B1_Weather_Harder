@@ -1,0 +1,194 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Weather describes the conditions in the air at a certain time and place.", "correct": "true" },
+      { "sentence": "Weather describes the type of soil under the ground.", "correct": "false" },
+      { "sentence": "Weather is the shape of the trees in a forest.", "correct": "false" },
+      { "sentence": "Weather means how loud animals sound at night.", "correct": "false" },
+      { "sentence": "Weather is the movement of cars through a city.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Weather refers to the state of the atmosphere at a specific place and time, including temperature, humidity, precipitation, wind, and visibility.",
+        "chinese": "天气是指特定时间和地点大气的状态，包括温度、湿度、降水、风和能见度等。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A thermometer measures temperature.", "correct": "true" },
+      { "sentence": "A thermometer measures the level of sound in a room.", "correct": "false" },
+      { "sentence": "A thermometer shows how fast the wind is blowing.", "correct": "false" },
+      { "sentence": "A thermometer counts the number of raindrops.", "correct": "false" },
+      { "sentence": "A thermometer is used to weigh solid objects.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A thermometer is a tool used to measure how hot or cold something is, or the temperature of the environment.",
+        "chinese": "温度计是用来测量某物有多热或多冷，或环境温度的工具。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Temperature tells how hot or cold something is.", "correct": "true" },
+      { "sentence": "Temperature tells how tall or short something is.", "correct": "false" },
+      { "sentence": "Temperature tells how fast something is moving.", "correct": "false" },
+      { "sentence": "Temperature tells how bright the sun is shining.", "correct": "false" },
+      { "sentence": "Temperature tells how far away the clouds are.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Temperature measures the degree of heat or cold of an object or environment.",
+        "chinese": "温度是衡量物体或环境冷热程度的指标。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A rain gauge measures how much rain has fallen.", "correct": "true" },
+      { "sentence": "A rain gauge shows how much wind is blowing.", "correct": "false" },
+      { "sentence": "A rain gauge is used to predict cloud shapes.", "correct": "false" },
+      { "sentence": "A rain gauge counts how many days it is sunny.", "correct": "false" },
+      { "sentence": "A rain gauge records the strength of thunder.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A rain gauge is a weather tool that collects and measures the amount of rainfall.",
+        "chinese": "雨量计是一个收集和测量降雨量的天气工具。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The water cycle moves water through the Earth and atmosphere.", "correct": "true" },
+      { "sentence": "The water cycle explains how clouds stay in one place forever.", "correct": "false" },
+      { "sentence": "The water cycle shows how wind makes mountains taller.", "correct": "false" },
+      { "sentence": "The water cycle keeps all lakes the same size always.", "correct": "false" },
+      { "sentence": "The water cycle controls how strong the sun shines.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The water cycle describes how water moves through evaporation, condensation, precipitation, and collection.",
+        "chinese": "水循环描述了水通过蒸发、凝结、降水和汇集的移动过程。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Evaporation is when water turns into gas and rises into the air.", "correct": "true" },
+      { "sentence": "Evaporation is when cold air makes ice form on trees.", "correct": "false" },
+      { "sentence": "Evaporation is when water turns into clouds directly.", "correct": "false" },
+      { "sentence": "Evaporation is when water freezes quickly from heat.", "correct": "false" },
+      { "sentence": "Evaporation is when fog becomes thicker at night.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Evaporation is the process where liquid water changes into water vapour due to heat.",
+        "chinese": "蒸发是液态水因受热变成水蒸气的过程。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Condensation is when gas turns back into liquid water.", "correct": "true" },
+      { "sentence": "Condensation is when water turns into a solid block instantly.", "correct": "false" },
+      { "sentence": "Condensation is when clouds split into smaller clouds.", "correct": "false" },
+      { "sentence": "Condensation happens when air pushes clouds apart.", "correct": "false" },
+      { "sentence": "Condensation makes steam rise higher into the sky.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Condensation is the process where water vapour cools down and becomes liquid water again.",
+        "chinese": "凝结是水蒸气冷却后再次变成液态水的过程。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Precipitation is water falling from clouds as rain, snow, or hail.", "correct": "true" },
+      { "sentence": "Precipitation is when clouds move quickly across the sky.", "correct": "false" },
+      { "sentence": "Precipitation is when fog rises and disappears.", "correct": "false" },
+      { "sentence": "Precipitation is when air gets colder and stays dry.", "correct": "false" },
+      { "sentence": "Precipitation is when clouds form above warm oceans.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Precipitation is any form of water—rain, snow, sleet, or hail—that falls from clouds to the Earth's surface.",
+        "chinese": "降水是指从云中落到地面的任何形式的水，如雨、雪、冰雹等。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Cumulus clouds are fluffy and white, often seen on sunny days.", "correct": "true" },
+      { "sentence": "Cumulus clouds are thin and spread like long feathers.", "correct": "false" },
+      { "sentence": "Cumulus clouds are dark and bring lightning every day.", "correct": "false" },
+      { "sentence": "Cumulus clouds are invisible and only seen with machines.", "correct": "false" },
+      { "sentence": "Cumulus clouds are flat and stretch across the entire sky.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Cumulus clouds are puffy, white clouds that usually mean fair weather.",
+        "chinese": "积云是蓬松洁白的云，通常表示天气晴朗。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Cirrus clouds are thin, wispy clouds high in the sky.", "correct": "true" },
+      { "sentence": "Cirrus clouds are thick and very low in the sky.", "correct": "false" },
+      { "sentence": "Cirrus clouds bring heavy snow and strong winds.", "correct": "false" },
+      { "sentence": "Cirrus clouds form when rain touches warm ground.", "correct": "false" },
+      { "sentence": "Cirrus clouds cover the sky like a blanket of fog.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Cirrus clouds are high-altitude clouds made of ice crystals that appear wispy and thin.",
+        "chinese": "卷云是由冰晶组成的高空云，外观细长轻薄。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Cumulonimbus clouds are tall clouds that can bring thunderstorms.", "correct": "true" },
+      { "sentence": "Cumulonimbus clouds are short clouds seen only in winter.", "correct": "false" },
+      { "sentence": "Cumulonimbus clouds are the same as cirrus clouds.", "correct": "false" },
+      { "sentence": "Cumulonimbus clouds form during dry and calm weather.", "correct": "false" },
+      { "sentence": "Cumulonimbus clouds only appear above oceans at night.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Cumulonimbus clouds are large storm clouds that can produce thunder, lightning, and heavy rain.",
+        "chinese": "积雨云是会带来雷电和大雨的巨大风暴云。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Meteorology is the study of weather and the atmosphere.", "correct": "true" },
+      { "sentence": "Meteorology is the study of plants and how they grow.", "correct": "false" },
+      { "sentence": "Meteorology is a method of measuring ocean waves.", "correct": "false" },
+      { "sentence": "Meteorology is the practice of watching stars move.", "correct": "false" },
+      { "sentence": "Meteorology is a way to make maps of mountains.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Meteorology is the science that studies the atmosphere and weather patterns.",
+        "chinese": "气象学是研究大气和天气变化的科学。"
+      }
+    ]
+  }
+]
