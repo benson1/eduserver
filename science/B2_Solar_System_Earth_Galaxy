@@ -1,0 +1,162 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A moon phase is the shape of the moon we see from Earth as it orbits around us.", "correct": "true" },
+      { "sentence": "A moon phase is how quickly the moon rotates on its own axis every night.", "correct": "false" },
+      { "sentence": "A moon phase is the color of the moon as it reflects light from nearby stars.", "correct": "false" },
+      { "sentence": "A moon phase is the number of stars that can be seen close to the moon each night.", "correct": "false" },
+      { "sentence": "A moon phase is the sound waves the moon sends out while moving through space.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Moon phases are the changing shapes of the moon that we see as it moves around Earth, depending on how sunlight hits it.",
+        "chinese": "月相是月亮围绕地球运行时，我们看到的由太阳光照射角度不同而变化的形状。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The northern hemisphere is the upper half of Earth located above the equator.", "correct": "true" },
+      { "sentence": "The northern hemisphere is the layer of clouds that floats near the North Pole.", "correct": "false" },
+      { "sentence": "The northern hemisphere is the icy region that covers the South Pole year-round.", "correct": "false" },
+      { "sentence": "The northern hemisphere is the magnetic center located deep inside the Earth.", "correct": "false" },
+      { "sentence": "The northern hemisphere is a group of islands located near the equator line.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The northern hemisphere is the half of the Earth that lies north of the equator and includes continents like North America and Europe.",
+        "chinese": "北半球是地球赤道以北的一半，包括北美洲和欧洲等大洲。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The equator is an imaginary line around the middle of Earth dividing it into two halves.", "correct": "true" },
+      { "sentence": "The equator is a glowing river of lava that flows beneath Earth’s surface.", "correct": "false" },
+      { "sentence": "The equator is a permanent rainbow that circles the globe from east to west.", "correct": "false" },
+      { "sentence": "The equator is the path where the sun travels directly above Earth each night.", "correct": "false" },
+      { "sentence": "The equator is a giant ring of water that moves across the planet’s oceans.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The equator is an invisible line that circles the Earth’s widest point and separates the northern and southern hemispheres.",
+        "chinese": "赤道是绕地球最宽处的看不见的线，把地球分成北半球和南半球。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A constellation is a group of stars that form a pattern or picture in the night sky.", "correct": "true" },
+      { "sentence": "A constellation is a bright planet that changes shape as it moves through space.", "correct": "false" },
+      { "sentence": "A constellation is a dark cloud in space that blocks the light of the moon.", "correct": "false" },
+      { "sentence": "A constellation is a glowing space rock that zooms across Earth's sky.", "correct": "false" },
+      { "sentence": "A constellation is a sound made by stars as they move together.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A constellation is a group of stars that appear to form a shape, often named after animals or mythological figures.",
+        "chinese": "星座是一组看起来形成某种图形的恒星，通常以动物或神话人物命名。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An orbit is the curved path one object in space takes around another object, like a planet circling the sun.", "correct": "true" },
+      { "sentence": "An orbit is a flat tunnel in space that connects two planets together with energy.", "correct": "false" },
+      { "sentence": "An orbit is a bright circle of light that glows around every planet equally.", "correct": "false" },
+      { "sentence": "An orbit is a loud explosion that happens when two moons crash into each other.", "correct": "false" },
+      { "sentence": "An orbit is a magical ring that gives power to stars in space.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "An orbit is the invisible path an object follows as it moves around a star, planet, or moon due to gravity.",
+        "chinese": "轨道是由于引力作用，一个物体绕恒星、行星或卫星运行时所遵循的看不见的路径。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The solar system includes the sun and all the planets, moons, asteroids, and other objects that orbit around it.", "correct": "true" },
+      { "sentence": "The solar system is made up of Earth, its clouds, and the stars we see at night.", "correct": "false" },
+      { "sentence": "The solar system only includes the sun and the planet closest to it called Mercury.", "correct": "false" },
+      { "sentence": "The solar system is a spinning galaxy located far outside our universe.", "correct": "false" },
+      { "sentence": "The solar system is a giant ring of gas that surrounds the moon and stars.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Our solar system is made up of the sun and all the objects that move around it, including planets, moons, comets, and asteroids.",
+        "chinese": "我们的太阳系由太阳和所有围绕它运转的天体组成，包括行星、卫星、彗星和小行星。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An axis is an imaginary line that runs through a planet from top to bottom, around which it rotates.", "correct": "true" },
+      { "sentence": "An axis is a visible beam of light that shoots out from the middle of Earth.", "correct": "false" },
+      { "sentence": "An axis is a ring of clouds that floats above the surface of every planet.", "correct": "false" },
+      { "sentence": "An axis is the path a planet follows as it travels through the galaxy.", "correct": "false" },
+      { "sentence": "An axis is the shadow Earth makes when it blocks sunlight from the moon.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "An axis is a line that goes through a planet from north to south, and it's the line the planet spins around.",
+        "chinese": "轴是穿过行星南北的一条线，行星围绕这条线旋转。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Saturn is a large planet in our solar system known for its bright and wide rings.", "correct": "true" },
+      { "sentence": "Saturn is a small asteroid that floats near the moon and shines at night.", "correct": "false" },
+      { "sentence": "Saturn is a star that burns brightly at the center of a nearby galaxy.", "correct": "false" },
+      { "sentence": "Saturn is a comet made of dust and ice that orbits only during winter.", "correct": "false" },
+      { "sentence": "Saturn is a flying spaceship that travels through the universe with glowing rings.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Saturn is the sixth planet from the sun, and it is best known for the large rings that circle around it.",
+        "chinese": "土星是离太阳第六远的行星，以围绕它的大型光环著称。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Ganymede is the largest moon in the solar system and orbits the planet Jupiter.", "correct": "true" },
+      { "sentence": "Ganymede is a powerful telescope used to observe stars from Earth.", "correct": "false" },
+      { "sentence": "Ganymede is a space shuttle that travels between Earth and Mars regularly.", "correct": "false" },
+      { "sentence": "Ganymede is a group of asteroids moving around the sun together.", "correct": "false" },
+      { "sentence": "Ganymede is a ring system that floats around the planet Saturn.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Ganymede is Jupiter’s largest moon and the biggest moon in the solar system, even larger than the planet Mercury.",
+        "chinese": "盖尼米得是木星最大的卫星，也是太阳系中最大的卫星，甚至比水星还大。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The Milky Way is the galaxy that contains our solar system, made up of billions of stars.", "correct": "true" },
+      { "sentence": "The Milky Way is a huge cloud that floats above Earth and glows at night.", "correct": "false" },
+      { "sentence": "The Milky Way is a space station that travels through galaxies collecting data.", "correct": "false" },
+      { "sentence": "The Milky Way is a massive ice planet that spins close to the moon.", "correct": "false" },
+      { "sentence": "The Milky Way is a group of shining comets that fly through Earth’s sky.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The Milky Way is a spiral-shaped galaxy that includes the sun, planets, and all the stars we see in the night sky.",
+        "chinese": "银河系是一个螺旋形星系，包含太阳、行星以及我们夜空中看到的所有恒星。"
+      }
+    ]
+  }
+]
