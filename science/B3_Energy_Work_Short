@@ -110,5 +110,53 @@
         "chinese": "能量守恒定律指出，能量既不会凭空产生，也不会凭空消失，只会从一种形式转化为另一种形式，如热能、动能或光能。"
       }
     ]
-  }
+  },
+  {
+    "question": "Which sentence is scientifically correct about mechanical advantage?",
+    "options": [
+      { "sentence": "Mechanical advantage is how much a machine multiplies the force you put into it.", "correct": "true" },
+      { "sentence": "Mechanical advantage is the speed a machine moves when it is oiled and ready.", "correct": "false" },
+      { "sentence": "Mechanical advantage is the size of the machine compared to the person using it.", "correct": "false" },
+      { "sentence": "Mechanical advantage is how many hours a machine can run without stopping.", "correct": "false" },
+      { "sentence": "Mechanical advantage is the distance a machine can throw an object using energy.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Mechanical advantage shows how a machine helps you do work by making the force needed smaller.",
+        "chinese": "机械优势表示机器如何帮助人做功，使所需的力量变小。"
+      }
+    ]
+  },
+  {
+    "question": "What is the mechanical advantage of a ramp (inclined plane) that is 6 meters long and lifts a box 2 meters high?",
+    "options": [
+      { "sentence": "The mechanical advantage is 6 ÷ 2 = 3.", "correct": "true" },
+      { "sentence": "The mechanical advantage is 6 + 2 = 8.", "correct": "false" },
+      { "sentence": "The mechanical advantage is 2 ÷ 6 = 0.33.", "correct": "false" },
+      { "sentence": "The mechanical advantage is 2 × 6 = 12.", "correct": "false" },
+      { "sentence": "The mechanical advantage is 6 − 2 = 4.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Mechanical advantage for a ramp = length ÷ height. So, 6 ÷ 2 = 3.",
+        "chinese": "斜面的机械优势 = 长度 ÷ 高度，因此 6 ÷ 2 = 3。"
+      }
+    ]
+  },
+{
+  "question": "Which sentence is scientifically correct about a simple machine?",
+  "options": [
+    { "sentence": "A simple machine is a device that makes work easier by changing the direction or size of a force.", "correct": "true" },
+    { "sentence": "A simple machine is a tool that creates energy using electricity and magnets.", "correct": "false" },
+    { "sentence": "A simple machine is a machine that only works when it has a computer attached to it.", "correct": "false" },
+    { "sentence": "A simple machine is a type of engine used to power large airplanes and boats.", "correct": "false" },
+    { "sentence": "A simple machine is a mechanical toy that moves using gears and pulleys only.", "correct": "false" }
+  ],
+  "explanation": [
+    {
+      "english": "A simple machine helps make work easier by allowing us to use less force or change the direction of the force. Examples include levers, pulleys, and ramps.",
+      "chinese": "简单机械通过减少所需的力或改变力的方向来帮助人们更轻松地做功。例如，杠杆、滑轮和斜面等。"
+    }
+  ]
+}
 ]
