@@ -268,5 +268,11 @@
     "file": "english/cheese.json",
     "type": "english",
     "level": "1"
+  },
+  {
+    "name": "bread",
+    "file": "bread.json",
+    "type": "english",
+    "level": "1"
   }
 ]
