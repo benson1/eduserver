@@ -1,0 +1,126 @@
+[
+  {
+    "question": "Which of the following is a characteristic of pecorino cheese?",
+    "options": [
+      {
+        "sentence": "It is made from sheep's milk.",
+        "correct": "true"
+      },
+      {
+        "sentence": "It is a type of blue cheese.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It is typically aged for less than 3 months.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It is usually produced in France.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It has a very mild flavor.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Pecorino is a type of Italian cheese made from sheep's milk, often aged and having a sharp flavor.",
+        "chinese": "Pecorino是一种意大利奶酪，由羊奶制成，通常经过陈化，具有浓烈的风味。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence about cheddar cheese is correct?",
+    "options": [
+      {
+        "sentence": "It originated in Somerset, England.",
+        "correct": "true"
+      },
+      {
+        "sentence": "It is a type of blue cheese.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It is always aged for more than 10 years.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It is made from goat's milk.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It is typically white in color.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Cheddar is a popular type of cheese that originated in Somerset, England, and is known for its versatility and range of flavors.",
+        "chinese": "切达奶酪是一种流行的奶酪，最初起源于英格兰的萨默塞特郡，以其多用途和丰富的风味而闻名。"
+      }
+    ]
+  },
+  {
+    "question": "Which of the following describes stilton cheese?",
+    "options": [
+      {
+        "sentence": "It is a type of English blue cheese.",
+        "correct": "true"
+      },
+      {
+        "sentence": "It is typically used as a grating cheese.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It is made from goat's milk.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It has a very mild flavor.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It is produced in large quantities in France.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Stilton is a rich English blue cheese known for its distinctive veining and strong flavor.",
+        "chinese": "斯蒂尔顿奶酪是一种丰富的英式蓝纹奶酪，以其独特的纹理和浓烈的风味而闻名。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is correct about feta cheese?",
+    "options": [
+      {
+        "sentence": "It is typically made from sheep's milk or a combination of sheep and goat's milk.",
+        "correct": "true"
+      },
+      {
+        "sentence": "It is a type of hard cheese.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It is usually sweet in flavor.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It is not commonly used in Greek cuisine.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It is aged for a minimum of 5 years.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Feta is a type of cheese that is typically made from sheep's milk or a combination of sheep and goat's milk, known for its salty flavor and crumbly texture.",
+        "chinese": "菲达奶酪是一种通常由羊奶或羊奶和山羊奶混合制成的奶酪，以其咸味和松散的质地而闻名。"
+      }
+    ]
+  }
+]
