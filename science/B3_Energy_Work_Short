@@ -1,0 +1,114 @@
+[
+  {
+    "question": "Which sentence is scientifically correct about energy?",
+    "options": [
+      { "sentence": "Energy is the ability to do work or cause change in matter or motion.", "correct": "true" },
+      { "sentence": "Energy is a solid object found only in batteries and electrical cords.", "correct": "false" },
+      { "sentence": "Energy is a colorful gas that fills up empty space around magnets.", "correct": "false" },
+      { "sentence": "Energy is a thick fluid inside machines that helps them move gears.", "correct": "false" },
+      { "sentence": "Energy is a small weight that hangs inside a clock to keep time moving.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Energy is what makes things move or change, and it comes in many forms such as heat, light, or motion.",
+        "chinese": "能量是使事物运动或发生变化的力量，可以以热、光或动能等多种形式存在。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct about work in science?",
+    "options": [
+      { "sentence": "In science, work is done when a force moves an object over a distance.", "correct": "true" },
+      { "sentence": "In science, work is the time it takes someone to finish a homework assignment.", "correct": "false" },
+      { "sentence": "In science, work is the amount of sunlight needed to grow a plant properly.", "correct": "false" },
+      { "sentence": "In science, work is the pressure created when air is pushed into a balloon.", "correct": "false" },
+      { "sentence": "In science, work is the heat created by rubbing two materials together.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "In science, work means using force to move something a certain distance in the direction of the force.",
+        "chinese": "在科学中，功是指用力使物体沿着该力的方向移动一定距离。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct about kinetic energy?",
+    "options": [
+      { "sentence": "Kinetic energy is the energy an object has because it is moving.", "correct": "true" },
+      { "sentence": "Kinetic energy is the energy stored in ice waiting to melt in the sun.", "correct": "false" },
+      { "sentence": "Kinetic energy is the heat that builds up inside a sleeping volcano.", "correct": "false" },
+      { "sentence": "Kinetic energy is the magnetic pull that holds a compass in place.", "correct": "false" },
+      { "sentence": "Kinetic energy is the weight of an object multiplied by its shape.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Kinetic energy comes from motion, and the faster something moves, the more kinetic energy it has.",
+        "chinese": "动能来自运动，物体移动得越快，它的动能就越大。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct about potential energy?",
+    "options": [
+      { "sentence": "Potential energy is stored energy an object has because of its position or condition.", "correct": "true" },
+      { "sentence": "Potential energy is the color an object changes to when heated by sunlight.", "correct": "false" },
+      { "sentence": "Potential energy is a type of force that pushes magnets away from each other.", "correct": "false" },
+      { "sentence": "Potential energy is the motion of waves created when sound travels through water.", "correct": "false" },
+      { "sentence": "Potential energy is the light that shines when a switch is turned on in a room.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Potential energy is the energy stored in an object due to its height, shape, or condition, like a stretched rubber band or a lifted weight.",
+        "chinese": "势能是由于物体的位置、高度或形状而储存的能量，比如拉开的橡皮筋或被抬起的重物。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct about hydroelectric energy?",
+    "options": [
+      { "sentence": "Hydroelectric energy is electricity made by moving water turning turbines.", "correct": "true" },
+      { "sentence": "Hydroelectric energy is heat made by burning logs under a metal pot.", "correct": "false" },
+      { "sentence": "Hydroelectric energy is sound produced when waves crash against rocks.", "correct": "false" },
+      { "sentence": "Hydroelectric energy is electricity created from melted ice flowing underground.", "correct": "false" },
+      { "sentence": "Hydroelectric energy is wind spinning fans to push water into lakes.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Hydroelectric energy comes from water moving through turbines, which spins them to create electricity.",
+        "chinese": "水力发电是利用水流推动涡轮机旋转，从而产生电力。"
+      }
+    ]
+  },
+  {
+    "question": "Which is the correct calculation of work required to lift a 3kg bag of sugar 4 meters?",
+    "options": [
+      { "sentence": "The work is 3 kg × 9.8 m/s² × 4 m = 117.6 joules.", "correct": "true" },
+      { "sentence": "The work is 3 kg + 4 m + 9.8 m/s² = 16.8 joules.", "correct": "false" },
+      { "sentence": "The work is 3 kg divided by 4 m, then times 9.8 m/s² = 7.35 joules.", "correct": "false" },
+      { "sentence": "The work is 3 kg × 4 m = 12 joules (ignoring gravity).", "correct": "false" },
+      { "sentence": "The work is 3 kg minus 4 m, times 9.8 m/s² = -9.8 joules.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Work = Force × Distance. Force = mass × gravity, so 3kg × 9.8 m/s² = 29.4N. Then, 29.4N × 4m = 117.6 joules.",
+        "chinese": "功 = 力 × 距离。力 = 质量 × 重力加速度，即3kg × 9.8 = 29.4N，再乘以4米等于117.6焦耳。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct about the Law of Conservation of Energy?",
+    "options": [
+      { "sentence": "Energy cannot be created or destroyed; it can only change forms.", "correct": "true" },
+      { "sentence": "Energy disappears completely when something stops moving or working.", "correct": "false" },
+      { "sentence": "Energy is only created by living things and destroyed by machines.", "correct": "false" },
+      { "sentence": "Energy can only be stored, but never moved or transformed.", "correct": "false" },
+      { "sentence": "Energy is destroyed when objects are cooled below freezing point.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The Law of Conservation of Energy says energy cannot be made or lost, just changed into other forms like heat, motion, or light.",
+        "chinese": "能量守恒定律指出，能量既不会凭空产生，也不会凭空消失，只会从一种形式转化为另一种形式，如热能、动能或光能。"
+      }
+    ]
+  }
+]
