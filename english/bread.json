@@ -1,0 +1,157 @@
+[
+  {
+    "question": "What is a bagel?",
+    "options": [
+      {
+        "sentence": "A ring-shaped bread",
+        "correct": "true"
+      },
+      {
+        "sentence": "A type of pastry filled with meat",
+        "correct": "false"
+      },
+      {
+        "sentence": "A French bread",
+        "correct": "false"
+      },
+      {
+        "sentence": "A type of dessert",
+        "correct": "false"
+      },
+      {
+        "sentence": "A German soft pretzel",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "A bagel is a ring-shaped bread that is typically dense and chewy on the inside and crispy on the outside.",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "question": "What is a baguette?",
+    "options": [
+      {
+        "sentence": "A long, crusty French bread",
+        "correct": "true"
+      },
+      {
+        "sentence": "A type of Italian pasta",
+        "correct": "false"
+      },
+      {
+        "sentence": "A German bread roll",
+        "correct": "false"
+      },
+      {
+        "sentence": "A type of Chinese steamed bun",
+        "correct": "false"
+      },
+      {
+        "sentence": "A ring-shaped bread",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "A baguette is a type of bread that originated in France, characterized by its long, crusty shape.",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "question": "What is a pretzel?",
+    "options": [
+      {
+        "sentence": "A type of twisted bread",
+        "correct": "true"
+      },
+      {
+        "sentence": "A type of sweet pastry",
+        "correct": "false"
+      },
+      {
+        "sentence": "A French bread",
+        "correct": "false"
+      },
+      {
+        "sentence": "A type of filled dumpling",
+        "correct": "false"
+      },
+      {
+        "sentence": "A Chinese steamed bun",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "A pretzel is a type of bread that is typically twisted into a knot shape, often salted on the outside.",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "question": "What is bao?",
+    "options": [
+      {
+        "sentence": "A type of Chinese steamed bun",
+        "correct": "true"
+      },
+      {
+        "sentence": "A type of Japanese sushi",
+        "correct": "false"
+      },
+      {
+        "sentence": "A French pastry",
+        "correct": "false"
+      },
+      {
+        "sentence": "A type of German bread",
+        "correct": "false"
+      },
+      {
+        "sentence": "An Italian dessert",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Bao is a type of Chinese steamed bun that can be filled with various ingredients, such as meat or vegetables.",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "question": "What is ciabatta?",
+    "options": [
+      {
+        "sentence": "A type of Italian bread known for its airy holes",
+        "correct": "true"
+      },
+      {
+        "sentence": "A type of French bread",
+        "correct": "false"
+      },
+      {
+        "sentence": "A German bread roll",
+        "correct": "false"
+      },
+      {
+        "sentence": "A Chinese steamed bun",
+        "correct": "false"
+      },
+      {
+        "sentence": "A type of pastry filled with cream",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Ciabatta is a type of Italian bread known for its airy holes and light texture.",
+        "chinese": ""
+      }
+    ]
+  }
+]
