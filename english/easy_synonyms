@@ -1,0 +1,178 @@
+[
+  {
+    "question": "Which is a correct synonym for 'dangling'?",
+    "options": [
+      { "sentence": "hanging", "correct": "true" },
+      { "sentence": "sleeping", "correct": "false" },
+      { "sentence": "jumping", "correct": "false" },
+      { "sentence": "running", "correct": "false" },
+      { "sentence": "standing", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Dangling' means something is hanging loosely.",
+        "chinese": "'Dangling' 的意思是某物松散地悬挂着。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'rushing'?",
+    "options": [
+      { "sentence": "hurrying", "correct": "true" },
+      { "sentence": "crawling", "correct": "false" },
+      { "sentence": "resting", "correct": "false" },
+      { "sentence": "playing", "correct": "false" },
+      { "sentence": "waiting", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Rushing' means moving very fast, like 'hurrying'.",
+        "chinese": "'Rushing' 意思是快速移动，就像 'hurrying'。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'ancient'?",
+    "options": [
+      { "sentence": "old", "correct": "true" },
+      { "sentence": "new", "correct": "false" },
+      { "sentence": "bright", "correct": "false" },
+      { "sentence": "clean", "correct": "false" },
+      { "sentence": "strong", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Ancient' means something is very old.",
+        "chinese": "'Ancient' 的意思是非常古老的。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'honest'?",
+    "options": [
+      { "sentence": "truthful", "correct": "true" },
+      { "sentence": "mean", "correct": "false" },
+      { "sentence": "silly", "correct": "false" },
+      { "sentence": "noisy", "correct": "false" },
+      { "sentence": "bossy", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Honest' means someone tells the truth, like 'truthful'.",
+        "chinese": "'Honest' 意思是说实话的人，比如 'truthful'。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'excitement'?",
+    "options": [
+      { "sentence": "joy", "correct": "true" },
+      { "sentence": "sadness", "correct": "false" },
+      { "sentence": "quiet", "correct": "false" },
+      { "sentence": "sleep", "correct": "false" },
+      { "sentence": "fear", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Excitement' is a happy, energetic feeling, like 'joy'.",
+        "chinese": "'Excitement' 是一种快乐、充满能量的感觉，比如 'joy'。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'tearful'?",
+    "options": [
+      { "sentence": "crying", "correct": "true" },
+      { "sentence": "laughing", "correct": "false" },
+      { "sentence": "dancing", "correct": "false" },
+      { "sentence": "shouting", "correct": "false" },
+      { "sentence": "smiling", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Tearful' means full of tears or crying.",
+        "chinese": "'Tearful' 的意思是含泪的或正在哭泣的。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'speedy'?",
+    "options": [
+      { "sentence": "fast", "correct": "true" },
+      { "sentence": "slow", "correct": "false" },
+      { "sentence": "heavy", "correct": "false" },
+      { "sentence": "lazy", "correct": "false" },
+      { "sentence": "quiet", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Speedy' means very fast.",
+        "chinese": "'Speedy' 意思是非常快。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'careful'?",
+    "options": [
+      { "sentence": "cautious", "correct": "true" },
+      { "sentence": "messy", "correct": "false" },
+      { "sentence": "rude", "correct": "false" },
+      { "sentence": "loud", "correct": "false" },
+      { "sentence": "silly", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Careful' means doing things with attention, like 'cautious'.",
+        "chinese": "'Careful' 意思是小心地做事情，比如 'cautious'。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'brave'?",
+    "options": [
+      { "sentence": "courageous", "correct": "true" },
+      { "sentence": "scared", "correct": "false" },
+      { "sentence": "shy", "correct": "false" },
+      { "sentence": "nervous", "correct": "false" },
+      { "sentence": "quiet", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Brave' means not afraid, like 'courageous'.",
+        "chinese": "'Brave' 意思是不害怕，比如 'courageous'。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'cling'?",
+    "options": [
+      { "sentence": "hold", "correct": "true" },
+      { "sentence": "drop", "correct": "false" },
+      { "sentence": "push", "correct": "false" },
+      { "sentence": "kick", "correct": "false" },
+      { "sentence": "throw", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Cling' means to hold on tightly.",
+        "chinese": "'Cling' 意思是紧紧抓住。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'scatter'?",
+    "options": [
+      { "sentence": "spread", "correct": "true" },
+      { "sentence": "gather", "correct": "false" },
+      { "sentence": "build", "correct": "false" },
+      { "sentence": "collect", "correct": "false" },
+      { "sentence": "stick", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Scatter' means to spread things around.",
+        "chinese": "'Scatter' 意思是把东西撒开或分散。"
+      }
+    ]
+  }
+]
