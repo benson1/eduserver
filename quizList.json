@@ -274,5 +274,11 @@
     "file": "bread.json",
     "type": "english",
     "level": "1"
+  },
+  {
+    "name": "easy synonyms",
+    "file": "easy_synonyms",
+    "type": "english",
+    "level": "1"
   }
 ]
