@@ -281,9 +281,15 @@
     "type": "english",
     "level": "1"
   },
-    {
+  {
     "name": "B1_Basic_Astronomy",
     "file": "B1_Astronomy",
+    "type": "science",
+    "level": "1"
+  },
+  {
+    "name": "blueberries",
+    "file": "blueberries.json",
     "type": "science",
     "level": "1"
   }
