@@ -1,0 +1,162 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A star is a giant ball of hot gas that gives off light and heat.", "correct": "true" },
+      { "sentence": "A star is a small rock that floats through space and only shines when it hits the moon.", "correct": "false" },
+      { "sentence": "Stars are planets that glow because they are covered in shiny ice.", "correct": "false" },
+      { "sentence": "Stars are lights placed in the sky that never move or change.", "correct": "false" },
+      { "sentence": "A star is a cloud that reflects sunlight and appears to twinkle.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Stars are huge balls of hot gases, mostly hydrogen and helium, that produce their own light and energy.",
+        "chinese": "恒星是由氢和氦组成的巨大高温气体球，它们自己发出光和热。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The solar system includes the Sun and all the objects that orbit it, like planets and asteroids.", "correct": "true" },
+      { "sentence": "The solar system is made only of Earth and the Moon.", "correct": "false" },
+      { "sentence": "The solar system is a group of stars that stay in the same place forever.", "correct": "false" },
+      { "sentence": "The solar system is a big hole in space where nothing exists.", "correct": "false" },
+      { "sentence": "The solar system is just the area between Earth and Mars.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Our solar system includes the Sun and everything that moves around it, like planets, moons, and comets.",
+        "chinese": "太阳系包括太阳以及围绕它运行的所有天体，如行星、卫星和彗星。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The Sun is a star at the center of our solar system.", "correct": "true" },
+      { "sentence": "The Sun is a planet that glows because it reflects moonlight.", "correct": "false" },
+      { "sentence": "The Sun is a huge asteroid that exploded long ago.", "correct": "false" },
+      { "sentence": "The Sun is a mirror that shines because of Earth’s light.", "correct": "false" },
+      { "sentence": "The Sun is just a bright cloud that floats in space.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The Sun is a medium-sized star that provides light and heat to our solar system.",
+        "chinese": "太阳是一颗中等大小的恒星，为我们的太阳系提供光和热。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A telescope is a tool used to see distant objects in space.", "correct": "true" },
+      { "sentence": "A telescope is used to talk to astronauts through space waves.", "correct": "false" },
+      { "sentence": "A telescope is a rocket that flies into space to collect stardust.", "correct": "false" },
+      { "sentence": "A telescope is a camera that shines light to make stars brighter.", "correct": "false" },
+      { "sentence": "A telescope is used to find clouds and predict rain.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Telescopes help us look at faraway objects like stars, planets, and galaxies.",
+        "chinese": "望远镜帮助我们观察遥远的物体，如恒星、行星和星系。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An observatory is a place with telescopes where scientists study space.", "correct": "true" },
+      { "sentence": "An observatory is a spaceship that flies around the Earth all day.", "correct": "false" },
+      { "sentence": "An observatory is a lab that only looks at bugs and plants.", "correct": "false" },
+      { "sentence": "An observatory is where weather is made by mixing clouds.", "correct": "false" },
+      { "sentence": "An observatory is used to test how gravity works on water.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Observatories are buildings where people use telescopes to study stars, planets, and other space objects.",
+        "chinese": "天文台是人们使用望远镜研究恒星、行星和其他太空物体的地方。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The Earth rotates, or spins, around an imaginary line called an axis.", "correct": "true" },
+      { "sentence": "The Earth spins around the Moon once a day on its wheels.", "correct": "false" },
+      { "sentence": "Rotation means Earth falls up and down quickly all day.", "correct": "false" },
+      { "sentence": "Earth spins randomly without any direction or pattern.", "correct": "false" },
+      { "sentence": "Earth’s rotation causes the Moon to grow bigger.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Earth spins around an axis, which causes day and night.",
+        "chinese": "地球围绕轴旋转，这就是白天和黑夜交替的原因。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An orbit is the path one object takes around another in space.", "correct": "true" },
+      { "sentence": "Orbit means an object bounces off stars and flies away.", "correct": "false" },
+      { "sentence": "Orbit is a tunnel in the sky that things roll through.", "correct": "false" },
+      { "sentence": "Orbit happens when a planet stays still and stars circle it.", "correct": "false" },
+      { "sentence": "Orbit is when objects stop moving after hitting space dust.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Orbit is the curved path objects like planets follow around the Sun or other objects due to gravity.",
+        "chinese": "轨道是像行星这样的物体因引力而围绕太阳或其他天体运行的弯曲路径。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Moon phases are the shapes of the lit part of the Moon we see from Earth.", "correct": "true" },
+      { "sentence": "Moon phases are changes in the Moon's size as it grows and shrinks in space.", "correct": "false" },
+      { "sentence": "Moon phases happen because clouds cover the Moon differently every night.", "correct": "false" },
+      { "sentence": "Moon phases are when the Moon turns into a star for part of the month.", "correct": "false" },
+      { "sentence": "Moon phases are caused by the Moon blinking on and off.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Moon phases are caused by how the Sun lights up the Moon as it orbits Earth.",
+        "chinese": "月相是由于月亮绕地球运行时，太阳照亮它的方式不同而产生的。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Copernicus proposed that the Sun, not Earth, is at the center of the solar system.", "correct": "true" },
+      { "sentence": "Copernicus believed that the stars move around Earth every day.", "correct": "false" },
+      { "sentence": "Copernicus said Earth is the only thing that doesn’t move in space.", "correct": "false" },
+      { "sentence": "Copernicus created telescopes to measure clouds.", "correct": "false" },
+      { "sentence": "Copernicus proved that gravity works only at night.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Copernicus introduced the idea that the planets, including Earth, orbit the Sun. This is called the heliocentric model.",
+        "chinese": "哥白尼提出了包括地球在内的行星围绕太阳运行的日心说模型。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Galileo used a telescope to observe space and supported the idea that Earth orbits the Sun.", "correct": "true" },
+      { "sentence": "Galileo used a telescope to find monsters in space.", "correct": "false" },
+      { "sentence": "Galileo proved that the Sun goes around Earth.", "correct": "false" },
+      { "sentence": "Galileo built the first space shuttle to explore other planets.", "correct": "false" },
+      { "sentence": "Galileo created stars with lenses and mirrors.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Galileo improved the telescope and used it to observe moons, planets, and support the heliocentric theory.",
+        "chinese": "伽利略改进了望远镜，并用它观察卫星和行星，支持日心说理论。"
+      }
+    ]
+  }
+]
