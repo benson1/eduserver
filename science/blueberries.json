@@ -1,0 +1,95 @@
+[
+  {
+    "question": "What is a characteristic of blueberries?",
+    "options": [
+      {
+        "sentence": "Blueberries are a type of fruit rich in antioxidants.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Blueberries are a type of root vegetable.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Blueberries are a type of grain.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Blueberries are a type of dairy product.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Blueberries are a type of meat.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Blueberries are known for their high antioxidant content, making them a popular choice for health-conscious individuals.",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "question": "What are polyphenols?",
+    "options": [
+      {
+        "sentence": "Polyphenols are a large family of naturally occurring compounds that are found in plants.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Polyphenols are synthetic chemicals used in food preservation.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Polyphenols are types of animal-derived nutrients.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Polyphenols are a type of vitamin.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Polyphenols are a category of minerals.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Polyphenols are known for their antioxidant properties and are abundant in various plant-based foods and beverages.",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "question": "What is a key function of plant cells?",
+    "options": [
+      {
+        "sentence": "Plant cells are capable of photosynthesis.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Plant cells produce insulin.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Plant cells are the basic structural and functional units of animals.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Plant cells lack a cell wall.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Plant cells are typically motile.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Plant cells contain chloroplasts, which are essential for photosynthesis, the process of converting light energy into chemical energy.",
+        "chinese": ""
+      }
+    ]
+  }
+]
