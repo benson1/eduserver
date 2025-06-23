@@ -288,9 +288,9 @@
     "level": "1"
   },
   {
-    "name": "blueberries",
-    "file": "blueberries.json",
-    "type": "science",
+    "name": "modal aux test",
+    "file": "modal_aux.json",
+    "type": "english",
     "level": "1"
   }
 ]
