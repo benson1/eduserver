@@ -1,0 +1,162 @@
+[
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "He does goes to school.", "correct": "false" },
+      { "sentence": "He does go to school.", "correct": "true" },
+      { "sentence": "He do go to school.", "correct": "false" },
+      { "sentence": "He going to school.", "correct": "false" },
+      { "sentence": "He go to school.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "After 'does', use the base form of the verb ('go').",
+        "chinese": "'Does' 后面要用动词原形 ('go')。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "They doesn't like the movie.", "correct": "false" },
+      { "sentence": "They don't like the movie.", "correct": "true" },
+      { "sentence": "They not like the movie.", "correct": "false" },
+      { "sentence": "They doesn't likes the movie.", "correct": "false" },
+      { "sentence": "They don't likes the movie.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'They' is plural, so use 'don't' with the base verb form ('like').",
+        "chinese": "'They' 是复数形式，因此要用 'don't'，并且动词要用原形 ('like')。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "She could to sing very well.", "correct": "false" },
+      { "sentence": "She could sings very well.", "correct": "false" },
+      { "sentence": "She could sing very well.", "correct": "true" },
+      { "sentence": "She can sings very well.", "correct": "false" },
+      { "sentence": "She can to sing very well.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Modal verbs like 'could' are followed by the base form of the verb ('sing').",
+        "chinese": "情态动词如 'could' 后面应接动词原形 ('sing')。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "I doesn't know the answer.", "correct": "false" },
+      { "sentence": "I don't know the answer.", "correct": "true" },
+      { "sentence": "I not know the answer.", "correct": "false" },
+      { "sentence": "I do knows the answer.", "correct": "false" },
+      { "sentence": "I knowed the answer.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'I' takes 'don't' for negation, followed by the base verb ('know').",
+        "chinese": "'I' 否定时用 'don't'，后面跟动词原形 ('know')。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "We can goes now.", "correct": "false" },
+      { "sentence": "We can go now.", "correct": "true" },
+      { "sentence": "We can to go now.", "correct": "false" },
+      { "sentence": "We cans go now.", "correct": "false" },
+      { "sentence": "We can going now.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Use the base form of the verb ('go') after 'can'.",
+        "chinese": "'Can' 后面要接动词原形 ('go')。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "You doesn't have to worry.", "correct": "false" },
+      { "sentence": "You don't have to worry.", "correct": "true" },
+      { "sentence": "You don't has to worry.", "correct": "false" },
+      { "sentence": "You not have to worry.", "correct": "false" },
+      { "sentence": "You has to worry.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "With 'you', use 'don't' and the base verb ('have').",
+        "chinese": "'You' 与否定连用时要用 'don't'，后接动词原形 ('have')。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "He wouldn't goes there.", "correct": "false" },
+      { "sentence": "He wouldn't go there.", "correct": "true" },
+      { "sentence": "He wouldn't to go there.", "correct": "false" },
+      { "sentence": "He not would go there.", "correct": "false" },
+      { "sentence": "He would goes there.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "After 'would' or 'wouldn't', use the base form of the verb ('go').",
+        "chinese": "'Would' 或 'wouldn't' 后面要接动词原形 ('go')。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "She can't sings in public.", "correct": "false" },
+      { "sentence": "She can't sing in public.", "correct": "true" },
+      { "sentence": "She cannot singing in public.", "correct": "false" },
+      { "sentence": "She can't to sing in public.", "correct": "false" },
+      { "sentence": "She can sings in public.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Can't' is a modal verb and should be followed by the base form 'sing'.",
+        "chinese": "'Can't' 是情态动词，后接动词原形 'sing'。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "They would like to help.", "correct": "true" },
+      { "sentence": "They would likes to help.", "correct": "false" },
+      { "sentence": "They would helping.", "correct": "false" },
+      { "sentence": "They would to help.", "correct": "false" },
+      { "sentence": "They would like helping.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The phrase 'would like to' is followed by the base verb ('help').",
+        "chinese": "'Would like to' 后面要接动词原形 ('help')。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "She can speaks three languages.", "correct": "false" },
+      { "sentence": "She can speak three languages.", "correct": "true" },
+      { "sentence": "She can speaking three languages.", "correct": "false" },
+      { "sentence": "She cans speak three languages.", "correct": "false" },
+      { "sentence": "She can to speak three languages.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "After modal verbs like 'can', use the base form of the verb ('speak').",
+        "chinese": "情态动词如 'can' 后面要用动词原形 ('speak')。"
+      }
+    ]
+  }
+]
