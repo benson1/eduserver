@@ -1,262 +1,1682 @@
 {
-  "finn_benson_科学_1": { "amount": 30000, "currency": "cny", "minAmount": 100, "description": "Finn Benson - 科学 (Age 1) - Regular Rate" },
-  "finn_benson_科学_2": { "amount": 30000, "currency": "cny", "minAmount": 100, "description": "Finn Benson - 科学 (Age 2) - Regular Rate" },
-  "finn_benson_科学_3": { "amount": 30000, "currency": "cny", "minAmount": 100, "description": "Finn Benson - 科学 (Age 3) - Regular Rate" },
-  "finn_benson_科学_4": { "amount": 30000, "currency": "cny", "minAmount": 100, "description": "Finn Benson - 科学 (Age 4) - Regular Rate" },
-  "finn_benson_科学_5": { "amount": 30000, "currency": "cny", "minAmount": 100, "description": "Finn Benson - 科学 (Age 5) - Regular Rate" },
-  "finn_benson_科学_group_1": { "amount": 0, "currency": "cny", "minAmount": 100, "description": "Finn Benson - 科学 (Age 1) - Group Rate" },
-  "finn_benson_科学_group_2": { "amount": 0, "currency": "cny", "minAmount": 100, "description": "Finn Benson - 科学 (Age 2) - Group Rate" },
-  "finn_benson_科学_group_3": { "amount": 0, "currency": "cny", "minAmount": 100, "description": "Finn Benson - 科学 (Age 3) - Group Rate" },
-  "finn_benson_科学_group_4": { "amount": 0, "currency": "cny", "minAmount": 100, "description": "Finn Benson - 科学 (Age 4) - Group Rate" },
-  "finn_benson_科学_group_5": { "amount": 0, "currency": "cny", "minAmount": 100, "description": "Finn Benson - 科学 (Age 5) - Group Rate" },
-
-  "finn_benson_英语_1": { "amount": 30000, "currency": "cny", "minAmount": 100, "description": "Finn Benson - 英语 (Age 1) - Regular Rate" },
-  "finn_benson_英语_2": { "amount": 30000, "currency": "cny", "minAmount": 100, "description": "Finn Benson - 英语 (Age 2) - Regular Rate" },
-  "finn_benson_英语_3": { "amount": 30000, "currency": "cny", "minAmount": 100, "description": "Finn Benson - 英语 (Age 3) - Regular Rate" },
-  "finn_benson_英语_4": { "amount": 30000, "currency": "cny", "minAmount": 100, "description": "Finn Benson - 英语 (Age 4) - Regular Rate" },
-  "finn_benson_英语_5": { "amount": 30000, "currency": "cny", "minAmount": 100, "description": "Finn Benson - 英语 (Age 5) - Regular Rate" },
-  "finn_benson_英语_group_1": { "amount": 20000, "currency": "cny", "minAmount": 100, "description": "Finn Benson - 英语 (Age 1) - Group Rate" },
-  "finn_benson_英语_group_2": { "amount": 20000, "currency": "cny", "minAmount": 100, "description": "Finn Benson - 英语 (Age 2) - Group Rate" },
-  "finn_benson_英语_group_3": { "amount": 20000, "currency": "cny", "minAmount": 100, "description": "Finn Benson - 英语 (Age 3) - Group Rate" },
-  "finn_benson_英语_group_4": { "amount": 20000, "currency": "cny", "minAmount": 100, "description": "Finn Benson - 英语 (Age 4) - Group Rate" },
-  "finn_benson_英语_group_5": { "amount": 20000, "currency": "cny", "minAmount": 100, "description": "Finn Benson - 英语 (Age 5) - Group Rate" },
-    "finn_benson_python编程_1": { "amount": 30000, "currency": "cny", "minAmount": 100, "description": "Finn Benson - Python编程 (Age 1) - Regular Rate" },
-  "finn_benson_python编程_2": { "amount": 30000, "currency": "cny", "minAmount": 100, "description": "Finn Benson - Python编程 (Age 2) - Regular Rate" },
-  "finn_benson_python编程_3": { "amount": 30000, "currency": "cny", "minAmount": 100, "description": "Finn Benson - Python编程 (Age 3) - Regular Rate" },
-  "finn_benson_python编程_4": { "amount": 30000, "currency": "cny", "minAmount": 100, "description": "Finn Benson - Python编程 (Age 4) - Regular Rate" },
-  "finn_benson_python编程_5": { "amount": 30000, "currency": "cny", "minAmount": 100, "description": "Finn Benson - Python编程 (Age 5) - Regular Rate" },
-  "finn_benson_python编程_group_1": { "amount": 0, "currency": "cny", "minAmount": 100, "description": "Finn Benson - Python编程 (Age 1) - Group Rate" },
-  "finn_benson_python编程_group_2": { "amount": 0, "currency": "cny", "minAmount": 100, "description": "Finn Benson - Python编程 (Age 2) - Group Rate" },
-  "finn_benson_python编程_group_3": { "amount": 0, "currency": "cny", "minAmount": 100, "description": "Finn Benson - Python编程 (Age 3) - Group Rate" },
-  "finn_benson_python编程_group_4": { "amount": 0, "currency": "cny", "minAmount": 100, "description": "Finn Benson - Python编程 (Age 4) - Group Rate" },
-  "finn_benson_python编程_group_5": { "amount": 0, "currency": "cny", "minAmount": 100, "description": "Finn Benson - Python编程 (Age 5) - Group Rate" },
-
-  "finn_benson_javascript编程_1": { "amount": 30000, "currency": "cny", "minAmount": 100, "description": "Finn Benson - Javascript编程 (Age 1) - Regular Rate" },
-  "finn_benson_javascript编程_2": { "amount": 30000, "currency": "cny", "minAmount": 100, "description": "Finn Benson - Javascript编程 (Age 2) - Regular Rate" },
-  "finn_benson_javascript编程_3": { "amount": 30000, "currency": "cny", "minAmount": 100, "description": "Finn Benson - Javascript编程 (Age 3) - Regular Rate" },
-  "finn_benson_javascript编程_4": { "amount": 30000, "currency": "cny", "minAmount": 100, "description": "Finn Benson - Javascript编程 (Age 4) - Regular Rate" },
-  "finn_benson_javascript编程_5": { "amount": 30000, "currency": "cny", "minAmount": 100, "description": "Finn Benson - Javascript编程 (Age 5) - Regular Rate" },
-  "finn_benson_javascript编程_group_1": { "amount": 0, "currency": "cny", "minAmount": 100, "description": "Finn Benson - Javascript编程 (Age 1) - Group Rate" },
-  "finn_benson_javascript编程_group_2": { "amount": 0, "currency": "cny", "minAmount": 100, "description": "Finn Benson - Javascript编程 (Age 2) - Group Rate" },
-  "finn_benson_javascript编程_group_3": { "amount": 0, "currency": "cny", "minAmount": 100, "description": "Finn Benson - Javascript编程 (Age 3) - Group Rate" },
-  "finn_benson_javascript编程_group_4": { "amount": 0, "currency": "cny", "minAmount": 100, "description": "Finn Benson - Javascript编程 (Age 4) - Group Rate" },
-  "finn_benson_javascript编程_group_5": { "amount": 0, "currency": "cny", "minAmount": 100, "description": "Finn Benson - Javascript编程 (Age 5) - Group Rate" },
-  "finn_benson_3d设计_1": { "amount": 26000, "currency": "cny", "minAmount": 100, "description": "Finn Benson - 3D设计 (Age 1) - Regular Rate" },
-  "finn_benson_3d设计_2": { "amount": 26000, "currency": "cny", "minAmount": 100, "description": "Finn Benson - 3D设计 (Age 2) - Regular Rate" },
-  "finn_benson_3d设计_3": { "amount": 26000, "currency": "cny", "minAmount": 100, "description": "Finn Benson - 3D设计 (Age 3) - Regular Rate" },
-  "finn_benson_3d设计_4": { "amount": 26000, "currency": "cny", "minAmount": 100, "description": "Finn Benson - 3D设计 (Age 4) - Regular Rate" },
-  "finn_benson_3d设计_5": { "amount": 26000, "currency": "cny", "minAmount": 100, "description": "Finn Benson - 3D设计 (Age 5) - Regular Rate" },
-  "finn_benson_3d设计_group_1": { "amount": 15000, "currency": "cny", "minAmount": 100, "description": "Finn Benson - 3D设计 (Age 1) - Group Rate" },
-  "finn_benson_3d设计_group_2": { "amount": 15000, "currency": "cny", "minAmount": 100, "description": "Finn Benson - 3D设计 (Age 2) - Group Rate" },
-  "finn_benson_3d设计_group_3": { "amount": 15000, "currency": "cny", "minAmount": 100, "description": "Finn Benson - 3D设计 (Age 3) - Group Rate" },
-  "finn_benson_3d设计_group_4": { "amount": 15000, "currency": "cny", "minAmount": 100, "description": "Finn Benson - 3D设计 (Age 4) - Group Rate" },
-  "finn_benson_3d设计_group_5": { "amount": 15000, "currency": "cny", "minAmount": 100, "description": "Finn Benson - 3D设计 (Age 5) - Group Rate" },
-
-  "finn_benson_批判性思维_辩论_1": { "amount": 26000, "currency": "cny", "minAmount": 100, "description": "Finn Benson - 批判性思维/辩论 (Age 1) - Regular Rate" },
-  "finn_benson_批判性思维_辩论_2": { "amount": 26000, "currency": "cny", "minAmount": 100, "description": "Finn Benson - 批判性思维/辩论 (Age 2) - Regular Rate" },
-  "finn_benson_批判性思维_辩论_3": { "amount": 26000, "currency": "cny", "minAmount": 100, "description": "Finn Benson - 批判性思维/辩论 (Age 3) - Regular Rate" },
-  "finn_benson_批判性思维_辩论_4": { "amount": 26000, "currency": "cny", "minAmount": 100, "description": "Finn Benson - 批判性思维/辩论 (Age 4) - Regular Rate" },
-  "finn_benson_批判性思维_辩论_5": { "amount": 26000, "currency": "cny", "minAmount": 100, "description": "Finn Benson - 批判性思维/辩论 (Age 5) - Regular Rate" },
-  "finn_benson_批判性思维_辩论_group_1": { "amount": 20000, "currency": "cny", "minAmount": 100, "description": "Finn Benson - 批判性思维/辩论 (Age 1) - Group Rate" },
-  "finn_benson_批判性思维_辩论_group_2": { "amount": 20000, "currency": "cny", "minAmount": 100, "description": "Finn Benson - 批判性思维/辩论 (Age 2) - Group Rate" },
-  "finn_benson_批判性思维_辩论_group_3": { "amount": 20000, "currency": "cny", "minAmount": 100, "description": "Finn Benson - 批判性思维/辩论 (Age 3) - Group Rate" },
-  "finn_benson_批判性思维_辩论_group_4": { "amount": 20000, "currency": "cny", "minAmount": 100, "description": "Finn Benson - 批判性思维/辩论 (Age 4) - Group Rate" },
-  "finn_benson_批判性思维_辩论_group_5": { "amount": 20000, "currency": "cny", "minAmount": 100, "description": "Finn Benson - 批判性思维/辩论 (Age 5) - Group Rate" },
-  "michael_roberts_科学_1": { "amount": 17500, "currency": "cny", "minAmount": 100, "description": "Michael Roberts - 科学 (Age 1) - Regular Rate" },
-  "michael_roberts_科学_2": { "amount": 17500, "currency": "cny", "minAmount": 100, "description": "Michael Roberts - 科学 (Age 2) - Regular Rate" },
-  "michael_roberts_科学_3": { "amount": 17500, "currency": "cny", "minAmount": 100, "description": "Michael Roberts - 科学 (Age 3) - Regular Rate" },
-  "michael_roberts_科学_4": { "amount": 17500, "currency": "cny", "minAmount": 100, "description": "Michael Roberts - 科学 (Age 4) - Regular Rate" },
-  "michael_roberts_科学_5": { "amount": 17500, "currency": "cny", "minAmount": 100, "description": "Michael Roberts - 科学 (Age 5) - Regular Rate" },
-  "michael_roberts_科学_group_1": { "amount": 15000, "currency": "cny", "minAmount": 100, "description": "Michael Roberts - 科学 (Age 1) - Group Rate" },
-  "michael_roberts_科学_group_2": { "amount": 15000, "currency": "cny", "minAmount": 100, "description": "Michael Roberts - 科学 (Age 2) - Group Rate" },
-  "michael_roberts_科学_group_3": { "amount": 15000, "currency": "cny", "minAmount": 100, "description": "Michael Roberts - 科学 (Age 3) - Group Rate" },
-  "michael_roberts_科学_group_4": { "amount": 15000, "currency": "cny", "minAmount": 100, "description": "Michael Roberts - 科学 (Age 4) - Group Rate" },
-  "michael_roberts_科学_group_5": { "amount": 15000, "currency": "cny", "minAmount": 100, "description": "Michael Roberts - 科学 (Age 5) - Group Rate" },
-
-  "michael_roberts_英语_1": { "amount": 17500, "currency": "cny", "minAmount": 100, "description": "Michael Roberts - 英语 (Age 1) - Regular Rate" },
-  "michael_roberts_英语_2": { "amount": 17500, "currency": "cny", "minAmount": 100, "description": "Michael Roberts - 英语 (Age 2) - Regular Rate" },
-  "michael_roberts_英语_3": { "amount": 17500, "currency": "cny", "minAmount": 100, "description": "Michael Roberts - 英语 (Age 3) - Regular Rate" },
-  "michael_roberts_英语_4": { "amount": 17500, "currency": "cny", "minAmount": 100, "description": "Michael Roberts - 英语 (Age 4) - Regular Rate" },
-  "michael_roberts_英语_5": { "amount": 17500, "currency": "cny", "minAmount": 100, "description": "Michael Roberts - 英语 (Age 5) - Regular Rate" },
-  "michael_roberts_英语_group_1": { "amount": 15000, "currency": "cny", "minAmount": 100, "description": "Michael Roberts - 英语 (Age 1) - Group Rate" },
-  "michael_roberts_英语_group_2": { "amount": 15000, "currency": "cny", "minAmount": 100, "description": "Michael Roberts - 英语 (Age 2) - Group Rate" },
-  "michael_roberts_英语_group_3": { "amount": 15000, "currency": "cny", "minAmount": 100, "description": "Michael Roberts - 英语 (Age 3) - Group Rate" },
-  "michael_roberts_英语_group_4": { "amount": 15000, "currency": "cny", "minAmount": 100, "description": "Michael Roberts - 英语 (Age 4) - Group Rate" },
-  "michael_roberts_英语_group_5": { "amount": 15000, "currency": "cny", "minAmount": 100, "description": "Michael Roberts - 英语 (Age 5) - Group Rate" },
-
-  "finn_benson_sciences_1": { "amount": 3000, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - Sciences (Age 1) - Regular Rate" },
-  "finn_benson_sciences_2": { "amount": 3000, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - Sciences (Age 2) - Regular Rate" },
-  "finn_benson_sciences_3": { "amount": 3000, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - Sciences (Age 3) - Regular Rate" },
-  "finn_benson_sciences_4": { "amount": 3000, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - Sciences (Age 4) - Regular Rate" },
-  "finn_benson_sciences_5": { "amount": 3000, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - Sciences (Age 5) - Regular Rate" },
-  "finn_benson_sciences_group_1": { "amount": 0, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - Sciences (Age 1) - Group Rate" },
-  "finn_benson_sciences_group_2": { "amount": 0, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - Sciences (Age 2) - Group Rate" },
-  "finn_benson_sciences_group_3": { "amount": 0, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - Sciences (Age 3) - Group Rate" },
-  "finn_benson_sciences_group_4": { "amount": 0, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - Sciences (Age 4) - Group Rate" },
-  "finn_benson_sciences_group_5": { "amount": 0, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - Sciences (Age 5) - Group Rate" },
-
-  "finn_benson_english_1": { "amount": 3000, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - English (Age 1) - Regular Rate" },
-  "finn_benson_english_2": { "amount": 3000, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - English (Age 2) - Regular Rate" },
-  "finn_benson_english_3": { "amount": 3000, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - English (Age 3) - Regular Rate" },
-  "finn_benson_english_4": { "amount": 3000, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - English (Age 4) - Regular Rate" },
-  "finn_benson_english_5": { "amount": 3000, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - English (Age 5) - Regular Rate" },
-  "finn_benson_english_group_1": { "amount": 2000, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - English (Age 1) - Group Rate" },
-  "finn_benson_english_group_2": { "amount": 2000, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - English (Age 2) - Group Rate" },
-  "finn_benson_english_group_3": { "amount": 2000, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - English (Age 3) - Group Rate" },
-  "finn_benson_english_group_4": { "amount": 2000, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - English (Age 4) - Group Rate" },
-  "finn_benson_english_group_5": { "amount": 2000, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - English (Age 5) - Group Rate" },
-
-  "finn_benson_python_1": { "amount": 3000, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - Python (Age 1) - Regular Rate" },
-  "finn_benson_python_2": { "amount": 3000, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - Python (Age 2) - Regular Rate" },
-  "finn_benson_python_3": { "amount": 3000, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - Python (Age 3) - Regular Rate" },
-  "finn_benson_python_4": { "amount": 3000, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - Python (Age 4) - Regular Rate" },
-  "finn_benson_python_5": { "amount": 3000, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - Python (Age 5) - Regular Rate" },
-  "finn_benson_python_group_1": { "amount": 0, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - Python (Age 1) - Group Rate" },
-  "finn_benson_python_group_2": { "amount": 0, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - Python (Age 2) - Group Rate" },
-  "finn_benson_python_group_3": { "amount": 0, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - Python (Age 3) - Group Rate" },
-  "finn_benson_python_group_4": { "amount": 0, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - Python (Age 4) - Group Rate" },
-  "finn_benson_python_group_5": { "amount": 0, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - Python (Age 5) - Group Rate" },
-
-  "finn_benson_javascript_1": { "amount": 3000, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - Javascript (Age 1) - Regular Rate" },
-  "finn_benson_javascript_2": { "amount": 3000, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - Javascript (Age 2) - Regular Rate" },
-  "finn_benson_javascript_3": { "amount": 3000, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - Javascript (Age 3) - Regular Rate" },
-  "finn_benson_javascript_4": { "amount": 3000, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - Javascript (Age 4) - Regular Rate" },
-  "finn_benson_javascript_5": { "amount": 3000, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - Javascript (Age 5) - Regular Rate" },
-  "finn_benson_javascript_group_1": { "amount": 0, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - Javascript (Age 1) - Group Rate" },
-  "finn_benson_javascript_group_2": { "amount": 0, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - Javascript (Age 2) - Group Rate" },
-  "finn_benson_javascript_group_3": { "amount": 0, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - Javascript (Age 3) - Group Rate" },
-  "finn_benson_javascript_group_4": { "amount": 0, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - Javascript (Age 4) - Group Rate" },
-  "finn_benson_javascript_group_5": { "amount": 0, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - Javascript (Age 5) - Group Rate" },
-
-  "finn_benson_3d_design_1": { "amount": 2500, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - 3D Design (Age 1) - Regular Rate" },
-  "finn_benson_3d_design_2": { "amount": 2500, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - 3D Design (Age 2) - Regular Rate" },
-  "finn_benson_3d_design_3": { "amount": 2500, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - 3D Design (Age 3) - Regular Rate" },
-  "finn_benson_3d_design_4": { "amount": 2500, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - 3D Design (Age 4) - Regular Rate" },
-  "finn_benson_3d_design_5": { "amount": 2500, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - 3D Design (Age 5) - Regular Rate" },
-  "finn_benson_3d_design_group_1": { "amount": 1500, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - 3D Design (Age 1) - Group Rate" },
-  "finn_benson_3d_design_group_2": { "amount": 1500, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - 3D Design (Age 2) - Group Rate" },
-  "finn_benson_3d_design_group_3": { "amount": 1500, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - 3D Design (Age 3) - Group Rate" },
-  "finn_benson_3d_design_group_4": { "amount": 1500, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - 3D Design (Age 4) - Group Rate" },
-  "finn_benson_3d_design_group_5": { "amount": 1500, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - 3D Design (Age 5) - Group Rate" },
-
-  "finn_benson_critical_thinking_1": { "amount": 2500, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - Critical Thinking/Debate (Age 1) - Regular Rate" },
-  "finn_benson_critical_thinking_2": { "amount": 2500, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - Critical Thinking/Debate (Age 2) - Regular Rate" },
-  "finn_benson_critical_thinking_3": { "amount": 2500, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - Critical Thinking/Debate (Age 3) - Regular Rate" },
-  "finn_benson_critical_thinking_4": { "amount": 2500, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - Critical Thinking/Debate (Age 4) - Regular Rate" },
-  "finn_benson_critical_thinking_5": { "amount": 2500, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - Critical Thinking/Debate (Age 5) - Regular Rate" },
-  "finn_benson_critical_thinking_group_1": { "amount": 2000, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - Critical Thinking/Debate (Age 1) - Group Rate" },
-  "finn_benson_critical_thinking_group_2": { "amount": 2000, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - Critical Thinking/Debate (Age 2) - Group Rate" },
-  "finn_benson_critical_thinking_group_3": { "amount": 2000, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - Critical Thinking/Debate (Age 3) - Group Rate" },
-  "finn_benson_critical_thinking_group_4": { "amount": 2000, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - Critical Thinking/Debate (Age 4) - Group Rate" },
-  "finn_benson_critical_thinking_group_5": { "amount": 2000, "currency": "gbp", "minAmount": 100, "description": "Finn Benson - Critical Thinking/Debate (Age 5) - Group Rate" },
-
-  "michael_roberts_sciences_1": { "amount": 1750, "currency": "gbp", "minAmount": 100, "description": "Michael Roberts - Sciences (Age 1) - Regular Rate" },
-  "michael_roberts_sciences_2": { "amount": 1750, "currency": "gbp", "minAmount": 100, "description": "Michael Roberts - Sciences (Age 2) - Regular Rate" },
-  "michael_roberts_sciences_3": { "amount": 1750, "currency": "gbp", "minAmount": 100, "description": "Michael Roberts - Sciences (Age 3) - Regular Rate" },
-  "michael_roberts_sciences_4": { "amount": 1750, "currency": "gbp", "minAmount": 100, "description": "Michael Roberts - Sciences (Age 4) - Regular Rate" },
-  "michael_roberts_sciences_5": { "amount": 1750, "currency": "gbp", "minAmount": 100, "description": "Michael Roberts - Sciences (Age 5) - Regular Rate" },
-  "michael_roberts_sciences_group_1": { "amount": 1500, "currency": "gbp", "minAmount": 100, "description": "Michael Roberts - Sciences (Age 1) - Group Rate" },
-  "michael_roberts_sciences_group_2": { "amount": 1500, "currency": "gbp", "minAmount": 100, "description": "Michael Roberts - Sciences (Age 2) - Group Rate" },
-  "michael_roberts_sciences_group_3": { "amount": 1500, "currency": "gbp", "minAmount": 100, "description": "Michael Roberts - Sciences (Age 3) - Group Rate" },
-  "michael_roberts_sciences_group_4": { "amount": 1500, "currency": "gbp", "minAmount": 100, "description": "Michael Roberts - Sciences (Age 4) - Group Rate" },
-  "michael_roberts_sciences_group_5": { "amount": 1500, "currency": "gbp", "minAmount": 100, "description": "Michael Roberts - Sciences (Age 5) - Group Rate" },
-
-  "michael_roberts_english_1": { "amount": 1750, "currency": "gbp", "minAmount": 100, "description": "Michael Roberts - English (Age 1) - Regular Rate" },
-  "michael_roberts_english_2": { "amount": 1750, "currency": "gbp", "minAmount": 100, "description": "Michael Roberts - English (Age 2) - Regular Rate" },
-  "michael_roberts_english_3": { "amount": 1750, "currency": "gbp", "minAmount": 100, "description": "Michael Roberts - English (Age 3) - Regular Rate" },
-  "michael_roberts_english_4": { "amount": 1750, "currency": "gbp", "minAmount": 100, "description": "Michael Roberts - English (Age 4) - Regular Rate" },
-  "michael_roberts_english_5": { "amount": 1750, "currency": "gbp", "minAmount": 100, "description": "Michael Roberts - English (Age 5) - Regular Rate" },
-  "michael_roberts_english_group_1": { "amount": 1500, "currency": "gbp", "minAmount": 100, "description": "Michael Roberts - English (Age 1) - Group Rate" },
-  "michael_roberts_english_group_2": { "amount": 1500, "currency": "gbp", "minAmount": 100, "description": "Michael Roberts - English (Age 2) - Group Rate" },
-  "michael_roberts_english_group_3": { "amount": 1500, "currency": "gbp", "minAmount": 100, "description": "Michael Roberts - English (Age 3) - Group Rate" },
-  "michael_roberts_english_group_4": { "amount": 1500, "currency": "gbp", "minAmount": 100, "description": "Michael Roberts - English (Age 4) - Group Rate" },
-  "michael_roberts_english_group_5": { "amount": 1500, "currency": "gbp", "minAmount": 100, "description": "Michael Roberts - English (Age 5) - Group Rate" },
-
-  "finn_benson_과학_1": { "amount": 60000, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 과학 (Age 1) - Regular Rate" },
-  "finn_benson_과학_2": { "amount": 60000, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 과학 (Age 2) - Regular Rate" },
-  "finn_benson_과학_3": { "amount": 60000, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 과학 (Age 3) - Regular Rate" },
-  "finn_benson_과학_4": { "amount": 60000, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 과학 (Age 4) - Regular Rate" },
-  "finn_benson_과학_5": { "amount": 60000, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 과학 (Age 5) - Regular Rate" },
-  "finn_benson_과학_group_1": { "amount": 0, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 과학 (Age 1) - Group Rate" },
-  "finn_benson_과학_group_2": { "amount": 0, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 과학 (Age 2) - Group Rate" },
-  "finn_benson_과학_group_3": { "amount": 0, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 과학 (Age 3) - Group Rate" },
-  "finn_benson_과학_group_4": { "amount": 0, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 과학 (Age 4) - Group Rate" },
-  "finn_benson_과학_group_5": { "amount": 0, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 과학 (Age 5) - Group Rate" },
-
-  "finn_benson_영어_1": { "amount": 60000, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 영어 (Age 1) - Regular Rate" },
-  "finn_benson_영어_2": { "amount": 60000, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 영어 (Age 2) - Regular Rate" },
-  "finn_benson_영어_3": { "amount": 60000, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 영어 (Age 3) - Regular Rate" },
-  "finn_benson_영어_4": { "amount": 60000, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 영어 (Age 4) - Regular Rate" },
-  "finn_benson_영어_5": { "amount": 60000, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 영어 (Age 5) - Regular Rate" },
-  "finn_benson_영어_group_1": { "amount": 33000, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 영어 (Age 1) - Group Rate" },
-  "finn_benson_영어_group_2": { "amount": 33000, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 영어 (Age 2) - Group Rate" },
-  "finn_benson_영어_group_3": { "amount": 33000, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 영어 (Age 3) - Group Rate" },
-  "finn_benson_영어_group_4": { "amount": 33000, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 영어 (Age 4) - Group Rate" },
-  "finn_benson_영어_group_5": { "amount": 33000, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 영어 (Age 5) - Group Rate" },
-
-  "finn_benson_python_프로그래밍_1": { "amount": 60000, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - Python 프로그래밍 (Age 1) - Regular Rate" },
-  "finn_benson_python_프로그래밍_2": { "amount": 60000, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - Python 프로그래밍 (Age 2) - Regular Rate" },
-  "finn_benson_python_프로그래밍_3": { "amount": 60000, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - Python 프로그래밍 (Age 3) - Regular Rate" },
-  "finn_benson_python_프로그래밍_4": { "amount": 60000, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - Python 프로그래밍 (Age 4) - Regular Rate" },
-  "finn_benson_python_프로그래밍_5": { "amount": 60000, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - Python 프로그래밍 (Age 5) - Regular Rate" },
-  "finn_benson_python_프로그래밍_group_1": { "amount": 0, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - Python 프로그래밍 (Age 1) - Group Rate" },
-  "finn_benson_python_프로그래밍_group_2": { "amount": 0, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - Python 프로그래밍 (Age 2) - Group Rate" },
-  "finn_benson_python_프로그래밍_group_3": { "amount": 0, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - Python 프로그래밍 (Age 3) - Group Rate" },
-  "finn_benson_python_프로그래밍_group_4": { "amount": 0, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - Python 프로그래밍 (Age 4) - Group Rate" },
-  "finn_benson_python_프로그래밍_group_5": { "amount": 0, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - Python 프로그래밍 (Age 5) - Group Rate" },
-
-  "finn_benson_자바스크립트_프로그래밍_1": { "amount": 60000, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 자바스크립트 프로그래밍 (Age 1) - Regular Rate" },
-  "finn_benson_자바스크립트_프로그래밍_2": { "amount": 60000, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 자바스크립트 프로그래밍 (Age 2) - Regular Rate" },
-  "finn_benson_자바스크립트_프로그래밍_3": { "amount": 60000, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 자바스크립트 프로그래밍 (Age 3) - Regular Rate" },
-  "finn_benson_자바스크립트_프로그래밍_4": { "amount": 60000, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 자바스크립트 프로그래밍 (Age 4) - Regular Rate" },
-  "finn_benson_자바스크립트_프로그래밍_5": { "amount": 60000, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 자바스크립트 프로그래밍 (Age 5) - Regular Rate" },
-  "finn_benson_자바스크립트_프로그래밍_group_1": { "amount": 0, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 자바스크립트 프로그래밍 (Age 1) - Group Rate" },
-  "finn_benson_자바스크립트_프로그래밍_group_2": { "amount": 0, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 자바스크립트 프로그래밍 (Age 2) - Group Rate" },
-  "finn_benson_자바스크립트_프로그래밍_group_3": { "amount": 0, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 자바스크립트 프로그래밍 (Age 3) - Group Rate" },
-  "finn_benson_자바스크립트_프로그래밍_group_4": { "amount": 0, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 자바스크립트 프로그래밍 (Age 4) - Group Rate" },
-  "finn_benson_자바스크립트_프로그래밍_group_5": { "amount": 0, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 자바스크립트 프로그래밍 (Age 5) - Group Rate" },
-
-  "finn_benson_3d_디자인_1": { "amount": 50000, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 3D 디자인 (Age 1) - Regular Rate" },
-  "finn_benson_3d_디자인_2": { "amount": 50000, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 3D 디자인 (Age 2) - Regular Rate" },
-  "finn_benson_3d_디자인_3": { "amount": 50000, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 3D 디자인 (Age 3) - Regular Rate" },
-  "finn_benson_3d_디자인_4": { "amount": 50000, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 3D 디자인 (Age 4) - Regular Rate" },
-  "finn_benson_3d_디자인_5": { "amount": 50000, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 3D 디자인 (Age 5) - Regular Rate" },
-  "finn_benson_3d_디자인_group_1": { "amount": 29000, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 3D 디자인 (Age 1) - Group Rate" },
-  "finn_benson_3d_디자인_group_2": { "amount": 29000, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 3D 디자인 (Age 2) - Group Rate" },
-  "finn_benson_3d_디자인_group_3": { "amount": 29000, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 3D 디자인 (Age 3) - Group Rate" },
-  "finn_benson_3d_디자인_group_4": { "amount": 29000, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 3D 디자인 (Age 4) - Group Rate" },
-  "finn_benson_3d_디자인_group_5": { "amount": 29000, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 3D 디자인 (Age 5) - Group Rate" },
-
-  "finn_benson_비판적_사고_논쟁_1": { "amount": 50000, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 비판적 사고/논쟁 (Age 1) - Regular Rate" },
-  "finn_benson_비판적_사고_논쟁_2": { "amount": 50000, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 비판적 사고/논쟁 (Age 2) - Regular Rate" },
-  "finn_benson_비판적_사고_논쟁_3": { "amount": 50000, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 비판적 사고/논쟁 (Age 3) - Regular Rate" },
-  "finn_benson_비판적_사고_논쟁_4": { "amount": 50000, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 비판적 사고/논쟁 (Age 4) - Regular Rate" },
-  "finn_benson_비판적_사고_논쟁_5": { "amount": 50000, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 비판적 사고/논쟁 (Age 5) - Regular Rate" },
-  "finn_benson_비판적_사고_논쟁_group_1": { "amount": 25000, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 비판적 사고/논쟁 (Age 1) - Group Rate" },
-  "finn_benson_비판적_사고_논쟁_group_2": { "amount": 25000, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 비판적 사고/논쟁 (Age 2) - Group Rate" },
-  "finn_benson_비판적_사고_논쟁_group_3": { "amount": 25000, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 비판적 사고/논쟁 (Age 3) - Group Rate" },
-  "finn_benson_비판적_사고_논쟁_group_4": { "amount": 25000, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 비판적 사고/논쟁 (Age 4) - Group Rate" },
-  "finn_benson_비판적_사고_논쟁_group_5": { "amount": 25000, "currency": "krw", "minAmount": 1000, "description": "Finn Benson - 비판적 사고/논쟁 (Age 5) - Group Rate" },
-
-  "michael_roberts_과학_1": { "amount": 50000, "currency": "krw", "minAmount": 1000, "description": "Michael Roberts - 과학 (Age 1) - Regular Rate" },
-  "michael_roberts_과학_2": { "amount": 50000, "currency": "krw", "minAmount": 1000, "description": "Michael Roberts - 과학 (Age 2) - Regular Rate" },
-  "michael_roberts_과학_3": { "amount": 50000, "currency": "krw", "minAmount": 1000, "description": "Michael Roberts - 과학 (Age 3) - Regular Rate" },
-  "michael_roberts_과학_4": { "amount": 50000, "currency": "krw", "minAmount": 1000, "description": "Michael Roberts - 과학 (Age 4) - Regular Rate" },
-  "michael_roberts_과학_5": { "amount": 50000, "currency": "krw", "minAmount": 1000, "description": "Michael Roberts - 과학 (Age 5) - Regular Rate" },
-  "michael_roberts_과학_group_1": { "amount": 33000, "currency": "krw", "minAmount": 1000, "description": "Michael Roberts - 과학 (Age 1) - Group Rate" },
-  "michael_roberts_과학_group_2": { "amount": 33000, "currency": "krw", "minAmount": 1000, "description": "Michael Roberts - 과학 (Age 2) - Group Rate" },
-  "michael_roberts_과학_group_3": { "amount": 33000, "currency": "krw", "minAmount": 1000, "description": "Michael Roberts - 과학 (Age 3) - Group Rate" },
-  "michael_roberts_과학_group_4": { "amount": 33000, "currency": "krw", "minAmount": 1000, "description": "Michael Roberts - 과학 (Age 4) - Group Rate" },
-  "michael_roberts_과학_group_5": { "amount": 33000, "currency": "krw", "minAmount": 1000, "description": "Michael Roberts - 과학 (Age 5) - Group Rate" },
-
-  "michael_roberts_영어_1": { "amount": 50000, "currency": "krw", "minAmount": 1000, "description": "Michael Roberts - 영어 (Age 1) - Regular Rate" },
-  "michael_roberts_영어_2": { "amount": 50000, "currency": "krw", "minAmount": 1000, "description": "Michael Roberts - 영어 (Age 2) - Regular Rate" },
-  "michael_roberts_영어_3": { "amount": 50000, "currency": "krw", "minAmount": 1000, "description": "Michael Roberts - 영어 (Age 3) - Regular Rate" },
-  "michael_roberts_영어_4": { "amount": 50000, "currency": "krw", "minAmount": 1000, "description": "Michael Roberts - 영어 (Age 4) - Regular Rate" },
-  "michael_roberts_영어_5": { "amount": 50000, "currency": "krw", "minAmount": 1000, "description": "Michael Roberts - 영어 (Age 5) - Regular Rate" },
-  "michael_roberts_영어_group_1": { "amount": 33000, "currency": "krw", "minAmount": 1000, "description": "Michael Roberts - 영어 (Age 1) - Group Rate" },
-  "michael_roberts_영어_group_2": { "amount": 33000, "currency": "krw", "minAmount": 1000, "description": "Michael Roberts - 영어 (Age 2) - Group Rate" },
-  "michael_roberts_영어_group_3": { "amount": 33000, "currency": "krw", "minAmount": 1000, "description": "Michael Roberts - 영어 (Age 3) - Group Rate" },
-  "michael_roberts_영어_group_4": { "amount": 33000, "currency": "krw", "minAmount": 1000, "description": "Michael Roberts - 영어 (Age 4) - Group Rate" },
-  "michael_roberts_영어_group_5": { "amount": 33000, "currency": "krw", "minAmount": 1000, "description": "Michael Roberts - 영어 (Age 5) - Group Rate" }
+    "finn_benson_khoa_học_1": {
+        "amount": 105000,
+        "currency": "vnd",
+        "minAmount": 350000,
+        "description": "Finn Benson - Khoa học (Tuổi 1) - Học phí tiêu chuẩn"
+    },
+    "finn_benson_khoa_học_2": {
+        "amount": 105000,
+        "currency": "vnd",
+        "minAmount": 350000,
+        "description": "Finn Benson - Khoa học (Tuổi 2) - Học phí tiêu chuẩn"
+    },
+    "finn_benson_khoa_học_3": {
+        "amount": 105000,
+        "currency": "vnd",
+        "minAmount": 350000,
+        "description": "Finn Benson - Khoa học (Tuổi 3) - Học phí tiêu chuẩn"
+    },
+    "finn_benson_khoa_học_4": {
+        "amount": 105000,
+        "currency": "vnd",
+        "minAmount": 350000,
+        "description": "Finn Benson - Khoa học (Tuổi 4) - Học phí tiêu chuẩn"
+    },
+    "finn_benson_khoa_học_5": {
+        "amount": 105000,
+        "currency": "vnd",
+        "minAmount": 350000,
+        "description": "Finn Benson - Khoa học (Tuổi 5) - Học phí tiêu chuẩn"
+    },
+    "finn_benson_khoa_học_nhóm_1": {
+        "amount": 0,
+        "currency": "vnd",
+        "minAmount": 350000,
+        "description": "Finn Benson - Khoa học (Tuổi 1) - Học phí nhóm"
+    },
+    "finn_benson_khoa_học_nhóm_2": {
+        "amount": 0,
+        "currency": "vnd",
+        "minAmount": 350000,
+        "description": "Finn Benson - Khoa học (Tuổi 2) - Học phí nhóm"
+    },
+    "finn_benson_khoa_học_nhóm_3": {
+        "amount": 0,
+        "currency": "vnd",
+        "minAmount": 350000,
+        "description": "Finn Benson - Khoa học (Tuổi 3) - Học phí nhóm"
+    },
+    "finn_benson_khoa_học_nhóm_4": {
+        "amount": 0,
+        "currency": "vnd",
+        "minAmount": 350000,
+        "description": "Finn Benson - Khoa học (Tuổi 4) - Học phí nhóm"
+    },
+    "finn_benson_khoa_học_nhóm_5": {
+        "amount": 0,
+        "currency": "vnd",
+        "minAmount": 350000,
+        "description": "Finn Benson - Khoa học (Tuổi 5) - Học phí nhóm"
+    },
+    "finn_benson_tiếng_anh_1": {
+        "amount": 105000,
+        "currency": "vnd",
+        "minAmount": 350000,
+        "description": "Finn Benson - Tiếng Anh (Tuổi 1) - Học phí tiêu chuẩn"
+    },
+    "finn_benson_tiếng_anh_2": {
+        "amount": 105000,
+        "currency": "vnd",
+        "minAmount": 350000,
+        "description": "Finn Benson - Tiếng Anh (Tuổi 2) - Học phí tiêu chuẩn"
+    },
+    "finn_benson_tiếng_anh_3": {
+        "amount": 105000,
+        "currency": "vnd",
+        "minAmount": 350000,
+        "description": "Finn Benson - Tiếng Anh (Tuổi 3) - Học phí tiêu chuẩn"
+    },
+    "finn_benson_tiếng_anh_4": {
+        "amount": 105000,
+        "currency": "vnd",
+        "minAmount": 350000,
+        "description": "Finn Benson - Tiếng Anh (Tuổi 4) - Học phí tiêu chuẩn"
+    },
+    "finn_benson_tiếng_anh_5": {
+        "amount": 105000,
+        "currency": "vnd",
+        "minAmount": 350000,
+        "description": "Finn Benson - Tiếng Anh (Tuổi 5) - Học phí tiêu chuẩn"
+    },
+    "finn_benson_tiếng_anh_nhóm_1": {
+        "amount": 70000,
+        "currency": "vnd",
+        "minAmount": 350000,
+        "description": "Finn Benson - Tiếng Anh (Tuổi 1) - Học phí nhóm"
+    },
+    "finn_benson_tiếng_anh_nhóm_2": {
+        "amount": 70000,
+        "currency": "vnd",
+        "minAmount": 350000,
+        "description": "Finn Benson - Tiếng Anh (Tuổi 2) - Học phí nhóm"
+    },
+    "finn_benson_tiếng_anh_nhóm_3": {
+        "amount": 70000,
+        "currency": "vnd",
+        "minAmount": 350000,
+        "description": "Finn Benson - Tiếng Anh (Tuổi 3) - Học phí nhóm"
+    },
+    "finn_benson_tiếng_anh_nhóm_4": {
+        "amount": 70000,
+        "currency": "vnd",
+        "minAmount": 350000,
+        "description": "Finn Benson - Tiếng Anh (Tuổi 4) - Học phí nhóm"
+    },
+    "finn_benson_tiếng_anh_nhóm_5": {
+        "amount": 70000,
+        "currency": "vnd",
+        "minAmount": 350000,
+        "description": "Finn Benson - Tiếng Anh (Tuổi 5) - Học phí nhóm"
+    },
+    "finn_benson_lập_trình_python_1": {
+        "amount": 105000,
+        "currency": "vnd",
+        "minAmount": 350000,
+        "description": "Finn Benson - Lập trình Python (Tuổi 1) - Học phí tiêu chuẩn"
+    },
+    "finn_benson_lập_trình_python_2": {
+        "amount": 105000,
+        "currency": "vnd",
+        "minAmount": 350000,
+        "description": "Finn Benson - Lập trình Python (Tuổi 2) - Học phí tiêu chuẩn"
+    },
+    "finn_benson_lập_trình_python_3": {
+        "amount": 105000,
+        "currency": "vnd",
+        "minAmount": 350000,
+        "description": "Finn Benson - Lập trình Python (Tuổi 3) - Học phí tiêu chuẩn"
+    },
+    "finn_benson_lập_trình_python_4": {
+        "amount": 105000,
+        "currency": "vnd",
+        "minAmount": 350000,
+        "description": "Finn Benson - Lập trình Python (Tuổi 4) - Học phí tiêu chuẩn"
+    },
+    "finn_benson_lập_trình_python_5": {
+        "amount": 105000,
+        "currency": "vnd",
+        "minAmount": 350000,
+        "description": "Finn Benson - Lập trình Python (Tuổi 5) - Học phí tiêu chuẩn"
+    },
+    "finn_benson_lập_trình_python_nhóm_1": {
+        "amount": 0,
+        "currency": "vnd",
+        "minAmount": 350000,
+        "description": "Finn Benson - Lập trình Python (Tuổi 1) - Học phí nhóm"
+    },
+    "finn_benson_lập_trình_python_nhóm_2": {
+        "amount": 0,
+        "currency": "vnd",
+        "minAmount": 350000,
+        "description": "Finn Benson - Lập trình Python (Tuổi 2) - Học phí nhóm"
+    },
+    "finn_benson_lập_trình_python_nhóm_3": {
+        "amount": 0,
+        "currency": "vnd",
+        "minAmount": 350000,
+        "description": "Finn Benson - Lập trình Python (Tuổi 3) - Học phí nhóm"
+    },
+    "finn_benson_lập_trình_python_nhóm_4": {
+        "amount": 0,
+        "currency": "vnd",
+        "minAmount": 350000,
+        "description": "Finn Benson - Lập trình Python (Tuổi 4) - Học phí nhóm"
+    },
+    "finn_benson_lập_trình_python_nhóm_5": {
+        "amount": 0,
+        "currency": "vnd",
+        "minAmount": 350000,
+        "description": "Finn Benson - Lập trình Python (Tuổi 5) - Học phí nhóm"
+    },
+    "finn_benson_lập_trình_javascript_1": {
+        "amount": 105000,
+        "currency": "vnd",
+        "minAmount": 350000,
+        "description": "Finn Benson - Lập trình Javascript (Tuổi 1) - Học phí tiêu chuẩn"
+    },
+    "finn_benson_lập_trình_javascript_2": {
+        "amount": 105000,
+        "currency": "vnd",
+        "minAmount": 350000,
+        "description": "Finn Benson - Lập trình Javascript (Tuổi 2) - Học phí tiêu chuẩn"
+    },
+    "finn_benson_lập_trình_javascript_3": {
+        "amount": 105000,
+        "currency": "vnd",
+        "minAmount": 350000,
+        "description": "Finn Benson - Lập trình Javascript (Tuổi 3) - Học phí tiêu chuẩn"
+    },
+    "finn_benson_lập_trình_javascript_4": {
+        "amount": 105000,
+        "currency": "vnd",
+        "minAmount": 350000,
+        "description": "Finn Benson - Lập trình Javascript (Tuổi 4) - Học phí tiêu chuẩn"
+    },
+    "finn_benson_lập_trình_javascript_5": {
+        "amount": 105000,
+        "currency": "vnd",
+        "minAmount": 350000,
+        "description": "Finn Benson - Lập trình Javascript (Tuổi 5) - Học phí tiêu chuẩn"
+    },
+    "finn_benson_lập_trình_javascript_nhóm_1": {
+        "amount": 0,
+        "currency": "vnd",
+        "minAmount": 350000,
+        "description": "Finn Benson - Lập trình Javascript (Tuổi 1) - Học phí nhóm"
+    },
+    "finn_benson_lập_trình_javascript_nhóm_2": {
+        "amount": 0,
+        "currency": "vnd",
+        "minAmount": 350000,
+        "description": "Finn Benson - Lập trình Javascript (Tuổi 2) - Học phí nhóm"
+    },
+    "finn_benson_lập_trình_javascript_nhóm_3": {
+        "amount": 0,
+        "currency": "vnd",
+        "minAmount": 350000,
+        "description": "Finn Benson - Lập trình Javascript (Tuổi 3) - Học phí nhóm"
+    },
+    "finn_benson_lập_trình_javascript_nhóm_4": {
+        "amount": 0,
+        "currency": "vnd",
+        "minAmount": 350000,
+        "description": "Finn Benson - Lập trình Javascript (Tuổi 4) - Học phí nhóm"
+    },
+    "finn_benson_lập_trình_javascript_nhóm_5": {
+        "amount": 0,
+        "currency": "vnd",
+        "minAmount": 350000,
+        "description": "Finn Benson - Lập trình Javascript (Tuổi 5) - Học phí nhóm"
+    },
+    "finn_benson_科学_1": {
+        "amount": 30000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - 科学 (Age 1) - Regular Rate"
+    },
+    "finn_benson_科学_2": {
+        "amount": 30000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - 科学 (Age 2) - Regular Rate"
+    },
+    "finn_benson_科学_3": {
+        "amount": 30000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - 科学 (Age 3) - Regular Rate"
+    },
+    "finn_benson_科学_4": {
+        "amount": 30000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - 科学 (Age 4) - Regular Rate"
+    },
+    "finn_benson_科学_5": {
+        "amount": 30000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - 科学 (Age 5) - Regular Rate"
+    },
+    "finn_benson_科学_group_1": {
+        "amount": 0,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - 科学 (Age 1) - Group Rate"
+    },
+    "finn_benson_科学_group_2": {
+        "amount": 0,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - 科学 (Age 2) - Group Rate"
+    },
+    "finn_benson_科学_group_3": {
+        "amount": 0,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - 科学 (Age 3) - Group Rate"
+    },
+    "finn_benson_科学_group_4": {
+        "amount": 0,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - 科学 (Age 4) - Group Rate"
+    },
+    "finn_benson_科学_group_5": {
+        "amount": 0,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - 科学 (Age 5) - Group Rate"
+    },
+    "finn_benson_英语_1": {
+        "amount": 30000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - 英语 (Age 1) - Regular Rate"
+    },
+    "finn_benson_英语_2": {
+        "amount": 30000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - 英语 (Age 2) - Regular Rate"
+    },
+    "finn_benson_英语_3": {
+        "amount": 30000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - 英语 (Age 3) - Regular Rate"
+    },
+    "finn_benson_英语_4": {
+        "amount": 30000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - 英语 (Age 4) - Regular Rate"
+    },
+    "finn_benson_英语_5": {
+        "amount": 30000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - 英语 (Age 5) - Regular Rate"
+    },
+    "finn_benson_英语_group_1": {
+        "amount": 20000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - 英语 (Age 1) - Group Rate"
+    },
+    "finn_benson_英语_group_2": {
+        "amount": 20000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - 英语 (Age 2) - Group Rate"
+    },
+    "finn_benson_英语_group_3": {
+        "amount": 20000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - 英语 (Age 3) - Group Rate"
+    },
+    "finn_benson_英语_group_4": {
+        "amount": 20000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - 英语 (Age 4) - Group Rate"
+    },
+    "finn_benson_英语_group_5": {
+        "amount": 20000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - 英语 (Age 5) - Group Rate"
+    },
+    "finn_benson_python编程_1": {
+        "amount": 30000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - Python编程 (Age 1) - Regular Rate"
+    },
+    "finn_benson_python编程_2": {
+        "amount": 30000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - Python编程 (Age 2) - Regular Rate"
+    },
+    "finn_benson_python编程_3": {
+        "amount": 30000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - Python编程 (Age 3) - Regular Rate"
+    },
+    "finn_benson_python编程_4": {
+        "amount": 30000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - Python编程 (Age 4) - Regular Rate"
+    },
+    "finn_benson_python编程_5": {
+        "amount": 30000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - Python编程 (Age 5) - Regular Rate"
+    },
+    "finn_benson_python编程_group_1": {
+        "amount": 0,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - Python编程 (Age 1) - Group Rate"
+    },
+    "finn_benson_python编程_group_2": {
+        "amount": 0,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - Python编程 (Age 2) - Group Rate"
+    },
+    "finn_benson_python编程_group_3": {
+        "amount": 0,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - Python编程 (Age 3) - Group Rate"
+    },
+    "finn_benson_python编程_group_4": {
+        "amount": 0,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - Python编程 (Age 4) - Group Rate"
+    },
+    "finn_benson_python编程_group_5": {
+        "amount": 0,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - Python编程 (Age 5) - Group Rate"
+    },
+    "finn_benson_javascript编程_1": {
+        "amount": 30000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - Javascript编程 (Age 1) - Regular Rate"
+    },
+    "finn_benson_javascript编程_2": {
+        "amount": 30000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - Javascript编程 (Age 2) - Regular Rate"
+    },
+    "finn_benson_javascript编程_3": {
+        "amount": 30000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - Javascript编程 (Age 3) - Regular Rate"
+    },
+    "finn_benson_javascript编程_4": {
+        "amount": 30000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - Javascript编程 (Age 4) - Regular Rate"
+    },
+    "finn_benson_javascript编程_5": {
+        "amount": 30000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - Javascript编程 (Age 5) - Regular Rate"
+    },
+    "finn_benson_javascript编程_group_1": {
+        "amount": 0,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - Javascript编程 (Age 1) - Group Rate"
+    },
+    "finn_benson_javascript编程_group_2": {
+        "amount": 0,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - Javascript编程 (Age 2) - Group Rate"
+    },
+    "finn_benson_javascript编程_group_3": {
+        "amount": 0,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - Javascript编程 (Age 3) - Group Rate"
+    },
+    "finn_benson_javascript编程_group_4": {
+        "amount": 0,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - Javascript编程 (Age 4) - Group Rate"
+    },
+    "finn_benson_javascript编程_group_5": {
+        "amount": 0,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - Javascript编程 (Age 5) - Group Rate"
+    },
+    "finn_benson_3d设计_1": {
+        "amount": 26000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - 3D设计 (Age 1) - Regular Rate"
+    },
+    "finn_benson_3d设计_2": {
+        "amount": 26000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - 3D设计 (Age 2) - Regular Rate"
+    },
+    "finn_benson_3d设计_3": {
+        "amount": 26000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - 3D设计 (Age 3) - Regular Rate"
+    },
+    "finn_benson_3d设计_4": {
+        "amount": 26000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - 3D设计 (Age 4) - Regular Rate"
+    },
+    "finn_benson_3d设计_5": {
+        "amount": 26000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - 3D设计 (Age 5) - Regular Rate"
+    },
+    "finn_benson_3d设计_group_1": {
+        "amount": 15000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - 3D设计 (Age 1) - Group Rate"
+    },
+    "finn_benson_3d设计_group_2": {
+        "amount": 15000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - 3D设计 (Age 2) - Group Rate"
+    },
+    "finn_benson_3d设计_group_3": {
+        "amount": 15000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - 3D设计 (Age 3) - Group Rate"
+    },
+    "finn_benson_3d设计_group_4": {
+        "amount": 15000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - 3D设计 (Age 4) - Group Rate"
+    },
+    "finn_benson_3d设计_group_5": {
+        "amount": 15000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - 3D设计 (Age 5) - Group Rate"
+    },
+    "finn_benson_批判性思维_辩论_1": {
+        "amount": 26000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - 批判性思维/辩论 (Age 1) - Regular Rate"
+    },
+    "finn_benson_批判性思维_辩论_2": {
+        "amount": 26000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - 批判性思维/辩论 (Age 2) - Regular Rate"
+    },
+    "finn_benson_批判性思维_辩论_3": {
+        "amount": 26000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - 批判性思维/辩论 (Age 3) - Regular Rate"
+    },
+    "finn_benson_批判性思维_辩论_4": {
+        "amount": 26000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - 批判性思维/辩论 (Age 4) - Regular Rate"
+    },
+    "finn_benson_批判性思维_辩论_5": {
+        "amount": 26000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - 批判性思维/辩论 (Age 5) - Regular Rate"
+    },
+    "finn_benson_批判性思维_辩论_group_1": {
+        "amount": 20000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - 批判性思维/辩论 (Age 1) - Group Rate"
+    },
+    "finn_benson_批判性思维_辩论_group_2": {
+        "amount": 20000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - 批判性思维/辩论 (Age 2) - Group Rate"
+    },
+    "finn_benson_批判性思维_辩论_group_3": {
+        "amount": 20000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - 批判性思维/辩论 (Age 3) - Group Rate"
+    },
+    "finn_benson_批判性思维_辩论_group_4": {
+        "amount": 20000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - 批判性思维/辩论 (Age 4) - Group Rate"
+    },
+    "finn_benson_批判性思维_辩论_group_5": {
+        "amount": 20000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Finn Benson - 批判性思维/辩论 (Age 5) - Group Rate"
+    },
+    "michael_roberts_科学_1": {
+        "amount": 17500,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Michael Roberts - 科学 (Age 1) - Regular Rate"
+    },
+    "michael_roberts_科学_2": {
+        "amount": 17500,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Michael Roberts - 科学 (Age 2) - Regular Rate"
+    },
+    "michael_roberts_科学_3": {
+        "amount": 17500,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Michael Roberts - 科学 (Age 3) - Regular Rate"
+    },
+    "michael_roberts_科学_4": {
+        "amount": 17500,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Michael Roberts - 科学 (Age 4) - Regular Rate"
+    },
+    "michael_roberts_科学_5": {
+        "amount": 17500,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Michael Roberts - 科学 (Age 5) - Regular Rate"
+    },
+    "michael_roberts_科学_group_1": {
+        "amount": 15000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Michael Roberts - 科学 (Age 1) - Group Rate"
+    },
+    "michael_roberts_科学_group_2": {
+        "amount": 15000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Michael Roberts - 科学 (Age 2) - Group Rate"
+    },
+    "michael_roberts_科学_group_3": {
+        "amount": 15000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Michael Roberts - 科学 (Age 3) - Group Rate"
+    },
+    "michael_roberts_科学_group_4": {
+        "amount": 15000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Michael Roberts - 科学 (Age 4) - Group Rate"
+    },
+    "michael_roberts_科学_group_5": {
+        "amount": 15000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Michael Roberts - 科学 (Age 5) - Group Rate"
+    },
+    "michael_roberts_英语_1": {
+        "amount": 17500,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Michael Roberts - 英语 (Age 1) - Regular Rate"
+    },
+    "michael_roberts_英语_2": {
+        "amount": 17500,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Michael Roberts - 英语 (Age 2) - Regular Rate"
+    },
+    "michael_roberts_英语_3": {
+        "amount": 17500,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Michael Roberts - 英语 (Age 3) - Regular Rate"
+    },
+    "michael_roberts_英语_4": {
+        "amount": 17500,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Michael Roberts - 英语 (Age 4) - Regular Rate"
+    },
+    "michael_roberts_英语_5": {
+        "amount": 17500,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Michael Roberts - 英语 (Age 5) - Regular Rate"
+    },
+    "michael_roberts_英语_group_1": {
+        "amount": 15000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Michael Roberts - 英语 (Age 1) - Group Rate"
+    },
+    "michael_roberts_英语_group_2": {
+        "amount": 15000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Michael Roberts - 英语 (Age 2) - Group Rate"
+    },
+    "michael_roberts_英语_group_3": {
+        "amount": 15000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Michael Roberts - 英语 (Age 3) - Group Rate"
+    },
+    "michael_roberts_英语_group_4": {
+        "amount": 15000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Michael Roberts - 英语 (Age 4) - Group Rate"
+    },
+    "michael_roberts_英语_group_5": {
+        "amount": 15000,
+        "currency": "cny",
+        "minAmount": 100,
+        "description": "Michael Roberts - 英语 (Age 5) - Group Rate"
+    },
+    "finn_benson_sciences_1": {
+        "amount": 3000,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - Sciences (Age 1) - Regular Rate"
+    },
+    "finn_benson_sciences_2": {
+        "amount": 3000,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - Sciences (Age 2) - Regular Rate"
+    },
+    "finn_benson_sciences_3": {
+        "amount": 3000,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - Sciences (Age 3) - Regular Rate"
+    },
+    "finn_benson_sciences_4": {
+        "amount": 3000,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - Sciences (Age 4) - Regular Rate"
+    },
+    "finn_benson_sciences_5": {
+        "amount": 3000,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - Sciences (Age 5) - Regular Rate"
+    },
+    "finn_benson_sciences_group_1": {
+        "amount": 0,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - Sciences (Age 1) - Group Rate"
+    },
+    "finn_benson_sciences_group_2": {
+        "amount": 0,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - Sciences (Age 2) - Group Rate"
+    },
+    "finn_benson_sciences_group_3": {
+        "amount": 0,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - Sciences (Age 3) - Group Rate"
+    },
+    "finn_benson_sciences_group_4": {
+        "amount": 0,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - Sciences (Age 4) - Group Rate"
+    },
+    "finn_benson_sciences_group_5": {
+        "amount": 0,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - Sciences (Age 5) - Group Rate"
+    },
+    "finn_benson_english_1": {
+        "amount": 3000,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - English (Age 1) - Regular Rate"
+    },
+    "finn_benson_english_2": {
+        "amount": 3000,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - English (Age 2) - Regular Rate"
+    },
+    "finn_benson_english_3": {
+        "amount": 3000,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - English (Age 3) - Regular Rate"
+    },
+    "finn_benson_english_4": {
+        "amount": 3000,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - English (Age 4) - Regular Rate"
+    },
+    "finn_benson_english_5": {
+        "amount": 3000,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - English (Age 5) - Regular Rate"
+    },
+    "finn_benson_english_group_1": {
+        "amount": 2000,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - English (Age 1) - Group Rate"
+    },
+    "finn_benson_english_group_2": {
+        "amount": 2000,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - English (Age 2) - Group Rate"
+    },
+    "finn_benson_english_group_3": {
+        "amount": 2000,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - English (Age 3) - Group Rate"
+    },
+    "finn_benson_english_group_4": {
+        "amount": 2000,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - English (Age 4) - Group Rate"
+    },
+    "finn_benson_english_group_5": {
+        "amount": 2000,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - English (Age 5) - Group Rate"
+    },
+    "finn_benson_python_1": {
+        "amount": 3000,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - Python (Age 1) - Regular Rate"
+    },
+    "finn_benson_python_2": {
+        "amount": 3000,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - Python (Age 2) - Regular Rate"
+    },
+    "finn_benson_python_3": {
+        "amount": 3000,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - Python (Age 3) - Regular Rate"
+    },
+    "finn_benson_python_4": {
+        "amount": 3000,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - Python (Age 4) - Regular Rate"
+    },
+    "finn_benson_python_5": {
+        "amount": 3000,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - Python (Age 5) - Regular Rate"
+    },
+    "finn_benson_python_group_1": {
+        "amount": 0,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - Python (Age 1) - Group Rate"
+    },
+    "finn_benson_python_group_2": {
+        "amount": 0,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - Python (Age 2) - Group Rate"
+    },
+    "finn_benson_python_group_3": {
+        "amount": 0,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - Python (Age 3) - Group Rate"
+    },
+    "finn_benson_python_group_4": {
+        "amount": 0,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - Python (Age 4) - Group Rate"
+    },
+    "finn_benson_python_group_5": {
+        "amount": 0,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - Python (Age 5) - Group Rate"
+    },
+    "finn_benson_javascript_1": {
+        "amount": 3000,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - Javascript (Age 1) - Regular Rate"
+    },
+    "finn_benson_javascript_2": {
+        "amount": 3000,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - Javascript (Age 2) - Regular Rate"
+    },
+    "finn_benson_javascript_3": {
+        "amount": 3000,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - Javascript (Age 3) - Regular Rate"
+    },
+    "finn_benson_javascript_4": {
+        "amount": 3000,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - Javascript (Age 4) - Regular Rate"
+    },
+    "finn_benson_javascript_5": {
+        "amount": 3000,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - Javascript (Age 5) - Regular Rate"
+    },
+    "finn_benson_javascript_group_1": {
+        "amount": 0,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - Javascript (Age 1) - Group Rate"
+    },
+    "finn_benson_javascript_group_2": {
+        "amount": 0,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - Javascript (Age 2) - Group Rate"
+    },
+    "finn_benson_javascript_group_3": {
+        "amount": 0,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - Javascript (Age 3) - Group Rate"
+    },
+    "finn_benson_javascript_group_4": {
+        "amount": 0,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - Javascript (Age 4) - Group Rate"
+    },
+    "finn_benson_javascript_group_5": {
+        "amount": 0,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - Javascript (Age 5) - Group Rate"
+    },
+    "finn_benson_3d_design_1": {
+        "amount": 2500,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - 3D Design (Age 1) - Regular Rate"
+    },
+    "finn_benson_3d_design_2": {
+        "amount": 2500,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - 3D Design (Age 2) - Regular Rate"
+    },
+    "finn_benson_3d_design_3": {
+        "amount": 2500,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - 3D Design (Age 3) - Regular Rate"
+    },
+    "finn_benson_3d_design_4": {
+        "amount": 2500,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - 3D Design (Age 4) - Regular Rate"
+    },
+    "finn_benson_3d_design_5": {
+        "amount": 2500,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - 3D Design (Age 5) - Regular Rate"
+    },
+    "finn_benson_3d_design_group_1": {
+        "amount": 1500,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - 3D Design (Age 1) - Group Rate"
+    },
+    "finn_benson_3d_design_group_2": {
+        "amount": 1500,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - 3D Design (Age 2) - Group Rate"
+    },
+    "finn_benson_3d_design_group_3": {
+        "amount": 1500,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - 3D Design (Age 3) - Group Rate"
+    },
+    "finn_benson_3d_design_group_4": {
+        "amount": 1500,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - 3D Design (Age 4) - Group Rate"
+    },
+    "finn_benson_3d_design_group_5": {
+        "amount": 1500,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - 3D Design (Age 5) - Group Rate"
+    },
+    "finn_benson_critical_thinking_1": {
+        "amount": 2500,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - Critical Thinking/Debate (Age 1) - Regular Rate"
+    },
+    "finn_benson_critical_thinking_2": {
+        "amount": 2500,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - Critical Thinking/Debate (Age 2) - Regular Rate"
+    },
+    "finn_benson_critical_thinking_3": {
+        "amount": 2500,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - Critical Thinking/Debate (Age 3) - Regular Rate"
+    },
+    "finn_benson_critical_thinking_4": {
+        "amount": 2500,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - Critical Thinking/Debate (Age 4) - Regular Rate"
+    },
+    "finn_benson_critical_thinking_5": {
+        "amount": 2500,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - Critical Thinking/Debate (Age 5) - Regular Rate"
+    },
+    "finn_benson_critical_thinking_group_1": {
+        "amount": 2000,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - Critical Thinking/Debate (Age 1) - Group Rate"
+    },
+    "finn_benson_critical_thinking_group_2": {
+        "amount": 2000,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - Critical Thinking/Debate (Age 2) - Group Rate"
+    },
+    "finn_benson_critical_thinking_group_3": {
+        "amount": 2000,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - Critical Thinking/Debate (Age 3) - Group Rate"
+    },
+    "finn_benson_critical_thinking_group_4": {
+        "amount": 2000,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - Critical Thinking/Debate (Age 4) - Group Rate"
+    },
+    "finn_benson_critical_thinking_group_5": {
+        "amount": 2000,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Finn Benson - Critical Thinking/Debate (Age 5) - Group Rate"
+    },
+    "michael_roberts_sciences_1": {
+        "amount": 1750,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Michael Roberts - Sciences (Age 1) - Regular Rate"
+    },
+    "michael_roberts_sciences_2": {
+        "amount": 1750,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Michael Roberts - Sciences (Age 2) - Regular Rate"
+    },
+    "michael_roberts_sciences_3": {
+        "amount": 1750,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Michael Roberts - Sciences (Age 3) - Regular Rate"
+    },
+    "michael_roberts_sciences_4": {
+        "amount": 1750,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Michael Roberts - Sciences (Age 4) - Regular Rate"
+    },
+    "michael_roberts_sciences_5": {
+        "amount": 1750,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Michael Roberts - Sciences (Age 5) - Regular Rate"
+    },
+    "michael_roberts_sciences_group_1": {
+        "amount": 1500,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Michael Roberts - Sciences (Age 1) - Group Rate"
+    },
+    "michael_roberts_sciences_group_2": {
+        "amount": 1500,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Michael Roberts - Sciences (Age 2) - Group Rate"
+    },
+    "michael_roberts_sciences_group_3": {
+        "amount": 1500,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Michael Roberts - Sciences (Age 3) - Group Rate"
+    },
+    "michael_roberts_sciences_group_4": {
+        "amount": 1500,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Michael Roberts - Sciences (Age 4) - Group Rate"
+    },
+    "michael_roberts_sciences_group_5": {
+        "amount": 1500,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Michael Roberts - Sciences (Age 5) - Group Rate"
+    },
+    "michael_roberts_english_1": {
+        "amount": 1750,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Michael Roberts - English (Age 1) - Regular Rate"
+    },
+    "michael_roberts_english_2": {
+        "amount": 1750,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Michael Roberts - English (Age 2) - Regular Rate"
+    },
+    "michael_roberts_english_3": {
+        "amount": 1750,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Michael Roberts - English (Age 3) - Regular Rate"
+    },
+    "michael_roberts_english_4": {
+        "amount": 1750,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Michael Roberts - English (Age 4) - Regular Rate"
+    },
+    "michael_roberts_english_5": {
+        "amount": 1750,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Michael Roberts - English (Age 5) - Regular Rate"
+    },
+    "michael_roberts_english_group_1": {
+        "amount": 1500,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Michael Roberts - English (Age 1) - Group Rate"
+    },
+    "michael_roberts_english_group_2": {
+        "amount": 1500,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Michael Roberts - English (Age 2) - Group Rate"
+    },
+    "michael_roberts_english_group_3": {
+        "amount": 1500,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Michael Roberts - English (Age 3) - Group Rate"
+    },
+    "michael_roberts_english_group_4": {
+        "amount": 1500,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Michael Roberts - English (Age 4) - Group Rate"
+    },
+    "michael_roberts_english_group_5": {
+        "amount": 1500,
+        "currency": "gbp",
+        "minAmount": 100,
+        "description": "Michael Roberts - English (Age 5) - Group Rate"
+    },
+    "finn_benson_과학_1": {
+        "amount": 60000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - 과학 (Age 1) - Regular Rate"
+    },
+    "finn_benson_과학_2": {
+        "amount": 60000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - 과학 (Age 2) - Regular Rate"
+    },
+    "finn_benson_과학_3": {
+        "amount": 60000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - 과학 (Age 3) - Regular Rate"
+    },
+    "finn_benson_과학_4": {
+        "amount": 60000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - 과학 (Age 4) - Regular Rate"
+    },
+    "finn_benson_과학_5": {
+        "amount": 60000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - 과학 (Age 5) - Regular Rate"
+    },
+    "finn_benson_과학_group_1": {
+        "amount": 0,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - 과학 (Age 1) - Group Rate"
+    },
+    "finn_benson_과학_group_2": {
+        "amount": 0,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - 과학 (Age 2) - Group Rate"
+    },
+    "finn_benson_과학_group_3": {
+        "amount": 0,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - 과학 (Age 3) - Group Rate"
+    },
+    "finn_benson_과학_group_4": {
+        "amount": 0,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - 과학 (Age 4) - Group Rate"
+    },
+    "finn_benson_과학_group_5": {
+        "amount": 0,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - 과학 (Age 5) - Group Rate"
+    },
+    "finn_benson_영어_1": {
+        "amount": 60000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - 영어 (Age 1) - Regular Rate"
+    },
+    "finn_benson_영어_2": {
+        "amount": 60000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - 영어 (Age 2) - Regular Rate"
+    },
+    "finn_benson_영어_3": {
+        "amount": 60000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - 영어 (Age 3) - Regular Rate"
+    },
+    "finn_benson_영어_4": {
+        "amount": 60000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - 영어 (Age 4) - Regular Rate"
+    },
+    "finn_benson_영어_5": {
+        "amount": 60000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - 영어 (Age 5) - Regular Rate"
+    },
+    "finn_benson_영어_group_1": {
+        "amount": 33000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - 영어 (Age 1) - Group Rate"
+    },
+    "finn_benson_영어_group_2": {
+        "amount": 33000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - 영어 (Age 2) - Group Rate"
+    },
+    "finn_benson_영어_group_3": {
+        "amount": 33000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - 영어 (Age 3) - Group Rate"
+    },
+    "finn_benson_영어_group_4": {
+        "amount": 33000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - 영어 (Age 4) - Group Rate"
+    },
+    "finn_benson_영어_group_5": {
+        "amount": 33000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - 영어 (Age 5) - Group Rate"
+    },
+    "finn_benson_python_프로그래밍_1": {
+        "amount": 60000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - Python 프로그래밍 (Age 1) - Regular Rate"
+    },
+    "finn_benson_python_프로그래밍_2": {
+        "amount": 60000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - Python 프로그래밍 (Age 2) - Regular Rate"
+    },
+    "finn_benson_python_프로그래밍_3": {
+        "amount": 60000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - Python 프로그래밍 (Age 3) - Regular Rate"
+    },
+    "finn_benson_python_프로그래밍_4": {
+        "amount": 60000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - Python 프로그래밍 (Age 4) - Regular Rate"
+    },
+    "finn_benson_python_프로그래밍_5": {
+        "amount": 60000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - Python 프로그래밍 (Age 5) - Regular Rate"
+    },
+    "finn_benson_python_프로그래밍_group_1": {
+        "amount": 0,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - Python 프로그래밍 (Age 1) - Group Rate"
+    },
+    "finn_benson_python_프로그래밍_group_2": {
+        "amount": 0,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - Python 프로그래밍 (Age 2) - Group Rate"
+    },
+    "finn_benson_python_프로그래밍_group_3": {
+        "amount": 0,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - Python 프로그래밍 (Age 3) - Group Rate"
+    },
+    "finn_benson_python_프로그래밍_group_4": {
+        "amount": 0,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - Python 프로그래밍 (Age 4) - Group Rate"
+    },
+    "finn_benson_python_프로그래밍_group_5": {
+        "amount": 0,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - Python 프로그래밍 (Age 5) - Group Rate"
+    },
+    "finn_benson_자바스크립트_프로그래밍_1": {
+        "amount": 60000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - 자바스크립트 프로그래밍 (Age 1) - Regular Rate"
+    },
+    "finn_benson_자바스크립트_프로그래밍_2": {
+        "amount": 60000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - 자바스크립트 프로그래밍 (Age 2) - Regular Rate"
+    },
+    "finn_benson_자바스크립트_프로그래밍_3": {
+        "amount": 60000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - 자바스크립트 프로그래밍 (Age 3) - Regular Rate"
+    },
+    "finn_benson_자바스크립트_프로그래밍_4": {
+        "amount": 60000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - 자바스크립트 프로그래밍 (Age 4) - Regular Rate"
+    },
+    "finn_benson_자바스크립트_프로그래밍_5": {
+        "amount": 60000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - 자바스크립트 프로그래밍 (Age 5) - Regular Rate"
+    },
+    "finn_benson_자바스크립트_프로그래밍_group_1": {
+        "amount": 0,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - 자바스크립트 프로그래밍 (Age 1) - Group Rate"
+    },
+    "finn_benson_자바스크립트_프로그래밍_group_2": {
+        "amount": 0,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - 자바스크립트 프로그래밍 (Age 2) - Group Rate"
+    },
+    "finn_benson_자바스크립트_프로그래밍_group_3": {
+        "amount": 0,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - 자바스크립트 프로그래밍 (Age 3) - Group Rate"
+    },
+    "finn_benson_자바스크립트_프로그래밍_group_4": {
+        "amount": 0,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - 자바스크립트 프로그래밍 (Age 4) - Group Rate"
+    },
+    "finn_benson_자바스크립트_프로그래밍_group_5": {
+        "amount": 0,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - 자바스크립트 프로그래밍 (Age 5) - Group Rate"
+    },
+    "finn_benson_3d_디자인_1": {
+        "amount": 50000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - 3D 디자인 (Age 1) - Regular Rate"
+    },
+    "finn_benson_3d_디자인_2": {
+        "amount": 50000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - 3D 디자인 (Age 2) - Regular Rate"
+    },
+    "finn_benson_3d_디자인_3": {
+        "amount": 50000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - 3D 디자인 (Age 3) - Regular Rate"
+    },
+    "finn_benson_3d_디자인_4": {
+        "amount": 50000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - 3D 디자인 (Age 4) - Regular Rate"
+    },
+    "finn_benson_3d_디자인_5": {
+        "amount": 50000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - 3D 디자인 (Age 5) - Regular Rate"
+    },
+    "finn_benson_3d_디자인_group_1": {
+        "amount": 29000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - 3D 디자인 (Age 1) - Group Rate"
+    },
+    "finn_benson_3d_디자인_group_2": {
+        "amount": 29000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - 3D 디자인 (Age 2) - Group Rate"
+    },
+    "finn_benson_3d_디자인_group_3": {
+        "amount": 29000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - 3D 디자인 (Age 3) - Group Rate"
+    },
+    "finn_benson_3d_디자인_group_4": {
+        "amount": 29000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - 3D 디자인 (Age 4) - Group Rate"
+    },
+    "finn_benson_3d_디자인_group_5": {
+        "amount": 29000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - 3D 디자인 (Age 5) - Group Rate"
+    },
+    "finn_benson_비판적_사고_논쟁_1": {
+        "amount": 50000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - 비판적 사고/논쟁 (Age 1) - Regular Rate"
+    },
+    "finn_benson_비판적_사고_논쟁_2": {
+        "amount": 50000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - 비판적 사고/논쟁 (Age 2) - Regular Rate"
+    },
+    "finn_benson_비판적_사고_논쟁_3": {
+        "amount": 50000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - 비판적 사고/논쟁 (Age 3) - Regular Rate"
+    },
+    "finn_benson_비판적_사고_논쟁_4": {
+        "amount": 50000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - 비판적 사고/논쟁 (Age 4) - Regular Rate"
+    },
+    "finn_benson_비판적_사고_논쟁_5": {
+        "amount": 50000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - 비판적 사고/논쟁 (Age 5) - Regular Rate"
+    },
+    "finn_benson_비판적_사고_논쟁_group_1": {
+        "amount": 25000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - 비판적 사고/논쟁 (Age 1) - Group Rate"
+    },
+    "finn_benson_비판적_사고_논쟁_group_2": {
+        "amount": 25000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - 비판적 사고/논쟁 (Age 2) - Group Rate"
+    },
+    "finn_benson_비판적_사고_논쟁_group_3": {
+        "amount": 25000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - 비판적 사고/논쟁 (Age 3) - Group Rate"
+    },
+    "finn_benson_비판적_사고_논쟁_group_4": {
+        "amount": 25000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - 비판적 사고/논쟁 (Age 4) - Group Rate"
+    },
+    "finn_benson_비판적_사고_논쟁_group_5": {
+        "amount": 25000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Finn Benson - 비판적 사고/논쟁 (Age 5) - Group Rate"
+    },
+    "michael_roberts_과학_1": {
+        "amount": 50000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Michael Roberts - 과학 (Age 1) - Regular Rate"
+    },
+    "michael_roberts_과학_2": {
+        "amount": 50000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Michael Roberts - 과학 (Age 2) - Regular Rate"
+    },
+    "michael_roberts_과학_3": {
+        "amount": 50000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Michael Roberts - 과학 (Age 3) - Regular Rate"
+    },
+    "michael_roberts_과학_4": {
+        "amount": 50000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Michael Roberts - 과학 (Age 4) - Regular Rate"
+    },
+    "michael_roberts_과학_5": {
+        "amount": 50000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Michael Roberts - 과학 (Age 5) - Regular Rate"
+    },
+    "michael_roberts_과학_group_1": {
+        "amount": 33000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Michael Roberts - 과학 (Age 1) - Group Rate"
+    },
+    "michael_roberts_과학_group_2": {
+        "amount": 33000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Michael Roberts - 과학 (Age 2) - Group Rate"
+    },
+    "michael_roberts_과학_group_3": {
+        "amount": 33000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Michael Roberts - 과학 (Age 3) - Group Rate"
+    },
+    "michael_roberts_과학_group_4": {
+        "amount": 33000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Michael Roberts - 과학 (Age 4) - Group Rate"
+    },
+    "michael_roberts_과학_group_5": {
+        "amount": 33000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Michael Roberts - 과학 (Age 5) - Group Rate"
+    },
+    "michael_roberts_영어_1": {
+        "amount": 50000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Michael Roberts - 영어 (Age 1) - Regular Rate"
+    },
+    "michael_roberts_영어_2": {
+        "amount": 50000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Michael Roberts - 영어 (Age 2) - Regular Rate"
+    },
+    "michael_roberts_영어_3": {
+        "amount": 50000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Michael Roberts - 영어 (Age 3) - Regular Rate"
+    },
+    "michael_roberts_영어_4": {
+        "amount": 50000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Michael Roberts - 영어 (Age 4) - Regular Rate"
+    },
+    "michael_roberts_영어_5": {
+        "amount": 50000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Michael Roberts - 영어 (Age 5) - Regular Rate"
+    },
+    "michael_roberts_영어_group_1": {
+        "amount": 33000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Michael Roberts - 영어 (Age 1) - Group Rate"
+    },
+    "michael_roberts_영어_group_2": {
+        "amount": 33000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Michael Roberts - 영어 (Age 2) - Group Rate"
+    },
+    "michael_roberts_영어_group_3": {
+        "amount": 33000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Michael Roberts - 영어 (Age 3) - Group Rate"
+    },
+    "michael_roberts_영어_group_4": {
+        "amount": 33000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Michael Roberts - 영어 (Age 4) - Group Rate"
+    },
+    "michael_roberts_영어_group_5": {
+        "amount": 33000,
+        "currency": "krw",
+        "minAmount": 1000,
+        "description": "Michael Roberts - 영어 (Age 5) - Group Rate"
+    }
 }
