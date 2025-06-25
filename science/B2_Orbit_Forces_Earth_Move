@@ -1,0 +1,250 @@
+[
+{
+  "question": "What is a force?",
+  "options": [
+    {
+      "sentence": "A force is a push or pull on an object that can cause it to move, stop, or change direction.",
+      "correct": "true"
+    },
+    {
+      "sentence": "A force is a color pattern that appears on objects when light shines at certain angles.",
+      "correct": "false"
+    },
+    {
+      "sentence": "A force is a type of gas that gives off energy when compressed in a vacuum.",
+      "correct": "false"
+    },
+    {
+      "sentence": "A force is a sound wave that bounces off surfaces, creating vibrations in the air.",
+      "correct": "false"
+    },
+    {
+      "sentence": "A force is a shadow formed when sunlight passes through moving leaves.",
+      "correct": "false"
+    }
+  ],
+  "explanation": [
+    {
+      "english": "Forces can start or stop motion—like pushing a swing or pulling open a door.",
+      "chinese": "力可以使物体开始或停止运动，例如推秋千或拉开门。"
+    }
+  ]
+},
+{
+  "question": "What is inertia?",
+  "options": [
+    {
+      "sentence": "Inertia is an object's resistance to a change in its motion or rest.",
+      "correct": "true"
+    },
+    {
+      "sentence": "Inertia is the process of cooling gases in space to form ice crystals.",
+      "correct": "false"
+    },
+    {
+      "sentence": "Inertia is the echo created when sound waves bounce inside a closed room.",
+      "correct": "false"
+    },
+    {
+      "sentence": "Inertia is a measure of an object's brightness as seen from Earth.",
+      "correct": "false"
+    },
+    {
+      "sentence": "Inertia is the glow some materials emit when struck by electricity.",
+      "correct": "false"
+    }
+  ],
+  "explanation": [
+    {
+      "english": "Objects in motion stay in motion unless a force acts on them—this is inertia.",
+      "chinese": "运动的物体会保持运动，除非有外力作用——这就是惯性。"
+    }
+  ]
+},
+{
+  "question": "What is an orbit?",
+  "options": [
+    {
+      "sentence": "An orbit is the curved path an object takes around a planet, star, or moon due to gravity.",
+      "correct": "true"
+    },
+    {
+      "sentence": "An orbit is a type of telescope used to observe distant stars from Earth.",
+      "correct": "false"
+    },
+    {
+      "sentence": "An orbit is a tool used to measure the brightness of celestial bodies.",
+      "correct": "false"
+    },
+    {
+      "sentence": "An orbit is a tunnel through which spacecraft enter other galaxies.",
+      "correct": "false"
+    },
+    {
+      "sentence": "An orbit is a signal sent between satellites that reflects off Earth's atmosphere.",
+      "correct": "false"
+    }
+  ],
+  "explanation": [
+    {
+      "english": "The Moon orbits Earth, and Earth orbits the Sun.",
+      "chinese": "月亮绕地球运行，地球绕太阳运行。"
+    }
+  ]
+},
+{
+  "question": "What does it mean to rotate?",
+  "options": [
+    {
+      "sentence": "To rotate means to spin around a central point or axis.",
+      "correct": "true"
+    },
+    {
+      "sentence": "To rotate means to change colors when light shines from different angles.",
+      "correct": "false"
+    },
+    {
+      "sentence": "To rotate means to move in a straight line until stopped by another object.",
+      "correct": "false"
+    },
+    {
+      "sentence": "To rotate means to float in water due to reduced gravity.",
+      "correct": "false"
+    },
+    {
+      "sentence": "To rotate means to bounce off surfaces like a rubber ball.",
+      "correct": "false"
+    }
+  ],
+  "explanation": [
+    {
+      "english": "Earth rotates on its axis, which causes day and night.",
+      "chinese": "地球绕其轴自转，导致昼夜交替。"
+    }
+  ]
+},
+{
+  "question": "What is centrifugal force?",
+  "options": [
+    {
+      "sentence": "Centrifugal force is the apparent force that pushes objects outward when they move in a circular path.",
+      "correct": "true"
+    },
+    {
+      "sentence": "Centrifugal force is the gravity-like pull found only in deep ocean trenches.",
+      "correct": "false"
+    },
+    {
+      "sentence": "Centrifugal force is a type of wave that travels through metal rods in machines.",
+      "correct": "false"
+    },
+    {
+      "sentence": "Centrifugal force is the friction that slows down spinning wheels.",
+      "correct": "false"
+    },
+    {
+      "sentence": "Centrifugal force is the electric spark produced during magnetic storms.",
+      "correct": "false"
+    }
+  ],
+  "explanation": [
+    {
+      "english": "When swinging a bucket in a circle, water stays inside due to centrifugal force.",
+      "chinese": "当旋转水桶时，水因离心力而留在桶内。"
+    }
+  ]
+},
+{
+  "question": "What is an axis?",
+  "options": [
+    {
+      "sentence": "An axis is an imaginary line around which an object spins or rotates.",
+      "correct": "true"
+    },
+    {
+      "sentence": "An axis is a physical rod placed inside the Earth to balance its orbit.",
+      "correct": "false"
+    },
+    {
+      "sentence": "An axis is a jet stream that flows from the North Pole to the South Pole.",
+      "correct": "false"
+    },
+    {
+      "sentence": "An axis is the path followed by ocean currents between continents.",
+      "correct": "false"
+    },
+    {
+      "sentence": "An axis is a force that pulls satellites closer to Earth.",
+      "correct": "false"
+    }
+  ],
+  "explanation": [
+    {
+      "english": "Earth’s axis is tilted, which causes seasons as it orbits the Sun.",
+      "chinese": "地球的轴是倾斜的，随着地球绕太阳公转而引起季节变化。"
+    }
+  ]
+},
+{
+  "question": "Who was Galileo?",
+  "options": [
+    {
+      "sentence": "Galileo was a scientist who studied motion, gravity, and improved the telescope to observe space.",
+      "correct": "true"
+    },
+    {
+      "sentence": "Galileo was a famous artist known for painting stars and galaxies.",
+      "correct": "false"
+    },
+    {
+      "sentence": "Galileo was a spaceship designed to measure moonquakes and asteroid movements.",
+      "correct": "false"
+    },
+    {
+      "sentence": "Galileo was a computer program used to predict eclipses and design calendars.",
+      "correct": "false"
+    },
+    {
+      "sentence": "Galileo was a mountain where ancient astronomers carved star charts in stone.",
+      "correct": "false"
+    }
+  ],
+  "explanation": [
+    {
+      "english": "Galileo proved that all objects fall at the same rate, regardless of weight.",
+      "chinese": "伽利略证明所有物体无论轻重都会以相同速度下落。"
+    }
+  ]
+},
+{
+  "question": "What is Earth's tilt?",
+  "options": [
+    {
+      "sentence": "Earth’s tilt is the 23.5° angle of Earth’s axis, which causes the seasons.",
+      "correct": "true"
+    },
+    {
+      "sentence": "Earth’s tilt is the angle at which earthquakes cause land to shift near the equator.",
+      "correct": "false"
+    },
+    {
+      "sentence": "Earth’s tilt is a slope of ocean water caused by tidal forces from the Moon.",
+      "correct": "false"
+    },
+    {
+      "sentence": "Earth’s tilt is the result of solar winds pushing against the atmosphere.",
+      "correct": "false"
+    },
+    {
+      "sentence": "Earth’s tilt is the slight lean caused by weight imbalance between hemispheres.",
+      "correct": "false"
+    }
+  ],
+  "explanation": [
+    {
+      "english": "Earth's tilt makes different parts face the Sun at different times, causing seasonal changes.",
+      "chinese": "地球的倾斜使不同地区在不同时间面向太阳，从而引起季节变化。"
+    }
+  ]
+}
+]
