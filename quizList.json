@@ -292,5 +292,11 @@
     "file": "modal_aux.json",
     "type": "english",
     "level": "1"
+  },
+    {
+    "name": "synonyms harder 7",
+    "file": "synonyms_upper_ielts7.json",
+    "type": "english",
+    "level": "7"
   }
 ]
