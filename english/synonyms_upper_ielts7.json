@@ -1,0 +1,162 @@
+[
+  {
+    "question": "Which is a correct synonym for 'negotiating'? e.g. They are negotiating a peace deal between the two countries.",
+    "options": [
+      { "sentence": "bargaining", "correct": "true" },
+      { "sentence": "fighting", "correct": "false" },
+      { "sentence": "ignoring", "correct": "false" },
+      { "sentence": "complaining", "correct": "false" },
+      { "sentence": "arguing", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Negotiating' means discussing something to reach an agreement, like 'bargaining'.",
+        "chinese": "'Negotiating' 意思是为了达成协议而进行讨论，比如 'bargaining'。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'hasten'? e.g. He tried to hasten his departure by packing early.",
+    "options": [
+      { "sentence": "hurry", "correct": "true" },
+      { "sentence": "delay", "correct": "false" },
+      { "sentence": "cancel", "correct": "false" },
+      { "sentence": "ignore", "correct": "false" },
+      { "sentence": "rest", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Hasten' means to move or act quickly, like 'hurry'.",
+        "chinese": "'Hasten' 意思是快速行动，比如 'hurry'。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'egregious'? e.g. The referee made an egregious mistake in the final game.",
+    "options": [
+      { "sentence": "shocking", "correct": "true" },
+      { "sentence": "normal", "correct": "false" },
+      { "sentence": "minor", "correct": "false" },
+      { "sentence": "common", "correct": "false" },
+      { "sentence": "funny", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Egregious' means something is very bad or shocking.",
+        "chinese": "'Egregious' 意思是极其糟糕或令人震惊的。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'blight'? e.g. The crops were destroyed by a sudden blight.",
+    "options": [
+      { "sentence": "disease", "correct": "true" },
+      { "sentence": "flower", "correct": "false" },
+      { "sentence": "storm", "correct": "false" },
+      { "sentence": "rain", "correct": "false" },
+      { "sentence": "growth", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Blight' means a disease or condition that damages or destroys plants.",
+        "chinese": "'Blight' 是指破坏植物的病害或有害条件。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'thwarted'? e.g. Their plan to win the game was thwarted by the weather.",
+    "options": [
+      { "sentence": "blocked", "correct": "true" },
+      { "sentence": "helped", "correct": "false" },
+      { "sentence": "allowed", "correct": "false" },
+      { "sentence": "encouraged", "correct": "false" },
+      { "sentence": "continued", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Thwarted' means to stop something from happening, like 'blocked'.",
+        "chinese": "'Thwarted' 意思是阻止某事发生，比如 'blocked'。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'constitution'? e.g. The U.S. Constitution gives citizens certain rights.",
+    "options": [
+      { "sentence": "law", "correct": "true" },
+      { "sentence": "building", "correct": "false" },
+      { "sentence": "vote", "correct": "false" },
+      { "sentence": "meeting", "correct": "false" },
+      { "sentence": "flag", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Constitution' means the system of laws and principles that govern a country.",
+        "chinese": "'Constitution' 是指一个国家的法律和原则体系。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'annex'? e.g. The country decided to annex the small island.",
+    "options": [
+      { "sentence": "take over", "correct": "true" },
+      { "sentence": "ignore", "correct": "false" },
+      { "sentence": "sell", "correct": "false" },
+      { "sentence": "visit", "correct": "false" },
+      { "sentence": "paint", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Annex' means to take control of a land or area and add it to another.",
+        "chinese": "'Annex' 意思是吞并或并入某地。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'eligible'? e.g. She is eligible to vote in the election.",
+    "options": [
+      { "sentence": "qualified", "correct": "true" },
+      { "sentence": "lazy", "correct": "false" },
+      { "sentence": "late", "correct": "false" },
+      { "sentence": "worried", "correct": "false" },
+      { "sentence": "tired", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Eligible' means being allowed or qualified to do something.",
+        "chinese": "'Eligible' 的意思是有资格或被允许做某事。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'microbial'? e.g. Scientists study microbial life in soil and water.",
+    "options": [
+      { "sentence": "germ-related", "correct": "true" },
+      { "sentence": "machine", "correct": "false" },
+      { "sentence": "animal", "correct": "false" },
+      { "sentence": "chemical", "correct": "false" },
+      { "sentence": "human", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Microbial' refers to microbes, like bacteria and other tiny organisms.",
+        "chinese": "'Microbial' 是指微生物，例如细菌和其他微小生物。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'legislature'? e.g. The legislature passed a new law to protect the environment.",
+    "options": [
+      { "sentence": "lawmakers", "correct": "true" },
+      { "sentence": "judges", "correct": "false" },
+      { "sentence": "police", "correct": "false" },
+      { "sentence": "teachers", "correct": "false" },
+      { "sentence": "citizens", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Legislature' means a group of people who make laws, like 'lawmakers'.",
+        "chinese": "'Legislature' 是制定法律的一群人，比如 'lawmakers'。"
+      }
+    ]
+  }
+]
