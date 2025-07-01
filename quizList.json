@@ -300,7 +300,7 @@
     "level": "7"
   },
       {
-    "name": "synonyms medium",
+    "name": "synonyms_easy_medium.json",
     "file": "synonyms_easy_medium.json",
     "type": "english",
     "level": "5"
