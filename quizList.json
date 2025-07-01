@@ -298,5 +298,12 @@
     "file": "synonyms_upper_ielts7.json",
     "type": "english",
     "level": "7"
+  },
+      {
+    "name": "synonyms medium",
+    "file": "synonyms_easy_medium.json",
+    "type": "english",
+    "level": "5"
   }
+  
 ]
