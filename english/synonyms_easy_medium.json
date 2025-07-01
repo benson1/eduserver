@@ -1,0 +1,162 @@
+[
+  {
+    "question": "Which is a correct synonym for 'witness'? e.g. She was a witness to the accident.",
+    "options": [
+      { "sentence": "observer", "correct": "true" },
+      { "sentence": "suspect", "correct": "false" },
+      { "sentence": "officer", "correct": "false" },
+      { "sentence": "helper", "correct": "false" },
+      { "sentence": "driver", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Witness' means someone who sees an event happen, like an 'observer'.",
+        "chinese": "'Witness' 指目击事件发生的人，比如 'observer'（观察者）。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'deploy'? e.g. The army decided to deploy more troops.",
+    "options": [
+      { "sentence": "send out", "correct": "true" },
+      { "sentence": "hide", "correct": "false" },
+      { "sentence": "delay", "correct": "false" },
+      { "sentence": "remove", "correct": "false" },
+      { "sentence": "store", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Deploy' means to send out people or resources for a purpose, like 'send out'.",
+        "chinese": "'Deploy' 是指派遣人员或资源，比如 'send out'（派出）。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'exceptional'? e.g. Her performance was truly exceptional.",
+    "options": [
+      { "sentence": "outstanding", "correct": "true" },
+      { "sentence": "average", "correct": "false" },
+      { "sentence": "normal", "correct": "false" },
+      { "sentence": "common", "correct": "false" },
+      { "sentence": "acceptable", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Exceptional' means unusually good or outstanding.",
+        "chinese": "'Exceptional' 意思是非常出色或卓越。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'conscription'? e.g. The country has a policy of conscription for young men.",
+    "options": [
+      { "sentence": "draft", "correct": "true" },
+      { "sentence": "promotion", "correct": "false" },
+      { "sentence": "employment", "correct": "false" },
+      { "sentence": "volunteering", "correct": "false" },
+      { "sentence": "education", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Conscription' means a system where people are forced to join the military, like a 'draft'.",
+        "chinese": "'Conscription' 是指强制人们参军的制度，比如 'draft'（征兵）。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'voluntary'? e.g. Participation in the event is voluntary.",
+    "options": [
+      { "sentence": "optional", "correct": "true" },
+      { "sentence": "forced", "correct": "false" },
+      { "sentence": "required", "correct": "false" },
+      { "sentence": "paid", "correct": "false" },
+      { "sentence": "scheduled", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Voluntary' means done by choice, not by force, like 'optional'.",
+        "chinese": "'Voluntary' 是指自愿的，不是强制的，比如 'optional'（可选择的）。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'recruit'? e.g. The company wants to recruit new employees.",
+    "options": [
+      { "sentence": "hire", "correct": "true" },
+      { "sentence": "fire", "correct": "false" },
+      { "sentence": "train", "correct": "false" },
+      { "sentence": "pay", "correct": "false" },
+      { "sentence": "punish", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Recruit' means to find and bring in people for a job or group, like 'hire'.",
+        "chinese": "'Recruit' 是指招募人员，比如 'hire'（雇用）。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'annually'? e.g. The report is updated annually.",
+    "options": [
+      { "sentence": "yearly", "correct": "true" },
+      { "sentence": "monthly", "correct": "false" },
+      { "sentence": "weekly", "correct": "false" },
+      { "sentence": "daily", "correct": "false" },
+      { "sentence": "hourly", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Annually' means once every year, like 'yearly'.",
+        "chinese": "'Annually' 是指每年一次，比如 'yearly'（每年）。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'exoplanet'? e.g. Scientists discovered a new exoplanet outside our solar system.",
+    "options": [
+      { "sentence": "planet", "correct": "true" },
+      { "sentence": "star", "correct": "false" },
+      { "sentence": "moon", "correct": "false" },
+      { "sentence": "comet", "correct": "false" },
+      { "sentence": "asteroid", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Exoplanet' means a planet outside our solar system.",
+        "chinese": "'Exoplanet' 是指太阳系以外的行星。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'constellation'? e.g. Orion is a famous constellation in the night sky.",
+    "options": [
+      { "sentence": "star group", "correct": "true" },
+      { "sentence": "cloud", "correct": "false" },
+      { "sentence": "planet", "correct": "false" },
+      { "sentence": "satellite", "correct": "false" },
+      { "sentence": "galaxy", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Constellation' means a group of stars that form a pattern.",
+        "chinese": "'Constellation' 是指组成特定图案的一组星星。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'roughly'? e.g. There were roughly 100 people at the event.",
+    "options": [
+      { "sentence": "approximately", "correct": "true" },
+      { "sentence": "exactly", "correct": "false" },
+      { "sentence": "quietly", "correct": "false" },
+      { "sentence": "gently", "correct": "false" },
+      { "sentence": "suddenly", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Roughly' means not exactly but close to a number or idea, like 'approximately'.",
+        "chinese": "'Roughly' 是指大约、接近的意思，比如 'approximately'（大约）。"
+      }
+    ]
+  }
+]
