@@ -304,6 +304,11 @@
     "file": "synonyms_easy_medium.json",
     "type": "english",
     "level": "5"
+  },
+        {
+    "name": "b3_energy_waves",
+    "file": "b3_energy_waves ",
+    "type": "science",
+    "level": "3"
   }
-  
 ]
