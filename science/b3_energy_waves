@@ -1,0 +1,343 @@
+[
+  {
+    "question": "What is heat?",
+    "options": [
+      {
+        "sentence": "Heat is the transfer of energy from one object to another due to a difference in temperature.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Heat is the amount of matter in an object regardless of its temperature.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Heat is a form of visible light energy from the Sun.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Heat is the electric current flowing through a wire.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Heat is a type of vibration only found in solids.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Heat is energy in transit due to temperature difference.",
+        "chinese": "热是由于温度差而发生的能量转移过程。"
+      }
+    ]
+  },
+  {
+    "question": "What is temperature?",
+    "options": [
+      {
+        "sentence": "Temperature is a measure of the average kinetic energy of particles in a substance.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Temperature is the total energy stored in a system’s bonds.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Temperature is how fast sound travels through air.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Temperature is a form of electromagnetic radiation.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Temperature is the force of gravity on an object.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Temperature reflects the average motion of particles.",
+        "chinese": "温度表示的是粒子平均运动的快慢。"
+      }
+    ]
+  },
+  {
+    "question": "What does vibrate mean in physics?",
+    "options": [
+      {
+        "sentence": "To vibrate means to move back and forth rapidly around a position.",
+        "correct": "true"
+      },
+      {
+        "sentence": "To vibrate means to completely stop all motion.",
+        "correct": "false"
+      },
+      {
+        "sentence": "To vibrate means to spin in circles through space.",
+        "correct": "false"
+      },
+      {
+        "sentence": "To vibrate means to increase in size and mass.",
+        "correct": "false"
+      },
+      {
+        "sentence": "To vibrate means to cool down a substance quickly.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Vibration is a repetitive movement around an equilibrium point.",
+        "chinese": "振动是围绕平衡位置的反复运动。"
+      }
+    ]
+  },
+  {
+    "question": "What is sound?",
+    "options": [
+      {
+        "sentence": "Sound is a longitudinal wave that travels through a medium like air or water.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Sound is a beam of visible light moving in space.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Sound is a chemical reaction that releases gas.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Sound is the force of gravity between two objects.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Sound is heat energy produced by sunlight.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Sound requires a medium to travel and moves as pressure waves.",
+        "chinese": "声音需要介质传播，以压力波的形式运动。"
+      }
+    ]
+  },
+  {
+    "question": "What is light?",
+    "options": [
+      {
+        "sentence": "Light is an electromagnetic wave that can travel through a vacuum.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Light is the same as sound and travels at the same speed.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Light is a type of gas that glows in the dark.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Light is made only of electrical charges moving through wires.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Light is a solid object that reflects heat.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Light is a form of electromagnetic radiation visible to the human eye.",
+        "chinese": "光是人眼可见的电磁辐射的一种形式。"
+      }
+    ]
+  },
+  {
+    "question": "What is an electric current?",
+    "options": [
+      {
+        "sentence": "An electric current is the flow of electric charge through a conductor.",
+        "correct": "true"
+      },
+      {
+        "sentence": "An electric current is a stream of gas molecules bouncing in a vacuum.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An electric current is heat moving from one body to another.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An electric current is the weight of electrons measured in grams.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An electric current is a sound wave in air caused by electricity.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Electric current occurs when electrons move through a wire or other medium.",
+        "chinese": "电流是电荷在导体中的流动。"
+      }
+    ]
+  },
+  {
+    "question": "What is kinetic energy?",
+    "options": [
+      {
+        "sentence": "Kinetic energy is the energy of motion of an object.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Kinetic energy is the energy stored in atomic nuclei.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Kinetic energy is the potential to do work from a resting state.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Kinetic energy is the total mass of an object times its volume.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Kinetic energy is a type of electromagnetic field.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Kinetic energy depends on an object’s mass and speed.",
+        "chinese": "动能取决于物体的质量和速度。"
+      }
+    ]
+  },
+  {
+    "question": "What is nuclear energy?",
+    "options": [
+      {
+        "sentence": "Nuclear energy comes from the strong forces binding protons and neutrons in the nucleus.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Nuclear energy is the light energy emitted from stars.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Nuclear energy is stored between atoms in chemical bonds.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Nuclear energy is the pressure energy in gas containers.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Nuclear energy is electricity created from spinning magnets.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Nuclear energy is released in fission or fusion reactions involving atomic nuclei.",
+        "chinese": "核能是在原子核裂变或聚变反应中释放出的能量。"
+      }
+    ]
+  },
+  {
+    "question": "What is potential energy?",
+    "options": [
+      {
+        "sentence": "Potential energy is stored energy due to position or configuration.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Potential energy is the movement of particles in a hot gas.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Potential energy is the speed at which light travels through air.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Potential energy is only present when an object is vibrating.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Potential energy is the amount of heat absorbed by water.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Potential energy is stored due to height, stretch, or other configurations.",
+        "chinese": "势能是由于位置或形状的改变而储存的能量。"
+      }
+    ]
+  },
+  {
+    "question": "What is a transverse wave?",
+    "options": [
+      {
+        "sentence": "A transverse wave moves the medium at right angles to the direction the wave travels.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A transverse wave compresses particles in the same direction as the wave motion.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A transverse wave only exists in solids under high pressure.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A transverse wave is a slow chemical reaction that forms heat.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A transverse wave travels only through gases and causes vibration in molecules.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Transverse waves, like light, move perpendicular to the wave direction.",
+        "chinese": "横波如光波，振动方向与传播方向垂直。"
+      }
+    ]
+  },
+  {
+    "question": "What is a longitudinal wave?",
+    "options": [
+      {
+        "sentence": "A longitudinal wave moves particles in the same direction as the wave travels.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A longitudinal wave is always visible to the human eye.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A longitudinal wave pushes energy sideways through liquids only.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A longitudinal wave can never occur in air or gas.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A longitudinal wave is a constant stream of photons without energy.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Longitudinal waves, such as sound, involve compression and rarefaction along the direction of travel.",
+        "chinese": "纵波如声波，粒子的振动方向与波的传播方向相同。"
+      }
+    ]
+  }
+]
