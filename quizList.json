@@ -310,5 +310,11 @@
     "file": "b3_energy_waves ",
     "type": "science",
     "level": "3"
-  }
+  },
+{
+    "name": "b1_earth_in_space_movement.json",
+    "file": "b1_earth_in_space_movement.json ",
+    "type": "science",
+    "level": "1"
+}
 ]
