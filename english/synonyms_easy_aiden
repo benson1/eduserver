@@ -1,0 +1,16 @@
+{
+  "question": "Which is a correct synonym for 'marrow'? e.g. Bone marrow is essential for making blood cells.",
+  "options": [
+    { "sentence": "inner tissue", "correct": "true" },
+    { "sentence": "muscle", "correct": "false" },
+    { "sentence": "skin", "correct": "false" },
+    { "sentence": "bone surface", "correct": "false" },
+    { "sentence": "blood", "correct": "false" }
+  ],
+  "explanation": [
+    {
+      "english": "'Marrow' is the soft inner tissue of bones that produces blood cells.",
+      "chinese": "'Marrow' 是指骨头内部柔软的组织，用于制造血细胞。"
+    }
+  ]
+}
