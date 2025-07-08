@@ -1,16 +1,114 @@
-{
-  "question": "Which is a correct synonym for 'marrow'? e.g. Bone marrow is essential for making blood cells.",
-  "options": [
-    { "sentence": "inner tissue", "correct": "true" },
-    { "sentence": "muscle", "correct": "false" },
-    { "sentence": "skin", "correct": "false" },
-    { "sentence": "bone surface", "correct": "false" },
-    { "sentence": "blood", "correct": "false" }
-  ],
-  "explanation": [
-    {
-      "english": "'Marrow' is the soft inner tissue of bones that produces blood cells.",
-      "chinese": "'Marrow' 是指骨头内部柔软的组织，用于制造血细胞。"
-    }
-  ]
-}
+[
+  {
+    "question": "Which is a correct synonym for 'unearthed'? e.g. The archaeologists unearthed ancient pottery during the dig.",
+    "options": [
+      { "sentence": "discovered", "correct": "true" },
+      { "sentence": "buried", "correct": "false" },
+      { "sentence": "ignored", "correct": "false" },
+      { "sentence": "lost", "correct": "false" },
+      { "sentence": "destroyed", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Unearthed' means to find or discover something that was hidden or buried.",
+        "chinese": "'Unearthed' 意思是发现或挖掘出被掩埋或隐藏的东西，比如 'discovered'。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'petrified'? e.g. She was petrified when she heard the strange noise.",
+    "options": [
+      { "sentence": "terrified", "correct": "true" },
+      { "sentence": "relaxed", "correct": "false" },
+      { "sentence": "bored", "correct": "false" },
+      { "sentence": "brave", "correct": "false" },
+      { "sentence": "curious", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Petrified' means extremely scared or terrified.",
+        "chinese": "'Petrified' 意思是非常害怕或吓坏了，比如 'terrified'。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'snapshot'? e.g. He took a snapshot of the sunset with his phone.",
+    "options": [
+      { "sentence": "photo", "correct": "true" },
+      { "sentence": "painting", "correct": "false" },
+      { "sentence": "movie", "correct": "false" },
+      { "sentence": "drawing", "correct": "false" },
+      { "sentence": "email", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Snapshot' means a quick photograph, like 'photo'.",
+        "chinese": "'Snapshot' 是指快速拍摄的照片，比如 'photo'。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'academy'? e.g. She was accepted into a music academy.",
+    "options": [
+      { "sentence": "school", "correct": "true" },
+      { "sentence": "store", "correct": "false" },
+      { "sentence": "bank", "correct": "false" },
+      { "sentence": "office", "correct": "false" },
+      { "sentence": "theater", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Academy' means a school or institution for learning.",
+        "chinese": "'Academy' 是指教育机构或学校，比如 'school'。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'thrive'? e.g. The plants thrive in warm and sunny weather.",
+    "options": [
+      { "sentence": "grow well", "correct": "true" },
+      { "sentence": "fail", "correct": "false" },
+      { "sentence": "shrink", "correct": "false" },
+      { "sentence": "hide", "correct": "false" },
+      { "sentence": "stop", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Thrive' means to grow, develop, or succeed well.",
+        "chinese": "'Thrive' 是指茁壮成长或成功，比如 'grow well'。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'vulnerable'? e.g. The baby birds are vulnerable to predators.",
+    "options": [
+      { "sentence": "unprotected", "correct": "true" },
+      { "sentence": "safe", "correct": "false" },
+      { "sentence": "strong", "correct": "false" },
+      { "sentence": "dangerous", "correct": "false" },
+      { "sentence": "powerful", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Vulnerable' means easily hurt or unprotected.",
+        "chinese": "'Vulnerable' 是指容易受伤害的或没有保护的，比如 'unprotected'。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'marrow'? e.g. Bone marrow is essential for making blood cells.",
+    "options": [
+      { "sentence": "inner tissue", "correct": "true" },
+      { "sentence": "muscle", "correct": "false" },
+      { "sentence": "skin", "correct": "false" },
+      { "sentence": "bone surface", "correct": "false" },
+      { "sentence": "blood", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Marrow' is the soft inner tissue of bones that produces blood cells.",
+        "chinese": "'Marrow' 是指骨头内部柔软的组织，用于制造血细胞。"
+      }
+    ]
+  }
+]
