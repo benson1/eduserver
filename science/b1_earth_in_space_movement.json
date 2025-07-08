@@ -1,0 +1,343 @@
+[
+  {
+    "question": "What is Earth's tilt?",
+    "options": [
+      {
+        "sentence": "Earth’s tilt is the 23.5° angle of Earth’s axis, which causes the seasons.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Earth’s tilt is the angle at which earthquakes cause land to shift near the equator.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Earth’s tilt is a slope of ocean water caused by tidal forces from the Moon.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Earth’s tilt is the result of solar winds pushing against the atmosphere.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Earth’s tilt is the slight lean caused by weight imbalance between hemispheres.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Earth's tilt makes different parts face the Sun at different times, causing seasonal changes.",
+        "chinese": "地球的倾斜使不同地区在不同时间面向太阳，从而引起季节变化。"
+      }
+    ]
+  },
+  {
+    "question": "What are seasons?",
+    "options": [
+      {
+        "sentence": "Seasons are periods of the year with different weather patterns caused by Earth's tilt and orbit around the Sun.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Seasons are layers of Earth's atmosphere that block harmful radiation.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Seasons are types of solar flares that occur every few months.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Seasons are tides created by the Moon’s gravity on Earth’s oceans.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Seasons are cloud patterns that repeat in cycles across the globe.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "As Earth orbits the Sun, its tilted axis causes changes in sunlight, creating seasons.",
+        "chinese": "地球绕太阳公转时，其倾斜的轴导致阳光变化，从而形成四季。"
+      }
+    ]
+  },
+  {
+    "question": "What is the solar system?",
+    "options": [
+      {
+        "sentence": "The solar system is a group of planets, moons, and other objects orbiting the Sun.",
+        "correct": "true"
+      },
+      {
+        "sentence": "The solar system is a magnetic field that protects Earth from solar radiation.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The solar system is a layer of gas surrounding Earth and the Moon.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The solar system is a tunnel connecting stars in distant galaxies.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The solar system is a weather pattern that changes with solar flares.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Our solar system includes the Sun, Earth, other planets, moons, and smaller space objects.",
+        "chinese": "我们的太阳系包括太阳、地球、其他行星、卫星和较小的天体。"
+      }
+    ]
+  },
+  {
+    "question": "What is a star?",
+    "options": [
+      {
+        "sentence": "A star is a massive ball of hot gases that gives off light and heat through nuclear reactions.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A star is a frozen rock that glows when struck by sunlight in space.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A star is a cloud of dust that only appears at night in certain areas.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A star is a small planet that reflects light from the Moon.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A star is a type of satellite that sends out radio signals.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "The Sun is the closest star to Earth and provides energy for life.",
+        "chinese": "太阳是离地球最近的恒星，为生命提供能量。"
+      }
+    ]
+  },
+  {
+    "question": "What is the Northern Hemisphere?",
+    "options": [
+      {
+        "sentence": "The Northern Hemisphere is the half of Earth north of the equator.",
+        "correct": "true"
+      },
+      {
+        "sentence": "The Northern Hemisphere is the part of the sky where stars rotate clockwise.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The Northern Hemisphere is an ocean current that flows from the North Pole.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The Northern Hemisphere is a layer of ice that covers Earth in winter.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The Northern Hemisphere is the side of Earth always facing away from the Sun.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "North America, Europe, and most of Asia are in the Northern Hemisphere.",
+        "chinese": "北美洲、欧洲和大部分亚洲位于北半球。"
+      }
+    ]
+  },
+  {
+    "question": "What does it mean to rotate?",
+    "options": [
+      {
+        "sentence": "To rotate means to spin around a central point or axis.",
+        "correct": "true"
+      },
+      {
+        "sentence": "To rotate means to change colors when light shines from different angles.",
+        "correct": "false"
+      },
+      {
+        "sentence": "To rotate means to move in a straight line until stopped by another object.",
+        "correct": "false"
+      },
+      {
+        "sentence": "To rotate means to float in water due to reduced gravity.",
+        "correct": "false"
+      },
+      {
+        "sentence": "To rotate means to bounce off surfaces like a rubber ball.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Earth rotates on its axis, which causes day and night.",
+        "chinese": "地球绕其轴自转，导致昼夜交替。"
+      }
+    ]
+  },
+  {
+    "question": "What is an orbit?",
+    "options": [
+      {
+        "sentence": "An orbit is the curved path an object takes around a planet, star, or moon due to gravity.",
+        "correct": "true"
+      },
+      {
+        "sentence": "An orbit is a type of telescope used to observe distant stars from Earth.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An orbit is a tool used to measure the brightness of celestial bodies.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An orbit is a tunnel through which spacecraft enter other galaxies.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An orbit is a signal sent between satellites that reflects off Earth's atmosphere.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "The Moon orbits Earth, and Earth orbits the Sun.",
+        "chinese": "月亮绕地球运行，地球绕太阳运行。"
+      }
+    ]
+  },
+  {
+    "question": "What is the Sun?",
+    "options": [
+      {
+        "sentence": "The Sun is a star at the center of our solar system that provides light and heat to Earth.",
+        "correct": "true"
+      },
+      {
+        "sentence": "The Sun is a glowing planet that orbits Earth once a year.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The Sun is a man-made satellite used for energy production.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The Sun is a cloud of dust that reflects light from stars.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The Sun is a magnetic pole that rotates with the Moon.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "The Sun's energy makes life possible and drives weather on Earth.",
+        "chinese": "太阳的能量使生命成为可能，并推动地球上的天气变化。"
+      }
+    ]
+  },
+  {
+    "question": "What is the equator?",
+    "options": [
+      {
+        "sentence": "The equator is an imaginary line around the middle of Earth, dividing it into northern and southern halves.",
+        "correct": "true"
+      },
+      {
+        "sentence": "The equator is a physical wall that separates continents from each other.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The equator is a type of wind that blows in circles around the globe.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The equator is a river that flows from the North Pole to the South Pole.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The equator is the area where Earth's gravity becomes zero.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Places near the equator are usually warmer because they get more direct sunlight.",
+        "chinese": "靠近赤道的地方通常更温暖，因为它们接收到更多的直射阳光。"
+      }
+    ]
+  },
+  {
+    "question": "What is gravity?",
+    "options": [
+      {
+        "sentence": "Gravity is a force that pulls objects toward each other, especially toward the center of Earth.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Gravity is a type of light that pushes objects into space.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Gravity is a sound made by the movement of the Moon.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Gravity is a chemical in the air that holds clouds in place.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Gravity is a layer of rock deep inside Earth's core.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Gravity keeps us on the ground and makes things fall when dropped.",
+        "chinese": "重力使我们留在地面上，并让物体掉落时向下落。"
+      }
+    ]
+  },
+{
+  "question": "Which shape best describes the Earth?",
+  "options": [
+    {
+      "sentence": "The Earth is an oblate spheroid—an ellipsoid slightly flattened at the poles.",
+      "correct": "true"
+    },
+    {
+      "sentence": "The Earth is a perfect sphere with equal diameter in all directions.",
+      "correct": "false"
+    },
+    {
+      "sentence": "The Earth is round like a flat circle in space.",
+      "correct": "false"
+    },
+    {
+      "sentence": "The Earth is a cuboid with flat faces and sharp edges.",
+      "correct": "false"
+    },
+    {
+      "sentence": "The Earth is shaped like a spinning triangle with curved sides.",
+      "correct": "false"
+    }
+  ],
+  "explanation": [
+    {
+      "english": "Earth is not a perfect sphere—its rotation makes it bulge at the equator, forming an oblate spheroid.",
+      "chinese": "地球不是完美的球体，由于自转，它在赤道略微鼓出，形成一个扁球体。"
+    }
+  ]
+}
+]
