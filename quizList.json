@@ -328,5 +328,11 @@
         "file": "synonyms_upper_ielts7_new.json",
         "type": "english",
         "level": "5"
+    },
+        {
+        "name": "synonyms_easy_aiden.json",
+        "file": "synonyms_easy_aiden.json",
+        "type": "science",
+        "level": "3"
     }
 ]
