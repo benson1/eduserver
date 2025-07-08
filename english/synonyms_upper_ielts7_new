@@ -1,0 +1,16 @@
+{
+  "question": "Which is a correct synonym for 'enthusiast'? e.g. He is a car enthusiast who collects vintage vehicles.",
+  "options": [
+    { "sentence": "fan", "correct": "true" },
+    { "sentence": "critic", "correct": "false" },
+    { "sentence": "enemy", "correct": "false" },
+    { "sentence": "stranger", "correct": "false" },
+    { "sentence": "leader", "correct": "false" }
+  ],
+  "explanation": [
+    {
+      "english": "'Enthusiast' means a person who is very interested in a particular activity or subject, like a 'fan'.",
+      "chinese": "'Enthusiast' 是对某个活动或主题非常感兴趣的人，比如 'fan'（粉丝）。"
+    }
+  ]
+}
