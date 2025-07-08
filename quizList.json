@@ -317,8 +317,8 @@
     "type": "science",
     "level": "1"
 },{
-      "name": "synonyms_upper_ielts7_new.json",
-    "file": "synonyms_upper_ielts7_new.json",
+      "name": "synonyms_upper_ielts7_new",
+    "file": "synonyms_upper_ielts7_new",
     "type": "english",
     "level": "5"
 }
