@@ -1,0 +1,146 @@
+[
+  {
+    "question": "Which is a correct synonym for 'gleaming'? e.g. The gleaming silver spoon sparkled in the light.",
+    "options": [
+      { "sentence": "shining", "correct": "true" },
+      { "sentence": "dirty", "correct": "false" },
+      { "sentence": "broken", "correct": "false" },
+      { "sentence": "heavy", "correct": "false" },
+      { "sentence": "dull", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Gleaming' means shining brightly, like 'shining'.",
+        "chinese": "'Gleaming' 指明亮地发光，比如 'shining'（闪亮的）。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'froths'? e.g. The milk froths as it is heated for the coffee.",
+    "options": [
+      { "sentence": "bubbles", "correct": "true" },
+      { "sentence": "solids", "correct": "false" },
+      { "sentence": "steam", "correct": "false" },
+      { "sentence": "powder", "correct": "false" },
+      { "sentence": "oil", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Froths' means forms light bubbles or foam, like 'bubbles'.",
+        "chinese": "'Froths' 指形成轻泡或泡沫，比如 'bubbles'（泡泡）。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'immediately'? e.g. She answered the phone immediately.",
+    "options": [
+      { "sentence": "quickly", "correct": "true" },
+      { "sentence": "slowly", "correct": "false" },
+      { "sentence": "eventually", "correct": "false" },
+      { "sentence": "later", "correct": "false" },
+      { "sentence": "barely", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Immediately' means without delay, like 'quickly'.",
+        "chinese": "'Immediately' 指立刻、马上，比如 'quickly'（快速地）。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'fascinating'? e.g. The book was so fascinating I couldn't put it down.",
+    "options": [
+      { "sentence": "interesting", "correct": "true" },
+      { "sentence": "boring", "correct": "false" },
+      { "sentence": "confusing", "correct": "false" },
+      { "sentence": "dull", "correct": "false" },
+      { "sentence": "normal", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Fascinating' means very interesting or captivating, like 'interesting'.",
+        "chinese": "'Fascinating' 指非常有趣或吸引人的，比如 'interesting'（有趣的）。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'invention'? e.g. The light bulb was a great invention.",
+    "options": [
+      { "sentence": "creation", "correct": "true" },
+      { "sentence": "destruction", "correct": "false" },
+      { "sentence": "mistake", "correct": "false" },
+      { "sentence": "tradition", "correct": "false" },
+      { "sentence": "imitation", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Invention' means something newly created, like a 'creation'.",
+        "chinese": "'Invention' 指新创造的东西，比如 'creation'（创造物）。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'grinning'? e.g. He was grinning after hearing the good news.",
+    "options": [
+      { "sentence": "smiling", "correct": "true" },
+      { "sentence": "crying", "correct": "false" },
+      { "sentence": "frowning", "correct": "false" },
+      { "sentence": "talking", "correct": "false" },
+      { "sentence": "blinking", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Grinning' means smiling broadly, like 'smiling'.",
+        "chinese": "'Grinning' 指咧嘴笑，比如 'smiling'（微笑）。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'flavour'? e.g. The soup has a strong garlic flavour.",
+    "options": [
+      { "sentence": "taste", "correct": "true" },
+      { "sentence": "smell", "correct": "false" },
+      { "sentence": "color", "correct": "false" },
+      { "sentence": "shape", "correct": "false" },
+      { "sentence": "texture", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Flavour' means the taste of something, like 'taste'.",
+        "chinese": "'Flavour' 指某物的味道，比如 'taste'（味道）。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'shrieked'? e.g. She shrieked when she saw the spider.",
+    "options": [
+      { "sentence": "screamed", "correct": "true" },
+      { "sentence": "whispered", "correct": "false" },
+      { "sentence": "laughed", "correct": "false" },
+      { "sentence": "talked", "correct": "false" },
+      { "sentence": "sighed", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Shrieked' means screamed loudly and suddenly, like 'screamed'.",
+        "chinese": "'Shrieked' 指突然大声尖叫，比如 'screamed'（尖叫）。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'peculiar'? e.g. He has a peculiar way of speaking.",
+    "options": [
+      { "sentence": "strange", "correct": "true" },
+      { "sentence": "normal", "correct": "false" },
+      { "sentence": "usual", "correct": "false" },
+      { "sentence": "boring", "correct": "false" },
+      { "sentence": "kind", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Peculiar' means strange or unusual, like 'strange'.",
+        "chinese": "'Peculiar' 指奇怪或不寻常的，比如 'strange'（奇怪的）。"
+      }
+    ]
+  }
+]
