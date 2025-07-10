@@ -334,5 +334,10 @@
         "file": "synonyms_easy_aiden.json",
         "type": "english",
         "level": "3"
-    }
+    },{
+               "name": "synonyms_charlie_max.json",
+        "file": "synonyms_charlie_max.json",
+        "type": "english",
+        "level": "3"
+        }
 ]
