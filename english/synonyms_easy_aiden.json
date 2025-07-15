@@ -1,113 +1,97 @@
 [
   {
-    "question": "Which is a correct synonym for 'unearthed'? e.g. The archaeologists unearthed ancient pottery during the dig.",
+    "question": "Which is a correct synonym for 'meteor'? e.g. A meteor flashed across the night sky.",
     "options": [
-      { "sentence": "discovered", "correct": "true" },
-      { "sentence": "buried", "correct": "false" },
-      { "sentence": "ignored", "correct": "false" },
-      { "sentence": "lost", "correct": "false" },
-      { "sentence": "destroyed", "correct": "false" }
+      { "sentence": "shooting star", "correct": "true" },
+      { "sentence": "planet", "correct": "false" },
+      { "sentence": "spaceship", "correct": "false" },
+      { "sentence": "sun", "correct": "false" },
+      { "sentence": "asteroid belt", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Unearthed' means to find or discover something that was hidden or buried.",
-        "chinese": "'Unearthed' 意思是发现或挖掘出被掩埋或隐藏的东西，比如 'discovered'。"
+        "english": "'Meteor' refers to a small body from outer space that burns upon entering Earth’s atmosphere — often called a shooting star.",
+        "chinese": "'Meteor' 指的是进入地球大气层并燃烧的小天体，常被称为流星。"
       }
     ]
   },
   {
-    "question": "Which is a correct synonym for 'petrified'? e.g. She was petrified when she heard the strange noise.",
+    "question": "Which is a correct synonym for 'originally'? e.g. He was originally from Japan.",
     "options": [
-      { "sentence": "terrified", "correct": "true" },
-      { "sentence": "relaxed", "correct": "false" },
-      { "sentence": "bored", "correct": "false" },
-      { "sentence": "brave", "correct": "false" },
-      { "sentence": "curious", "correct": "false" }
+      { "sentence": "at first", "correct": "true" },
+      { "sentence": "suddenly", "correct": "false" },
+      { "sentence": "carefully", "correct": "false" },
+      { "sentence": "finally", "correct": "false" },
+      { "sentence": "rarely", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Petrified' means extremely scared or terrified.",
-        "chinese": "'Petrified' 意思是非常害怕或吓坏了，比如 'terrified'。"
+        "english": "'Originally' means at the beginning or in the first place.",
+        "chinese": "'Originally' 意思是一开始，起初。"
       }
     ]
   },
   {
-    "question": "Which is a correct synonym for 'snapshot'? e.g. He took a snapshot of the sunset with his phone.",
+    "question": "Which is a correct synonym for 'trend'? e.g. This hairstyle is the latest trend.",
     "options": [
-      { "sentence": "photo", "correct": "true" },
-      { "sentence": "painting", "correct": "false" },
-      { "sentence": "movie", "correct": "false" },
-      { "sentence": "drawing", "correct": "false" },
-      { "sentence": "email", "correct": "false" }
+      { "sentence": "fashion", "correct": "true" },
+      { "sentence": "mistake", "correct": "false" },
+      { "sentence": "routine", "correct": "false" },
+      { "sentence": "secret", "correct": "false" },
+      { "sentence": "tradition", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Snapshot' means a quick photograph, like 'photo'.",
-        "chinese": "'Snapshot' 是指快速拍摄的照片，比如 'photo'。"
+        "english": "'Trend' refers to a general direction in which something is developing — often related to style or behavior.",
+        "chinese": "'Trend' 是指某种发展方向，常用于描述流行趋势。"
       }
     ]
   },
   {
-    "question": "Which is a correct synonym for 'academy'? e.g. She was accepted into a music academy.",
+    "question": "Which is a correct synonym for 'fashion'? e.g. That brand is known for high-end fashion.",
     "options": [
-      { "sentence": "school", "correct": "true" },
-      { "sentence": "store", "correct": "false" },
-      { "sentence": "bank", "correct": "false" },
-      { "sentence": "office", "correct": "false" },
-      { "sentence": "theater", "correct": "false" }
+      { "sentence": "style", "correct": "true" },
+      { "sentence": "argument", "correct": "false" },
+      { "sentence": "conflict", "correct": "false" },
+      { "sentence": "science", "correct": "false" },
+      { "sentence": "ritual", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Academy' means a school or institution for learning.",
-        "chinese": "'Academy' 是指教育机构或学校，比如 'school'。"
+        "english": "'Fashion' means the popular or latest style of clothing, behavior, or design.",
+        "chinese": "'Fashion' 指流行的服饰、行为或设计风格。"
       }
     ]
   },
   {
-    "question": "Which is a correct synonym for 'thrive'? e.g. The plants thrive in warm and sunny weather.",
+    "question": "Which is a correct synonym for 'identity'? e.g. She struggled with her cultural identity.",
     "options": [
-      { "sentence": "grow well", "correct": "true" },
-      { "sentence": "fail", "correct": "false" },
-      { "sentence": "shrink", "correct": "false" },
-      { "sentence": "hide", "correct": "false" },
-      { "sentence": "stop", "correct": "false" }
+      { "sentence": "self", "correct": "true" },
+      { "sentence": "job", "correct": "false" },
+      { "sentence": "password", "correct": "false" },
+      { "sentence": "money", "correct": "false" },
+      { "sentence": "fashion", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Thrive' means to grow, develop, or succeed well.",
-        "chinese": "'Thrive' 是指茁壮成长或成功，比如 'grow well'。"
+        "english": "'Identity' means who or what someone is — their sense of self.",
+        "chinese": "'Identity' 是指一个人是谁，他们的自我认知。"
       }
     ]
   },
   {
-    "question": "Which is a correct synonym for 'vulnerable'? e.g. The baby birds are vulnerable to predators.",
+    "question": "Which is a correct synonym for 'purpose'? e.g. He believes his purpose is to help others.",
     "options": [
-      { "sentence": "unprotected", "correct": "true" },
-      { "sentence": "safe", "correct": "false" },
-      { "sentence": "strong", "correct": "false" },
-      { "sentence": "dangerous", "correct": "false" },
-      { "sentence": "powerful", "correct": "false" }
+      { "sentence": "goal", "correct": "true" },
+      { "sentence": "fear", "correct": "false" },
+      { "sentence": "problem", "correct": "false" },
+      { "sentence": "secret", "correct": "false" },
+      { "sentence": "luck", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Vulnerable' means easily hurt or unprotected.",
-        "chinese": "'Vulnerable' 是指容易受伤害的或没有保护的，比如 'unprotected'。"
-      }
-    ]
-  },
-  {
-    "question": "Which is a correct synonym for 'marrow'? e.g. Bone marrow is essential for making blood cells.",
-    "options": [
-      { "sentence": "inner tissue", "correct": "true" },
-      { "sentence": "muscle", "correct": "false" },
-      { "sentence": "skin", "correct": "false" },
-      { "sentence": "bone surface", "correct": "false" },
-      { "sentence": "blood", "correct": "false" }
-    ],
-    "explanation": [
-      {
-        "english": "'Marrow' is the soft inner tissue of bones that produces blood cells.",
-        "chinese": "'Marrow' 是指骨头内部柔软的组织，用于制造血细胞。"
+        "english": "'Purpose' means a reason for doing something, or a goal.",
+        "chinese": "'Purpose' 是指做某事的原因或目标。"
       }
     ]
   }
