@@ -1,81 +1,161 @@
 [
   {
-    "question": "Which is a correct synonym for 'anxiously'?",
+    "question": "Which is a correct synonym for 'devastated'? e.g. She was devastated by the news of his death.",
     "options": [
-      { "sentence": "nervously", "correct": "true" },
-      { "sentence": "calmly", "correct": "false" },
-      { "sentence": "happily", "correct": "false" },
-      { "sentence": "loudly", "correct": "false" },
-      { "sentence": "proudly", "correct": "false" }
+      { "sentence": "heartbroken", "correct": "true" },
+      { "sentence": "angry", "correct": "false" },
+      { "sentence": "happy", "correct": "false" },
+      { "sentence": "confused", "correct": "false" },
+      { "sentence": "proud", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Anxiously' means feeling nervous or worried, like 'nervously'.",
-        "chinese": "'Anxiously' 的意思是紧张或担心，比如 'nervously'。"
+        "english": "'Devastated' means deeply upset or heartbroken.",
+        "chinese": "'Devastated' 意思是极度伤心或悲痛。"
       }
     ]
   },
   {
-    "question": "Which is a correct synonym for 'perched'?",
+    "question": "Which is a correct synonym for 'irony'? e.g. It's an irony that the fire station burned down.",
     "options": [
-      { "sentence": "sitting", "correct": "true" },
-      { "sentence": "falling", "correct": "false" },
-      { "sentence": "running", "correct": "false" },
-      { "sentence": "hiding", "correct": "false" },
-      { "sentence": "sleeping", "correct": "false" }
+      { "sentence": "sarcasm", "correct": "true" },
+      { "sentence": "truth", "correct": "false" },
+      { "sentence": "kindness", "correct": "false" },
+      { "sentence": "praise", "correct": "false" },
+      { "sentence": "honesty", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Perched' means sitting or resting on something, often high up.",
-        "chinese": "'Perched' 的意思是坐着或停在某处，通常是在高处。"
+        "english": "'Irony' means saying the opposite of what you mean, often for humor or emphasis.",
+        "chinese": "'Irony' 指表达与实际相反的意思，通常用于幽默或强调。"
       }
     ]
   },
   {
-    "question": "Which is a correct synonym for 'wafting'?",
+    "question": "Which is a correct synonym for 'cremated'? e.g. He was cremated instead of buried.",
     "options": [
-      { "sentence": "floating", "correct": "true" },
-      { "sentence": "sinking", "correct": "false" },
-      { "sentence": "running", "correct": "false" },
-      { "sentence": "jumping", "correct": "false" },
-      { "sentence": "rolling", "correct": "false" }
+      { "sentence": "burned", "correct": "true" },
+      { "sentence": "frozen", "correct": "false" },
+      { "sentence": "lost", "correct": "false" },
+      { "sentence": "buried", "correct": "false" },
+      { "sentence": "saved", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Wafting' means moving gently through the air, like 'floating'.",
-        "chinese": "'Wafting' 的意思是在空气中轻轻飘动，比如 'floating'。"
+        "english": "'Cremated' means burned to ashes after death.",
+        "chinese": "'Cremated' 是指人死后火化成灰烬。"
       }
     ]
   },
   {
-    "question": "Which is a correct synonym for 'fizzy'?",
+    "question": "Which is a correct synonym for 'premature'? e.g. His premature retirement surprised everyone.",
     "options": [
-      { "sentence": "bubbly", "correct": "true" },
-      { "sentence": "still", "correct": "false" },
-      { "sentence": "flat", "correct": "false" },
-      { "sentence": "dry", "correct": "false" },
-      { "sentence": "quiet", "correct": "false" }
+      { "sentence": "early", "correct": "true" },
+      { "sentence": "late", "correct": "false" },
+      { "sentence": "careful", "correct": "false" },
+      { "sentence": "planned", "correct": "false" },
+      { "sentence": "final", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Fizzy' means full of bubbles, like 'bubbly'.",
-        "chinese": "'Fizzy' 的意思是充满气泡，比如 'bubbly'。"
+        "english": "'Premature' means happening earlier than expected.",
+        "chinese": "'Premature' 意思是发生得太早，早于预期。"
       }
     ]
   },
   {
-    "question": "Which is a correct synonym for 'burp'?",
+    "question": "Which is a correct synonym for 'mementos'? e.g. She kept mementos from her travels.",
     "options": [
-      { "sentence": "belch", "correct": "true" },
-      { "sentence": "sneeze", "correct": "false" },
-      { "sentence": "cough", "correct": "false" },
-      { "sentence": "snore", "correct": "false" },
-      { "sentence": "hiccup", "correct": "false" }
+      { "sentence": "souvenirs", "correct": "true" },
+      { "sentence": "clothes", "correct": "false" },
+      { "sentence": "tools", "correct": "false" },
+      { "sentence": "books", "correct": "false" },
+      { "sentence": "recipes", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Burp' means to let out gas from the stomach through the mouth, like 'belch'.",
-        "chinese": "'Burp' 的意思是从嘴里释放胃里的气体，比如 'belch'。"
+        "english": "'Mementos' are small items kept to remind you of something, like souvenirs.",
+        "chinese": "'Mementos' 是用来纪念某事的小物品，比如纪念品。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'inaugural'? e.g. The president gave his inaugural speech.",
+    "options": [
+      { "sentence": "first", "correct": "true" },
+      { "sentence": "final", "correct": "false" },
+      { "sentence": "boring", "correct": "false" },
+      { "sentence": "official", "correct": "false" },
+      { "sentence": "old", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Inaugural' means the first in a series or the beginning of something important.",
+        "chinese": "'Inaugural' 意思是第一次或某事的重要开始。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'longevity'? e.g. The region is known for the longevity of its people.",
+    "options": [
+      { "sentence": "long life", "correct": "true" },
+      { "sentence": "wealth", "correct": "false" },
+      { "sentence": "youth", "correct": "false" },
+      { "sentence": "strength", "correct": "false" },
+      { "sentence": "health", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Longevity' means having a long life or lasting a long time.",
+        "chinese": "'Longevity' 是指寿命长或持续时间长。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'humility'? e.g. She accepted the award with great humility.",
+    "options": [
+      { "sentence": "modesty", "correct": "true" },
+      { "sentence": "pride", "correct": "false" },
+      { "sentence": "anger", "correct": "false" },
+      { "sentence": "jealousy", "correct": "false" },
+      { "sentence": "arrogance", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Humility' means being modest and not thinking you are better than others.",
+        "chinese": "'Humility' 是指谦虚，不自以为是。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'distress'? e.g. The news caused her great distress.",
+    "options": [
+      { "sentence": "suffering", "correct": "true" },
+      { "sentence": "relaxation", "correct": "false" },
+      { "sentence": "laughter", "correct": "false" },
+      { "sentence": "success", "correct": "false" },
+      { "sentence": "calm", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Distress' means extreme sadness, worry, or pain.",
+        "chinese": "'Distress' 是指极度的悲伤、担忧或痛苦。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'sentient'? e.g. Some believe animals are sentient beings.",
+    "options": [
+      { "sentence": "conscious", "correct": "true" },
+      { "sentence": "dead", "correct": "false" },
+      { "sentence": "silent", "correct": "false" },
+      { "sentence": "mechanical", "correct": "false" },
+      { "sentence": "imaginary", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Sentient' means able to feel, perceive, or be conscious.",
+        "chinese": "'Sentient' 是指能够感知、察觉或有意识的。"
       }
     ]
   }
