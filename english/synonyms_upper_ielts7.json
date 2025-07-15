@@ -1,161 +1,161 @@
 [
   {
-    "question": "Which is a correct synonym for 'negotiating'? e.g. They are negotiating a peace deal between the two countries.",
+    "question": "Which is a correct synonym for 'devastated'? e.g. She was devastated by the news of his death.",
     "options": [
-      { "sentence": "bargaining", "correct": "true" },
-      { "sentence": "fighting", "correct": "false" },
-      { "sentence": "ignoring", "correct": "false" },
-      { "sentence": "complaining", "correct": "false" },
-      { "sentence": "arguing", "correct": "false" }
+      { "sentence": "heartbroken", "correct": "true" },
+      { "sentence": "angry", "correct": "false" },
+      { "sentence": "happy", "correct": "false" },
+      { "sentence": "confused", "correct": "false" },
+      { "sentence": "proud", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Negotiating' means discussing something to reach an agreement, like 'bargaining'.",
-        "chinese": "'Negotiating' 意思是为了达成协议而进行讨论，比如 'bargaining'。"
+        "english": "'Devastated' means deeply upset or heartbroken.",
+        "chinese": "'Devastated' 意思是极度伤心或悲痛。"
       }
     ]
   },
   {
-    "question": "Which is a correct synonym for 'hasten'? e.g. He tried to hasten his departure by packing early.",
+    "question": "Which is a correct synonym for 'irony'? e.g. It's an irony that the fire station burned down.",
     "options": [
-      { "sentence": "hurry", "correct": "true" },
-      { "sentence": "delay", "correct": "false" },
-      { "sentence": "cancel", "correct": "false" },
-      { "sentence": "ignore", "correct": "false" },
-      { "sentence": "rest", "correct": "false" }
+      { "sentence": "sarcasm", "correct": "true" },
+      { "sentence": "truth", "correct": "false" },
+      { "sentence": "kindness", "correct": "false" },
+      { "sentence": "praise", "correct": "false" },
+      { "sentence": "honesty", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Hasten' means to move or act quickly, like 'hurry'.",
-        "chinese": "'Hasten' 意思是快速行动，比如 'hurry'。"
+        "english": "'Irony' means saying the opposite of what you mean, often for humor or emphasis.",
+        "chinese": "'Irony' 指表达与实际相反的意思，通常用于幽默或强调。"
       }
     ]
   },
   {
-    "question": "Which is a correct synonym for 'egregious'? e.g. The referee made an egregious mistake in the final game.",
+    "question": "Which is a correct synonym for 'cremated'? e.g. He was cremated instead of buried.",
     "options": [
-      { "sentence": "shocking", "correct": "true" },
-      { "sentence": "normal", "correct": "false" },
-      { "sentence": "minor", "correct": "false" },
-      { "sentence": "common", "correct": "false" },
-      { "sentence": "funny", "correct": "false" }
+      { "sentence": "burned", "correct": "true" },
+      { "sentence": "frozen", "correct": "false" },
+      { "sentence": "lost", "correct": "false" },
+      { "sentence": "buried", "correct": "false" },
+      { "sentence": "saved", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Egregious' means something is very bad or shocking.",
-        "chinese": "'Egregious' 意思是极其糟糕或令人震惊的。"
+        "english": "'Cremated' means burned to ashes after death.",
+        "chinese": "'Cremated' 是指人死后火化成灰烬。"
       }
     ]
   },
   {
-    "question": "Which is a correct synonym for 'blight'? e.g. The crops were destroyed by a sudden blight.",
+    "question": "Which is a correct synonym for 'premature'? e.g. His premature retirement surprised everyone.",
     "options": [
-      { "sentence": "disease", "correct": "true" },
-      { "sentence": "flower", "correct": "false" },
-      { "sentence": "storm", "correct": "false" },
-      { "sentence": "rain", "correct": "false" },
-      { "sentence": "growth", "correct": "false" }
-    ],
-    "explanation": [
-      {
-        "english": "'Blight' means a disease or condition that damages or destroys plants.",
-        "chinese": "'Blight' 是指破坏植物的病害或有害条件。"
-      }
-    ]
-  },
-  {
-    "question": "Which is a correct synonym for 'thwarted'? e.g. Their plan to win the game was thwarted by the weather.",
-    "options": [
-      { "sentence": "blocked", "correct": "true" },
-      { "sentence": "helped", "correct": "false" },
-      { "sentence": "allowed", "correct": "false" },
-      { "sentence": "encouraged", "correct": "false" },
-      { "sentence": "continued", "correct": "false" }
-    ],
-    "explanation": [
-      {
-        "english": "'Thwarted' means to stop something from happening, like 'blocked'.",
-        "chinese": "'Thwarted' 意思是阻止某事发生，比如 'blocked'。"
-      }
-    ]
-  },
-  {
-    "question": "Which is a correct synonym for 'constitution'? e.g. The U.S. Constitution gives citizens certain rights.",
-    "options": [
-      { "sentence": "law", "correct": "true" },
-      { "sentence": "building", "correct": "false" },
-      { "sentence": "vote", "correct": "false" },
-      { "sentence": "meeting", "correct": "false" },
-      { "sentence": "flag", "correct": "false" }
-    ],
-    "explanation": [
-      {
-        "english": "'Constitution' means the system of laws and principles that govern a country.",
-        "chinese": "'Constitution' 是指一个国家的法律和原则体系。"
-      }
-    ]
-  },
-  {
-    "question": "Which is a correct synonym for 'annex'? e.g. The country decided to annex the small island.",
-    "options": [
-      { "sentence": "take over", "correct": "true" },
-      { "sentence": "ignore", "correct": "false" },
-      { "sentence": "sell", "correct": "false" },
-      { "sentence": "visit", "correct": "false" },
-      { "sentence": "paint", "correct": "false" }
-    ],
-    "explanation": [
-      {
-        "english": "'Annex' means to take control of a land or area and add it to another.",
-        "chinese": "'Annex' 意思是吞并或并入某地。"
-      }
-    ]
-  },
-  {
-    "question": "Which is a correct synonym for 'eligible'? e.g. She is eligible to vote in the election.",
-    "options": [
-      { "sentence": "qualified", "correct": "true" },
-      { "sentence": "lazy", "correct": "false" },
+      { "sentence": "early", "correct": "true" },
       { "sentence": "late", "correct": "false" },
-      { "sentence": "worried", "correct": "false" },
-      { "sentence": "tired", "correct": "false" }
+      { "sentence": "careful", "correct": "false" },
+      { "sentence": "planned", "correct": "false" },
+      { "sentence": "final", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Eligible' means being allowed or qualified to do something.",
-        "chinese": "'Eligible' 的意思是有资格或被允许做某事。"
+        "english": "'Premature' means happening earlier than expected.",
+        "chinese": "'Premature' 意思是发生得太早，早于预期。"
       }
     ]
   },
   {
-    "question": "Which is a correct synonym for 'microbial'? e.g. Scientists study microbial life in soil and water.",
+    "question": "Which is a correct synonym for 'mementos'? e.g. She kept mementos from her travels.",
     "options": [
-      { "sentence": "germ-related", "correct": "true" },
-      { "sentence": "machine", "correct": "false" },
-      { "sentence": "animal", "correct": "false" },
-      { "sentence": "chemical", "correct": "false" },
-      { "sentence": "human", "correct": "false" }
+      { "sentence": "souvenirs", "correct": "true" },
+      { "sentence": "clothes", "correct": "false" },
+      { "sentence": "tools", "correct": "false" },
+      { "sentence": "books", "correct": "false" },
+      { "sentence": "recipes", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Microbial' refers to microbes, like bacteria and other tiny organisms.",
-        "chinese": "'Microbial' 是指微生物，例如细菌和其他微小生物。"
+        "english": "'Mementos' are small items kept to remind you of something, like souvenirs.",
+        "chinese": "'Mementos' 是用来纪念某事的小物品，比如纪念品。"
       }
     ]
   },
   {
-    "question": "Which is a correct synonym for 'legislature'? e.g. The legislature passed a new law to protect the environment.",
+    "question": "Which is a correct synonym for 'inaugural'? e.g. The president gave his inaugural speech.",
     "options": [
-      { "sentence": "lawmakers", "correct": "true" },
-      { "sentence": "judges", "correct": "false" },
-      { "sentence": "police", "correct": "false" },
-      { "sentence": "teachers", "correct": "false" },
-      { "sentence": "citizens", "correct": "false" }
+      { "sentence": "first", "correct": "true" },
+      { "sentence": "final", "correct": "false" },
+      { "sentence": "boring", "correct": "false" },
+      { "sentence": "official", "correct": "false" },
+      { "sentence": "old", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Legislature' means a group of people who make laws, like 'lawmakers'.",
-        "chinese": "'Legislature' 是制定法律的一群人，比如 'lawmakers'。"
+        "english": "'Inaugural' means the first in a series or the beginning of something important.",
+        "chinese": "'Inaugural' 意思是第一次或某事的重要开始。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'longevity'? e.g. The region is known for the longevity of its people.",
+    "options": [
+      { "sentence": "long life", "correct": "true" },
+      { "sentence": "wealth", "correct": "false" },
+      { "sentence": "youth", "correct": "false" },
+      { "sentence": "strength", "correct": "false" },
+      { "sentence": "health", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Longevity' means having a long life or lasting a long time.",
+        "chinese": "'Longevity' 是指寿命长或持续时间长。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'humility'? e.g. She accepted the award with great humility.",
+    "options": [
+      { "sentence": "modesty", "correct": "true" },
+      { "sentence": "pride", "correct": "false" },
+      { "sentence": "anger", "correct": "false" },
+      { "sentence": "jealousy", "correct": "false" },
+      { "sentence": "arrogance", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Humility' means being modest and not thinking you are better than others.",
+        "chinese": "'Humility' 是指谦虚，不自以为是。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'distress'? e.g. The news caused her great distress.",
+    "options": [
+      { "sentence": "suffering", "correct": "true" },
+      { "sentence": "relaxation", "correct": "false" },
+      { "sentence": "laughter", "correct": "false" },
+      { "sentence": "success", "correct": "false" },
+      { "sentence": "calm", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Distress' means extreme sadness, worry, or pain.",
+        "chinese": "'Distress' 是指极度的悲伤、担忧或痛苦。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'sentient'? e.g. Some believe animals are sentient beings.",
+    "options": [
+      { "sentence": "conscious", "correct": "true" },
+      { "sentence": "dead", "correct": "false" },
+      { "sentence": "silent", "correct": "false" },
+      { "sentence": "mechanical", "correct": "false" },
+      { "sentence": "imaginary", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Sentient' means able to feel, perceive, or be conscious.",
+        "chinese": "'Sentient' 是指能够感知、察觉或有意识的。"
       }
     ]
   }
