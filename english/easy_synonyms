@@ -1,97 +1,129 @@
 [
   {
-    "question": "Which is a correct synonym for 'jumbo'? e.g. He ordered a jumbo-sized soda.",
+    "question": "Which is a correct synonym for 'modern'? e.g. She prefers modern art to traditional styles.",
     "options": [
-      { "sentence": "huge", "correct": "true" },
-      { "sentence": "tiny", "correct": "false" },
-      { "sentence": "normal", "correct": "false" },
-      { "sentence": "fast", "correct": "false" },
-      { "sentence": "slow", "correct": "false" }
+      { "sentence": "contemporary", "correct": "true" },
+      { "sentence": "ancient", "correct": "false" },
+      { "sentence": "old-fashioned", "correct": "false" },
+      { "sentence": "historic", "correct": "false" },
+      { "sentence": "primitive", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Jumbo' means extremely large or huge in size.",
-        "chinese": "'Jumbo' 意思是非常大，巨大的。"
+        "english": "'Modern' means relating to the present or recent times; contemporary.",
+        "chinese": "'Modern' 是指现代的，与当今或最近的时间有关。"
       }
     ]
   },
   {
-    "question": "Which is a correct synonym for 'independently'? e.g. She lives independently and supports herself.",
+    "question": "Which is a correct synonym for 'a general'? e.g. The general led the army into battle.",
     "options": [
-      { "sentence": "alone", "correct": "true" },
-      { "sentence": "dependently", "correct": "false" },
-      { "sentence": "weakly", "correct": "false" },
-      { "sentence": "quietly", "correct": "false" },
-      { "sentence": "quickly", "correct": "false" }
+      { "sentence": "commander", "correct": "true" },
+      { "sentence": "soldier", "correct": "false" },
+      { "sentence": "citizen", "correct": "false" },
+      { "sentence": "medic", "correct": "false" },
+      { "sentence": "civilian", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Independently' means doing something without help or support from others.",
-        "chinese": "'Independently' 意思是独立地，不依赖他人。"
+        "english": "'General' means a high-ranking military officer or commander.",
+        "chinese": "'General' 是指高级军官或指挥官。"
       }
     ]
   },
   {
-    "question": "Which is a correct synonym for 'confirm'? e.g. She called to confirm the appointment.",
+    "question": "Which is a correct synonym for 'invade'? e.g. The army planned to invade the neighboring country.",
     "options": [
-      { "sentence": "verify", "correct": "true" },
+      { "sentence": "attack", "correct": "true" },
+      { "sentence": "defend", "correct": "false" },
+      { "sentence": "invite", "correct": "false" },
+      { "sentence": "retreat", "correct": "false" },
+      { "sentence": "ignore", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Invade' means to enter a place with force, especially to take control.",
+        "chinese": "'Invade' 是指用武力进入某地，尤其是为了控制它。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'pattern'? e.g. She noticed a pattern in his behavior.",
+    "options": [
+      { "sentence": "design", "correct": "true" },
+      { "sentence": "mess", "correct": "false" },
+      { "sentence": "noise", "correct": "false" },
+      { "sentence": "object", "correct": "false" },
+      { "sentence": "surprise", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Pattern' means a repeated or regular arrangement or sequence.",
+        "chinese": "'Pattern' 是指重复或规律性的排列或序列。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'fought'? e.g. They fought bravely in the war.",
+    "options": [
+      { "sentence": "battled", "correct": "true" },
+      { "sentence": "hugged", "correct": "false" },
+      { "sentence": "played", "correct": "false" },
+      { "sentence": "escaped", "correct": "false" },
+      { "sentence": "agreed", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Fought' is the past tense of 'fight', meaning to engage in a battle or struggle.",
+        "chinese": "'Fought' 是 'fight' 的过去式，意思是进行战斗或斗争。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'author'? e.g. She is the author of several children's books.",
+    "options": [
+      { "sentence": "writer", "correct": "true" },
+      { "sentence": "reader", "correct": "false" },
+      { "sentence": "editor", "correct": "false" },
+      { "sentence": "publisher", "correct": "false" },
+      { "sentence": "reviewer", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Author' means a person who writes books, articles, or other texts.",
+        "chinese": "'Author' 是指写书、文章或其他文字作品的人。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'inform'? e.g. Please inform me of any changes.",
+    "options": [
+      { "sentence": "notify", "correct": "true" },
+      { "sentence": "hide", "correct": "false" },
       { "sentence": "ignore", "correct": "false" },
-      { "sentence": "guess", "correct": "false" },
-      { "sentence": "cancel", "correct": "false" },
-      { "sentence": "refuse", "correct": "false" }
+      { "sentence": "confuse", "correct": "false" },
+      { "sentence": "delay", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Confirm' means to make sure something is true or definite.",
-        "chinese": "'Confirm' 是指确认某事是真实或确定的。"
+        "english": "'Inform' means to give someone facts or information.",
+        "chinese": "'Inform' 是指向某人提供事实或信息。"
       }
     ]
   },
   {
-    "question": "Which is a correct synonym for 'coalition'? e.g. The parties formed a coalition to win the election.",
+    "question": "Which is a correct synonym for 'entertain'? e.g. The movie will entertain the whole family.",
     "options": [
-      { "sentence": "alliance", "correct": "true" },
-      { "sentence": "enemy", "correct": "false" },
-      { "sentence": "argument", "correct": "false" },
-      { "sentence": "division", "correct": "false" },
-      { "sentence": "chaos", "correct": "false" }
+      { "sentence": "amuse", "correct": "true" },
+      { "sentence": "bore", "correct": "false" },
+      { "sentence": "annoy", "correct": "false" },
+      { "sentence": "confuse", "correct": "false" },
+      { "sentence": "punish", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Coalition' means a group formed for a common purpose, especially in politics.",
-        "chinese": "'Coalition' 是指为了共同目标而组成的联盟，特别是在政治中。"
-      }
-    ]
-  },
-  {
-    "question": "Which is a correct synonym for 'stagnant'? e.g. The economy has remained stagnant for months.",
-    "options": [
-      { "sentence": "inactive", "correct": "true" },
-      { "sentence": "growing", "correct": "false" },
-      { "sentence": "booming", "correct": "false" },
-      { "sentence": "moving", "correct": "false" },
-      { "sentence": "rising", "correct": "false" }
-    ],
-    "explanation": [
-      {
-        "english": "'Stagnant' means not moving or changing; inactive.",
-        "chinese": "'Stagnant' 是指停滞不前，没有变化或活动的。"
-      }
-    ]
-  },
-  {
-    "question": "Which is a correct synonym for 'decarbonisation'? e.g. The company invested in decarbonisation technology.",
-    "options": [
-      { "sentence": "reducing emissions", "correct": "true" },
-      { "sentence": "burning coal", "correct": "false" },
-      { "sentence": "increasing pollution", "correct": "false" },
-      { "sentence": "building roads", "correct": "false" },
-      { "sentence": "generating traffic", "correct": "false" }
-    ],
-    "explanation": [
-      {
-        "english": "'Decarbonisation' means reducing carbon dioxide emissions, especially from energy use.",
-        "chinese": "'Decarbonisation' 是指减少二氧化碳排放，尤其是来自能源使用的排放。"
+        "english": "'Entertain' means to provide amusement or enjoyment.",
+        "chinese": "'Entertain' 是指提供娱乐或使人愉快。"
       }
     ]
   }
