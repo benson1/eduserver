@@ -246,5 +246,320 @@
         "chinese": "树干是树的粗大部分，帮助它笔直站立。"
       }
     ]
-  }
+  },
+{
+  "question": "What is photosynthesis?",
+  "options": [
+    {
+      "sentence": "Photosynthesis is how plants use sunlight, water, and air to make their own food.",
+      "correct": "true"
+    },
+    {
+      "sentence": "Photosynthesis is when plants sleep at night and grow taller.",
+      "correct": "false"
+    },
+    {
+      "sentence": "Photosynthesis is a way plants move around to find the Sun.",
+      "correct": "false"
+    },
+    {
+      "sentence": "Photosynthesis is how plants drink rain and store it in their leaves.",
+      "correct": "false"
+    },
+    {
+      "sentence": "Photosynthesis is when flowers open and close based on the weather.",
+      "correct": "false"
+    }
+  ],
+  "explanation": [
+    {
+      "english": "Photosynthesis helps plants turn sunlight, water, and air into food so they can grow.",
+      "chinese": "光合作用帮助植物把阳光、水和空气变成食物，让它们成长。"
+    }
+  ]
+},
+[
+  {
+    "question": "What is a cell?",
+    "options": [
+      {
+        "sentence": "A cell is the tiny building block that makes up all living things.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A cell is a small box used to carry tiny tools for science.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A cell is a part of a battery that stores electricity.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A cell is a tiny room inside a plant where water is kept.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A cell is a kind of invisible bubble that floats in the sky.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "All living things are made of tiny parts called cells.",
+        "chinese": "所有生物都是由称为细胞的小部分组成的。"
+      }
+    ]
+  },
+  {
+    "question": "What is a root?",
+    "options": [
+      {
+        "sentence": "A root is the part of a plant that grows underground and holds the plant in place.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A root is the green part at the top of the plant that catches sunlight.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A root is the soft part inside a fruit that we eat.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A root is a hole in the ground where seeds are dropped.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A root is the edge of a leaf where rainwater collects.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Roots help plants stay in the ground and drink water from the soil.",
+        "chinese": "根帮助植物固定在土壤中，并从土里吸收水分。"
+      }
+    ]
+  },
+  {
+    "question": "What is an organism?",
+    "options": [
+      {
+        "sentence": "An organism is any living thing like a person, animal, or plant.",
+        "correct": "true"
+      },
+      {
+        "sentence": "An organism is a machine that moves by itself.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An organism is a drawing of a living thing made in a book.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An organism is a special rock that glows in the dark.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An organism is a tool scientists use to look at stars.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "People, animals, and plants are all living things, called organisms.",
+        "chinese": "人类、动物和植物都是被称为生物的生命体。"
+      }
+    ]
+  },
+  {
+    "question": "What are leaves?",
+    "options": [
+      {
+        "sentence": "Leaves are the flat green parts of a plant that help it catch sunlight.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Leaves are the roots that come out of the sides of the plant.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Leaves are parts of the flower that turn into fruit.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Leaves are smooth parts under the ground that collect water.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Leaves are tiny sticks that help the plant grow tall.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Leaves help plants get sunlight to make food.",
+        "chinese": "叶子帮助植物吸收阳光来制造食物。"
+      }
+    ]
+  },
+  {
+    "question": "What is a nutrient?",
+    "options": [
+      {
+        "sentence": "A nutrient is something in food or soil that helps living things grow.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A nutrient is a shiny part of a plant that makes it look pretty.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A nutrient is something that only animals need, not plants.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A nutrient is a soft part of a tree that helps it bend in the wind.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A nutrient is a kind of air that keeps things floating in space.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Nutrients help our bodies and plants grow strong and healthy.",
+        "chinese": "营养帮助我们的身体和植物健康成长。"
+      }
+    ]
+  },
+  {
+    "question": "What is a stem?",
+    "options": [
+      {
+        "sentence": "A stem is the part of a plant that holds it up and carries water and food.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A stem is the top of the plant where flowers fall off.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A stem is a sticky part of the plant used to catch insects.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A stem is the inside part of a fruit that we don’t eat.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A stem is the part of the root that stores seeds.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "The stem holds the plant up and helps food and water move inside it.",
+        "chinese": "茎支撑植物，并帮助水分和营养在植物中移动。"
+      }
+    ]
+  },
+  {
+    "question": "What are seeds?",
+    "options": [
+      {
+        "sentence": "Seeds are small parts of a plant that can grow into a new plant.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Seeds are the dry part of a leaf that falls off in winter.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Seeds are the roots of the plant that spread under the ground.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Seeds are tiny bugs that help plants grow faster.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Seeds are the green parts that help catch rain on top of the plant.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Seeds grow into new plants when they are planted in soil.",
+        "chinese": "种子种进土里后会长成新的植物。"
+      }
+    ]
+  },
+  {
+    "question": "What is a trunk?",
+    "options": [
+      {
+        "sentence": "A trunk is the thick part of a tree that holds it up.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A trunk is the part of a tree that grows flowers and fruit.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A trunk is a vine that wraps around other trees.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A trunk is a small hole in the tree where bugs live.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A trunk is the root that comes out at the top instead of the bottom.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "The trunk is the strong part of a tree that helps it stand tall.",
+        "chinese": "树干是树的粗大部分，帮助它笔直站立。"
+      }
+    ]
+  },
+{
+  "question": "What is photosynthesis?",
+  "options": [
+    {
+      "sentence": "Photosynthesis is how plants use sunlight, water, and air to make their own food.",
+      "correct": "true"
+    },
+    {
+      "sentence": "Photosynthesis is when plants sleep at night and grow taller.",
+      "correct": "false"
+    },
+    {
+      "sentence": "Photosynthesis is a way plants move around to find the Sun.",
+      "correct": "false"
+    },
+    {
+      "sentence": "Photosynthesis is how plants drink rain and store it in their leaves.",
+      "correct": "false"
+    },
+    {
+      "sentence": "Photosynthesis is when flowers open and close based on the weather.",
+      "correct": "false"
+    }
+  ],
+  "explanation": [
+    {
+      "english": "Photosynthesis helps plants turn sunlight, water, and air into food so they can grow.",
+      "chinese": "光合作用帮助植物把阳光、水和空气变成食物，让它们成长。"
+    }
+  ]
+}
+
+]
+
+
 ]
