@@ -329,21 +329,22 @@
         "type": "english",
         "level": "5"
     },
-        {
+    {
         "name": "synonyms_easy_aiden.json",
         "file": "synonyms_easy_aiden.json",
         "type": "english",
         "level": "3"
-    },{
-               "name": "synonyms_charlie_max.json",
+    },
+    {
+        "name": "synonyms_charlie_max.json",
         "file": "synonyms_charlie_max.json",
         "type": "english",
         "level": "3"
-        },
-        {
+    },
+    {
         "name": "b1_plants_start_easiest",
         "file": "b1_plants_start_easiest ",
         "type": "science",
         "level": "1"
-    },
+    }
 ]
