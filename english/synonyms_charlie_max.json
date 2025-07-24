@@ -1,145 +1,113 @@
 [
   {
-    "question": "Which is a correct synonym for 'gleaming'? e.g. The gleaming silver spoon sparkled in the light.",
+    "question": "Which is a correct synonym for 'clinging'? e.g. The wet shirt was clinging to his skin.",
+    "options": [
+      { "sentence": "sticking", "correct": "true" },
+      { "sentence": "flying", "correct": "false" },
+      { "sentence": "folding", "correct": "false" },
+      { "sentence": "slipping", "correct": "false" },
+      { "sentence": "rolling", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Clinging' means holding tightly or sticking closely, like 'sticking'.",
+        "chinese": "'Clinging' \u6307\u7d27\u8d34\u6216\u9ecf\u4f4f\uFF0C\u6bd4\u5982 'sticking'(\u7c98\u7740\u3002)"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'tamper'? e.g. Don't tamper with the evidence.",
+    "options": [
+      { "sentence": "interfere", "correct": "true" },
+      { "sentence": "clean", "correct": "false" },
+      { "sentence": "support", "correct": "false" },
+      { "sentence": "organize", "correct": "false" },
+      { "sentence": "hide", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Tamper' means to interfere with something in a harmful way, like 'interfere'.",
+        "chinese": "'Tamper' \u6307\u4ee5\u6709\u5bb3\u65b9\u5f0f\u5e72\u6d89\u67d0\u4e9b\u4e8b\u60c5\uFF0C\u6bd4\u5982 'interfere'(\u5e72\u6270\u3002)"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'polishing'? e.g. She was polishing the silverware.",
     "options": [
       { "sentence": "shining", "correct": "true" },
-      { "sentence": "dirty", "correct": "false" },
-      { "sentence": "broken", "correct": "false" },
-      { "sentence": "heavy", "correct": "false" },
-      { "sentence": "dull", "correct": "false" }
+      { "sentence": "scratching", "correct": "false" },
+      { "sentence": "painting", "correct": "false" },
+      { "sentence": "cutting", "correct": "false" },
+      { "sentence": "bending", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Gleaming' means shining brightly, like 'shining'.",
-        "chinese": "'Gleaming' 指明亮地发光，比如 'shining'（闪亮的）。"
+        "english": "'Polishing' means making something shine by rubbing, like 'shining'.",
+        "chinese": "'Polishing' \u6307\u901a\u8fc7\u6469\u64e6\u4f7f\u7269\u4f53\u53d8\u4eae\uFF0C\u6bd4\u5982 'shining'(\u62ed\u4eae\u3002)"
       }
     ]
   },
   {
-    "question": "Which is a correct synonym for 'froths'? e.g. The milk froths as it is heated for the coffee.",
+    "question": "Which is a correct synonym for 'interrupting'? e.g. He kept interrupting the teacher.",
     "options": [
-      { "sentence": "bubbles", "correct": "true" },
-      { "sentence": "solids", "correct": "false" },
-      { "sentence": "steam", "correct": "false" },
-      { "sentence": "powder", "correct": "false" },
-      { "sentence": "oil", "correct": "false" }
+      { "sentence": "disturbing", "correct": "true" },
+      { "sentence": "listening", "correct": "false" },
+      { "sentence": "drawing", "correct": "false" },
+      { "sentence": "answering", "correct": "false" },
+      { "sentence": "humming", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Froths' means forms light bubbles or foam, like 'bubbles'.",
-        "chinese": "'Froths' 指形成轻泡或泡沫，比如 'bubbles'（泡泡）。"
+        "english": "'Interrupting' means stopping or disturbing something in progress, like 'disturbing'.",
+        "chinese": "'Interrupting' \u6307\u6254\u65ad\u6216\u6253\u6270\u6b63\u5728\u8fdb\u884c\u7684\u4e8b\u60c5\uFF0C\u6bd4\u5982 'disturbing'(\u6253\u6270\u3002)"
       }
     ]
   },
   {
-    "question": "Which is a correct synonym for 'immediately'? e.g. She answered the phone immediately.",
+    "question": "Which is a correct synonym for 'jigsaw puzzle'? e.g. He spent the afternoon doing a jigsaw puzzle.",
     "options": [
-      { "sentence": "quickly", "correct": "true" },
-      { "sentence": "slowly", "correct": "false" },
-      { "sentence": "eventually", "correct": "false" },
-      { "sentence": "later", "correct": "false" },
-      { "sentence": "barely", "correct": "false" }
+      { "sentence": "puzzle", "correct": "true" },
+      { "sentence": "map", "correct": "false" },
+      { "sentence": "book", "correct": "false" },
+      { "sentence": "board", "correct": "false" },
+      { "sentence": "clock", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Immediately' means without delay, like 'quickly'.",
-        "chinese": "'Immediately' 指立刻、马上，比如 'quickly'（快速地）。"
+        "english": "'Jigsaw puzzle' is a kind of puzzle made of pieces that fit together, so 'puzzle' is correct.",
+        "chinese": "'Jigsaw puzzle' \u662f\u4e00\u79cd\u7531\u5408\u4e00\u7684\u7247\u6bb5\u7ec4\u6210\u7684\u62fc\u56fe\u6e38\u620f\uFF0C\u56e0\u6b64 'puzzle'(\u8c1c\u9898)\u662f\u6b63\u786e\u7684\u540c\u4e49\u8bcd\u3002"
       }
     ]
   },
   {
-    "question": "Which is a correct synonym for 'fascinating'? e.g. The book was so fascinating I couldn't put it down.",
+    "question": "Which is a correct synonym for 'mattress'? e.g. She lay down on the soft mattress.",
     "options": [
-      { "sentence": "interesting", "correct": "true" },
-      { "sentence": "boring", "correct": "false" },
-      { "sentence": "confusing", "correct": "false" },
-      { "sentence": "dull", "correct": "false" },
-      { "sentence": "normal", "correct": "false" }
+      { "sentence": "bedpad", "correct": "true" },
+      { "sentence": "cupboard", "correct": "false" },
+      { "sentence": "blanket", "correct": "false" },
+      { "sentence": "curtain", "correct": "false" },
+      { "sentence": "radio", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Fascinating' means very interesting or captivating, like 'interesting'.",
-        "chinese": "'Fascinating' 指非常有趣或吸引人的，比如 'interesting'（有趣的）。"
+        "english": "'Mattress' refers to the soft part of a bed you lie on, like a 'bedpad'.",
+        "chinese": "'Mattress' \u6307\u4f60\u8eba\u5728\u5e8a\u4e0a\u7684\u90a3\u5c42\u8f6f\u57ab\uFF0C\u6bd4\u5982 'bedpad'(\u5e8a\u57ab)\u3002"
       }
     ]
   },
   {
-    "question": "Which is a correct synonym for 'invention'? e.g. The light bulb was a great invention.",
+    "question": "Which is a correct synonym for 'ordinary'? e.g. It was just an ordinary day.",
     "options": [
-      { "sentence": "creation", "correct": "true" },
-      { "sentence": "destruction", "correct": "false" },
-      { "sentence": "mistake", "correct": "false" },
-      { "sentence": "tradition", "correct": "false" },
-      { "sentence": "imitation", "correct": "false" }
+      { "sentence": "normal", "correct": "true" },
+      { "sentence": "rare", "correct": "false" },
+      { "sentence": "special", "correct": "false" },
+      { "sentence": "amazing", "correct": "false" },
+      { "sentence": "dangerous", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Invention' means something newly created, like a 'creation'.",
-        "chinese": "'Invention' 指新创造的东西，比如 'creation'（创造物）。"
-      }
-    ]
-  },
-  {
-    "question": "Which is a correct synonym for 'grinning'? e.g. He was grinning after hearing the good news.",
-    "options": [
-      { "sentence": "smiling", "correct": "true" },
-      { "sentence": "crying", "correct": "false" },
-      { "sentence": "frowning", "correct": "false" },
-      { "sentence": "talking", "correct": "false" },
-      { "sentence": "blinking", "correct": "false" }
-    ],
-    "explanation": [
-      {
-        "english": "'Grinning' means smiling broadly, like 'smiling'.",
-        "chinese": "'Grinning' 指咧嘴笑，比如 'smiling'（微笑）。"
-      }
-    ]
-  },
-  {
-    "question": "Which is a correct synonym for 'flavour'? e.g. The soup has a strong garlic flavour.",
-    "options": [
-      { "sentence": "taste", "correct": "true" },
-      { "sentence": "smell", "correct": "false" },
-      { "sentence": "color", "correct": "false" },
-      { "sentence": "shape", "correct": "false" },
-      { "sentence": "texture", "correct": "false" }
-    ],
-    "explanation": [
-      {
-        "english": "'Flavour' means the taste of something, like 'taste'.",
-        "chinese": "'Flavour' 指某物的味道，比如 'taste'（味道）。"
-      }
-    ]
-  },
-  {
-    "question": "Which is a correct synonym for 'shrieked'? e.g. She shrieked when she saw the spider.",
-    "options": [
-      { "sentence": "screamed", "correct": "true" },
-      { "sentence": "whispered", "correct": "false" },
-      { "sentence": "laughed", "correct": "false" },
-      { "sentence": "talked", "correct": "false" },
-      { "sentence": "sighed", "correct": "false" }
-    ],
-    "explanation": [
-      {
-        "english": "'Shrieked' means screamed loudly and suddenly, like 'screamed'.",
-        "chinese": "'Shrieked' 指突然大声尖叫，比如 'screamed'（尖叫）。"
-      }
-    ]
-  },
-  {
-    "question": "Which is a correct synonym for 'peculiar'? e.g. He has a peculiar way of speaking.",
-    "options": [
-      { "sentence": "strange", "correct": "true" },
-      { "sentence": "normal", "correct": "false" },
-      { "sentence": "usual", "correct": "false" },
-      { "sentence": "boring", "correct": "false" },
-      { "sentence": "kind", "correct": "false" }
-    ],
-    "explanation": [
-      {
-        "english": "'Peculiar' means strange or unusual, like 'strange'.",
-        "chinese": "'Peculiar' 指奇怪或不寻常的，比如 'strange'（奇怪的）。"
+        "english": "'Ordinary' means usual or not special, like 'normal'.",
+        "chinese": "'Ordinary' \u6307\u5e38\u89c4\u6216\u4e0d\u7279\u522b\u7684\uFF0C\u6bd4\u5982 'normal'(\u666e\u901a\u7684)\u3002"
       }
     ]
   }
