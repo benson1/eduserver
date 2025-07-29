@@ -1,81 +1,145 @@
 [
   {
-    "question": "Which is a correct synonym for 'conservation'? e.g. Conservation of forests is important for the environment.",
+    "question": "Which is a correct synonym for 'verbose'? e.g. The professor's lecture was so verbose that students lost interest.",
     "options": [
-      { "sentence": "protection", "correct": "true" },
-      { "sentence": "destruction", "correct": "false" },
-      { "sentence": "pollution", "correct": "false" },
-      { "sentence": "consumption", "correct": "false" },
-      { "sentence": "expansion", "correct": "false" }
+      { "sentence": "wordy", "correct": "true" },
+      { "sentence": "brief", "correct": "false" },
+      { "sentence": "silent", "correct": "false" },
+      { "sentence": "vague", "correct": "false" },
+      { "sentence": "clear", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Conservation' means protecting and preserving natural resources, like 'protection'.",
-        "chinese": "'Conservation' 指对自然资源的保护和保存，比如 'protection'（保护）。"
+        "english": "'Verbose' means using more words than necessary, like 'wordy'.",
+        "chinese": "'Verbose' 意为使用过多语言，比如 'wordy'（啰嗦的）。"
       }
     ]
   },
   {
-    "question": "Which is a correct synonym for 'distribution'? e.g. The distribution of food supplies was handled by the government.",
+    "question": "Which is a correct synonym for 'nuances'? e.g. The artist captured the subtle nuances of human expression.",
     "options": [
-      { "sentence": "delivery", "correct": "true" },
-      { "sentence": "collection", "correct": "false" },
-      { "sentence": "creation", "correct": "false" },
-      { "sentence": "restriction", "correct": "false" },
-      { "sentence": "replacement", "correct": "false" }
+      { "sentence": "subtleties", "correct": "true" },
+      { "sentence": "mistakes", "correct": "false" },
+      { "sentence": "decisions", "correct": "false" },
+      { "sentence": "changes", "correct": "false" },
+      { "sentence": "patterns", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Distribution' means the process of giving out or delivering something, like 'delivery'.",
-        "chinese": "'Distribution' 指分发或配送的过程，比如 'delivery'（配送）。"
+        "english": "'Nuances' means subtle differences or shades of meaning, like 'subtleties'.",
+        "chinese": "'Nuances' 指细微差别或含义上的微妙变化，比如 'subtleties'（微妙之处）。"
       }
     ]
   },
   {
-    "question": "Which is a correct synonym for 'acidification'? e.g. Ocean acidification is harmful to marine life.",
+    "question": "Which is a correct synonym for 'conjecture'? e.g. The scientist's theory was based on conjecture rather than solid evidence.",
     "options": [
-      { "sentence": "acid increase", "correct": "true" },
-      { "sentence": "neutralization", "correct": "false" },
-      { "sentence": "alkalinity", "correct": "false" },
-      { "sentence": "solidification", "correct": "false" },
-      { "sentence": "clarification", "correct": "false" }
+      { "sentence": "guess", "correct": "true" },
+      { "sentence": "proof", "correct": "false" },
+      { "sentence": "measurement", "correct": "false" },
+      { "sentence": "decision", "correct": "false" },
+      { "sentence": "instruction", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Acidification' means the process of becoming more acidic, like an 'acid increase'.",
-        "chinese": "'Acidification' 指变得更加酸性的过程，比如 'acid increase'（酸性增加）。"
+        "english": "'Conjecture' means a guess or hypothesis without firm evidence, like 'guess'.",
+        "chinese": "'Conjecture' 指没有确凿证据的猜测或推测，比如 'guess'（猜测）。"
       }
     ]
   },
   {
-    "question": "Which is a correct synonym for 'footage'? e.g. The security camera recorded footage of the incident.",
+    "question": "Which is a correct synonym for 'speculate'? e.g. Economists speculate that prices will rise next year.",
     "options": [
-      { "sentence": "video recording", "correct": "true" },
-      { "sentence": "photo", "correct": "false" },
-      { "sentence": "document", "correct": "false" },
-      { "sentence": "message", "correct": "false" },
-      { "sentence": "animation", "correct": "false" }
+      { "sentence": "guess", "correct": "true" },
+      { "sentence": "confirm", "correct": "false" },
+      { "sentence": "observe", "correct": "false" },
+      { "sentence": "explain", "correct": "false" },
+      { "sentence": "ignore", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Footage' means recorded video, especially from a camera, like a 'video recording'.",
-        "chinese": "'Footage' 指摄像机拍摄的视频资料，比如 'video recording'（视频录像）。"
+        "english": "'Speculate' means to form an idea or theory without full evidence, like 'guess'.",
+        "chinese": "'Speculate' 指在没有完整证据的情况下做出推测，比如 'guess'（猜测）。"
       }
     ]
   },
   {
-    "question": "Which is a correct synonym for 'negligence'? e.g. The accident was caused by negligence.",
+    "question": "Which is a correct synonym for 'parasitic'? e.g. The parasitic relationship harmed the host organism.",
     "options": [
-      { "sentence": "carelessness", "correct": "true" },
-      { "sentence": "attention", "correct": "false" },
-      { "sentence": "kindness", "correct": "false" },
-      { "sentence": "preparation", "correct": "false" },
-      { "sentence": "excellence", "correct": "false" }
+      { "sentence": "dependent", "correct": "true" },
+      { "sentence": "independent", "correct": "false" },
+      { "sentence": "balanced", "correct": "false" },
+      { "sentence": "mutual", "correct": "false" },
+      { "sentence": "cooperative", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Negligence' means a lack of care or attention, like 'carelessness'.",
-        "chinese": "'Negligence' 指缺乏注意或疏忽，比如 'carelessness'（粗心）。"
+        "english": "'Parasitic' refers to living off another organism, like being 'dependent'.",
+        "chinese": "'Parasitic' 指依赖他人生存的状态，比如 'dependent'（依赖的）。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'synchronization'? e.g. The dancers moved in perfect synchronization.",
+    "options": [
+      { "sentence": "coordination", "correct": "true" },
+      { "sentence": "interruption", "correct": "false" },
+      { "sentence": "isolation", "correct": "false" },
+      { "sentence": "variation", "correct": "false" },
+      { "sentence": "collision", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Synchronization' means acting at the same time, like 'coordination'.",
+        "chinese": "'Synchronization' 指动作或事件同时发生，比如 'coordination'（协调）。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'celestial'? e.g. The telescope captured images of celestial bodies.",
+    "options": [
+      { "sentence": "heavenly", "correct": "true" },
+      { "sentence": "terrestrial", "correct": "false" },
+      { "sentence": "metallic", "correct": "false" },
+      { "sentence": "chemical", "correct": "false" },
+      { "sentence": "historical", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Celestial' means related to the sky or outer space, like 'heavenly'.",
+        "chinese": "'Celestial' 指与天空或外太空有关的，比如 'heavenly'（天空的/天体的）。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'navigational'? e.g. The ship relied on navigational tools to stay on course.",
+    "options": [
+      { "sentence": "directional", "correct": "true" },
+      { "sentence": "emotional", "correct": "false" },
+      { "sentence": "educational", "correct": "false" },
+      { "sentence": "residential", "correct": "false" },
+      { "sentence": "traditional", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Navigational' means related to finding direction, like 'directional'.",
+        "chinese": "'Navigational' 指与方向或导航有关的，比如 'directional'（指向的）。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'discernible'? e.g. The faint outline of the mountain was barely discernible.",
+    "options": [
+      { "sentence": "visible", "correct": "true" },
+      { "sentence": "invisible", "correct": "false" },
+      { "sentence": "confusing", "correct": "false" },
+      { "sentence": "uncertain", "correct": "false" },
+      { "sentence": "imaginary", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Discernible' means able to be seen or noticed, like 'visible'.",
+        "chinese": "'Discernible' 指能够被看见或察觉的，比如 'visible'（可见的）。"
       }
     ]
   }
