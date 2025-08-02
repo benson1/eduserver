@@ -1,0 +1,498 @@
+[
+  {
+    "question": "What is an organism?",
+    "options": [
+      {
+        "sentence": "An organism is any living thing, such as a plant, animal, or microorganism, that can grow, reproduce, and respond to its environment.",
+        "correct": "true"
+      },
+      {
+        "sentence": "An organism is a biological system that includes many interacting parts but is not necessarily alive on its own.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An organism is a type of cell that only exists in plants and cannot move on its own.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An organism refers to non-living things like rocks and water that support life.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An organism is any object that does not change or respond to its surroundings in any way.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Organisms range from single-celled bacteria to complex multicellular beings like humans.",
+        "chinese": "生物包括单细胞细菌到复杂的多细胞生物（如人类）。"
+      }
+    ]
+  },
+  {
+    "question": "What are adaptations?",
+    "options": [
+      {
+        "sentence": "Adaptations are traits or behaviors that help an organism survive and reproduce in its environment.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Adaptations are changes in an organism's body that happen during its life but are not passed to offspring.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Adaptations refer only to physical features, not to how an organism acts or behaves.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Adaptations happen quickly and only last for one generation before disappearing.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Adaptations make organisms weaker and less suited to their surroundings over time.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Examples include camouflage in chameleons or thick fur in polar bears.",
+        "chinese": "例子包括变色龙的伪装或北极熊的厚毛。"
+      }
+    ]
+  },
+  {
+    "question": "What is a habitat?",
+    "options": [
+      {
+        "sentence": "A habitat is the natural environment where an organism lives, providing food, shelter, and other resources.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A habitat is any place where an organism might be found, even if it does not live or survive there long-term.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A habitat only refers to the climate or weather in a general area, not the actual home of a species.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A habitat is the history of how a species changed over many years in different places.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A habitat is the genetic instructions that tell an organism where to live and eat.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Habitats can be forests, deserts, oceans, or even a drop of water for microbes.",
+        "chinese": "栖息地可以是森林、沙漠、海洋，甚至是微生物的一滴水。"
+      }
+    ]
+  },
+  {
+    "question": "What does 'extinct' mean?",
+    "options": [
+      {
+        "sentence": "Extinct refers to a species that no longer exists anywhere on Earth.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Extinct means a species lives only in zoos or protected areas but not in the wild.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Extinct describes a species that is very rare but can still be found in some places.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Extinct refers to species that have stopped changing but still live today.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Extinct means a species has been replaced by newer animals but still exists in small groups.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Dinosaurs and dodos are examples of extinct species.",
+        "chinese": "恐龙和渡渡鸟是已灭绝物种的例子。"
+      }
+    ]
+  },
+  {
+    "question": "What is a vertebrate?",
+    "options": [
+      {
+        "sentence": "A vertebrate is an animal with a backbone, such as mammals, birds, reptiles, amphibians, and fish.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A vertebrate is any animal with a hard outer shell or exoskeleton for protection.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A vertebrate is an animal that has symmetrical body parts but no bones inside.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A vertebrate includes all animals that breathe air regardless of their skeleton type.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A vertebrate is any animal that keeps its body temperature constant through fur or feathers.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Vertebrates have a spinal column protecting their nervous system.",
+        "chinese": "脊椎动物有保护神经系统的脊柱。"
+      }
+    ]
+  },
+  {
+    "question": "What is evolution?",
+    "options": [
+      {
+        "sentence": "Evolution is the gradual change in species over time through natural selection.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Evolution is a sudden change in an individual animal that happens during its lifetime.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Evolution means a species quickly learns new skills to survive better in its environment.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Evolution is the idea that only the strongest animals survive, ignoring inherited traits.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Evolution is the process by which animals choose to change their bodies to fit new places.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Evolution explains how species adapt and develop new traits over many generations.",
+        "chinese": "进化解释了物种如何适应并在许多世代中发展出新特征。"
+      }
+    ]
+  },
+  {
+    "question": "What is a species?",
+    "options": [
+      {
+        "sentence": "A species is a group of similar organisms that can reproduce and have fertile offspring.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A species is any group of animals that live together in the same place regardless of breeding.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A species is defined by how long the members of a group typically live in the wild.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A species means animals that look alike but cannot reproduce with each other.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A species is a group of organisms that eat the same type of food daily.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Members of the same species can reproduce and produce offspring that can also reproduce.",
+        "chinese": "同一物种的成员可以繁殖，并产生也能繁殖的后代。"
+      }
+    ]
+  },
+  {
+    "question": "What are offspring?",
+    "options": [
+      {
+        "sentence": "Offspring are the young or babies produced by parents through reproduction.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Offspring are animals that live in the same area but may not be related by birth.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Offspring refers to adult animals that take care of the young in a group.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Offspring are organisms that share the same food source but not parents.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Offspring only includes animals that look exactly like their parents when born.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Offspring can include baby birds, puppies, or seedlings from plants.",
+        "chinese": "后代可以是小鸟、小狗或植物的幼苗。"
+      }
+    ]
+  },
+  {
+    "question": "What is reproduction?",
+    "options": [
+      {
+        "sentence": "Reproduction is the process by which organisms create new individuals like themselves.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Reproduction is when an organism grows larger or develops new body parts during life.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Reproduction means an organism learns new skills to survive in its environment.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Reproduction is the way animals change their habits to live better in different places.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Reproduction is when one species turns into another species over time through change.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Reproduction allows life to continue through babies, seeds, or spores.",
+        "chinese": "繁殖通过婴儿、种子或孢子使生命得以延续。"
+      }
+    ]
+  },
+  {
+    "question": "What is a life cycle?",
+    "options": [
+      {
+        "sentence": "A life cycle is the series of stages an organism goes through from birth to reproduction and death.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A life cycle refers only to the time when an organism reaches full size or maturity.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A life cycle is the daily routine an animal follows to find food and shelter.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A life cycle means how long an animal can live without eating or drinking water.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A life cycle is the process by which an organism remains unchanged throughout life.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Examples of life cycles include egg to frog or seed to tree.",
+        "chinese": "生命循环的例子包括从卵到青蛙或从种子到树。"
+      }
+    ]
+  },
+  {
+    "question": "What are nutrients?",
+    "options": [
+      {
+        "sentence": "Nutrients are substances organisms need to grow, stay healthy, and carry out life processes.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Nutrients are liquids that animals drink but do not help them grow or stay healthy.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Nutrients only include minerals found in bones and shells of animals and plants.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Nutrients are chemicals that only plants use to make food through photosynthesis.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Nutrients are any substances that animals or plants produce during growth or reproduction.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Proteins, carbohydrates, and vitamins are all nutrients.",
+        "chinese": "蛋白质、碳水化合物和维生素都是营养物质。"
+      }
+    ]
+  },
+  {
+    "question": "What is metamorphosis?",
+    "options": [
+      {
+        "sentence": "Metamorphosis is a major change in an organism's body structure during its life cycle.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Metamorphosis means an organism grows bigger but keeps the same body form its whole life.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Metamorphosis happens only in some reptiles and birds during early stages of life.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Metamorphosis describes animals that move from water to land but do not change shape.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Metamorphosis is when a species becomes extinct and no longer exists on Earth.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "A caterpillar turning into a butterfly is a metamorphosis.",
+        "chinese": "毛毛虫变成蝴蝶是一个变态的例子。"
+      }
+    ]
+  },
+  {
+    "question": "What is oxygen?",
+    "options": [
+      {
+        "sentence": "Oxygen is a gas that organisms need to breathe and live.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Oxygen is a type of liquid that circulates inside animals to carry nutrients.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Oxygen can only be found in food and is not part of the air we breathe.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Oxygen is a nutrient produced by animals during photosynthesis only at night.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Oxygen is a solid mineral that animals get from eating plants and soil.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "We get oxygen from the air and plants help produce it.",
+        "chinese": "我们从空气中获取氧气，植物帮助产生它。"
+      }
+    ]
+  },
+{
+    "question": "What is a life cycle?",
+    "options": [
+      {
+        "sentence": "A life cycle is the series of stages an organism goes through from birth to reproduction and death.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A life cycle refers only to the time when an organism reaches full size or maturity.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A life cycle is the daily routine an animal follows to find food and shelter.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A life cycle means how long an animal can live without eating or drinking water.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A life cycle is the process by which an organism remains unchanged throughout life.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Examples of life cycles include egg to frog or seed to tree.",
+        "chinese": "生命循环的例子包括从卵到青蛙或从种子到树。"
+      }
+    ]
+  },
+  {
+    "question": "What are gills?",
+    "options": [
+      {
+        "sentence": "Gills are organs that fish and some other animals use to breathe underwater.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Gills are the hard outer shells that protect aquatic animals from predators.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Gills are the fins that fish use to swim quickly in water.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Gills are special skin patches on animals that help them absorb sunlight.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Gills are the teeth fish use to chew plants and small animals.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Gills extract oxygen dissolved in water so fish can breathe.",
+        "chinese": "鱼鳃从水中提取溶解的氧气以便呼吸。"
+      }
+    ]
+  },
+  {
+    "question": "What is an omnivore?",
+    "options": [
+      {
+        "sentence": "An omnivore is an animal that eats both plants and animals.",
+        "correct": "true"
+      },
+      {
+        "sentence": "An omnivore is an animal that eats only plants.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An omnivore is an animal that eats only meat.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An omnivore is an animal that does not need food to survive.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An omnivore is an animal that only eats insects and small bugs.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Examples of omnivores include humans, bears, and crows.",
+        "chinese": "杂食动物的例子包括人类、熊和乌鸦。"
+      }
+    ]
+  }
+]

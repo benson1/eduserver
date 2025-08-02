@@ -1,0 +1,126 @@
+[
+  {
+    "question": "Which term refers to something related to dogs?",
+    "options": [
+      {
+        "sentence": "Canine",
+        "correct": "true"
+      },
+      {
+        "sentence": "Ursine",
+        "correct": "false"
+      },
+      {
+        "sentence": "Vulpine",
+        "correct": "false"
+      },
+      {
+        "sentence": "Feline",
+        "correct": "false"
+      },
+      {
+        "sentence": "Equine",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Canine refers to something related to dogs. The term is derived from the Latin word 'canis,' meaning dog.",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "question": "Which term is associated with bears?",
+    "options": [
+      {
+        "sentence": "Ursine",
+        "correct": "true"
+      },
+      {
+        "sentence": "Canine",
+        "correct": "false"
+      },
+      {
+        "sentence": "Vulpine",
+        "correct": "false"
+      },
+      {
+        "sentence": "Lupine",
+        "correct": "false"
+      },
+      {
+        "sentence": "Mustelid",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Ursine refers to something related to bears. The term is derived from the Latin word 'ursus,' meaning bear.",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "question": "Which term describes something related to foxes?",
+    "options": [
+      {
+        "sentence": "Vulpine",
+        "correct": "true"
+      },
+      {
+        "sentence": "Canine",
+        "correct": "false"
+      },
+      {
+        "sentence": "Ursine",
+        "correct": "false"
+      },
+      {
+        "sentence": "Lupine",
+        "correct": "false"
+      },
+      {
+        "sentence": "Mustelid",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Vulpine refers to something related to foxes. The term is derived from the Latin word 'vulpes,' meaning fox.",
+        "chinese": ""
+      }
+    ]
+  },
+  {
+    "question": "What are the front teeth in the human mouth called?",
+    "options": [
+      {
+        "sentence": "Incisors",
+        "correct": "true"
+      },
+      {
+        "sentence": "Canines",
+        "correct": "false"
+      },
+      {
+        "sentence": "Molars",
+        "correct": "false"
+      },
+      {
+        "sentence": "Premolars",
+        "correct": "false"
+      },
+      {
+        "sentence": "Wisdom teeth",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Incisors are the front teeth, used primarily for cutting and biting food.",
+        "chinese": ""
+      }
+    ]
+  }
+]

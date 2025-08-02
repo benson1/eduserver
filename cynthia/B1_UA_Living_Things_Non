@@ -1,0 +1,130 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Living things can grow, make more of themselves, and react to changes around them.", "correct": "true" },
+      { "sentence": "Living things are made of tiny parts that aren’t alive, like the pieces that make up toys or rocks.", "correct": "false" },
+      { "sentence": "Living things don’t need any energy to stay alive, just like a rock doesn’t need energy.", "correct": "false" },
+      { "sentence": "All living things look exactly the same inside, from tiny bugs to big elephants.", "correct": "false" },
+      { "sentence": "Living things can stay alive forever without ever needing water.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Living things can do important stuff like grow, have babies, and react to the world around them.",
+        "chinese": "生物可以做重要的事情，比如生长、繁殖和对周围世界做出反应。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Non-living things cannot grow, make copies of themselves, or react like living things.", "correct": "true" },
+      { "sentence": "Non-living things, like robots, can eat food and have babies just like animals.", "correct": "false" },
+      { "sentence": "Non-living things, such as toys, are made of tiny living parts called cells.", "correct": "false" },
+      { "sentence": "Non-living things, like clouds, can decide to make copies of themselves in the sky.", "correct": "false" },
+      { "sentence": "Non-living things, such as rocks, can learn to change when their environment gets hotter or colder.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Non-living things don’t do things like grow, have babies, or react to changes like living things do.",
+        "chinese": "非生物不会像生物那样生长、繁殖或对变化做出反应。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Plants make their own food using sunlight, water, and air.", "correct": "true" },
+      { "sentence": "Plants need to eat food from the ground or other living things to survive.", "correct": "false" },
+      { "sentence": "Plants can grow big and strong even if they’re kept in a dark closet with no light.", "correct": "false" },
+      { "sentence": "Plants can only grow in dirt and will die if you try to grow them in water.", "correct": "false" },
+      { "sentence": "Plants don’t need water at all—they can live just like a plastic toy.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Plants use sunlight, water, and air to make their own food (this is called photosynthesis).",
+        "chinese": "植物利用阳光、水和空气制造自己的食物（这称为光合作用）。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Roots hold the plant in the ground and suck up water and food for the plant.", "correct": "true" },
+      { "sentence": "Roots are just for decoration—plants would be fine if you cut them all off.", "correct": "false" },
+      { "sentence": "Roots are like plant leaves—they catch sunlight to make food for the plant.", "correct": "false" },
+      { "sentence": "Roots are like a plant’s fridge—they only store food and don’t do anything else.", "correct": "false" },
+      { "sentence": "Roots can grow floating in the air without ever touching soil or water.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Roots help plants stay in the ground, drink water, and eat food from the soil.",
+        "chinese": "根部帮助植物固定在土壤中，吸收水分和养分。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An organism is any living thing, like a bug, plant, or animal, that can grow and make more of itself.", "correct": "true" },
+      { "sentence": "An organism is only something big, like a dog or tree—tiny things like bacteria don’t count.", "correct": "false" },
+      { "sentence": "Organisms don’t need to react to anything—they can just sit still like a rock forever.", "correct": "false" },
+      { "sentence": "All organisms are too small to see—you’d need a microscope to spot any of them.", "correct": "false" },
+      { "sentence": "Organisms can’t grow or make babies—they stay the same their whole lives.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "An organism is any living thing (big or small) that can grow, react, and make more of itself.",
+        "chinese": "有机体是任何可以生长、反应和繁殖的生物（无论大小）。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Nutrients are like food for living things—they help them grow, stay healthy, and have energy.", "correct": "true" },
+      { "sentence": "Nutrients are only for animals—plants don’t need them because they make their own food.", "correct": "false" },
+      { "sentence": "Nutrients are invisible magic stuff—you can’t get them from eating real food.", "correct": "false" },
+      { "sentence": "Nutrients don’t help living things at all—they’re just extra stuff in the environment.", "correct": "false" },
+      { "sentence": "Nutrients are only for making babies—they don’t help with growing or staying strong.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Nutrients are like vitamins for living things—they help them grow, stay healthy, and have energy.",
+        "chinese": "营养物质就像生物体的维生素，帮助它们生长、保持健康和获得能量。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The stem holds the plant up, carries water and food, and helps the leaves grow.", "correct": "true" },
+      { "sentence": "The stem is just for looks—if you remove it, the plant won’t even notice.", "correct": "false" },
+      { "sentence": "The stem is like a straw—it only sucks up food from the dirt and does nothing else.", "correct": "false" },
+      { "sentence": "The stem is the plant’s food factory—it makes all the food instead of the leaves.", "correct": "false" },
+      { "sentence": "The stem is like a backpack—it stores ALL the plant’s water and food, leaving none for the roots.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The stem is like a plant’s backbone—it holds it up, carries water/food, and supports the leaves.",
+        "chinese": "茎就像植物的脊椎，支撑植物、输送水分/养分，并帮助叶子生长。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Soil helps plants grow by giving them food, water, and a place to stand.", "correct": "true" },
+      { "sentence": "Soil is just dirt—it doesn’t actually do anything for plants.", "correct": "false" },
+      { "sentence": "Soil is only needed when plants want to make seeds—otherwise, they don’t need it.", "correct": "false" },
+      { "sentence": "Soil is empty—it has no food or water that plants could ever use.", "correct": "false" },
+      { "sentence": "Soil is only for animals to dig in—plants don’t use it at all.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Soil is like a plant’s lunchbox—it holds the food, water, and space they need to grow.",
+        "chinese": "土壤就像植物的午餐盒，提供它们生长所需的养分、水和空间。"
+      }
+    ]
+  }
+]

@@ -1,0 +1,210 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A river is a moving body of water that flows toward a larger body like a lake or ocean.", "correct": "true" },
+      { "sentence": "A river is a dry landform that never contains water or supports life.", "correct": "false" },
+      { "sentence": "A river is a large pool of water that remains in one place permanently.", "correct": "false" },
+      { "sentence": "A river is a narrow rock formation that forms underground with no surface water.", "correct": "false" },
+      { "sentence": "A river is a stream of air that moves across the sky like the wind.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A river is a continuous flow of water that moves over land, typically flowing toward a larger body of water such as a sea or ocean.",
+        "chinese": "河流是穿过陆地的水流，通常流向如海洋或湖泊等较大的水体。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A mountain is a tall landform that rises above surrounding areas with steep slopes.", "correct": "true" },
+      { "sentence": "A mountain is a flat area of land that has no elevation changes or peaks.", "correct": "false" },
+      { "sentence": "A mountain is a deep valley that is always covered by water.", "correct": "false" },
+      { "sentence": "A mountain is a small hill that appears and disappears with the seasons.", "correct": "false" },
+      { "sentence": "A mountain is a floating landform that moves like an iceberg on the ocean.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Mountains are large, steep landforms created by tectonic activity and erosion. They are typically taller than surrounding terrain.",
+        "chinese": "山脉是由构造活动和侵蚀作用形成的高地，通常比周围的地形更高。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A valley is a low-lying area between hills or mountains, often shaped by erosion.", "correct": "true" },
+      { "sentence": "A valley is a tall peak that stands above the land like a mountain.", "correct": "false" },
+      { "sentence": "A valley is a small hole in the ground that appears due to earthquakes.", "correct": "false" },
+      { "sentence": "A valley is a raised plateau with steep sides and a flat top.", "correct": "false" },
+      { "sentence": "A valley is a frozen glacier that never melts or changes over time.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A valley is a low area of land, typically between hills or mountains, formed over time by the erosive action of water or glaciers.",
+        "chinese": "山谷是位于山丘或山脉之间的低地，通常由水或冰川的侵蚀作用形成。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A river flows over land.", "correct": "true" },
+      { "sentence": "A river is a type of cloud.", "correct": "false" },
+      { "sentence": "A river is always dry.", "correct": "false" },
+      { "sentence": "A river forms only in deserts.", "correct": "false" },
+      { "sentence": "A river is the same as an ocean.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A river is a flow of water that moves across the land, usually traveling toward a larger body of water like a lake or ocean.",
+        "chinese": "河流是流动的水，通常流向更大的水体，如湖泊或海洋。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Mountains are tall landforms.", "correct": "true" },
+      { "sentence": "Mountains are only sand.", "correct": "false" },
+      { "sentence": "Mountains never change.", "correct": "false" },
+      { "sentence": "Mountains are all the same height.", "correct": "false" },
+      { "sentence": "Mountains only exist in forests.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Mountains are high landforms created by geological processes such as tectonic plate movements and erosion.",
+        "chinese": "山脉是由地质过程，如构造板块运动和侵蚀作用，形成的高地。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A valley is low land between hills.", "correct": "true" },
+      { "sentence": "A valley is always underwater.", "correct": "false" },
+      { "sentence": "A valley is made of clouds.", "correct": "false" },
+      { "sentence": "A valley is the highest point.", "correct": "false" },
+      { "sentence": "A valley is always dry.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A valley is a low area of land located between hills or mountains. It can be shaped by rivers, glaciers, or erosion.",
+        "chinese": "山谷是位于山丘或山脉之间的低地，由河流、冰川或侵蚀作用塑造。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Plains are mostly flat.", "correct": "true" },
+      { "sentence": "Plains are full of cliffs.", "correct": "false" },
+      { "sentence": "Plains are underwater mountains.", "correct": "false" },
+      { "sentence": "Plains are only in cold places.", "correct": "false" },
+      { "sentence": "Plains are covered in ice.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Plains are large, flat areas of land with little to no elevation changes, often found in temperate regions.",
+        "chinese": "平原是广阔的平坦地带，几乎没有高度变化，通常位于温带地区。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A continent is a large landmass.", "correct": "true" },
+      { "sentence": "A continent is a small island.", "correct": "false" },
+      { "sentence": "A continent floats on water.", "correct": "false" },
+      { "sentence": "A continent is made of clouds.", "correct": "false" },
+      { "sentence": "A continent is always frozen.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A continent is a large, continuous area of land that is separated by oceans and consists of countries and regions.",
+        "chinese": "大陆是大面积连续的陆地，由海洋分隔，包含多个国家和地区。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Weathering breaks down rocks.", "correct": "true" },
+      { "sentence": "Weathering moves rocks.", "correct": "false" },
+      { "sentence": "Weathering makes rocks grow.", "correct": "false" },
+      { "sentence": "Weathering forms mountains instantly.", "correct": "false" },
+      { "sentence": "Weathering only happens in water.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Weathering refers to the natural process where rocks break down due to exposure to the elements like wind, water, or temperature changes.",
+        "chinese": "风化是自然过程，岩石由于风、水或温度变化等因素而破裂。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Erosion moves sediment.", "correct": "true" },
+      { "sentence": "Erosion builds new rocks.", "correct": "false" },
+      { "sentence": "Erosion is the same as weathering.", "correct": "false" },
+      { "sentence": "Erosion stops land from changing.", "correct": "false" },
+      { "sentence": "Erosion makes land stronger.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Erosion is the process where wind, water, or ice move soil and rock from one place to another.",
+        "chinese": "侵蚀是风、水或冰将土壤和岩石从一处转移到另一处的过程。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Soil contains minerals.", "correct": "true" },
+      { "sentence": "Soil is only water.", "correct": "false" },
+      { "sentence": "Soil never changes.", "correct": "false" },
+      { "sentence": "Soil is the same as dust.", "correct": "false" },
+      { "sentence": "Soil only exists in forests.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Soil is a mixture of minerals, organic material, air, and water that supports plant life.",
+        "chinese": "土壤是由矿物、有机物、空气和水组成的混合物，支持植物生长。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Pollution harms nature.", "correct": "true" },
+      { "sentence": "Pollution is always good.", "correct": "false" },
+      { "sentence": "Pollution makes air cleaner.", "correct": "false" },
+      { "sentence": "Pollution is only in water.", "correct": "false" },
+      { "sentence": "Pollution is made of clouds.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Pollution consists of harmful substances that damage air, water, and land ecosystems.",
+        "chinese": "污染由有害物质组成，破坏空气、水和土地生态系统。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Minerals form naturally.", "correct": "true" },
+      { "sentence": "Minerals are made by humans.", "correct": "false" },
+      { "sentence": "Minerals are only in plants.", "correct": "false" },
+      { "sentence": "Minerals are always liquid.", "correct": "false" },
+      { "sentence": "Minerals are the same as metal.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Minerals are naturally occurring substances with a specific chemical composition, often found in rocks.",
+        "chinese": "矿物是天然存在的物质，具有特定的化学成分，通常存在于岩石中。"
+      }
+    ]
+  }
+]

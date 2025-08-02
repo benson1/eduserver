@@ -1,0 +1,312 @@
+[
+  {
+    "question": "What is a grassland?",
+    "options": [
+      {
+        "sentence": "It is a large open area with mostly grasses and few trees, home to many grazing animals.",
+        "correct": "true"
+      },
+      {
+        "sentence": "It is a rocky mountain area with tall cliffs and little vegetation for animals.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It is a frozen landscape where animals survive only on snow and ice.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It is a dense swamp where water covers the ground all year long.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It is a deep ocean trench where no sunlight ever reaches the sea floor.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Grasslands support animals like zebras and lions, offering lots of grasses but few tall trees.",
+        "chinese": "草原为斑马和狮子等动物提供生存环境，这里有大量的草，但几乎没有高大的树木。"
+      }
+    ]
+  },
+  {
+    "question": "What is a forest?",
+    "options": [
+      {
+        "sentence": "It is a habitat with many trees, plants, and animals that live among the thick vegetation.",
+        "correct": "true"
+      },
+      {
+        "sentence": "It is a dry, sandy place where very few plants and animals can survive without water.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It is a saltwater zone filled mostly with coral and marine fish all year round.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It is a polar area covered with snow and ice, inhabited by seals and penguins.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It is a place with underground caves and no light, where bats are often found.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Forests have rich biodiversity, with animals like deer, owls, and insects thriving among trees.",
+        "chinese": "森林拥有丰富的生物多样性，鹿、猫头鹰和昆虫等动物在树木之间茁壮成长。"
+      }
+    ]
+  },
+  {
+    "question": "What is a lake?",
+    "options": [
+      {
+        "sentence": "It is a body of freshwater surrounded by land, where fish, birds, and frogs often live.",
+        "correct": "true"
+      },
+      {
+        "sentence": "It is a fast-moving river that cuts through mountains and creates narrow valleys.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It is a desert made entirely of sand dunes with few sources of drinking water.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It is a tropical forest where rain falls every single day throughout the year.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It is a high mountain with glaciers and very low temperatures at all times.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Lakes provide freshwater and support many species, including fish, turtles, and aquatic birds.",
+        "chinese": "湖泊提供淡水，并支持许多物种的生存，包括鱼类、乌龟和水鸟。"
+      }
+    ]
+  },
+  {
+    "question": "What is an ocean?",
+    "options": [
+      {
+        "sentence": "It is a vast saltwater habitat that covers most of Earth and contains whales, fish, and coral.",
+        "correct": "true"
+      },
+      {
+        "sentence": "It is a small pond in a backyard where frogs and insects often gather together.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It is a mountain forest filled with pine trees, bears, and seasonal snowfall in winter.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It is a dry savanna where only a few trees grow and lions roam the land freely.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It is a farming field with rows of crops and some farm animals like chickens.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Oceans are the largest habitats and are home to creatures like dolphins, sharks, and plankton.",
+        "chinese": "海洋是最大的栖息地，生活着海豚、鲨鱼和浮游生物等生物。"
+      }
+    ]
+  },
+  {
+    "question": "What is adaptation?",
+    "options": [
+      {
+        "sentence": "It is a change in an organism that helps it survive better in its environment.",
+        "correct": "true"
+      },
+      {
+        "sentence": "It is when an animal gets lost and must find its way back home in the forest.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It is when a plant turns into an animal so it can run from predators quickly.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It is a tool humans use to teach animals to perform circus tricks on command.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It is a natural event where animals disappear when the weather changes quickly.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Adaptations like a giraffe’s long neck help it reach food high in trees for survival.",
+        "chinese": "像长颈鹿的长脖子这样的适应性变化可以帮助它够到树上的食物以生存。"
+      }
+    ]
+  },
+  {
+    "question": "What is a food chain?",
+    "options": [
+      {
+        "sentence": "It shows how energy passes from one living thing to another through eating.",
+        "correct": "true"
+      },
+      {
+        "sentence": "It is a tool animals use to carry food from place to place during the day.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It is a machine that helps farmers plant crops faster in the growing season.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It is a long path animals follow to travel between seasons and find water.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It is a pattern animals use to sleep and wake up every single night and day.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "In a food chain, grass feeds a rabbit, which may then be eaten by a fox.",
+        "chinese": "在食物链中，草被兔子吃，而兔子又可能被狐狸吃掉。"
+      }
+    ]
+  },
+  {
+    "question": "What is extinction?",
+    "options": [
+      {
+        "sentence": "It means a species has completely died out and no longer exists anywhere.",
+        "correct": "true"
+      },
+      {
+        "sentence": "It is when animals move from cold places to warm ones during the winter season.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It is when animals stop eating certain foods and try something else instead.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It is when a group of animals grows too large and fills up the whole area.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It is when a species hides during storms and only comes out on sunny days.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Extinct animals like the dodo are no longer alive and cannot be found today.",
+        "chinese": "像渡渡鸟这样的灭绝动物已经不再存在，今天已经无法找到它们了。"
+      }
+    ]
+  },
+  {
+    "question": "What is a habitat?",
+    "options": [
+      {
+        "sentence": "It is the natural place where an animal or plant lives and gets its needs met.",
+        "correct": "true"
+      },
+      {
+        "sentence": "It is a small cage or tank humans use to keep animals safe inside their homes.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It is the name for a wild animal's favorite type of food or special drink.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It is a type of clothing animals wear to protect themselves from the cold.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It is a time when animals sleep all day and wake only during the night.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Habitats provide animals with shelter, food, water, and space to live and grow.",
+        "chinese": "栖息地为动物提供住所、食物、水和生长空间。"
+      }
+    ]
+  },
+  {
+    "question": "What does endangered mean?",
+    "options": [
+      {
+        "sentence": "It means the species is at risk of dying out and disappearing forever.",
+        "correct": "true"
+      },
+      {
+        "sentence": "It means the animal is dangerous and must be locked up in a cage or zoo.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It means animals must move often because they don’t like staying in one spot.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It means the animal is only awake at night and hides all day from others.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It means the animal only lives in the ocean and cannot survive on land.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Endangered animals, like pandas and tigers, need protection or they may vanish forever.",
+        "chinese": "像熊猫和老虎这样的濒危动物需要保护，否则它们可能会永远消失。"
+      }
+    ]
+  },
+  {
+    "question": "What is a life cycle?",
+    "options": [
+      {
+        "sentence": "It is the series of stages an organism goes through from birth to death.",
+        "correct": "true"
+      },
+      {
+        "sentence": "It is the path animals take when they go hunting for food each night.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It is the time animals sleep in caves during the winter to stay warm.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It is the way animals walk in a circle to protect their territory often.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It is the number of times an animal eats meals in a single day total.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "A butterfly’s life cycle includes egg, larva (caterpillar), pupa, and adult stages.",
+        "chinese": "蝴蝶的生命周期包括卵、幼虫（毛毛虫）、蛹和成虫阶段。"
+      }
+    ]
+  }
+]

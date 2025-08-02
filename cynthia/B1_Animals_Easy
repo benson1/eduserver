@@ -1,0 +1,529 @@
+[
+  {
+    "question": "What makes a habitat suitable for an animal?",
+    "options": [
+      {
+        "sentence": "It provides the right food, water, and shelter for that species.",
+        "correct": "true"
+      },
+      {
+        "sentence": "It must be a forest with tall trees and lots of plants.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It has to be wet and rainy all year round.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It should look exactly like a zoo enclosure.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It needs to be completely free of other animals.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Different animals need different habitats—polar bears need ice, while camels thrive in deserts!",
+        "chinese": "不同的动物需要不同的栖息地——北极熊需要冰原，而骆驼则适应沙漠环境！"
+      }
+    ]
+  },
+  {
+    "question": "How can you identify a rodent?",
+    "options": [
+      {
+        "sentence": "They have sharp front teeth that grow continuously throughout their lives.",
+        "correct": "true"
+      },
+      {
+        "sentence": "They are all larger than house cats and have long trunks like elephants.",
+        "correct": "false"
+      },
+      {
+        "sentence": "They have wings and can fly between trees like birds.",
+        "correct": "false"
+      },
+      {
+        "sentence": "They live only in water and have gills like fish.",
+        "correct": "false"
+      },
+      {
+        "sentence": "They produce venom like snakes and have no fur.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Mice, squirrels, and beavers are rodents—they gnaw constantly to wear down their ever-growing teeth.",
+        "chinese": "老鼠、松鼠和海狸都是啮齿动物——它们不断啃咬以磨损不断生长的牙齿。"
+      }
+    ]
+  },
+  {
+    "question": "Which features do all mammals share?",
+    "options": [
+      {
+        "sentence": "They have hair or fur at some stage and feed milk to their young.",
+        "correct": "true"
+      },
+      {
+        "sentence": "They all lay eggs with hard shells like chickens do.",
+        "correct": "false"
+      },
+      {
+        "sentence": "They spend their entire lives underwater with gills.",
+        "correct": "false"
+      },
+      {
+        "sentence": "They are cold-blooded and need sunlight to warm up.",
+        "correct": "false"
+      },
+      {
+        "sentence": "They have scales covering their entire bodies like snakes.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "From tiny bats to giant whales, mammals nourish babies with milk and usually have hair.",
+        "chinese": "从小蝙蝠到巨大鲸鱼，哺乳动物用乳汁哺育幼崽，并且通常有毛发。"
+      }
+    ]
+  },
+  {
+    "question": "What makes birds different from other animals?",
+    "options": [
+      {
+        "sentence": "They are the only animals with feathers covering their bodies.",
+        "correct": "true"
+      },
+      {
+        "sentence": "They all build nests high in trees and sing beautiful songs.",
+        "correct": "false"
+      },
+      {
+        "sentence": "They give birth to live young that can fly immediately.",
+        "correct": "false"
+      },
+      {
+        "sentence": "They have smooth, slimy skin like frogs and toads.",
+        "correct": "false"
+      },
+      {
+        "sentence": "They are all flightless and live only on the ground.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Feathers are unique to birds—even flightless ones like penguins and ostriches have them!",
+        "chinese": "羽毛是鸟类独有的特征——即使是不能飞的企鹅和鸵鸟也有羽毛！"
+      }
+    ]
+  },
+  {
+    "question": "Why are amphibians special?",
+    "options": [
+      {
+        "sentence": "They can breathe through their skin when it's wet while also using lungs.",
+        "correct": "true"
+      },
+      {
+        "sentence": "They spend their entire lives only in water with gills like fish.",
+        "correct": "false"
+      },
+      {
+        "sentence": "They have dry, scaly skin that never gets wet or damp.",
+        "correct": "false"
+      },
+      {
+        "sentence": "They are covered in thick fur to keep them warm on land.",
+        "correct": "false"
+      },
+      {
+        "sentence": "They build nests in trees and care for their young like birds.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Frogs and salamanders start life underwater but develop lungs to live on land as adults.",
+        "chinese": "青蛙和蝾螈在水中开始生命，但成年后发展出肺以在陆地上生活。"
+      }
+    ]
+  },
+ {
+    "question": "What does evolution mean in animals?",
+    "options": [
+      {
+        "sentence": "It is the gradual change in species over generations to adapt and survive.",
+        "correct": "true"
+      },
+      {
+        "sentence": "It means an animal can change into a new species during its lifetime.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It only happens when humans breed animals in captivity.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It is a process animals use to learn new tricks.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It describes how animals migrate each season.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Evolution explains how species like whales adapted from land mammals over millions of years.",
+        "chinese": "进化解释了像鲸鱼这样的物种如何在数百万年中从陆地哺乳动物演变而来。"
+      }
+    ]
+  },
+  {
+    "question": "What is a carnivore?",
+    "options": [
+      {
+        "sentence": "An animal that gets its energy by eating the flesh of other animals.",
+        "correct": "true"
+      },
+      {
+        "sentence": "An animal that eats both plants and meat equally.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A creature that can survive on insects and fruit alone.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A species that only eats during the night.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An animal that avoids eating living things.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Carnivores, like wolves and hawks, rely on meat to survive and often hunt other animals.",
+        "chinese": "像狼和鹰这样的食肉动物依靠肉类生存，通常会捕猎其他动物。"
+      }
+    ]
+  },
+  {
+    "question": "What is a vertebrate?",
+    "options": [
+      {
+        "sentence": "An animal that has a backbone made of bones or cartilage.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Any animal with a strong outer shell or exoskeleton.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An animal that can live both on land and in water.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Any warm-blooded animal that gives birth to live young.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A creature that uses gills to breathe underwater.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Vertebrates include animals like frogs, snakes, and whales—all of which have backbones.",
+        "chinese": "脊椎动物包括像青蛙、蛇和鲸鱼这样的动物——它们都有脊椎骨。"
+      }
+    ]
+  },
+  {
+    "question": "What does it mean if a species is endangered?",
+    "options": [
+      {
+        "sentence": "It is at serious risk of disappearing from the wild forever.",
+        "correct": "true"
+      },
+      {
+        "sentence": "It cannot be kept as a pet due to government rules.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It has become dangerous and must be avoided by humans.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It is now only found in cold, remote locations.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It eats rare plants and is therefore considered harmful.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Endangered species like the snow leopard are at high risk of extinction due to habitat loss and hunting.",
+        "chinese": "像雪豹这样的濒危物种由于栖息地丧失和狩猎而面临极高的灭绝风险。"
+      }
+    ]
+  },
+  {
+    "question": "What does it mean when an animal hibernates?",
+    "options": [
+      {
+        "sentence": "It enters a long, deep sleep-like state to conserve energy during cold months.",
+        "correct": "true"
+      },
+      {
+        "sentence": "It stays awake but eats twice as much during the winter.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It travels to warmer places far away to survive the winter.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It changes its body color to match the season.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It builds a nest in a tree and sings to stay warm.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Animals like bears and some bats hibernate to survive when food is scarce and temperatures are low.",
+        "chinese": "像熊和某些蝙蝠这样的动物在食物稀缺、气温低时会冬眠以求生存。"
+      }
+    ]
+  },
+ {
+    "question": "What is a herbivore?",
+    "options": [
+      {
+        "sentence": "An animal that eats mainly plants, leaves, or grass.",
+        "correct": "true"
+      },
+      {
+        "sentence": "An animal that survives only on fruits and nectar.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A creature that prefers meat but occasionally eats plants.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Any animal that lives in forests and jungles.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An organism that creates its own food using sunlight.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Herbivores, like elephants and deer, depend on vegetation as their main food source.",
+        "chinese": "像大象和鹿这样的草食动物主要依靠植物为食。"
+      }
+    ]
+  },
+  {
+    "question": "What does it mean when a species is extinct?",
+    "options": [
+      {
+        "sentence": "There are no living members of that species anywhere in the world.",
+        "correct": "true"
+      },
+      {
+        "sentence": "The species only lives in captivity and no longer exists in the wild.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The species has moved to a new continent.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The animals are extremely rare but still found in large cities.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It refers to animals that are no longer able to hibernate.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "When a species is extinct, like the dodo, none are alive today.",
+        "chinese": "当一个物种灭绝时，比如渡渡鸟，就没有任何个体存活了。"
+      }
+    ]
+  },
+  {
+    "question": "What is an omnivore?",
+    "options": [
+      {
+        "sentence": "An animal that eats both plant matter and animal flesh.",
+        "correct": "true"
+      },
+      {
+        "sentence": "An animal that switches diets each season.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An animal that eats mostly insects and flowers.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A species that only eats food provided by humans.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A plant that traps and digests insects.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Omnivores like raccoons and humans consume both meat and plants to meet their dietary needs.",
+        "chinese": "像浣熊和人类这样的杂食动物会吃肉和植物以满足其营养需求。"
+      }
+    ]
+  },
+  {
+    "question": "What is an invertebrate?",
+    "options": [
+      {
+        "sentence": "An animal that does not have a backbone.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Any cold-blooded animal that lives in water.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An animal that can fly but has hollow bones.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A type of mammal with a soft spine.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Any creature that lives inside shells or caves.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Invertebrates, such as jellyfish and spiders, lack a backbone and make up most of Earth’s animal species.",
+        "chinese": "像水母和蜘蛛这样的无脊椎动物没有脊椎骨，占地球动物物种的大多数。"
+      }
+    ]
+  },
+  {
+    "question": "What is an organism?",
+    "options": [
+      {
+        "sentence": "Any individual living thing, such as a plant, animal, or microbe.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A large animal that can walk, swim, or fly.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Only creatures that can think and communicate.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A type of robot that mimics animal behavior.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A part of an animal's body, like a liver or heart.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Bacteria, fungi, animals, and plants are all organisms because they are living systems.",
+        "chinese": "细菌、真菌、动物和植物都是生物体，因为它们都是活的系统。"
+      }
+    ]
+  },
+  {
+    "question": "What is a species?",
+    "options": [
+      {
+        "sentence": "A group of similar organisms that can reproduce with each other.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Any animals that live in the same location.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Creatures that share a common diet or hunting strategy.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A set of organisms with the same color or size.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A category used for endangered animals only.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "A species is defined by its ability to reproduce with others of its kind, like domestic dogs.",
+        "chinese": "物种是指能够与同类繁殖的生物群体，比如家犬。"
+      }
+    ]
+  },
+  {
+    "question": "What is a predator?",
+    "options": [
+      {
+        "sentence": "An animal that hunts and feeds on other animals for survival.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A creature that only scavenges already-dead animals.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An animal that is always hunted by others.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A plant that traps insects using sticky leaves.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Any fast-moving animal, even if it eats only plants.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Predators like wolves and eagles actively hunt other animals to obtain food.",
+        "chinese": "像狼和鹰这样的捕食者会主动捕猎其他动物来获取食物。"
+      }
+    ]
+  }
+]

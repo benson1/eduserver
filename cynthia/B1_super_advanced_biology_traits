@@ -1,0 +1,343 @@
+[
+  {
+    "question": "What is evolution in biology?",
+    "options": [
+      {
+        "sentence": "The gradual change in heritable traits of a population over generations, driven by mechanisms like natural selection, genetic drift, and mutations.",
+        "correct": "true"
+      },
+      {
+        "sentence": "The rapid transformation of a single organism within its lifetime to better suit its environment, such as a bird growing longer wings during a drought to find water more easily.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The intentional migration of species to new habitats where they develop entirely new traits, like fish moving to land and spontaneously evolving lungs.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The process by which humans selectively breed animals to emphasize certain traits, such as dogs developing different sizes and temperaments under domestication.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The sudden appearance of fully formed complex traits, like a reptile instantly gaining feathers and the ability to fly without intermediate stages.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Evolution explains how genetic mutations and environmental pressures shape species over time (e.g., whales evolving from land-dwelling ancestors).",
+        "chinese": "进化解释了基因突变和环境压力如何随时间塑造物种（如鲸类从陆地祖先演化而来）。"
+      }
+    ]
+  },
+  {
+    "question": "What is natural selection?",
+    "options": [
+      {
+        "sentence": "The process by which organisms with traits that enhance survival and reproduction pass those traits to more offspring, leading to evolutionary change.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A conscious decision by animals to develop advantageous traits, such as deer choosing to run faster to escape predators over their lifetime.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The idea that only the physically strongest individuals survive, while weaker ones are always eliminated, regardless of other survival strategies.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Human intervention to ensure the survival of certain species, like breeding programs for endangered pandas to maintain genetic diversity.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A random process where mutations arise with no correlation to an organism's environment or survival needs.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Example: Antibiotic resistance in bacteria occurs when only resistant strains survive and reproduce after exposure to drugs.",
+        "chinese": "例子：细菌的抗生素抗性发生在暴露于药物后，只有抗性菌株存活并繁殖的情况下。"
+      }
+    ]
+  },
+  {
+    "question": "What is camouflage?",
+    "options": [
+      {
+        "sentence": "An adaptation that allows organisms to blend into their surroundings, reducing detection by predators or prey through coloration, patterns, or behavior.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A chemical defense mechanism where animals secrete toxins to deter predators, making them appear unappealing or dangerous.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The ability of some species to mimic human-made objects, like certain insects resembling leaves or sticks to avoid being noticed.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A seasonal change in fur or feather density to regulate body temperature, which coincidentally alters appearance.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A social behavior where animals coordinate their movements to confuse predators, like schools of fish swimming in synchronized patterns.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Example: The peppered moth’s color shift during the Industrial Revolution to match soot-covered tree bark.",
+        "chinese": "例子：工业革命期间，胡椒蛾颜色变深以匹配被煤烟覆盖的树皮。"
+      }
+    ]
+  },
+  {
+    "question": "What is adaptation?",
+    "options": [
+      {
+        "sentence": "A heritable trait that increases an organism’s fitness in a specific environment, shaped by natural selection over generations.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A short-term physiological response to environmental changes, such as shivering to generate heat in cold weather.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The loss of unnecessary traits over time due to disuse, such as cave-dwelling fish losing functional eyes in perpetual darkness.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A behavior learned from other members of a species, like monkeys teaching their young to use tools.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The intentional modification of an organism’s body to suit human needs, like selective breeding for larger crop yields.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Example: Cacti store water in their stems to survive arid climates.",
+        "chinese": "例子：仙人掌在茎中储水以适应干旱气候。"
+      }
+    ]
+  },
+  {
+    "question": "What is metamorphosis?",
+    "options": [
+      {
+        "sentence": "A biological process where an organism undergoes a dramatic physical transformation between life stages, often involving distinct larval and adult forms.",
+        "correct": "true"
+      },
+      {
+        "sentence": "The gradual growth and maturation of an animal from infancy to adulthood, like a kitten developing into a cat.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The seasonal shedding of fur, feathers, or skin to accommodate temperature changes, such as Arctic foxes growing winter coats.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The regeneration of lost body parts, like starfish regrowing arms or lizards regrowing tails after injury.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A sudden mutation that causes an organism to develop entirely new features, like a fish sprouting legs to walk on land.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Example: Butterflies transition from caterpillars (larva) to winged adults via pupation.",
+        "chinese": "例子：蝴蝶通过蛹化从毛毛虫（幼虫）转变为有翅膀的成虫。"
+      }
+    ]
+  },
+  {
+    "question": "Which of these is the best example of phenotypic plasticity?",
+    "options": [
+      {
+        "sentence": "Chameleons changing color to match their environment, as their skin pigments respond to external stimuli like light and temperature.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Snakes shedding their skin periodically to accommodate growth, a fixed biological process unrelated to environmental conditions.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Puppies losing baby teeth as they mature into adult dogs, a genetically predetermined life-stage transition.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Polar bears appearing white year-round due to their unchanging fur pigmentation, which is genetically encoded for camouflage in snow.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Trees growing taller in sunny areas compared to shaded ones, reflecting resource allocation rather than reversible plasticity.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Phenotypic plasticity refers to reversible, environment-driven changes (e.g., chameleon color shifts). Fixed traits (like polar bear fur) or developmental stages (like tooth loss) don’t qualify.",
+        "chinese": "表型可塑性指可逆的、环境驱动的变化（如变色龙变色）。固定特征（如北极熊毛发）或发育阶段（如换牙）不符合。"
+      }
+    ]
+  },
+  {
+    "question": "Which of these best demonstrates selective breeding by humans?",
+    "options": [
+      {
+        "sentence": "The development of modern corn from wild teosinte plants over thousands of years, where humans chose kernels with desirable traits like larger size and softer husks.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Antibiotic resistance in bacteria emerging after repeated exposure to medicines, where only resistant strains survive and reproduce.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The variety of dog breeds, from Chihuahuas to Great Danes, created by intentionally mating animals with specific physical and behavioral traits over generations.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Peppered moths in England darkening during the Industrial Revolution to blend with soot-covered trees, improving survival against predators.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Wild foxes becoming tamer over generations when living near cities, as bolder individuals more successfully scavenge human food waste.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Selective breeding requires intentional human choice of traits (e.g., dogs or corn). The other examples involve natural selection or environmental pressures.",
+        "chinese": "选择性繁殖需要人类有意选择特定的性状（如狗或玉米）。其他例子涉及自然选择或环境压力。"
+      }
+    ]
+  },
+{
+    "question": "What is animal migration?",
+    "options": [
+      {
+        "sentence": "The seasonal movement of animals from one location to another, typically driven by factors like food availability, breeding needs, or environmental conditions.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A random, one-time relocation of animals to new habitats in search of better environmental conditions, without returning to the original home.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The movement of animals from one area to another as a response to changing weather patterns, where they instinctively travel to warmer regions during winter.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The migration of animals for social reasons, where groups of animals move together for safety or community bonding.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The relocation of species to completely new ecosystems where they adapt and evolve immediately into new forms suited to the new environment.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Example: Birds migrating to warmer climates during the winter to access food sources unavailable in colder regions.",
+        "chinese": "例子：鸟类在冬季迁徙到温暖的气候中，以便获得寒冷地区无法获得的食物来源。"
+      }
+    ]
+  },
+  {
+    "question": "What is hibernation?",
+    "options": [
+      {
+        "sentence": "A state of inactivity and metabolic depression in animals during cold months, allowing them to conserve energy when food is scarce.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A form of long-term dormancy where animals reduce their body temperature to match the surrounding environment, staying inactive until temperatures rise.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A behavior in which animals sleep for extended periods to recover from physical injuries or illnesses, often in a sheltered environment.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The process by which animals enter a sleep-like state during the hottest months, conserving energy until the weather cools.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A migration strategy where animals travel to a shelter to survive extreme cold, but they remain active throughout the period.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Example: Bears hibernate during winter by lowering their body temperature and metabolic rate to survive when food is scarce.",
+        "chinese": "例子：熊在冬季通过降低体温和新陈代谢率来度过食物稀缺的时光。"
+      }
+    ]
+  },
+  {
+    "question": "What is a mutation in biological terms?",
+    "options": [
+      {
+        "sentence": "A change in the genetic material of an organism, which can result in new traits or characteristics that may be passed down to future generations.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A temporary change in an organism’s behavior or appearance due to external factors like stress, without altering its genetic code.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A process by which environmental factors cause a species to evolve quickly, resulting in the development of entirely new species in a short period of time.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The permanent disappearance of a trait or characteristic in a population due to the failure of reproduction.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A process by which organisms intentionally alter their genetic makeup to adapt to changing environmental conditions.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Example: A mutation in the DNA of a fish may lead to a new coloration, which could help it avoid predators.",
+        "chinese": "例子：鱼类DNA中的突变可能导致新的颜色，有助于它躲避捕食者。"
+      }
+    ]
+  },
+  {
+    "question": "What is reproduction in biology?",
+    "options": [
+      {
+        "sentence": "The biological process by which organisms produce offspring, ensuring the continuation of the species across generations.",
+        "correct": "true"
+      },
+      {
+        "sentence": "The process through which individuals of the same species collaborate to share resources and enhance their survival in a competitive environment.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A process that occurs only in sexually reproducing species, where individuals exchange genetic material to create genetically unique offspring.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A form of asexual reproduction where a single organism divides into two identical offspring without any genetic variation.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The development of new organisms from existing cells through cloning or genetic engineering.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Example: In sexual reproduction, male and female organisms produce gametes that combine to form a new organism.",
+        "chinese": "例子：在有性生殖中，雄性和雌性有机体产生配子，结合形成新个体。"
+      }
+    ]
+  }
+]
