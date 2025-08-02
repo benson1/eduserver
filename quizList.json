@@ -346,5 +346,71 @@
         "file": "b1_plants_start_easiest ",
         "type": "science",
         "level": "1"
+    },
+        {
+        "name": "Our Earth",
+        "file": "B1UC_Our_Earth.json",
+        "type": "cynthia",
+        "level": "1"
+    },
+    {
+        "name": "Living Things Basic",
+        "file": "B1_UA_Living_Things_Non",
+        "type": "cynthia",
+        "level": "1"
+    },
+    {
+        "name": "Organisms, plants continued",
+        "file": "B1_Plants_Continued",
+        "type": "cynthia",
+        "level": "1"
+    },
+    {
+        "name": "Animal Classification",
+        "file": "B1_Animals_Easy",
+        "type": "cynthia",
+        "level": "1"
+    },
+    {
+        "name": "Very Advanced Bio Classification",
+        "file": "B1_super_advanced_biology_traits",
+        "type": "cynthia",
+        "level": "1"
+    },
+    {
+        "name": "Organisms",
+        "file": "B1_Organisms_Latest",
+        "type": "cynthia",
+        "level": "1"
+    },
+    {
+        "name": "Another Organisms",
+        "file": "B1_Another_Animals_Quiz",
+        "type": "cynthia",
+        "level": "1"
+    },
+    {
+        "name": "Weather Level 1 (Hard)",
+        "file": "B1_Weather_Harder",
+        "type": "cynthia",
+        "level": "1"
+    },
+    {
+        "name": "B1_Basic_Astronomy",
+        "file": "B1_Astronomy",
+        "type": "cynthia",
+        "level": "1"
+    },
+    {
+        "name": "b1_earth_in_space_movement.json",
+        "file": "b1_earth_in_space_movement.json ",
+        "type": "cynthia",
+        "level": "1"
+    },
+    {
+        "name": "b1_plants_start_easiest",
+        "file": "b1_plants_start_easiest ",
+        "type": "cynthia",
+        "level": "1"
     }
 ]
