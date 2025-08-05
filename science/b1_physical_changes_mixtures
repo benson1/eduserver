@@ -1,0 +1,374 @@
+[
+    {
+        "question": "Which sentence is scientifically correct?",
+        "options": [
+            {
+                "sentence": "Condensation is the process where gas loses heat and turns back into a liquid form.",
+                "correct": "true"
+            },
+            {
+                "sentence": "Condensation is the process where liquids boil rapidly and turn into strong vapors.",
+                "correct": "false"
+            },
+            {
+                "sentence": "Condensation is the process where solids melt directly into air without heating.",
+                "correct": "false"
+            },
+            {
+                "sentence": "Condensation is the process where gas particles combine to form frozen crystals.",
+                "correct": "false"
+            },
+            {
+                "sentence": "Condensation is the process where energy builds up and explodes gases into liquids.",
+                "correct": "false"
+            }
+        ],
+        "explanation": [
+            {
+                "english": "Condensation is when a gas cools and changes into a liquid, such as water vapor turning into dew.",
+                "chinese": "凝结是气体冷却并变成液体的过程，例如水蒸气变成露水。"
+            }
+        ]
+    },
+    {
+        "question": "Which sentence is scientifically correct?",
+        "options": [
+            {
+                "sentence": "A mixture is a combination of two or more substances that can be physically separated.",
+                "correct": "true"
+            },
+            {
+                "sentence": "A mixture is a single pure substance made from only one kind of atom or element.",
+                "correct": "false"
+            },
+            {
+                "sentence": "A mixture is something created only when liquids boil and change colors.",
+                "correct": "false"
+            },
+            {
+                "sentence": "A mixture is a substance made by heating and chemically bonding metals.",
+                "correct": "false"
+            },
+            {
+                "sentence": "A mixture is a solid object that can never change or be taken apart.",
+                "correct": "false"
+            }
+        ],
+        "explanation": [
+            {
+                "english": "A mixture contains two or more materials mixed together but not chemically bonded.",
+                "chinese": "混合物包含两种或以上的物质混合在一起，但没有化学结合。"
+            }
+        ]
+    },
+    {
+        "question": "Which sentence is scientifically correct?",
+        "options": [
+            {
+                "sentence": "To dissolve means to mix a substance evenly into a liquid until it seems to disappear.",
+                "correct": "true"
+            },
+            {
+                "sentence": "To dissolve means to cool down a liquid until it becomes solid in shape and size.",
+                "correct": "false"
+            },
+            {
+                "sentence": "To dissolve means to break a solid into chunks by shaking it inside a cup.",
+                "correct": "false"
+            },
+            {
+                "sentence": "To dissolve means to use fire to burn a solid into floating dust particles.",
+                "correct": "false"
+            },
+            {
+                "sentence": "To dissolve means to separate gas particles with no water added or involved.",
+                "correct": "false"
+            }
+        ],
+        "explanation": [
+            {
+                "english": "Dissolving means one substance becomes evenly mixed into another, like sugar in water.",
+                "chinese": "溶解是指一种物质均匀混合进另一种物质，例如糖溶于水。"
+            }
+        ]
+    },
+    {
+        "question": "Which sentence is scientifically correct?",
+        "options": [
+            {
+                "sentence": "A homogeneous mixture has substances mixed so well that you cannot see the parts.",
+                "correct": "true"
+            },
+            {
+                "sentence": "A homogeneous mixture contains big chunks of solid visible to the naked eye.",
+                "correct": "false"
+            },
+            {
+                "sentence": "A homogeneous mixture is made by stacking objects neatly on top of each other.",
+                "correct": "false"
+            },
+            {
+                "sentence": "A homogeneous mixture only forms when gases are cooled into solid matter.",
+                "correct": "false"
+            },
+            {
+                "sentence": "A homogeneous mixture is a mixture that separates into layers over time.",
+                "correct": "false"
+            }
+        ],
+        "explanation": [
+            {
+                "english": "Homogeneous mixtures are uniform throughout, like salt completely dissolved in water.",
+                "chinese": "均匀混合物在整个混合物中看起来一致，例如盐完全溶解在水中。"
+            }
+        ]
+    },
+    {
+        "question": "Which sentence is scientifically correct?",
+        "options": [
+            {
+                "sentence": "A heterogeneous mixture has visibly different parts that are not evenly distributed.",
+                "correct": "true"
+            },
+            {
+                "sentence": "A heterogeneous mixture is always a gas that cannot contain any solid parts.",
+                "correct": "false"
+            },
+            {
+                "sentence": "A heterogeneous mixture is a clear liquid with no particles or solid matter in it.",
+                "correct": "false"
+            },
+            {
+                "sentence": "A heterogeneous mixture has parts that chemically combine to form new elements.",
+                "correct": "false"
+            },
+            {
+                "sentence": "A heterogeneous mixture is when one solid turns into another under high heat.",
+                "correct": "false"
+            }
+        ],
+        "explanation": [
+            {
+                "english": "Heterogeneous mixtures have different parts you can often see, like salad or trail mix.",
+                "chinese": "非均匀混合物有可见的不同部分，例如沙拉或什锦干果。"
+            }
+        ]
+    },
+    {
+        "question": "Which sentence is scientifically correct?",
+        "options": [
+            {
+                "sentence": "A solution is a well-mixed mixture where one substance dissolves completely in another.",
+                "correct": "true"
+            },
+            {
+                "sentence": "A solution is a solid object formed when gases are pushed together very tightly.",
+                "correct": "false"
+            },
+            {
+                "sentence": "A solution is made by heating a substance until it breaks into floating bits.",
+                "correct": "false"
+            },
+            {
+                "sentence": "A solution is a container of different things that separate into layers right away.",
+                "correct": "false"
+            },
+            {
+                "sentence": "A solution is made when liquids cool and turn directly into visible crystals.",
+                "correct": "false"
+            }
+        ],
+        "explanation": [
+            {
+                "english": "A solution forms when a solute dissolves in a solvent, like salt in water.",
+                "chinese": "溶液是在溶质溶解在溶剂中形成的，例如盐溶于水中。"
+            }
+        ]
+    },
+    {
+        "question": "Which sentence is scientifically correct?",
+        "options": [
+            {
+                "sentence": "An element is a pure substance made of only one kind of atom that cannot be broken down.",
+                "correct": "true"
+            },
+            {
+                "sentence": "An element is a compound of multiple different atoms that melt into water.",
+                "correct": "false"
+            },
+            {
+                "sentence": "An element is a substance made by mixing two liquids that turn into a new gas.",
+                "correct": "false"
+            },
+            {
+                "sentence": "An element is something that forms from burning fuel and adding chemical color.",
+                "correct": "false"
+            },
+            {
+                "sentence": "An element is a tool used to separate substances using high heat and pressure.",
+                "correct": "false"
+            }
+        ],
+        "explanation": [
+            {
+                "english": "An element is the simplest form of matter made of only one kind of atom, like oxygen.",
+                "chinese": "元素是由一种原子构成的最简单物质形式，例如氧气。"
+            }
+        ]
+    },
+    {
+        "question": "Which sentence is scientifically correct?",
+        "options": [
+            {
+                "sentence": "A compound is a substance formed when two or more elements bond chemically together.",
+                "correct": "true"
+            },
+            {
+                "sentence": "A compound is made by physically mixing substances that stay unchanged and visible.",
+                "correct": "false"
+            },
+            {
+                "sentence": "A compound is just one element shaped differently due to high-speed spinning air.",
+                "correct": "false"
+            },
+            {
+                "sentence": "A compound is a gas that splits into layers when cooled to freezing temperatures.",
+                "correct": "false"
+            },
+            {
+                "sentence": "A compound is a tool used in labs to separate liquids from gases instantly.",
+                "correct": "false"
+            }
+        ],
+        "explanation": [
+            {
+                "english": "Compounds form when elements join through chemical bonds, like hydrogen and oxygen forming water.",
+                "chinese": "化合物是由元素通过化学键结合而成，例如氢和氧形成水。"
+            }
+        ]
+    },
+    {
+        "question": "Which sentence is scientifically correct?",
+        "options": [
+            {
+                "sentence": "An element is a pure substance made of only one kind of atom that cannot be broken down.",
+                "correct": "true"
+            },
+            {
+                "sentence": "An element is a mixture of different atoms and molecules combined randomly in space.",
+                "correct": "false"
+            },
+            {
+                "sentence": "An element is a solution of gases that change shape depending on the weather.",
+                "correct": "false"
+            },
+            {
+                "sentence": "An element is formed when two or more liquids are stirred and then frozen.",
+                "correct": "false"
+            },
+            {
+                "sentence": "An element is always a solid that melts and becomes a gas instantly.",
+                "correct": "false"
+            }
+        ],
+        "explanation": [
+            {
+                "english": "Elements are the basic building blocks of matter, made of only one type of atom.",
+                "chinese": "元素是构成物质的基本单位，仅由一种类型的原子组成。"
+            }
+        ]
+    },
+    {
+        "question": "Which sentence is scientifically correct?",
+        "options": [
+            {
+                "sentence": "Freezing is when a liquid loses heat and turns into a solid.",
+                "correct": "true"
+            },
+            {
+                "sentence": "Freezing is when solids melt and rise into the sky quickly.",
+                "correct": "false"
+            },
+            {
+                "sentence": "Freezing is when heat is added and the solid becomes invisible.",
+                "correct": "false"
+            },
+            {
+                "sentence": "Freezing is when a gas becomes brighter and turns into plasma.",
+                "correct": "false"
+            },
+            {
+                "sentence": "Freezing is when particles jump from one state to another at random.",
+                "correct": "false"
+            }
+        ],
+        "explanation": [
+            {
+                "english": "Freezing is the process where a liquid turns into a solid when it loses enough heat.",
+                "chinese": "凝固是液体失去热量后变成固体的过程。"
+            }
+        ]
+    },
+    {
+        "question": "Which sentence is scientifically correct?",
+        "options": [
+            {
+                "sentence": "Melting is when a solid gains heat and changes into a liquid.",
+                "correct": "true"
+            },
+            {
+                "sentence": "Melting is when liquids harden into metal by losing energy.",
+                "correct": "false"
+            },
+            {
+                "sentence": "Melting is when gases turn into fog and float upward.",
+                "correct": "false"
+            },
+            {
+                "sentence": "Melting is when light causes objects to shrink suddenly.",
+                "correct": "false"
+            },
+            {
+                "sentence": "Melting is when solids shatter into fine powder under pressure.",
+                "correct": "false"
+            }
+        ],
+        "explanation": [
+            {
+                "english": "Melting is the change of a solid into a liquid as it absorbs heat.",
+                "chinese": "熔化是固体吸收热量后变成液体的过程。"
+            }
+        ]
+    },
+    {
+        "question": "Which sentence is scientifically correct?",
+        "options": [
+            {
+                "sentence": "Evaporation is when a liquid changes into gas, usually from its surface.",
+                "correct": "true"
+            },
+            {
+                "sentence": "Evaporation is when gases solidify into rocks during strong storms.",
+                "correct": "false"
+            },
+            {
+                "sentence": "Evaporation is when heat makes a solid become colder and harder.",
+                "correct": "false"
+            },
+            {
+                "sentence": "Evaporation is when solids melt and rise straight into outer space.",
+                "correct": "false"
+            },
+            {
+                "sentence": "Evaporation is when a gas becomes too heavy and sinks into liquids.",
+                "correct": "false"
+            }
+        ],
+        "explanation": [
+            {
+                "english": "Evaporation happens when liquid turns to gas, especially at the surface and below boiling point.",
+                "chinese": "蒸发是液体在表面转变为气体的过程，通常发生在沸点以下。"
+            }
+        ]
+    }
+]
