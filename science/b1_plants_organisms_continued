@@ -1,0 +1,188 @@
+[
+  {
+    "question": "What is a seedling?",
+    "options": [
+      {
+        "sentence": "A seedling is a young plant that grows from a seed.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A seedling is a bug that lives inside a flower.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A seedling is a part of the plant that stores water.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A seedling is a kind of root that grows upside down.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A seedling is a plant that never needs sunlight.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "A seedling is a small, young plant that just started growing.",
+        "chinese": "幼苗是刚开始生长的小植物。"
+      }
+    ]
+  },
+  {
+    "question": "What is germination?",
+    "options": [
+      {
+        "sentence": "Germination is when a seed starts to grow into a plant.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Germination is when a plant falls asleep at night.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Germination is when leaves fall off a plant in winter.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Germination is when roots grow above the ground.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Germination is a kind of bug that eats seeds.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Germination is the process when a seed starts growing into a plant.",
+        "chinese": "发芽是种子开始长成植物的过程。"
+      }
+    ]
+  },
+  {
+    "question": "What is a flower?",
+    "options": [
+      {
+        "sentence": "A flower is the colorful part of a plant that makes seeds.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A flower is a kind of leaf that grows under the ground.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A flower is a root that helps the plant stay in place.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A flower is a hard shell that protects seeds in the soil.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A flower is a stick that holds up the plant.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Flowers are the parts of plants that help them make seeds.",
+        "chinese": "花是植物用来制造种子的部分。"
+      }
+    ]
+  },
+  {
+    "question": "What is reproduction?",
+    "options": [
+      {
+        "sentence": "Reproduction is how living things make more of their own kind.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Reproduction is how plants fall asleep at night.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Reproduction is the way plants move from one place to another.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Reproduction is when animals play in groups.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Reproduction is how trees make new leaves in spring.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Reproduction helps living things have babies or grow new plants.",
+        "chinese": "繁殖帮助生物有后代或长出新植物。"
+      }
+    ]
+  },
+  {
+    "question": "What is pollination?",
+    "options": [
+      {
+        "sentence": "Pollination is when pollen moves from one flower to another to make seeds.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Pollination is when leaves turn yellow and fall off.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Pollination is the part of the plant that drinks rainwater.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Pollination is when roots spread under the soil.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Pollination is a way trees grow taller in the summer.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Pollination helps flowers make seeds by moving pollen.",
+        "chinese": "授粉是通过传播花粉帮助花朵制造种子的过程。"
+      }
+    ]
+  },
+  {
+    "question": "What is the Arctic?",
+    "options": [
+      {
+        "sentence": "The Arctic is a very cold place at the top of the Earth.",
+        "correct": "true"
+      },
+      {
+        "sentence": "The Arctic is a desert with lots of sand and hot weather.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The Arctic is a kind of tree that grows in cold weather.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The Arctic is a large mountain that touches the clouds.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The Arctic is the name of a big lake where birds live.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "The Arctic is a freezing place near the North Pole with snow and ice.",
+        "chinese": "北极是靠近北极的一个寒冷地方，到处都是冰雪。"
+      }
+    ]
+  }
+]
