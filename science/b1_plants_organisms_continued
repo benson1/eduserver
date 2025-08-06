@@ -154,6 +154,37 @@
       }
     ]
   },
+{
+  "question": "What is fertilization?",
+  "options": [
+    {
+      "sentence": "Fertilization is when a male and female part of a plant join to make a seed.",
+      "correct": "true"
+    },
+    {
+      "sentence": "Fertilization is when a plant gets water to help it grow.",
+      "correct": "false"
+    },
+    {
+      "sentence": "Fertilization is when a plant's leaves turn toward the Sun.",
+      "correct": "false"
+    },
+    {
+      "sentence": "Fertilization is the way plants open their flowers in spring.",
+      "correct": "false"
+    },
+    {
+      "sentence": "Fertilization is when roots spread out under the ground.",
+      "correct": "false"
+    }
+  ],
+  "explanation": [
+    {
+      "english": "Fertilization happens when a male and female cell join to start a new seed.",
+      "chinese": "受精是指雄性和雌性细胞结合，开始形成新种子的过程。"
+    }
+  ]
+},
   {
     "question": "What is the Arctic?",
     "options": [
