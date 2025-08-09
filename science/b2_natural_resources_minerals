@@ -152,6 +152,23 @@
       }
     ]
   },
+{
+  "question": "Which sentence is scientifically correct?",
+  "image": "https://www.nwf.org/-/media/NEW-WEBSITE/Design/Carousel-Images/coal-pile_495x275.jpg",
+  "options": [
+    { "sentence": "Fossil fuels are formed from the remains of ancient plants and animals over millions of years.", "correct": "true" },
+    { "sentence": "Fossil fuels are made by freezing seawater into solid blocks.", "correct": "false" },
+    { "sentence": "Fossil fuels are produced instantly when rocks are crushed underground.", "correct": "false" },
+    { "sentence": "Fossil fuels are created by cooling molten lava from volcanoes.", "correct": "false" },
+    { "sentence": "Fossil fuels are minerals that grow naturally in caves.", "correct": "false" }
+  ],
+  "explanation": [
+    {
+      "english": "Fossil fuels such as coal, oil, and natural gas are created from the remains of plants and animals that were buried and exposed to heat and pressure for millions of years.",
+      "chinese": "煤、石油和天然气等化石燃料由植物和动物遗骸在数百万年中埋藏并受到高温和压力作用而形成。"
+    }
+  ]
+},
   {
     "question": "Which sentence is scientifically correct?",
     "image": "https://ucarecdn.com/f1ab779b-a2a5-4099-b0f9-42d15ae76527/-/format/auto/-/preview/3000x3000/-/quality/lighter/",
