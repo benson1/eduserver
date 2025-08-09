@@ -1,0 +1,172 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20231115132121/Types-of-Natural-resources.webp",
+    "options": [
+      { "sentence": "A natural resource is something found in nature that is useful to humans.", "correct": "true" },
+      { "sentence": "A natural resource must be renewable to qualify as natural.", "correct": "false" },
+      { "sentence": "A natural resource is any raw material that has been manufactured by humans.", "correct": "false" },
+      { "sentence": "A natural resource only includes materials that can be eaten or used directly without processing.", "correct": "false" },
+      { "sentence": "A natural resource refers only to substances extracted from the ground.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A natural resource is a material or substance that occurs in nature and can be used for economic gain or survival.",
+        "chinese": "自然资源是自然界中存在的，可用于经济或生存的材料或物质。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/688bfd4afd16ae4e4b6f6257/CHINA-GUIZHOU-GREEN-DEVELOPMENT--CN-/960x0.jpg?format=jpg&width=960",
+    "options": [
+      { "sentence": "A renewable resource is one that can be replenished naturally over time.", "correct": "true" },
+      { "sentence": "A renewable resource never runs out regardless of how it is used.", "correct": "false" },
+      { "sentence": "A renewable resource is any resource that humans recycle.", "correct": "false" },
+      { "sentence": "A renewable resource always replenishes faster than it is consumed.", "correct": "false" },
+      { "sentence": "A renewable resource refers only to energy sources like wind and solar.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Renewable resources are naturally replenished, such as sunlight, wind, and forests.",
+        "chinese": "可再生资源是能够自然补充的，如阳光、风和森林。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "image": "https://assets.ltkcontent.com/images/115821/Examples-of-Nonrenewable-Resources_27c5571306.webp",
+    "options": [
+      { "sentence": "A non-renewable resource is one that cannot be replaced within a human lifetime.", "correct": "true" },
+      { "sentence": "A non-renewable resource is the same as a renewable resource but more expensive.", "correct": "false" },
+      { "sentence": "A non-renewable resource is any resource that is mined from the Earth.", "correct": "false" },
+      { "sentence": "A non-renewable resource takes decades to form under natural processes.", "correct": "false" },
+      { "sentence": "A non-renewable resource becomes renewable if humans find more of it.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Non-renewable resources, like coal and oil, take millions of years to form and are finite.",
+        "chinese": "不可再生资源，如煤和石油，需要数百万年形成且是有限的。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "image": "https://www.illinoisscience.org/wp-content/uploads/2023/03/Minerals-974x675.png",
+    "options": [
+      { "sentence": "Minerals are naturally occurring substances with a definite chemical composition.", "correct": "true" },
+      { "sentence": "Minerals are always metals found in rock layers.", "correct": "false" },
+      { "sentence": "Minerals are substances formed only from living organisms.", "correct": "false" },
+      { "sentence": "Minerals are rocks that have been crushed into powder.", "correct": "false" },
+      { "sentence": "Minerals are any solid materials found underground.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Minerals are solid, naturally occurring substances with a specific chemical formula and crystalline structure.",
+        "chinese": "矿物是固态、自然形成的物质，具有特定的化学式和晶体结构。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "image": "https://help.gardeningexpress.co.uk/wp-content/uploads/2023/01/AdobeStock_207525647-1536x1024.jpeg",
+    "options": [
+      { "sentence": "Soil is a mixture of minerals, organic matter, water, and air that supports plant life.", "correct": "true" },
+      { "sentence": "Soil is simply small pieces of rock without any organic content.", "correct": "false" },
+      { "sentence": "Soil forms instantly when rocks break apart.", "correct": "false" },
+      { "sentence": "Soil is only made from decayed plants and contains no minerals.", "correct": "false" },
+      { "sentence": "Soil is any loose material found on the Earth's surface.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Soil forms from the weathering of rocks and the decomposition of organic material, providing nutrients for plants.",
+        "chinese": "土壤由岩石风化和有机物分解形成，为植物提供养分。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "image": "https://www.universetoday.com/article_images/Earths-layers.jpg",
+    "options": [
+      { "sentence": "The Earth's crust is the outermost solid layer of the planet.", "correct": "true" },
+      { "sentence": "The Earth's crust is a thin liquid layer floating on the mantle.", "correct": "false" },
+      { "sentence": "The Earth's crust is thicker under the oceans than under the continents.", "correct": "false" },
+      { "sentence": "The Earth's crust is the only part of Earth made of rock.", "correct": "false" },
+      { "sentence": "The Earth's crust makes up most of Earth's total mass.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The Earth's crust is the thin, outer layer where we live, made mostly of rock.",
+        "chinese": "地壳是我们生活的薄外层，主要由岩石组成。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Rotten_apple_under_the_tree.jpg/500px-Rotten_apple_under_the_tree.jpg",
+    "options": [
+      { "sentence": "To decompose means to break down organic matter into simpler substances.", "correct": "true" },
+      { "sentence": "To decompose means to slowly dry out without any change in composition.", "correct": "false" },
+      { "sentence": "To decompose happens only when there is no oxygen present.", "correct": "false" },
+      { "sentence": "To decompose is a process unique to plant materials.", "correct": "false" },
+      { "sentence": "To decompose means breaking down materials using only sunlight.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Decomposition is the process where microorganisms break down dead plants and animals.",
+        "chinese": "分解是微生物分解死亡动植物的过程。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "image": "https://images.nationalgeographic.org/image/upload/v1652303982/EducationHub/photos/smokestacks.jpg",
+    "options": [
+      { "sentence": "Pollution is the introduction of harmful substances into the environment.", "correct": "true" },
+      { "sentence": "Pollution refers only to visible trash on land.", "correct": "false" },
+      { "sentence": "Pollution occurs only in urban areas with factories.", "correct": "false" },
+      { "sentence": "Pollution is caused solely by natural events like volcanic eruptions.", "correct": "false" },
+      { "sentence": "Pollution occurs when a substance changes the environment, even if it is harmless.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Pollution occurs when contaminants harm air, water, or land.",
+        "chinese": "污染是当有害物质破坏空气、水或土地时发生的。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "image": "https://d32m1btok6bzqh.cloudfront.net/wp-content/uploads/2022/09/restore.jpg",
+    "options": [
+      { "sentence": "To conserve means to use resources wisely to prevent waste and depletion.", "correct": "true" },
+      { "sentence": "To conserve means avoiding all use of natural resources.", "correct": "false" },
+      { "sentence": "To conserve means using resources quickly before they expire.", "correct": "false" },
+      { "sentence": "To conserve means replacing natural resources with artificial ones.", "correct": "false" },
+      { "sentence": "To conserve applies only to saving money, not the environment.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Conservation is the practice of managing and protecting resources for future generations.",
+        "chinese": "保护是管理和保护资源以供未来世代使用的做法。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "image": "https://ucarecdn.com/f1ab779b-a2a5-4099-b0f9-42d15ae76527/-/format/auto/-/preview/3000x3000/-/quality/lighter/",
+    "options": [
+      { "sentence": "Recycling is the process of converting waste materials into new products.", "correct": "true" },
+      { "sentence": "Recycling is the process of reusing a product without changing its form.", "correct": "false" },
+      { "sentence": "Recycling applies only to materials made of metal.", "correct": "false" },
+      { "sentence": "Recycling always uses less energy than making a product from raw materials.", "correct": "false" },
+      { "sentence": "Recycling refers to any process that destroys waste materials.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Recycling reduces waste by processing used materials into new items.",
+        "chinese": "回收通过将用过的材料加工成新物品来减少废物。"
+      }
+    ]
+  }
+]
