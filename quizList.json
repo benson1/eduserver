@@ -424,5 +424,11 @@
         "file": "b1_plants_organisms_continued",
         "type": "science",
         "level": "1"
+    },
+            {
+        "name": "b2_natural_resources_minerals",
+        "file": "b2_natural_resources_minerals",
+        "type": "science",
+        "level": "2"
     }
 ]
