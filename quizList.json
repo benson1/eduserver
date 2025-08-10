@@ -430,5 +430,11 @@
         "file": "b2_natural_resources_minerals",
         "type": "science",
         "level": "2"
+    },
+        {
+        "name": "b3_chemical_physical_reactions",
+        "file": "b3_chemical_physical_reactions",
+        "type": "science",
+        "level": "3"
     }
 ]
