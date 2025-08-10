@@ -1,0 +1,343 @@
+[
+  {
+    "question": "What is a heterogeneous mixture?",
+    "options": [
+      {
+        "sentence": "A heterogeneous mixture is made of different parts that you can see separately.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A heterogeneous mixture is completely the same throughout.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A heterogeneous mixture is a pure substance made of one element.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A heterogeneous mixture is a type of chemical reaction that makes new substances.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A heterogeneous mixture is a gas that fills a room evenly.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "In a heterogeneous mixture, the different parts are not evenly mixed and can often be seen.",
+        "chinese": "在非均匀混合物中，不同部分混合不均，通常可以看到。"
+      }
+    ]
+  },
+  {
+    "question": "What is a homogeneous mixture?",
+    "options": [
+      {
+        "sentence": "A homogeneous mixture is completely the same throughout and looks uniform.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A homogeneous mixture has clearly visible separate parts.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A homogeneous mixture is always a solid metal.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A homogeneous mixture is only made when heat is applied.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A homogeneous mixture is the same as a chemical reaction.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "In a homogeneous mixture, the substances are mixed evenly and look the same everywhere.",
+        "chinese": "在均匀混合物中，物质混合均匀，看起来到处都一样。"
+      }
+    ]
+  },
+  {
+    "question": "What is a solution?",
+    "options": [
+      {
+        "sentence": "A solution is a type of homogeneous mixture where one substance dissolves in another.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A solution is a type of chemical reaction that burns substances.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A solution is always made of two gases.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A solution is a solid with no liquids in it.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A solution is a physical change that turns solids into gas instantly.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "A solution is formed when one substance dissolves evenly into another, like salt in water.",
+        "chinese": "溶液是当一种物质均匀溶解到另一种物质中形成的，例如盐溶于水。"
+      }
+    ]
+  },
+  {
+    "question": "What is a nuclear reaction?",
+    "options": [
+      {
+        "sentence": "A nuclear reaction is a process that changes the nucleus of an atom, releasing large amounts of energy.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A nuclear reaction is a type of physical change where shape changes but not the substance.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A nuclear reaction is mixing two solutions together without changing them.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A nuclear reaction is when heat makes water turn into steam.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A nuclear reaction is the same as melting ice into water.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Nuclear reactions change the nucleus of an atom, which can release huge amounts of energy.",
+        "chinese": "核反应改变原子的原子核，可以释放大量能量。"
+      }
+    ]
+  },
+  {
+    "question": "What is a physical change?",
+    "options": [
+      {
+        "sentence": "A physical change is when the form of a substance changes, but it is still the same substance.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A physical change makes a completely new substance.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A physical change only happens in living things.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A physical change is always caused by heat.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A physical change is a chemical reaction that creates gas.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "In a physical change, a substance changes its form but not its chemical makeup.",
+        "chinese": "在物理变化中，物质改变形态但化学成分不变。"
+      }
+    ]
+  },
+  {
+    "question": "What is a chemical change?",
+    "options": [
+      {
+        "sentence": "A chemical change is when a substance changes into a new substance with different properties.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A chemical change is when ice melts into water.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A chemical change is when water boils and turns to steam.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A chemical change is when a solid breaks into smaller pieces.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A chemical change is mixing two substances without changing them.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "In a chemical change, the original substance turns into a different substance.",
+        "chinese": "在化学变化中，原有物质变成了另一种不同的物质。"
+      }
+    ]
+  },
+  {
+    "question": "What is condensation?",
+    "options": [
+      {
+        "sentence": "Condensation is when a gas changes into a liquid.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Condensation is when a liquid changes into a gas.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Condensation is when ice turns straight into vapor.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Condensation is when a solid changes shape but stays solid.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Condensation is when two liquids mix evenly.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Condensation happens when gas cools down and becomes liquid, like water drops on a cold glass.",
+        "chinese": "凝结是气体冷却后变成液体的过程，例如冷杯子上的水珠。"
+      }
+    ]
+  },
+  {
+    "question": "What is sublimation?",
+    "options": [
+      {
+        "sentence": "Sublimation is when a solid changes directly into a gas without becoming liquid first.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Sublimation is when a gas changes into a liquid.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Sublimation is when a liquid freezes into a solid.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Sublimation is when two solids are mixed together.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Sublimation is when a liquid changes to gas through boiling.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Sublimation happens when a solid becomes a gas without passing through the liquid stage, like dry ice turning into carbon dioxide gas.",
+        "chinese": "升华是固体直接变为气体的过程，不经过液态，例如干冰变成二氧化碳气体。"
+      }
+    ]
+  },
+  {
+    "question": "What is rusting?",
+    "options": [
+      {
+        "sentence": "Rusting is when iron reacts with water and oxygen to form a reddish-brown substance.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Rusting is when metal gets hot and melts.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Rusting is when paint peels off a surface.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Rusting is when a metal is polished until it shines.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Rusting is when metal bends under pressure.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Rusting is a chemical change where iron combines with oxygen and water to make rust.",
+        "chinese": "生锈是一种化学变化，铁与氧气和水结合生成铁锈。"
+      }
+    ]
+  },
+  {
+    "question": "What is burning?",
+    "options": [
+      {
+        "sentence": "Burning is a chemical change where a substance reacts with oxygen and gives off heat and light.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Burning is a physical change where things melt.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Burning is when two liquids mix together.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Burning is when wood gets wet and changes color.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Burning is when gas cools down into a liquid.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Burning is a chemical reaction between a substance and oxygen that produces heat, light, and new substances.",
+        "chinese": "燃烧是物质与氧气之间的化学反应，会产生热、光和新的物质。"
+      }
+    ]
+  },
+  {
+    "question": "What is CH4?",
+    "options": [
+      {
+        "sentence": "CH4 is methane, a gas made of one carbon atom and four hydrogen atoms.",
+        "correct": "true"
+      },
+      {
+        "sentence": "CH4 is water, made of hydrogen and oxygen.",
+        "correct": "false"
+      },
+      {
+        "sentence": "CH4 is a type of solid fuel used in rockets.",
+        "correct": "false"
+      },
+      {
+        "sentence": "CH4 is the chemical name for table salt.",
+        "correct": "false"
+      },
+      {
+        "sentence": "CH4 is the formula for carbon dioxide.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "CH4 is methane, a simple hydrocarbon gas that is a main part of natural gas.",
+        "chinese": "CH4 是甲烷，一种简单的烃类气体，是天然气的主要成分。"
+      }
+    ]
+  }
+]
