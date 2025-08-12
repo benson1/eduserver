@@ -1,0 +1,281 @@
+[
+  {
+    "question": "What is the water cycle?",
+    "options": [
+      {
+        "sentence": "The water cycle is how water moves between the land, oceans, and the sky.",
+        "correct": "true"
+      },
+      {
+        "sentence": "The water cycle is a machine that makes water clean.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The water cycle is when plants grow in a circle.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The water cycle is a path for boats to travel in rivers.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The water cycle is how animals drink water.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "The water cycle moves water through evaporation, condensation, and precipitation.",
+        "chinese": "水循环通过蒸发、凝结和降水使水在陆地、海洋和天空之间循环。"
+      }
+    ]
+  },
+  {
+    "question": "What is the atmosphere?",
+    "options": [
+      {
+        "sentence": "The atmosphere is the layer of gases around the Earth.",
+        "correct": "true"
+      },
+      {
+        "sentence": "The atmosphere is the hard shell that covers the Earth.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The atmosphere is the ground under our feet.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The atmosphere is a large cloud that never moves.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The atmosphere is the Earth's outer layer of water.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "The atmosphere is a blanket of air that surrounds our planet.",
+        "chinese": "大气层是包围地球的一层空气。"
+      }
+    ]
+  },
+  {
+    "question": "What is a thermometer?",
+    "options": [
+      {
+        "sentence": "A thermometer is a tool used to measure temperature.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A thermometer is a device that makes food hot.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A thermometer is a ruler for measuring rain.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A thermometer is a machine that makes ice.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A thermometer is a tube for drinking water.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "A thermometer shows how hot or cold something is.",
+        "chinese": "温度计可以测量物体的冷热程度。"
+      }
+    ]
+  },
+  {
+    "question": "What is precipitation?",
+    "options": [
+      {
+        "sentence": "Precipitation is water that falls from the sky as rain, snow, or hail.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Precipitation is the steam that rises from boiling water.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Precipitation is a kind of wind that blows from the sea.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Precipitation is clouds floating in the air.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Precipitation is when rivers dry up in summer.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Precipitation happens when water falls from clouds to the ground.",
+        "chinese": "降水是指水从云中落到地面的过程。"
+      }
+    ]
+  },
+  {
+    "question": "What is evaporation?",
+    "options": [
+      {
+        "sentence": "Evaporation is when water changes into water vapour and goes into the air.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Evaporation is when ice falls from the sky.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Evaporation is when clouds turn into rain.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Evaporation is when rivers flow into the sea.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Evaporation is when plants make food from sunlight.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Evaporation happens when heat changes liquid water into gas.",
+        "chinese": "蒸发是热量将液态水变成气体的过程。"
+      }
+    ]
+  },
+  {
+    "question": "What is condensation?",
+    "options": [
+      {
+        "sentence": "Condensation is when water vapour cools and changes back into liquid.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Condensation is when ice melts into water.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Condensation is when plants release water into the air.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Condensation is when rivers freeze in winter.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Condensation is when wind pushes clouds across the sky.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Condensation makes tiny water drops when water vapour cools down.",
+        "chinese": "凝结是水蒸气冷却后变成小水滴的过程。"
+      }
+    ]
+  },
+  {
+    "question": "What is water vapour?",
+    "options": [
+      {
+        "sentence": "Water vapour is water in the form of gas in the air.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Water vapour is steam that comes from frozen lakes.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Water vapour is rain that falls from the clouds.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Water vapour is ice that forms on windows in winter.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Water vapour is a drink made from boiling water.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Water vapour is water that has turned into gas and is invisible.",
+        "chinese": "水蒸气是变成气体且看不见的水。"
+      }
+    ]
+  },
+  {
+    "question": "What is an orbit?",
+    "options": [
+      {
+        "sentence": "An orbit is the path one object takes around another in space.",
+        "correct": "true"
+      },
+      {
+        "sentence": "An orbit is a hole in the ground where water collects.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An orbit is a kind of star in the night sky.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An orbit is the speed of the Earth's wind.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An orbit is a shape made by clouds.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Planets move around the Sun in paths called orbits.",
+        "chinese": "行星沿着称为轨道的路径绕太阳运行。"
+      }
+    ]
+  },
+  {
+    "question": "What is Earth's rotation?",
+    "options": [
+      {
+        "sentence": "Earth's rotation is the spinning of Earth on its axis.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Earth's rotation is the movement of Earth around the Sun.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Earth's rotation is the shaking of the ground during earthquakes.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Earth's rotation is the rising and falling of ocean waves.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Earth's rotation is the movement of clouds across the sky.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Earth's rotation causes day and night by spinning once every 24 hours.",
+        "chinese": "地球自转每24小时旋转一周，造成昼夜交替。"
+      }
+    ]
+  }
+]
