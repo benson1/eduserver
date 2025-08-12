@@ -436,5 +436,10 @@
         "file": "b3_chemical_physical_reactions",
         "type": "science",
         "level": "3"
+    },    {
+        "name": "b1_water_cycle_earth",
+        "file": "b1_water_cycle_earth",
+        "type": "science",
+        "level": "1"
     }
 ]
