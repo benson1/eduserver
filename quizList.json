@@ -441,5 +441,11 @@
         "file": "b1_water_cycle_earth",
         "type": "science",
         "level": "1"
+    },
+        {
+        "name": "charlie_max2.json",
+        "file": "charlie_max2.json",
+        "type": "english",
+        "level": "1"
     }
 ]
