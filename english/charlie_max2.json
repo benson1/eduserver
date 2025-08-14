@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Which is a correct synonym for 'supply'? e.g. The store will supply the food for the event.",
+    "options": [
+      { "sentence": "provide", "correct": "true" },
+      { "sentence": "refuse", "correct": "false" },
+      { "sentence": "borrow", "correct": "false" },
+      { "sentence": "hide", "correct": "false" },
+      { "sentence": "waste", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Supply' means to give or provide something needed, like 'provide'.",
+        "chinese": "'Supply' 指提供某种所需的东西，例如 'provide'(提供)。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'astonished'? e.g. She was astonished by the news.",
+    "options": [
+      { "sentence": "surprised", "correct": "true" },
+      { "sentence": "bored", "correct": "false" },
+      { "sentence": "tired", "correct": "false" },
+      { "sentence": "angry", "correct": "false" },
+      { "sentence": "relaxed", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Astonished' means greatly surprised or amazed, like 'surprised'.",
+        "chinese": "'Astonished' 指极为惊讶或震惊，例如 'surprised'(吃惊)。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'special'? e.g. This is a special occasion.",
+    "options": [
+      { "sentence": "unique", "correct": "true" },
+      { "sentence": "ordinary", "correct": "false" },
+      { "sentence": "common", "correct": "false" },
+      { "sentence": "normal", "correct": "false" },
+      { "sentence": "usual", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Special' means different from usual, often better or unique, like 'unique'.",
+        "chinese": "'Special' 指不同寻常的，通常是更好或独特的，例如 'unique'(独特的)。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'fainted'? e.g. She fainted from the heat.",
+    "options": [
+      { "sentence": "collapsed", "correct": "true" },
+      { "sentence": "jumped", "correct": "false" },
+      { "sentence": "stood", "correct": "false" },
+      { "sentence": "laughed", "correct": "false" },
+      { "sentence": "walked", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Fainted' means lost consciousness briefly, like 'collapsed'.",
+        "chinese": "'Fainted' 指短暂失去知觉，例如 'collapsed'(倒下)。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'cottage'? e.g. They spent the weekend in a cottage by the lake.",
+    "options": [
+      { "sentence": "small house", "correct": "true" },
+      { "sentence": "castle", "correct": "false" },
+      { "sentence": "apartment", "correct": "false" },
+      { "sentence": "tent", "correct": "false" },
+      { "sentence": "palace", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Cottage' means a small, simple house, often in the countryside, like 'small house'.",
+        "chinese": "'Cottage' 指一种小而简单的房子，常在乡村，例如 'small house'(小屋)。"
+      }
+    ]
+  }
+]
