@@ -1,0 +1,281 @@
+[
+  {
+    "question": "What does translucent mean?",
+    "options": [
+      {
+        "sentence": "Translucent means letting some light through, but not enough to see clearly.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Translucent means letting all light through so you can see clearly.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Translucent means blocking all light completely.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Translucent means reflecting all light away.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Translucent means changing light into heat.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "A translucent object lets some light through but scatters it so things look blurry.",
+        "chinese": "半透明物体可以让部分光线通过，但会散射光线，使物体看起来模糊。"
+      }
+    ]
+  },
+  {
+    "question": "What does transparent mean?",
+    "options": [
+      {
+        "sentence": "Transparent means letting all light pass through so you can see clearly.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Transparent means blocking all light.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Transparent means letting only some light through.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Transparent means changing light into heat.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Transparent means reflecting light in all directions.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "A transparent object lets light pass through clearly, so you can see through it.",
+        "chinese": "透明物体能让光线清晰地穿过，因此可以看穿它。"
+      }
+    ]
+  },
+  {
+    "question": "What does opaque mean?",
+    "options": [
+      {
+        "sentence": "Opaque means blocking all light from passing through.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Opaque means letting all light through clearly.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Opaque means letting some light through but scattering it.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Opaque means bending light as it passes through.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Opaque means changing light into sound.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "An opaque object does not let any light pass through.",
+        "chinese": "不透明物体不能让任何光线穿过。"
+      }
+    ]
+  },
+  {
+    "question": "What is infrared?",
+    "options": [
+      {
+        "sentence": "Infrared is a type of light we cannot see, but we can feel it as heat.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Infrared is the light we see as red.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Infrared is a sound wave that travels in air.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Infrared is a type of X-ray radiation.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Infrared is light that only plants can see.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Infrared light is beyond the red part of the visible spectrum and is mostly felt as heat.",
+        "chinese": "红外线位于可见光红色部分之外，主要表现为热。"
+      }
+    ]
+  },
+  {
+    "question": "What does refract mean?",
+    "options": [
+      {
+        "sentence": "Refract means bending light as it passes from one material into another.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Refract means bouncing light off a surface.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Refract means blocking all light.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Refract means scattering light in all directions.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Refract means changing light into heat.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Refraction happens when light bends as it enters a material with a different density.",
+        "chinese": "折射是指光线进入密度不同的物质时发生弯曲的现象。"
+      }
+    ]
+  },
+  {
+    "question": "What does reflect mean?",
+    "options": [
+      {
+        "sentence": "Reflect means light bounces back from a surface.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Reflect means bending light through a material.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Reflect means letting light pass through.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Reflect means blocking all light.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Reflect means turning light into sound.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Reflection happens when light hits a surface and bounces back.",
+        "chinese": "反射是光线照射到表面后反弹回来的现象。"
+      }
+    ]
+  },
+  {
+    "question": "What does absorb mean?",
+    "options": [
+      {
+        "sentence": "Absorb means taking in light, heat, or other energy instead of letting it pass through or reflect.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Absorb means bouncing light away.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Absorb means bending light through a material.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Absorb means blocking light without taking in any energy.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Absorb means turning light into sound.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "When something absorbs light, it takes in the energy instead of reflecting or transmitting it.",
+        "chinese": "当物体吸收光时，它会将能量吸收进去，而不是反射或透过。"
+      }
+    ]
+  },
+  {
+    "question": "What is ultraviolet?",
+    "options": [
+      {
+        "sentence": "Ultraviolet is a type of light we cannot see, beyond the violet end of the visible spectrum.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Ultraviolet is the light we see as purple.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Ultraviolet is a kind of sound wave.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Ultraviolet is a type of microwave radiation.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Ultraviolet is heat we can feel from the Sun.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Ultraviolet light is beyond the violet part of the visible spectrum and can cause sunburn.",
+        "chinese": "紫外线位于可见光紫色部分之外，能引起晒伤。"
+      }
+    ]
+  },
+  {
+    "question": "What is an electromagnetic wave?",
+    "options": [
+      {
+        "sentence": "An electromagnetic wave is a wave made of vibrating electric and magnetic fields that can travel through space.",
+        "correct": "true"
+      },
+      {
+        "sentence": "An electromagnetic wave is a sound wave moving through air.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An electromagnetic wave is a wave in the ocean.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An electromagnetic wave is a vibration of solid materials.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An electromagnetic wave is a wave made only of electric fields.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Electromagnetic waves include light, radio waves, and X-rays, and can travel without a medium.",
+        "chinese": "电磁波包括光、无线电波和X射线，可以在没有介质的情况下传播。"
+      }
+    ]
+  }
+]
