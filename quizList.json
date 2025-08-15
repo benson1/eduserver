@@ -447,5 +447,11 @@
         "file": "charlie_max2.json",
         "type": "english",
         "level": "1"
+    },
+         {
+        "name": "b3_light",
+        "file": "b3_light",
+        "type": "science",
+        "level": "3"
     }
 ]
