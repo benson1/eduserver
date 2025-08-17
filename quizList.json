@@ -453,5 +453,11 @@
         "file": "b3_light",
         "type": "science",
         "level": "3"
+    },
+             {
+        "name": "debate_logos_arist.json",
+        "file": "debate_logos_arist.json",
+        "type": "english",
+        "level": "2"
     }
 ]
