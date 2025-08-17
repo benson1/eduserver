@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Which best describes pathos in rhetoric?",
+    "options": [
+      { "sentence": "An appeal to emotions, aiming to persuade by eliciting feelings such as sympathy or anger.", "correct": "true" },
+      { "sentence": "An appeal to logic, focusing on reasoning and evidence.", "correct": "false" },
+      { "sentence": "An appeal to credibility, emphasizing the speaker's character and authority.", "correct": "false" },
+      { "sentence": "A form of argument that relies on statistical data and empirical research.", "correct": "false" },
+      { "sentence": "A method of persuasion that prioritizes ethical reasoning over emotional influence.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Pathos is an appeal to emotion in rhetoric, used to influence an audience’s feelings to persuade them.",
+        "chinese": "情感诉求（Pathos）是修辞学中的一种说服方式，通过唤起观众的情绪来影响他们。"
+      }
+    ]
+  },
+  {
+    "question": "Which best illustrates ethos in persuasion?",
+    "options": [
+      { "sentence": "A doctor giving medical advice while emphasizing their years of training and expertise.", "correct": "true" },
+      { "sentence": "A politician using vivid stories to evoke fear about national security.", "correct": "false" },
+      { "sentence": "A lawyer presenting detailed evidence and logical reasoning in court.", "correct": "false" },
+      { "sentence": "A speaker repeating emotional slogans to inspire unity.", "correct": "false" },
+      { "sentence": "A teacher assigning memorization exercises to reinforce knowledge.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Ethos appeals to the speaker's credibility, character, or authority to strengthen their persuasiveness.",
+        "chinese": "道德诉求（Ethos）通过演讲者的可信度、品格或权威来增强说服力。"
+      }
+    ]
+  },
+  {
+    "question": "Which best describes logos in rhetoric?",
+    "options": [
+      { "sentence": "An appeal to logic, using evidence, facts, and reasoning to persuade.", "correct": "true" },
+      { "sentence": "An appeal to emotion, aiming to stir the audience's feelings.", "correct": "false" },
+      { "sentence": "A reliance on the speaker’s personal reputation and trustworthiness.", "correct": "false" },
+      { "sentence": "A technique based on repeating phrases to improve memorization.", "correct": "false" },
+      { "sentence": "A strategy of persuasion relying solely on moral principles.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Logos is an appeal to logic and reason, emphasizing facts, data, and rational argumentation.",
+        "chinese": "逻辑诉求（Logos）是诉诸逻辑和理性的说服方式，强调事实、数据和理性论证。"
+      }
+    ]
+  },
+  {
+    "question": "Who was Aristotle?",
+    "options": [
+      { "sentence": "A Greek philosopher who studied logic, ethics, politics, and rhetoric, and developed the concepts of ethos, pathos, and logos.", "correct": "true" },
+      { "sentence": "A Roman statesman who introduced democratic reforms and military strategies.", "correct": "false" },
+      { "sentence": "A Renaissance thinker who emphasized humanism and artistic creativity.", "correct": "false" },
+      { "sentence": "A medieval theologian who sought to reconcile reason with religious doctrine.", "correct": "false" },
+      { "sentence": "An Enlightenment philosopher who promoted rationalism and skepticism.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Aristotle was an ancient Greek philosopher whose works shaped Western philosophy and included theories of rhetoric and persuasion.",
+        "chinese": "亚里士多德是古希腊哲学家，他的著作塑造了西方哲学，并提出了修辞与说服理论。"
+      }
+    ]
+  },
+  {
+    "question": "Who was Margaret Thatcher?",
+    "options": [
+      { "sentence": "The first female Prime Minister of the United Kingdom, known for her conservative policies and strong leadership.", "correct": "true" },
+      { "sentence": "A suffragette who campaigned for women’s right to vote in the early 20th century.", "correct": "false" },
+      { "sentence": "A British monarch who ruled during the Victorian era.", "correct": "false" },
+      { "sentence": "An economist who developed influential theories on free-market capitalism.", "correct": "false" },
+      { "sentence": "A diplomat who helped establish the European Union’s founding treaties.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Margaret Thatcher served as UK Prime Minister from 1979 to 1990 and became known as the 'Iron Lady' for her uncompromising political style.",
+        "chinese": "玛格丽特·撒切尔是英国第一位女首相（1979-1990），因其强硬的政治风格被称为“铁娘子”。"
+      }
+    ]
+  }
+]
