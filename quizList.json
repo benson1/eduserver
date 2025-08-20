@@ -460,4 +460,10 @@
         "type": "english",
         "level": "2"
     }
+          {
+        "name": "NB1_Basic_Animals",
+        "file": "NB1_Basic_Animals",
+        "type": "science",
+        "level": "1"
+    }
 ]
