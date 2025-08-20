@@ -1,0 +1,194 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A herbivore is an animal that eats only plants.", "correct": "true" },
+      { "sentence": "A herbivore only eats meat.", "correct": "false" },
+      { "sentence": "A herbivore eats rocks for energy.", "correct": "false" },
+      { "sentence": "A herbivore lives only in water.", "correct": "false" },
+      { "sentence": "A herbivore makes its own food like plants do.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Herbivores are animals that feed primarily on plants, such as leaves, stems, and fruits.",
+        "chinese": "食草动物是主要以植物（如叶子、茎和水果）为食的动物。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A carnivore is an animal that eats other animals.", "correct": "true" },
+      { "sentence": "A carnivore only eats plants.", "correct": "false" },
+      { "sentence": "A carnivore is a type of plant.", "correct": "false" },
+      { "sentence": "A carnivore survives only by drinking water.", "correct": "false" },
+      { "sentence": "A carnivore makes food through photosynthesis.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Carnivores are animals that eat other animals to get energy, such as lions and wolves.",
+        "chinese": "食肉动物是通过吃其他动物获取能量的动物，如狮子和狼。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A mammal is a warm-blooded animal that usually has hair and produces milk for its young.", "correct": "true" },
+      { "sentence": "A mammal is always cold-blooded.", "correct": "false" },
+      { "sentence": "A mammal lays eggs like most birds and reptiles.", "correct": "false" },
+      { "sentence": "A mammal never breathes air.", "correct": "false" },
+      { "sentence": "A mammal is the same as an insect.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Mammals are warm-blooded vertebrates with hair or fur, and mothers produce milk to feed their young.",
+        "chinese": "哺乳动物是温血脊椎动物，有毛发，母体会分泌乳汁喂养幼崽。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Birds are animals with feathers, wings, and most can fly.", "correct": "true" },
+      { "sentence": "Birds are mammals with fur.", "correct": "false" },
+      { "sentence": "Birds are fish that live underwater.", "correct": "false" },
+      { "sentence": "Birds never lay eggs.", "correct": "false" },
+      { "sentence": "Birds are reptiles without feathers.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Birds are warm-blooded animals that have feathers, lay eggs, and most species can fly.",
+        "chinese": "鸟类是温血动物，具有羽毛，会产卵，大多数物种能飞行。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Reptiles are cold-blooded animals with scales, such as snakes and lizards.", "correct": "true" },
+      { "sentence": "Reptiles are warm-blooded and have feathers.", "correct": "false" },
+      { "sentence": "Reptiles breathe underwater with gills.", "correct": "false" },
+      { "sentence": "Reptiles are always covered in fur.", "correct": "false" },
+      { "sentence": "Reptiles can only live in the ocean.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Reptiles are cold-blooded vertebrates with scales, and most lay eggs on land.",
+        "chinese": "爬行动物是有鳞片的冷血脊椎动物，大多数在陆地上产卵。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Amphibians live both on land and in water during their life cycle.", "correct": "true" },
+      { "sentence": "Amphibians only live in deserts.", "correct": "false" },
+      { "sentence": "Amphibians are always covered with feathers.", "correct": "false" },
+      { "sentence": "Amphibians only breathe air and never water.", "correct": "false" },
+      { "sentence": "Amphibians are insects.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Amphibians, like frogs and salamanders, spend part of their lives in water and part on land.",
+        "chinese": "两栖动物如青蛙和蝾螈，一生中既生活在水中，也生活在陆地上。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Fish are animals that live in water and breathe through gills.", "correct": "true" },
+      { "sentence": "Fish have feathers and wings.", "correct": "false" },
+      { "sentence": "Fish always live on land.", "correct": "false" },
+      { "sentence": "Fish produce milk for their young.", "correct": "false" },
+      { "sentence": "Fish are insects that fly in the sky.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Fish are aquatic animals with gills that allow them to breathe in water.",
+        "chinese": "鱼类是生活在水中的动物，用鳃呼吸。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Insects have six legs and three main body parts.", "correct": "true" },
+      { "sentence": "Insects always have eight legs.", "correct": "false" },
+      { "sentence": "Insects are mammals with fur.", "correct": "false" },
+      { "sentence": "Insects breathe through gills like fish.", "correct": "false" },
+      { "sentence": "Insects are birds that can fly.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Insects are small animals with six legs, a body divided into head, thorax, and abdomen, and often have wings.",
+        "chinese": "昆虫是有六条腿的小型动物，身体分为头、胸和腹，通常有翅膀。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Metamorphosis is a process where an animal changes form during its life cycle.", "correct": "true" },
+      { "sentence": "Metamorphosis means staying the same forever.", "correct": "false" },
+      { "sentence": "Metamorphosis is when rocks break down.", "correct": "false" },
+      { "sentence": "Metamorphosis only happens to mammals.", "correct": "false" },
+      { "sentence": "Metamorphosis means moving from one place to another.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Metamorphosis is the biological process where animals like butterflies and frogs change form as they grow.",
+        "chinese": "变态是生物过程，如蝴蝶和青蛙在生长过程中会改变形态。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Hibernation is when animals rest or sleep for a long time during cold seasons.", "correct": "true" },
+      { "sentence": "Hibernation is when animals migrate to warmer places.", "correct": "false" },
+      { "sentence": "Hibernation means animals stop breathing forever.", "correct": "false" },
+      { "sentence": "Hibernation only happens to birds that fly.", "correct": "false" },
+      { "sentence": "Hibernation is the same as metamorphosis.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Hibernation is a state where animals slow down their body activity to survive winter with little food.",
+        "chinese": "冬眠是动物在寒冷季节降低身体活动以在食物不足的情况下生存的状态。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Camouflage helps animals blend into their surroundings.", "correct": "true" },
+      { "sentence": "Camouflage makes animals glow brightly.", "correct": "false" },
+      { "sentence": "Camouflage is when animals fly long distances.", "correct": "false" },
+      { "sentence": "Camouflage means animals change into plants.", "correct": "false" },
+      { "sentence": "Camouflage is the same as hibernation.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Camouflage is an adaptation where animals match their environment to avoid predators or hunt prey.",
+        "chinese": "伪装是一种适应性特征，动物通过与环境融为一体来躲避捕食者或捕猎猎物。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An omnivore is an animal that eats both plants and animals.", "correct": "true" },
+      { "sentence": "An omnivore only eats plants.", "correct": "false" },
+      { "sentence": "An omnivore only eats meat.", "correct": "false" },
+      { "sentence": "An omnivore eats only rocks and soil.", "correct": "false" },
+      { "sentence": "An omnivore produces its own food like plants.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Omnivores eat both plant material and animal matter, such as bears and humans.",
+        "chinese": "杂食动物既吃植物，也吃动物，例如熊和人类。"
+      }
+    ]
+  }
+]
