@@ -465,5 +465,11 @@
         "file": "NB1_Basic_Animals",
         "type": "science",
         "level": "1"
+    },
+             {
+        "name": "B3_Electricity_Higher",
+        "file": "B3_Electricity_Higher",
+        "type": "science",
+        "level": "3"
     }
 ]
