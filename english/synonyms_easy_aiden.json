@@ -1,97 +1,161 @@
 [
   {
-    "question": "Which is a correct synonym for 'meteor'? e.g. A meteor flashed across the night sky.",
+    "question": "Which is a correct synonym for 'detonation'? e.g. The detonation of the bomb was heard miles away.",
     "options": [
-      { "sentence": "shooting star", "correct": "true" },
-      { "sentence": "planet", "correct": "false" },
-      { "sentence": "spaceship", "correct": "false" },
-      { "sentence": "sun", "correct": "false" },
-      { "sentence": "asteroid belt", "correct": "false" }
+      { "sentence": "explosion", "correct": "true" },
+      { "sentence": "celebration", "correct": "false" },
+      { "sentence": "silence", "correct": "false" },
+      { "sentence": "movement", "correct": "false" },
+      { "sentence": "whisper", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Meteor' refers to a small body from outer space that burns upon entering Earth’s atmosphere — often called a shooting star.",
-        "chinese": "'Meteor' 指的是进入地球大气层并燃烧的小天体，常被称为流星。"
+        "english": "'Detonation' means an explosion or the act of something exploding.",
+        "chinese": "'Detonation' 指爆炸或引爆。"
       }
     ]
   },
   {
-    "question": "Which is a correct synonym for 'originally'? e.g. He was originally from Japan.",
+    "question": "Which is a correct synonym for 'infrastructure'? e.g. The country invested in its infrastructure.",
     "options": [
-      { "sentence": "at first", "correct": "true" },
-      { "sentence": "suddenly", "correct": "false" },
-      { "sentence": "carefully", "correct": "false" },
-      { "sentence": "finally", "correct": "false" },
-      { "sentence": "rarely", "correct": "false" }
+      { "sentence": "framework", "correct": "true" },
+      { "sentence": "decoration", "correct": "false" },
+      { "sentence": "celebration", "correct": "false" },
+      { "sentence": "furniture", "correct": "false" },
+      { "sentence": "recipe", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Originally' means at the beginning or in the first place.",
-        "chinese": "'Originally' 意思是一开始，起初。"
+        "english": "'Infrastructure' refers to the basic systems and structures needed for a society or organization, such as roads, bridges, and power supplies.",
+        "chinese": "'Infrastructure' 指社会或组织所需的基本设施，如道路、桥梁、电力等。"
       }
     ]
   },
   {
-    "question": "Which is a correct synonym for 'trend'? e.g. This hairstyle is the latest trend.",
+    "question": "Which is a correct synonym for 'accredited'? e.g. The university is an accredited institution.",
     "options": [
-      { "sentence": "fashion", "correct": "true" },
-      { "sentence": "mistake", "correct": "false" },
-      { "sentence": "routine", "correct": "false" },
-      { "sentence": "secret", "correct": "false" },
-      { "sentence": "tradition", "correct": "false" }
+      { "sentence": "authorized", "correct": "true" },
+      { "sentence": "rejected", "correct": "false" },
+      { "sentence": "fake", "correct": "false" },
+      { "sentence": "hidden", "correct": "false" },
+      { "sentence": "unknown", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Trend' refers to a general direction in which something is developing — often related to style or behavior.",
-        "chinese": "'Trend' 是指某种发展方向，常用于描述流行趋势。"
+        "english": "'Accredited' means officially recognized or authorized.",
+        "chinese": "'Accredited' 意思是官方认可的，获授权的。"
       }
     ]
   },
   {
-    "question": "Which is a correct synonym for 'fashion'? e.g. That brand is known for high-end fashion.",
+    "question": "Which is a correct synonym for 'itinerary'? e.g. She shared her travel itinerary with us.",
     "options": [
-      { "sentence": "style", "correct": "true" },
-      { "sentence": "argument", "correct": "false" },
-      { "sentence": "conflict", "correct": "false" },
-      { "sentence": "science", "correct": "false" },
-      { "sentence": "ritual", "correct": "false" }
+      { "sentence": "schedule", "correct": "true" },
+      { "sentence": "memory", "correct": "false" },
+      { "sentence": "location", "correct": "false" },
+      { "sentence": "ticket", "correct": "false" },
+      { "sentence": "passport", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Fashion' means the popular or latest style of clothing, behavior, or design.",
-        "chinese": "'Fashion' 指流行的服饰、行为或设计风格。"
+        "english": "'Itinerary' means a planned route or schedule of a journey.",
+        "chinese": "'Itinerary' 指旅行的计划或行程安排。"
       }
     ]
   },
   {
-    "question": "Which is a correct synonym for 'identity'? e.g. She struggled with her cultural identity.",
+    "question": "Which is a correct synonym for 'democracy'? e.g. The country is proud of its democracy.",
     "options": [
-      { "sentence": "self", "correct": "true" },
-      { "sentence": "job", "correct": "false" },
-      { "sentence": "password", "correct": "false" },
-      { "sentence": "money", "correct": "false" },
-      { "sentence": "fashion", "correct": "false" }
+      { "sentence": "government by the people", "correct": "true" },
+      { "sentence": "dictatorship", "correct": "false" },
+      { "sentence": "monarchy", "correct": "false" },
+      { "sentence": "tyranny", "correct": "false" },
+      { "sentence": "anarchy", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Identity' means who or what someone is — their sense of self.",
-        "chinese": "'Identity' 是指一个人是谁，他们的自我认知。"
+        "english": "'Democracy' means a system of government where power rests with the people, usually through voting.",
+        "chinese": "'Democracy' 指人民通过投票来行使权力的政治制度。"
       }
     ]
   },
   {
-    "question": "Which is a correct synonym for 'purpose'? e.g. He believes his purpose is to help others.",
+    "question": "Which is a correct synonym for 'abruptly'? e.g. The meeting ended abruptly.",
     "options": [
-      { "sentence": "goal", "correct": "true" },
-      { "sentence": "fear", "correct": "false" },
-      { "sentence": "problem", "correct": "false" },
-      { "sentence": "secret", "correct": "false" },
-      { "sentence": "luck", "correct": "false" }
+      { "sentence": "suddenly", "correct": "true" },
+      { "sentence": "slowly", "correct": "false" },
+      { "sentence": "gently", "correct": "false" },
+      { "sentence": "calmly", "correct": "false" },
+      { "sentence": "smoothly", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Purpose' means a reason for doing something, or a goal.",
-        "chinese": "'Purpose' 是指做某事的原因或目标。"
+        "english": "'Abruptly' means suddenly or unexpectedly.",
+        "chinese": "'Abruptly' 意思是突然地，出乎意料地。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'halted'? e.g. The train halted at the station.",
+    "options": [
+      { "sentence": "stopped", "correct": "true" },
+      { "sentence": "moved", "correct": "false" },
+      { "sentence": "started", "correct": "false" },
+      { "sentence": "continued", "correct": "false" },
+      { "sentence": "accelerated", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Halted' means stopped or brought to a stop.",
+        "chinese": "'Halted' 意思是停止或使停止。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'alleged'? e.g. He is the alleged thief.",
+    "options": [
+      { "sentence": "supposed", "correct": "true" },
+      { "sentence": "proven", "correct": "false" },
+      { "sentence": "certain", "correct": "false" },
+      { "sentence": "official", "correct": "false" },
+      { "sentence": "obvious", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Alleged' means claimed or said to be true without proof.",
+        "chinese": "'Alleged' 指未经证实而被声称的。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'shrouded'? e.g. The mountain was shrouded in mist.",
+    "options": [
+      { "sentence": "covered", "correct": "true" },
+      { "sentence": "clear", "correct": "false" },
+      { "sentence": "exposed", "correct": "false" },
+      { "sentence": "bright", "correct": "false" },
+      { "sentence": "visible", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Shrouded' means covered or hidden from view.",
+        "chinese": "'Shrouded' 意思是被覆盖或遮掩。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'diplomatic'? e.g. They are working on a diplomatic solution.",
+    "options": [
+      { "sentence": "tactful", "correct": "true" },
+      { "sentence": "rude", "correct": "false" },
+      { "sentence": "hostile", "correct": "false" },
+      { "sentence": "careless", "correct": "false" },
+      { "sentence": "violent", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Diplomatic' means dealing with people or situations in a sensitive and tactful way, often relating to international relations.",
+        "chinese": "'Diplomatic' 指以圆滑、机智的方式处理事务，常与外交相关。"
       }
     ]
   }
