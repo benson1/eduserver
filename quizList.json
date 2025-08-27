@@ -472,4 +472,11 @@
         "type": "science",
         "level": "3"
     }
+    ,
+                 {
+        "name": "louis_b1_animals_habitats_meteors",
+        "file": "louis_b1_animals_habitats_meteors",
+        "type": "science",
+        "level": "1"
+    }
 ]
