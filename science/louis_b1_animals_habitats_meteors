@@ -1,0 +1,291 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Vegetation refers to the plant life or plant cover of a region.", "correct": "true" },
+      { "sentence": "Vegetation describes the animals that live in a region.", "correct": "false" },
+      { "sentence": "Vegetation is only about tall trees and not about other smaller plants.", "correct": "false" },
+      { "sentence": "Vegetation is another word for the daily weather conditions.", "correct": "false" },
+      { "sentence": "Vegetation is always identical in every place on Earth.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Vegetation is the collective plant life of an area, including trees, grasses, shrubs, and other plants.",
+        "chinese": "植被是指某一地区的植物群体，包括树木、草、灌木和其他植物。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Brumation is a dormant period in reptiles during cold weather.", "correct": "true" },
+      { "sentence": "Brumation is the process by which plants grow more leaves in summer.", "correct": "false" },
+      { "sentence": "Brumation is when mammals sleep at night as part of their daily cycle.", "correct": "false" },
+      { "sentence": "Brumation happens during hot summer months instead of cold weather.", "correct": "false" },
+      { "sentence": "Brumation describes the long migrations of birds to warmer areas.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Brumation is a state of dormancy in cold-blooded animals, like reptiles, during cold seasons.",
+        "chinese": "冬眠（爬行动物）是冷血动物在寒冷季节进入的休眠状态。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Nutrients are substances essential for growth and maintaining life.", "correct": "true" },
+      { "sentence": "Nutrients are different types of weather that help plants to grow.", "correct": "false" },
+      { "sentence": "Nutrients only mean sugar and do not include other food substances.", "correct": "false" },
+      { "sentence": "Nutrients are harmful chemicals that stop organisms from growing.", "correct": "false" },
+      { "sentence": "Nutrients are gases in the air and not related to food at all.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Nutrients provide organisms with energy and materials necessary for growth and health.",
+        "chinese": "营养物为生物提供生长和健康所需的能量和物质。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Fibre is a type of carbohydrate in plant foods that aids digestion.", "correct": "true" },
+      { "sentence": "Fibre is a kind of protein in meat that helps animals build muscle.", "correct": "false" },
+      { "sentence": "Fibre is always fully digested and gives the same energy as sugar.", "correct": "false" },
+      { "sentence": "Fibre is only found in water and not in solid foods.", "correct": "false" },
+      { "sentence": "Fibre is the same as fat that stores long-term energy in the body.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Dietary fibre is a carbohydrate from plants that supports digestive health.",
+        "chinese": "膳食纤维是一种来自植物的碳水化合物，有助于消化健康。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Canines are pointed teeth used for tearing food.", "correct": "true" },
+      { "sentence": "Canines are a type of bone in the human arm used for movement.", "correct": "false" },
+      { "sentence": "Canines are flat teeth in the back of the mouth for grinding food.", "correct": "false" },
+      { "sentence": "Canines are found only in fish and not in humans or mammals.", "correct": "false" },
+      { "sentence": "Canines are used only to chew plants and not for eating meat.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Canines are sharp, pointed teeth that help animals tear food.",
+        "chinese": "犬齿是尖锐的牙齿，用于撕裂食物。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Species evolve gradually over time through natural processes.", "correct": "true" },
+      { "sentence": "Evolve means instantly changing into a new form overnight.", "correct": "false" },
+      { "sentence": "Evolve is about changes in daily weather patterns only.", "correct": "false" },
+      { "sentence": "Evolve means that species always stay the same and never change.", "correct": "false" },
+      { "sentence": "Evolve only happens to planets and not to living things.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Evolution is the gradual development of species over generations through natural processes.",
+        "chinese": "进化是物种通过自然过程在世代中逐渐发展的过程。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A characteristic (trait) is a feature that helps describe or distinguish something.", "correct": "true" },
+      { "sentence": "A characteristic is another word that means the weather conditions.", "correct": "false" },
+      { "sentence": "A characteristic is always invisible and cannot be seen at all.", "correct": "false" },
+      { "sentence": "A characteristic only refers to numbers and not to qualities.", "correct": "false" },
+      { "sentence": "A characteristic means food that animals eat to stay alive.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A characteristic or trait is a feature that identifies or describes an organism or object.",
+        "chinese": "特征（特性）是识别或描述生物或物体的特征。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Camouflage helps an organism blend into its environment.", "correct": "true" },
+      { "sentence": "Camouflage describes an animal moving to a new habitat for food.", "correct": "false" },
+      { "sentence": "Camouflage is about sudden temperature changes in the environment.", "correct": "false" },
+      { "sentence": "Camouflage is another word that means extinction of animals.", "correct": "false" },
+      { "sentence": "Camouflage is when animals glow in the dark instead of hiding.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Camouflage is an adaptation in color, shape, or pattern that helps organisms hide from predators.",
+        "chinese": "伪装是颜色、形状或图案上的适应，帮助生物躲避捕食者。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Reproduction is the biological process of producing offspring.", "correct": "true" },
+      { "sentence": "Reproduction means extinction of an entire species on Earth.", "correct": "false" },
+      { "sentence": "Reproduction happens only in plants and not in animals at all.", "correct": "false" },
+      { "sentence": "Reproduction is the same thing as camouflage for survival.", "correct": "false" },
+      { "sentence": "Reproduction describes when animals migrate to warmer regions.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Reproduction is how organisms create new individuals of the same species.",
+        "chinese": "繁殖是生物产生同种新个体的过程。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Adaptation is a trait or behavior that helps survival in an environment.", "correct": "true" },
+      { "sentence": "Adaptation means extinction of animals from their natural habitat.", "correct": "false" },
+      { "sentence": "Adaptation only happens instantly and never takes time to develop.", "correct": "false" },
+      { "sentence": "Adaptation is another word for daily weather changes in a place.", "correct": "false" },
+      { "sentence": "Adaptation refers only to migration and nothing else in animals.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Adaptations improve an organism’s ability to survive and reproduce.",
+        "chinese": "适应提高生物在环境中生存和繁殖的能力。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Hibernation is a state of inactivity and lowered metabolism during winter.", "correct": "true" },
+      { "sentence": "Hibernation is the same thing as migration of animals each season.", "correct": "false" },
+      { "sentence": "Hibernation happens only in plants that stop growing in summer.", "correct": "false" },
+      { "sentence": "Hibernation is another word that describes reproduction in animals.", "correct": "false" },
+      { "sentence": "Hibernation occurs only in hot weather when animals rest more often.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Hibernation allows some animals to survive cold seasons by lowering activity and metabolism.",
+        "chinese": "冬眠使一些动物通过降低活动和新陈代谢来度过寒冷季节。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Migration is the seasonal movement of animals from one place to another.", "correct": "true" },
+      { "sentence": "Migration is the same thing as extinction of a species from Earth.", "correct": "false" },
+      { "sentence": "Migration is the same as hibernation when animals sleep in winter.", "correct": "false" },
+      { "sentence": "Migration happens only in plants when they change their growth sites.", "correct": "false" },
+      { "sentence": "Migration is when animals change their colors instead of moving.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Migration is a regular movement of animals, often for breeding or food.",
+        "chinese": "迁徙是动物为了繁殖或寻找食物而进行的有规律的移动。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An endangered species is at risk of extinction.", "correct": "true" },
+      { "sentence": "Endangered means already extinct with no living individuals left.", "correct": "false" },
+      { "sentence": "Endangered describes only plants and not any species of animals.", "correct": "false" },
+      { "sentence": "Endangered is the same as migration when animals travel far.", "correct": "false" },
+      { "sentence": "Endangered species are the most common and widespread on Earth.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Endangered species face a high risk of extinction in the near future.",
+        "chinese": "濒危物种在不久的将来有高度灭绝风险。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Extinct species no longer exist on Earth.", "correct": "true" },
+      { "sentence": "Extinct means migrating from one region to another for food.", "correct": "false" },
+      { "sentence": "Extinct species still live in some hidden places on Earth.", "correct": "false" },
+      { "sentence": "Extinct refers to animals that use camouflage to survive.", "correct": "false" },
+      { "sentence": "Extinct means animals hibernate during cold winter seasons.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Extinction means the permanent disappearance of a species from Earth.",
+        "chinese": "灭绝是指物种在地球上永久消失。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An extinction event is when many species disappear in a short time.", "correct": "true" },
+      { "sentence": "An extinction event means that only a single animal has died.", "correct": "false" },
+      { "sentence": "An extinction event is the same as migration of many animals.", "correct": "false" },
+      { "sentence": "An extinction event only affects plants and not animal species.", "correct": "false" },
+      { "sentence": "An extinction event describes animals changing color for camouflage.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "An extinction event is a rapid loss of biodiversity where many species vanish.",
+        "chinese": "灭绝事件是快速生物多样性丧失，许多物种消失的情况。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An asteroid is a small rocky object orbiting the Sun.", "correct": "true" },
+      { "sentence": "An asteroid is a type of cloud floating high in Earth’s atmosphere.", "correct": "false" },
+      { "sentence": "An asteroid is the same as a meteor that always burns up.", "correct": "false" },
+      { "sentence": "An asteroid is a planet the same size as Earth or larger.", "correct": "false" },
+      { "sentence": "An asteroid means a weather change that happens in summer.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Asteroids are rocky bodies, mostly found in the asteroid belt between Mars and Jupiter.",
+        "chinese": "小行星是岩石天体，大多分布在火星和木星之间的小行星带。"
+      }
+    ]
+  },
+   {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The atmosphere is the layer of gases that surrounds a planet, such as Earth.", "correct": "true" },
+      { "sentence": "The atmosphere is the solid crust of rock covering the outer surface of every planet.", "correct": "false" },
+      { "sentence": "The atmosphere is the liquid water that fills oceans and rivers on Earth’s surface.", "correct": "false" },
+      { "sentence": "The atmosphere is the inner molten core of Earth that generates heat and energy.", "correct": "false" },
+      { "sentence": "The atmosphere is a belt of asteroids orbiting between Mars and Jupiter.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The atmosphere is a layer of gases surrounding Earth, protecting life and helping regulate temperature.",
+        "chinese": "大气层是包围地球的一层气体，保护生命并帮助调节温度。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A meteor is a space rock or debris that enters Earth's atmosphere and burns up, creating a streak of light.", "correct": "true" },
+      { "sentence": "A meteor is a permanent planet that orbits the Sun just like Earth and Mars do in the solar system.", "correct": "false" },
+      { "sentence": "A meteor is a type of star that shines brightly in the night sky for millions of years.", "correct": "false" },
+      { "sentence": "A meteor is a large asteroid belt located between Jupiter and Mars that never changes location.", "correct": "false" },
+      { "sentence": "A meteor is a comet that always has a tail and circles Earth on a daily basis.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A meteor is a rock or debris from space that burns when entering Earth’s atmosphere, appearing as a streak of light.",
+        "chinese": "流星是来自太空的岩石或碎片进入地球大气层时燃烧，呈现光迹。"
+      }
+    ]
+  }
+]
+
