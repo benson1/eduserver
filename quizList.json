@@ -478,5 +478,11 @@
         "file": "louis_b1_animals_habitats_meteors",
         "type": "science",
         "level": "1"
+    },
+                     {
+        "name": "ks1_cells",
+        "file": "ks1_cells",
+        "type": "science",
+        "level": "5"
     }
 ]
