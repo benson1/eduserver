@@ -206,5 +206,56 @@
         "chinese": "渗透作用是水分子通过半透膜的被动运动。"
       }
     ]
+  },
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Glycolysis is the process of breaking down glucose to release energy in the form of ATP.", "correct": "true" },
+      { "sentence": "Glycolysis occurs only in mitochondria and not in the cytoplasm.", "correct": "false" },
+      { "sentence": "Glycolysis produces oxygen instead of energy from glucose.", "correct": "false" },
+      { "sentence": "Glycolysis only occurs in plant cells, not animal cells.", "correct": "false" },
+      { "sentence": "Glycolysis stores glucose without breaking it down for energy.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Glycolysis is the first step of cellular respiration where glucose is broken down in the cytoplasm to produce ATP.",
+        "chinese": "糖酵解是细胞呼吸的第一步，葡萄糖在细胞质中分解以产生ATP。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Fermentation in plants occurs when oxygen is limited, producing ethanol and carbon dioxide.", "correct": "true" },
+      { "sentence": "Plant fermentation produces lactic acid instead of ethanol.", "correct": "false" },
+      { "sentence": "Fermentation in plants happens only in the mitochondria during aerobic respiration.", "correct": "false" },
+      { "sentence": "Plant fermentation produces oxygen for energy.", "correct": "false" },
+      { "sentence": "Fermentation is the main way plants produce energy under normal oxygen conditions.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "In plants, anaerobic conditions trigger fermentation, converting glucose into ethanol and CO₂.",
+        "chinese": "在植物中，缺氧条件会触发发酵，将葡萄糖转化为乙醇和二氧化碳。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Fermentation in animals occurs when oxygen is low, producing lactic acid from glucose.", "correct": "true" },
+      { "sentence": "Animal fermentation produces ethanol instead of lactic acid.", "correct": "false" },
+      { "sentence": "Fermentation in animals occurs in chloroplasts to produce energy.", "correct": "false" },
+      { "sentence": "Animal fermentation produces oxygen for muscle activity.", "correct": "false" },
+      { "sentence": "Fermentation is the primary energy source for animals under normal oxygen conditions.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "In animals, anaerobic respiration converts glucose to lactic acid when oxygen is insufficient.",
+        "chinese": "在动物中，缺氧时无氧呼吸将葡萄糖转化为乳酸。"
+      }
+    ]
   }
+]
+
 ]
