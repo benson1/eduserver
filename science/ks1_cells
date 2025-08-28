@@ -111,22 +111,23 @@
       }
     ]
   },
-  {
-    "question": "Which sentence is scientifically correct?",
-    "options": [
-      { "sentence": "The cytoplasm is a jelly-like substance that holds organelles in place.", "correct": "true" },
-      { "sentence": "The cytoplasm mainly stores DNA and proteins for long-term cell storage.", "correct": "false" },
-      { "sentence": "The cytoplasm is a rigid layer surrounding the nucleus like a wall.", "correct": "false" },
-      { "sentence": "The cytoplasm produces energy similar to mitochondria inside the cell.", "correct": "false" },
-      { "sentence": "The cytoplasm is only present in plant cells, not in animal cells.", "correct": "false" }
-    ],
-    "explanation": [
-      {
-        "english": "The cytoplasm is a fluid that surrounds organelles and supports chemical reactions.",
-        "chinese": "细胞质是一种包围细胞器的液体，支持化学反应。"
-      }
-    ]
-  },
+{
+  "question": "Which sentence is scientifically correct?",
+  "options": [
+    { "sentence": "The cytoplasm is a jelly-like substance that surrounds organelles and is the site of glycolysis.", "correct": "true" },
+    { "sentence": "The cytoplasm stores DNA as its main function instead of the nucleus.", "correct": "false" },
+    { "sentence": "The cytoplasm is a rigid layer surrounding the nucleus like a wall.", "correct": "false" },
+    { "sentence": "The cytoplasm produces most of the cell's energy like mitochondria.", "correct": "false" },
+    { "sentence": "The cytoplasm is only present in plant cells, not in animal cells.", "correct": "false" }
+  ],
+  "explanation": [
+    {
+      "english": "The cytoplasm is a fluid that surrounds organelles, supports chemical reactions, and is the site of glycolysis, which produces a small amount of ATP.",
+      "chinese": "细胞质是一种包围细胞器的液体，支持化学反应，并且是糖酵解的场所，糖酵解可产生少量ATP。"
+    }
+  ]
+}
+,
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
