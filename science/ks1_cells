@@ -1,0 +1,210 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A plant cell contains a cell wall, chloroplasts, and a large vacuole.", "correct": "true" },
+      { "sentence": "A plant cell contains chloroplasts and a vacuole but lacks a nucleus and cytoplasm.", "correct": "false" },
+      { "sentence": "A plant cell has a flexible membrane like animal cells but no chloroplasts.", "correct": "false" },
+      { "sentence": "A plant cell is primarily made of water with no defined organelles.", "correct": "false" },
+      { "sentence": "A plant cell performs all its functions in the vacuole alone without other organelles.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Plant cells have unique features such as a cell wall, chloroplasts, and a large vacuole.",
+        "chinese": "植物细胞具有细胞壁、叶绿体和大液泡等独特结构。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An animal cell lacks a cell wall and chloroplasts but contains a nucleus.", "correct": "true" },
+      { "sentence": "An animal cell has a rigid wall that supports the cell but no chloroplasts.", "correct": "false" },
+      { "sentence": "An animal cell has chloroplasts for energy production instead of mitochondria.", "correct": "false" },
+      { "sentence": "An animal cell is entirely fluid with no structured organelles.", "correct": "false" },
+      { "sentence": "An animal cell relies on the vacuole for controlling all cell processes.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Animal cells do not have cell walls or chloroplasts, but they do have a nucleus and other organelles.",
+        "chinese": "动物细胞没有细胞壁和叶绿体，但具有细胞核和其他细胞器。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A sperm cell is a male reproductive cell that carries genetic material.", "correct": "true" },
+      { "sentence": "A sperm cell carries genetic material but also stores nutrients like an egg cell.", "correct": "false" },
+      { "sentence": "A sperm cell is adapted for fertilization but contains most of the cytoplasm of the parent cell.", "correct": "false" },
+      { "sentence": "A sperm cell functions mainly to provide energy for the embryo after fertilization.", "correct": "false" },
+      { "sentence": "A sperm cell is a male gamete that also carries organelles for photosynthesis.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Sperm cells are male gametes that carry half the genetic material for reproduction.",
+        "chinese": "精子是雄性生殖细胞，携带一半的遗传物质用于繁殖。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An egg cell is a female reproductive cell that combines with sperm during fertilization.", "correct": "true" },
+      { "sentence": "An egg cell is a female gamete but lacks a nucleus and only stores water.", "correct": "false" },
+      { "sentence": "An egg cell functions mainly to provide energy for the sperm cell before fertilization.", "correct": "false" },
+      { "sentence": "An egg cell is smaller than most male gametes and contains few organelles.", "correct": "false" },
+      { "sentence": "An egg cell performs photosynthesis in plant reproduction.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Egg cells are female gametes containing genetic material to combine with sperm during reproduction.",
+        "chinese": "卵细胞是雌性生殖细胞，含有遗传物质，可与精子结合进行繁殖。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The cell membrane controls what enters and leaves the cell.", "correct": "true" },
+      { "sentence": "The cell membrane acts mainly as a rigid structure supporting the cell without regulating substances.", "correct": "false" },
+      { "sentence": "The cell membrane stores energy for the cell similar to mitochondria.", "correct": "false" },
+      { "sentence": "The cell membrane is only present in plant cells to protect the wall.", "correct": "false" },
+      { "sentence": "The cell membrane is a fluid-filled cavity that holds water in the cell.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The cell membrane is a barrier that regulates movement of substances in and out of the cell.",
+        "chinese": "细胞膜是调节物质进出细胞的屏障。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The nucleus stores genetic material (DNA) and controls cell activities.", "correct": "true" },
+      { "sentence": "The nucleus mainly stores water for cell hydration rather than DNA.", "correct": "false" },
+      { "sentence": "The nucleus is responsible for producing energy instead of mitochondria.", "correct": "false" },
+      { "sentence": "The nucleus is present only in plant cells, not animal cells.", "correct": "false" },
+      { "sentence": "The nucleus serves as a structural scaffold but has no role in gene expression.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The nucleus controls cell functions and stores genetic information in the form of DNA.",
+        "chinese": "细胞核控制细胞功能，并储存DNA形式的遗传信息。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Mitochondria are organelles that produce energy through respiration.", "correct": "true" },
+      { "sentence": "Mitochondria store genetic material instead of controlling energy production.", "correct": "false" },
+      { "sentence": "Mitochondria are responsible for capturing sunlight for glucose synthesis.", "correct": "false" },
+      { "sentence": "Mitochondria are only found in plant cells and absent in animal cells.", "correct": "false" },
+      { "sentence": "Mitochondria function primarily as a storage compartment for water and nutrients.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Mitochondria are the ‘powerhouses’ of cells, releasing energy through respiration.",
+        "chinese": "线粒体是细胞的“能量工厂”，通过呼吸作用释放能量。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The cytoplasm is a jelly-like substance that holds organelles in place.", "correct": "true" },
+      { "sentence": "The cytoplasm mainly stores DNA and proteins for long-term cell storage.", "correct": "false" },
+      { "sentence": "The cytoplasm is a rigid layer surrounding the nucleus like a wall.", "correct": "false" },
+      { "sentence": "The cytoplasm produces energy similar to mitochondria inside the cell.", "correct": "false" },
+      { "sentence": "The cytoplasm is only present in plant cells, not in animal cells.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The cytoplasm is a fluid that surrounds organelles and supports chemical reactions.",
+        "chinese": "细胞质是一种包围细胞器的液体，支持化学反应。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Respiration is the process by which cells release energy from glucose.", "correct": "true" },
+      { "sentence": "Respiration is the intake of oxygen for cell structure rather than energy production.", "correct": "false" },
+      { "sentence": "Respiration produces glucose from sunlight like photosynthesis in plant cells.", "correct": "false" },
+      { "sentence": "Respiration occurs only in specialized organelles called vacuoles.", "correct": "false" },
+      { "sentence": "Respiration is only used in animals and not in plant cells for energy.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Cellular respiration releases energy (ATP) from glucose for cell activities.",
+        "chinese": "细胞呼吸从葡萄糖中释放能量（ATP），用于细胞活动。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The cell wall is a rigid layer found in plant cells that provides support.", "correct": "true" },
+      { "sentence": "The cell wall is flexible in plants and mainly functions in respiration.", "correct": "false" },
+      { "sentence": "The cell wall is present in all animal cells to provide structural support.", "correct": "false" },
+      { "sentence": "The cell wall produces energy for the cell similar to mitochondria.", "correct": "false" },
+      { "sentence": "The cell wall is a liquid layer that stores nutrients in the cytoplasm.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Plant cells have a cell wall made of cellulose that provides strength and support.",
+        "chinese": "植物细胞有由纤维素组成的细胞壁，提供强度和支撑。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A vacuole is a storage organelle in plant cells that holds water and nutrients.", "correct": "true" },
+      { "sentence": "A vacuole is the primary site of energy production similar to mitochondria.", "correct": "false" },
+      { "sentence": "A vacuole only appears in animal cells and is absent in plant cells.", "correct": "false" },
+      { "sentence": "A vacuole contains genetic material instead of the nucleus.", "correct": "false" },
+      { "sentence": "A vacuole functions as a rigid protective layer surrounding the cell.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Plant cells usually have a large vacuole that stores water, nutrients, and waste.",
+        "chinese": "植物细胞通常有一个大的液泡，用于储存水分、养分和废物。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Chloroplasts are organelles in plant cells where photosynthesis occurs.", "correct": "true" },
+      { "sentence": "Chloroplasts produce energy through respiration like mitochondria in animal cells.", "correct": "false" },
+      { "sentence": "Chloroplasts store genetic material for cell reproduction instead of the nucleus.", "correct": "false" },
+      { "sentence": "Chloroplasts are found in animal cells to support muscle contraction.", "correct": "false" },
+      { "sentence": "Chloroplasts are rigid structures that provide shape and protection to the cell.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Chloroplasts capture sunlight and convert it into food (glucose) through photosynthesis.",
+        "chinese": "叶绿体捕捉阳光，并通过光合作用将其转化为食物（葡萄糖）。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Osmosis is the movement of water across a partially permeable membrane.", "correct": "true" },
+      { "sentence": "Osmosis is the diffusion of dissolved gases such as oxygen and carbon dioxide in cells.", "correct": "false" },
+      { "sentence": "Osmosis is the active transport of glucose through the cell membrane for energy.", "correct": "false" },
+      { "sentence": "Osmosis occurs only in the cytoplasm and not across any membranes.", "correct": "false" },
+      { "sentence": "Osmosis is the process by which cells divide to produce new cells.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Osmosis is the passive movement of water molecules through a partially permeable membrane.",
+        "chinese": "渗透作用是水分子通过半透膜的被动运动。"
+      }
+    ]
+  }
+]
