@@ -1,0 +1,210 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Static electricity is the buildup of electric charge on the surface of objects.", "correct": "true" },
+      { "sentence": "Static electricity flows continuously through a conductor like an electric current in a circuit.", "correct": "false" },
+      { "sentence": "Static electricity occurs only in metals and cannot appear on insulating materials.", "correct": "false" },
+      { "sentence": "Static electricity is produced by nuclear reactions rather than by surface charges on objects.", "correct": "false" },
+      { "sentence": "Static electricity is the generation of energy on objects that do not carry any charges.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Static electricity occurs when electric charges accumulate on an object without flowing.",
+        "chinese": "静电是指电荷在物体表面积累而不流动的现象。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Electrons are negatively charged subatomic particles found in atoms.", "correct": "true" },
+      { "sentence": "Electrons have a positive charge and are located in the nucleus of an atom.", "correct": "false" },
+      { "sentence": "Electrons are the heaviest particles in an atom and carry most of its mass.", "correct": "false" },
+      { "sentence": "Electrons generate energy independently without being part of an atomic structure.", "correct": "false" },
+      { "sentence": "Electrons exist only in metallic elements and are absent from non-metals.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Electrons carry a negative charge and orbit the nucleus of an atom.",
+        "chinese": "电子带负电荷，围绕原子核运动。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Electrostatic repulsion force occurs when like charges push each other away.", "correct": "true" },
+      { "sentence": "Electrostatic repulsion occurs when opposite charges attract and pull toward each other.", "correct": "false" },
+      { "sentence": "Electrostatic repulsion only happens in metallic conductors under specific conditions.", "correct": "false" },
+      { "sentence": "Electrostatic repulsion causes charged objects to be pulled together rather than pushed apart.", "correct": "false" },
+      { "sentence": "Electrostatic repulsion is a form of chemical energy stored within molecules.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Charges with the same sign repel each other due to electrostatic forces.",
+        "chinese": "同种电荷会互相排斥，这就是静电排斥力。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Electrostatic force is the attraction or repulsion between charged objects.", "correct": "true" },
+      { "sentence": "Electrostatic force exists only when charges are moving as in an electric current.", "correct": "false" },
+      { "sentence": "Electrostatic force appears exclusively in liquids and has no effect in solids or gases.", "correct": "false" },
+      { "sentence": "Electrostatic force is responsible for converting chemical energy directly into electrical energy.", "correct": "false" },
+      { "sentence": "Electrostatic force is merely the resistance to current in a circuit, not a true force between charges.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Electrostatic force arises between objects due to their electric charges.",
+        "chinese": "静电力是由于物体带电而产生的吸引或排斥力。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The cathode is the electrode where reduction occurs and electrons enter a device.", "correct": "true" },
+      { "sentence": "The cathode is the electrode where oxidation occurs and electrons leave the device.", "correct": "false" },
+      { "sentence": "The cathode is always positively charged in every type of circuit regardless of context.", "correct": "false" },
+      { "sentence": "The cathode stores electrical energy like a battery without actually conducting electrons.", "correct": "false" },
+      { "sentence": "The cathode produces electric current spontaneously without being connected to a circuit.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "In electrochemical cells, the cathode is the site of reduction where electrons enter.",
+        "chinese": "在电化学电池中，阴极是发生还原反应并接受电子的电极。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The anode is the electrode where oxidation occurs and electrons leave a device.", "correct": "true" },
+      { "sentence": "The anode is the site where reduction happens and electrons are gained by the electrode.", "correct": "false" },
+      { "sentence": "The anode is always negatively charged in every circuit regardless of type.", "correct": "false" },
+      { "sentence": "The anode stores electrical energy but does not allow electrons to flow through it.", "correct": "false" },
+      { "sentence": "The anode generates electrons spontaneously without any chemical reaction.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The anode is where oxidation happens, and electrons are released into the circuit.",
+        "chinese": "阳极是发生氧化反应的电极，电子从此流入电路。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A cell is a device that converts chemical energy into electrical energy.", "correct": "true" },
+      { "sentence": "A cell stores water or chemical substances without producing electricity.", "correct": "false" },
+      { "sentence": "A cell is a wire that carries electrons from one device to another without producing energy.", "correct": "false" },
+      { "sentence": "A cell generates electricity by nuclear reactions inside the electrodes.", "correct": "false" },
+      { "sentence": "A cell produces electrical energy only when a switch is included in the circuit.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A cell, such as a battery, converts chemical energy into electrical energy.",
+        "chinese": "电池等电源将化学能转化为电能。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Volts measure the potential difference or electrical pressure between two points.", "correct": "true" },
+      { "sentence": "Volts measure the amount of current flowing through a circuit rather than energy per charge.", "correct": "false" },
+      { "sentence": "Volts are identical to resistance and cannot indicate electrical pressure.", "correct": "false" },
+      { "sentence": "Volts measure the total number of electrons in a wire at any given time.", "correct": "false" },
+      { "sentence": "Volts are applicable only in DC circuits and are meaningless in AC circuits.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Voltage, measured in volts, represents the energy per unit charge between two points.",
+        "chinese": "电压以伏特为单位，表示两点之间单位电荷的能量差。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An electrical conductor allows electric charges to flow through it easily.", "correct": "true" },
+      { "sentence": "An electrical conductor blocks the flow of charges and behaves like an insulator.", "correct": "false" },
+      { "sentence": "An electrical conductor produces electrons independently without a power source.", "correct": "false" },
+      { "sentence": "An electrical conductor only works in DC circuits and cannot conduct AC current.", "correct": "false" },
+      { "sentence": "An electrical conductor stores electrical energy permanently without passing current.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Conductors, such as metals, allow electric current to pass through them with low resistance.",
+        "chinese": "导体（如金属）能让电流低阻力地通过。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Electric current is the flow of electric charges through a conductor.", "correct": "true" },
+      { "sentence": "Electric current is the buildup of static charge on the surface of objects without movement.", "correct": "false" },
+      { "sentence": "Electric current only exists in metals at high temperatures and cannot flow in other materials.", "correct": "false" },
+      { "sentence": "Electric current always flows from the anode to the cathode regardless of circuit type.", "correct": "false" },
+      { "sentence": "Electric current is a measure of voltage in a circuit rather than the actual flow of charges.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Electric current is the rate at which charges move through a conductor.",
+        "chinese": "电流是电荷通过导体的流动速率。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An electric circuit is a closed loop that allows current to flow.", "correct": "true" },
+      { "sentence": "An electric circuit stores electrons without providing a path for them to move.", "correct": "false" },
+      { "sentence": "An electric circuit exists only when a cell is included and cannot function otherwise.", "correct": "false" },
+      { "sentence": "An electric circuit produces electricity spontaneously without any energy source.", "correct": "false" },
+      { "sentence": "An electric circuit is a structure used exclusively in household wiring and not in devices.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A circuit is a complete path that allows electric current to travel from a source and back.",
+        "chinese": "电路是让电流从电源流出再返回的完整路径。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An electric field is a region around a charged object where forces act on other charges.", "correct": "true" },
+      { "sentence": "An electric field exists only inside metals and does not extend into surrounding space.", "correct": "false" },
+      { "sentence": "An electric field stores electrons like a battery rather than exerting forces on them.", "correct": "false" },
+      { "sentence": "An electric field measures the flow of current in a conductor rather than exerting a force.", "correct": "false" },
+      { "sentence": "An electric field only exists when charges are moving and disappears for stationary charges.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Electric fields exert forces on other charges and exist around charged objects even if they are stationary.",
+        "chinese": "电场是带电物体周围能对其他电荷产生力的区域，即使电荷静止也存在。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A switch can open or close a circuit to stop or allow electric current to flow.", "correct": "true" },
+      { "sentence": "A switch stores electric energy for later use rather than controlling current in a circuit.", "correct": "false" },
+      { "sentence": "A switch generates electrons by itself without being connected to any circuit.", "correct": "false" },
+      { "sentence": "A switch increases the voltage in a circuit instead of controlling current flow.", "correct": "false" },
+      { "sentence": "A switch functions only in AC circuits and cannot control current in DC circuits.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Switches control the flow of current in a circuit by opening or closing the path.",
+        "chinese": "开关通过打开或关闭电路路径来控制电流流动。"
+      }
+    ]
+  }
+]
