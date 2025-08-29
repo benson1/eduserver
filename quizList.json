@@ -484,5 +484,11 @@
         "file": "ks1_cells",
         "type": "science",
         "level": "5"
+    },
+               {
+        "name": "b1_electricity",
+        "file": "b1_electricity",
+        "type": "science",
+        "level": "3"
     }
 ]
