@@ -486,8 +486,8 @@
         "level": "5"
     },
                {
-        "name": "b1_electricity",
-        "file": "b1_electricity",
+        "name": "b3_electricity",
+        "file": "b3_electricity",
         "type": "science",
         "level": "3"
     }
