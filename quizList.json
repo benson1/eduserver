@@ -490,5 +490,11 @@
         "file": "b3_electricity",
         "type": "science",
         "level": "3"
+    },
+                   {
+        "name": "b3_electricity",
+        "file": "b3_electricity",
+        "type": "science",
+        "level": "3"
     }
 ]
