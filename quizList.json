@@ -502,5 +502,12 @@
         "file": "b4_biomes",
         "type": "science",
         "level": "4"
+    },
+            {
+        "name": "b1_moon_easy",
+        "file": "b1_moon_easy",
+        "type": "science",
+        "level": "1"
     }
+    
 ]
