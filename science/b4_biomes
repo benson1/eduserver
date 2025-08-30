@@ -1,0 +1,405 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      {
+        "sentence": "A biome is a large region defined by a specific climate and its plant and animal communities.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A biome is a small, localized habitat like a single pond or a fallen tree log.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A biome is defined only by the animal species and is not influenced by the climate.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A biome is a term used to describe a single and individual ecosystem.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A biome's characteristics are determined solely by the amount of sunlight.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "A biome is a major life zone, such as a desert or rainforest, defined by abiotic factors like climate, which in turn shape its biological community.",
+        "chinese": "生物群落是一个主要的生活区域，如沙漠或雨林，其定义取决于气候等非生物因素，这些因素进而塑造了其生物群落。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      {
+        "sentence": "An ecosystem includes all living organisms and their physical environment in an area.",
+        "correct": "true"
+      },
+      {
+        "sentence": "An ecosystem refers only to the living biotic components within an environment.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An ecosystem is defined as a global-scale region like an entire continent.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An ecosystem is a term that is only used for aquatic environments.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An ecosystem excludes non-living factors like the sunlight and the soil.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "An ecosystem is a community of living organisms (biotic factors) interacting with their non-living physical environment (abiotic factors).",
+        "chinese": "生态系统是生物群落（生物因素）与其非生物物理环境（非生物因素）相互作用的共同体。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      {
+        "sentence": "A deciduous tree sheds its leaves cyclically during an unfavorable season.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A deciduous tree keeps its leaves green throughout the entire year.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Deciduous refers to trees that have needle-like leaves all year.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Deciduous plants are only found in tropical rainforest biomes.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Deciduous means a plant loses its leaves randomly with no pattern.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Deciduous plants, like oaks and maples, lose their leaves seasonally to conserve water and energy during cold or dry periods.",
+        "chinese": "落叶植物，如橡树和枫树，会季节性落叶，以便在寒冷或干燥时期保存水分和能量。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      {
+        "sentence": "A coniferous tree is an evergreen that bears seeds within cones.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A coniferous tree is defined by its broad leaves that change color.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Coniferous trees are only found in the southern hemisphere.",
+        "correct": "false"
+      },
+      {
+        "sentence": "All coniferous trees lose all of their needles every winter.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Coniferous is a term for trees that produce flowers and fruit.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Coniferous trees (e.g., pines, spruces, firs) are usually evergreen, have cones, and possess needle-like or scale-like leaves adapted to conserve water.",
+        "chinese": "针叶树（例如松树、云杉、冷杉）通常是常绿植物，有球果，并拥有针状或鳞片状的叶子以适应保存水分。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      {
+        "sentence": "The taiga is a northern forest biome with long winters and coniferous trees.",
+        "correct": "true"
+      },
+      {
+        "sentence": "The taiga is a hot desert biome with very sparse vegetation.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The taiga is a tropical grassland with many scattered trees.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The taiga is defined by broadleaf trees that drop their leaves.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The taiga is another name for the Arctic tundra biome.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "The taiga, or boreal forest, is the world's largest land biome, consisting mostly of coniferous forests in subarctic regions.",
+        "chinese": "泰加林（北方针叶林）是世界上最大的陆地生物群落，主要由亚北极地区的针叶林组成。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      {
+        "sentence": "The tundra is a treeless biome with a layer of permanently frozen soil.",
+        "correct": "true"
+      },
+      {
+        "sentence": "The tundra is a dense forest biome with very tall trees and canopy.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The tundra has deep and fertile soil for large tree roots to grow.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The tundra is characterized by extremely hot temperatures year-round.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The tundra is defined by its many deciduous trees and shrubs.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "The tundra biome is defined by its cold, harsh climate, low biodiversity, permafrost, and simple vegetation structure like mosses, lichens, and low shrubs.",
+        "chinese": "苔原生物群落的特点是寒冷、恶劣的气候、生物多样性低、永冻土以及简单的植被结构，如苔藓、地衣和低矮灌木。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      {
+        "sentence": "Abiotic factors are the non-living components of an ecosystem.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Abiotic factors refer to all the living organisms in an environment.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Abiotic factors are the predators and prey within a food web.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Abiotic factors include only the plants within an ecosystem.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Abiotic is a term used for microorganisms like bacteria.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Abiotic factors include sunlight, temperature, water, soil, and wind—the non-living elements that influence living organisms.",
+        "chinese": "非生物因素包括阳光、温度、水、土壤和风——这些是影响生物的非生命元素。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      {
+        "sentence": "An estuary is where freshwater from rivers mixes with ocean saltwater.",
+        "correct": "true"
+      },
+      {
+        "sentence": "An estuary is a deep and isolated lake located far from the ocean.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An estuary is a fast-flowing river at its source in the mountains.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An estuary contains water that is always purely freshwater.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An estuary is a terrestrial grassland biome with many grazers.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Estuaries are transition zones between river and ocean environments, known for their high nutrient levels and biodiversity. They are often called 'nurseries of the sea.'",
+        "chinese": "河口是河流和海洋环境之间的过渡带，以其高营养水平和生物多样性而闻名。它们通常被称为“海洋的育婴场”。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      {
+        "sentence": "Hibernation is a state of reduced metabolism to survive the winter.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Hibernation is a short-term state of sleep lasting only a few hours.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Hibernation is a behavior only observed in cold-blooded reptiles.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Hibernating animals wake up frequently to eat during the winter.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Hibernation is the process of migrating to a warmer climate.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Hibernation is a long-term dormancy strategy where endothermic (warm-blooded) animals like bears and ground squirrels conserve energy during seasons of scarcity.",
+        "chinese": "冬眠是一种长期的休眠策略，温血动物（如熊和黄鼠）在资源稀缺的季节以此保存能量。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      {
+        "sentence": "An ectothermic animal relies on external sources to regulate its temperature.",
+        "correct": "true"
+      },
+      {
+        "sentence": "An ectothermic animal generates metabolic heat for a constant temperature.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Ectothermic means an animal is always cold in any environment.",
+        "correct": "false"
+      },
+      {
+        "sentence": "All mammals and birds are considered to be ectothermic animals.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Ectothermy is more efficient in cold climates than endothermy.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Ectotherms ('cold-blooded' animals), such as reptiles, amphibians, and fish, have body temperatures that fluctuate with the environment.",
+        "chinese": "变温动物（“冷血”动物），如爬行动物、两栖动物和鱼类，其体温随环境变化而波动。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      {
+        "sentence": "Brumation is a dormancy in reptiles triggered by cold temperatures.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Brumation is the process of shedding skin for growth in reptiles.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Brumation occurs during hot summers to escape the extreme heat.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Brumation is a state of high activity to prepare for the winter.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Brumation is a term used for deep sleep in mammals like bats.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Brumation is the correct term for winter dormancy in ectotherms. Their metabolism slows down, and they become inactive but may still wake up to drink water.",
+        "chinese": "蜇伏是变温动物冬季休眠的正确术语。它们的新陈代谢减慢，变得不活跃，但仍可能醒来喝水。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      {
+        "sentence": "An endothermic animal generates internal heat to maintain temperature.",
+        "correct": "true"
+      },
+      {
+        "sentence": "An endothermic animal's temperature matches its surroundings.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Endothermy is a strategy used by animals like snakes and lizards.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Endothermic animals are unable to survive in cold climates.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Endothermy requires less energy consumption than ectothermy.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Endotherms ('warm-blooded' animals), such as birds and mammals, use energy from food to maintain a constant internal body temperature.",
+        "chinese": "恒温动物（“温血”动物），如鸟类和哺乳动物，利用食物中的能量来维持恒定的体内温度。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      {
+        "sentence": "Torpor is a short-term state of decreased activity to conserve energy.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Torpor is a long-term seasonal dormancy lasting for many months.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Torpor is only observed in very large mammals like deer and wolves.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An animal in torpor has a higher metabolic rate than when active.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Torpor and hibernation are identical states with no difference.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Torpor is a short-term, reversible drop in body temperature and metabolic rate. Many small birds and mammals use it daily to survive cold nights. Hibernation is essentially a long-term, seasonal torpor.",
+        "chinese": "蛰伏是体温和新陈代谢率的短期、可逆的下降。许多小鸟和哺乳动物每天用它来度过寒冷的夜晚。冬眠本质上是一种长期的、季节性的蛰伏。"
+      }
+    ]
+  }
+]
