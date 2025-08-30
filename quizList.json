@@ -496,5 +496,11 @@
         "file": "b3_electricity",
         "type": "science",
         "level": "3"
+    },
+               {
+        "name": "b4_biomes",
+        "file": "b4_biomes",
+        "type": "science",
+        "level": "4"
     }
 ]
