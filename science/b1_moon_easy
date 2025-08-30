@@ -1,0 +1,312 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      {
+        "sentence": "A thermometer is a tool used to measure the temperature of a substance or environment.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A thermometer is a device that measures the amount of rainfall in a specific area.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A thermometer is primarily used to measure atmospheric pressure and predict weather.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A thermometer measures wind speed by using a scale of hot and cold air movements.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A thermometer is an instrument that calculates the humidity level in the air.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "A thermometer measures temperature, which is the degree of hotness or coldness of an object or environment.",
+        "chinese": "温度计用于测量温度，即物体或环境的热度或冷度的程度。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      {
+        "sentence": "The Moon's orbit is the path it follows as it revolves around the Earth.",
+        "correct": "true"
+      },
+      {
+        "sentence": "The Moon's orbit is a perfect circle with a constant distance from the Earth.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The Moon's orbit is the path it follows as it revolves around the Sun independently.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The Moon's orbit is a rapid spiral that brings it closer to Earth each year.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The Moon's orbit is stationary, and the Earth rotates around it instead.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "The Moon orbits, or revolves around, the Earth in a slightly elliptical path, completing one revolution in about 27.3 days.",
+        "chinese": "月球围绕地球公转的轨道略呈椭圆形，完成一次公转大约需要27.3天。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      {
+        "sentence": "The Moon's rotation on its axis takes the same amount of time as its orbit around Earth.",
+        "correct": "true"
+      },
+      {
+        "sentence": "The Moon does not rotate on its axis, which is why we see only one side.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The Moon's rotation is much faster than Earth's, causing a shorter day.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The Moon's rotation is random and does not follow a consistent pattern.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The Moon's rotation is the primary cause of ocean tides on Earth.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "The Moon is tidally locked with Earth. Its rotational period (time to spin once) is equal to its orbital period (time to orbit once), which is why we only see one side.",
+        "chinese": "月球被地球潮汐锁定。它的自转周期（自转一周的时间）等于公转周期（绕地球一周的时间），这就是为什么我们只能看到月球的一面。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      {
+        "sentence": "Craters on the Moon are primarily depressions formed by the impact of asteroids and meteoroids.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Craters on the Moon are ancient volcanoes that have been inactive for billions of years.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Craters are formed by water erosion from when the Moon had vast oceans.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Craters are created by the powerful winds that sweep across the lunar surface.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Craters are deep cracks caused by the Moon cooling and shrinking rapidly.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Lunar craters are almost entirely impact craters, formed when objects from space collided with the Moon's surface.",
+        "chinese": "月球陨石坑几乎都是撞击坑，由太空中的物体撞击月球表面形成。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      {
+        "sentence": "An Earth year is the time it takes for the Earth to complete one orbit around the Sun.",
+        "correct": "true"
+      },
+      {
+        "sentence": "An Earth year is the time it takes for the Earth to complete one full rotation on its axis.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An Earth year is measured by the cycle of the Moon's phases around the Earth.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An Earth year is the time between two consecutive summer solstices.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An Earth year is the duration of one complete season, from spring to winter.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "A year is a unit of time based on one full revolution (orbit) of the Earth around the Sun, approximately 365.25 days.",
+        "chinese": "一年是基于地球绕太阳公转一周的时间单位，大约为365.25天。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      {
+        "sentence": "The Moon takes about 27.3 days to complete one full orbit around the Earth.",
+        "correct": "true"
+      },
+      {
+        "sentence": "The Moon takes exactly 30 days to complete one full orbit around the Earth.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The Moon takes one full Earth year to complete an orbit around the Earth.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The Moon takes 24 hours to complete one full orbit around the Earth.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The Moon's orbit is so fast it completes a revolution every 12 hours.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "The sidereal month, the time for the Moon to complete one 360° orbit around Earth relative to the stars, is 27.3 days.",
+        "chinese": "恒星月是月球绕地球公转360°所需的时间，相对于遥远的恒星，周期为27.3天。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      {
+        "sentence": "A new moon occurs when the Moon is between the Earth and the Sun, and its dark side faces us.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A new moon is when the Moon is completely dark because Earth's shadow covers it.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A new moon is the phase where half of the Moon's face is illuminated by the Sun.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A new moon happens when the Moon is at its farthest point from Earth in its orbit.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A new moon is the brightest phase, fully illuminated by sunlight.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "During a new moon, the side of the Moon illuminated by the Sun is facing away from Earth, making the Moon appear dark in our sky.",
+        "chinese": "在新月期间，被太阳照亮的月球一侧背对地球，因此我们看不到月亮。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      {
+        "sentence": "A full moon occurs when the Earth is between the Sun and the Moon, and we see the entire sunlit side.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A full moon is caused by the Moon moving into the Earth's shadow and glowing red.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A full moon is the phase when the Moon is closest to the Earth in its orbit.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A full moon happens when only a small sliver of the Moon is visible from Earth.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A full moon is when the Moon is not visible at all in the night sky.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "A full moon happens when the Moon is on the opposite side of Earth from the Sun, making its entire sunlit face visible to us.",
+        "chinese": "满月发生时，月球位于地球远离太阳的一侧，使得我们能看到其被太阳照亮的整个正面。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      {
+        "sentence": "A crescent moon is a phase where less than half of the Moon's visible side is illuminated.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A crescent moon is a phase where more than half of the Moon is illuminated by the Sun.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A crescent moon is caused by the Earth casting a curved shadow on the Moon.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A crescent moon is the same as a new moon but appears in a different season.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A crescent moon is the official term for a lunar eclipse.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Crescent phases (waning or waxing) occur just after or before a new moon, when we see only a small sliver of the sunlit side.",
+        "chinese": "蛾眉月（残月或新月）发生在新月之后或之前，此时我们只能看到被照亮的一小部分月面。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      {
+        "sentence": "The first quarter moon phase occurs when we see half of the Moon's near side illuminated.",
+        "correct": "true"
+      },
+      {
+        "sentence": "The first quarter is when the Moon is one-quarter of the way through its cycle.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The first quarter means only one-quarter of the Moon's disk is visible from Earth.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The first quarter is the phase that comes immediately after the full moon.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The first quarter moon is the darkest phase of the lunar cycle.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "The 'quarter' in first quarter refers to the orbital position, not how much we see. At this point, the Moon has completed one-quarter of its orbit around Earth, and we see half of its near side lit.",
+        "chinese": "“上弦月”中的“弦”指的是轨道位置，而不是我们看到的部分。此时月球完成了绕地球轨道的四分之一，我们看到其近地面的一半被照亮。"
+      }
+    ]
+  }
+]
