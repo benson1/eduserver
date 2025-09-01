@@ -1,0 +1,258 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Matter is anything that has mass and takes up space.", "correct": "true" },
+      { "sentence": "Matter is anything that has energy but no volume or mass.", "correct": "false" },
+      { "sentence": "Matter is only the solid form of substances, not liquids or gases.", "correct": "false" },
+      { "sentence": "Matter is a form of energy that cannot be measured or contained.", "correct": "false" },
+      { "sentence": "Matter is only found on Earth and does not exist in space.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Matter is defined as anything with mass and volume.",
+        "chinese": "物质被定义为具有质量和体积的东西。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Mass is the amount of matter contained in an object.", "correct": "true" },
+      { "sentence": "Mass is the force of gravity acting on an object’s weight.", "correct": "false" },
+      { "sentence": "Mass changes when the object is moved from Earth to the Moon.", "correct": "false" },
+      { "sentence": "Mass is measured in liters because it describes space taken up.", "correct": "false" },
+      { "sentence": "Mass depends on the shape and color of an object, not matter.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Mass measures how much matter is in an object and does not change with location.",
+        "chinese": "质量测量物体中物质的多少，不随位置变化。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Volume is the amount of space that matter occupies.", "correct": "true" },
+      { "sentence": "Volume is the same as mass and depends only on weight.", "correct": "false" },
+      { "sentence": "Volume cannot be measured because matter has no size.", "correct": "false" },
+      { "sentence": "Volume refers only to the space taken by gases, not solids.", "correct": "false" },
+      { "sentence": "Volume is the force acting on an object due to gravity.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Volume is the measure of the three-dimensional space an object takes up.",
+        "chinese": "体积是物体所占三维空间的测量。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A solid has a fixed shape and a fixed volume.", "correct": "true" },
+      { "sentence": "A solid has no definite volume and takes the shape of its container.", "correct": "false" },
+      { "sentence": "A solid flows easily because its particles move freely.", "correct": "false" },
+      { "sentence": "A solid exists only at extremely high temperatures like plasma.", "correct": "false" },
+      { "sentence": "A solid is always lighter than liquids and gases of the same material.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Solids maintain their own shape and volume because their particles are tightly packed.",
+        "chinese": "固体因粒子紧密排列而保持固定的形状和体积。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A liquid has a fixed volume but no fixed shape.", "correct": "true" },
+      { "sentence": "A liquid has both a fixed shape and a fixed volume.", "correct": "false" },
+      { "sentence": "A liquid always expands to fill the entire container like a gas.", "correct": "false" },
+      { "sentence": "A liquid does not have mass or occupy space like matter.", "correct": "false" },
+      { "sentence": "A liquid is made of particles locked in place like a solid.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Liquids flow and take the shape of their container but retain a constant volume.",
+        "chinese": "液体会流动并呈现容器的形状，但体积固定。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A gas has neither a fixed shape nor a fixed volume.", "correct": "true" },
+      { "sentence": "A gas has a fixed volume but always a changing shape.", "correct": "false" },
+      { "sentence": "A gas has a fixed shape but no fixed volume.", "correct": "false" },
+      { "sentence": "A gas does not consist of particles and cannot exert pressure.", "correct": "false" },
+      { "sentence": "A gas is only considered matter when compressed into a solid.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Gases expand to fill both the shape and volume of their container.",
+        "chinese": "气体会膨胀以充满容器的形状和体积。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Particles in a liquid are close together but can move past one another.", "correct": "true" },
+      { "sentence": "Particles in a liquid are locked in place and cannot move at all.", "correct": "false" },
+      { "sentence": "Particles in a liquid are far apart like those in a gas.", "correct": "false" },
+      { "sentence": "Particles in a liquid have no interaction and drift completely freely.", "correct": "false" },
+      { "sentence": "Particles in a liquid are arranged in a rigid and fixed lattice.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Liquid particles are close together but have enough freedom to flow past each other.",
+        "chinese": "液体粒子靠得很近，但可以相互滑动流动。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Particles in a gas are far apart and move freely in all directions.", "correct": "true" },
+      { "sentence": "Particles in a gas are tightly packed and vibrate in place.", "correct": "false" },
+      { "sentence": "Particles in a gas remain fixed in a lattice structure like solids.", "correct": "false" },
+      { "sentence": "Particles in a gas have no motion and remain completely still.", "correct": "false" },
+      { "sentence": "Particles in a gas cannot exert pressure because they never collide.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Gas particles are widely spaced and move rapidly, colliding with each other and container walls.",
+        "chinese": "气体粒子相距较远，快速运动并相互碰撞以及碰撞容器壁。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Particles in a solid are tightly packed and vibrate in fixed positions.", "correct": "true" },
+      { "sentence": "Particles in a solid move freely past each other like in a liquid.", "correct": "false" },
+      { "sentence": "Particles in a solid are far apart and spread to fill the container.", "correct": "false" },
+      { "sentence": "Particles in a solid do not exist because solids are continuous.", "correct": "false" },
+      { "sentence": "Particles in a solid move randomly in all directions like gases.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Solid particles are arranged closely in fixed patterns, allowing only vibrations.",
+        "chinese": "固体粒子紧密排列在固定图案中，只能振动。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Plasma is a state of matter where gas particles are ionized.", "correct": "true" },
+      { "sentence": "Plasma is a liquid form of matter found only inside living cells.", "correct": "false" },
+      { "sentence": "Plasma is a solid with tightly packed neutral particles.", "correct": "false" },
+      { "sentence": "Plasma is matter that does not contain any charged particles.", "correct": "false" },
+      { "sentence": "Plasma is only another word for blood in biological systems.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Plasma is an ionized state of matter found in stars and lightning.",
+        "chinese": "等离子体是一种电离态的物质，存在于恒星和闪电中。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Condensation is the process of a gas changing into a liquid.", "correct": "true" },
+      { "sentence": "Condensation is when a liquid changes directly into a gas.", "correct": "false" },
+      { "sentence": "Condensation is when a solid turns directly into a gas.", "correct": "false" },
+      { "sentence": "Condensation is the freezing of a liquid into a solid.", "correct": "false" },
+      { "sentence": "Condensation is when energy is absorbed and temperature increases.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Condensation occurs when gas particles lose energy and form a liquid.",
+        "chinese": "凝结是气体粒子失去能量并形成液体的过程。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Evaporation is the process of a liquid turning into a gas at the surface.", "correct": "true" },
+      { "sentence": "Evaporation is the process of gas turning into liquid when cooled.", "correct": "false" },
+      { "sentence": "Evaporation is when solids directly turn into gases without liquid.", "correct": "false" },
+      { "sentence": "Evaporation is the process of liquid freezing into a solid state.", "correct": "false" },
+      { "sentence": "Evaporation only happens when liquids are boiled at high heat.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Evaporation happens at the liquid surface as particles escape into gas form.",
+        "chinese": "蒸发发生在液体表面，粒子逃逸进入气态。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Sublimation is the change of a solid directly into a gas.", "correct": "true" },
+      { "sentence": "Sublimation is the change of a liquid directly into a gas.", "correct": "false" },
+      { "sentence": "Sublimation is when a solid first melts before turning into gas.", "correct": "false" },
+      { "sentence": "Sublimation is the freezing of liquid into a solid.", "correct": "false" },
+      { "sentence": "Sublimation only occurs when gases cool down into liquids.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Sublimation skips the liquid state, going from solid to gas.",
+        "chinese": "升华跳过液态，直接从固态变为气态。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Melting is the process of a solid turning into a liquid.", "correct": "true" },
+      { "sentence": "Melting is when a liquid turns into gas at the surface.", "correct": "false" },
+      { "sentence": "Melting is when a liquid cools and becomes a solid.", "correct": "false" },
+      { "sentence": "Melting is when gas particles lose energy to form liquids.", "correct": "false" },
+      { "sentence": "Melting occurs when solids directly become gases.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Melting happens when a solid absorbs heat and changes into liquid.",
+        "chinese": "熔化是固体吸收热量变成液体的过程。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Solidification is the process of a liquid changing into a solid.", "correct": "true" },
+      { "sentence": "Solidification is when a solid changes into a gas directly.", "correct": "false" },
+      { "sentence": "Solidification is the evaporation of a liquid into gas.", "correct": "false" },
+      { "sentence": "Solidification is when gas condenses directly into a solid.", "correct": "false" },
+      { "sentence": "Solidification is when heat is absorbed to melt a solid.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Solidification happens when liquids lose heat and form solids.",
+        "chinese": "凝固是液体失去热量变为固体的过程。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Deposition is the process of a gas turning directly into a solid.", "correct": "true" },
+      { "sentence": "Deposition is when a liquid freezes into a solid.", "correct": "false" },
+      { "sentence": "Deposition is when a solid turns into a liquid during melting.", "correct": "false" },
+      { "sentence": "Deposition is when solids directly change into gases.", "correct": "false" },
+      { "sentence": "Deposition only refers to the build-up of sediments in rivers.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Deposition is the phase change from gas to solid without passing through liquid.",
+        "chinese": "凝华是气体直接变为固体而不经过液态的过程。"
+      }
+    ]
+  }
+]
