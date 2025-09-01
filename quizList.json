@@ -508,6 +508,11 @@
         "file": "b1_moon_easy",
         "type": "science",
         "level": "1"
+    },
+              {
+        "name": "b2_matter_and_physical_changes",
+        "file": "b2_matter_and_physical_changes",
+        "type": "science",
+        "level": "2"
     }
-    
 ]
