@@ -1,0 +1,146 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A simple machine is a device that makes work easier by changing the direction or magnitude of a force.", "correct": "true" },
+      { "sentence": "A simple machine is a device that moves objects without changing the force applied.", "correct": "false" },
+      { "sentence": "A simple machine is a device that works only if powered by electricity or motors.", "correct": "false" },
+      { "sentence": "A simple machine is a device that creates energy from nothing to lift loads.", "correct": "false" },
+      { "sentence": "A simple machine is a device that exists only as a theoretical concept in physics.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Simple machines make work easier by altering force or direction, like levers, pulleys, and ramps.",
+        "chinese": "简单机械通过改变力的大小或方向来减轻工作，如杠杆、滑轮和斜面。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Archimedes was an ancient scientist who studied levers and invented simple machines.", "correct": "true" },
+      { "sentence": "Archimedes was an ancient scientist who studied astronomy instead of levers.", "correct": "false" },
+      { "sentence": "Archimedes was an ancient scientist who focused only on water and liquids, not machines.", "correct": "false" },
+      { "sentence": "Archimedes was an ancient scientist who studied pulleys but did not work with levers.", "correct": "false" },
+      { "sentence": "Archimedes was an ancient scientist who only studied mathematics, not mechanical advantage.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Archimedes studied levers, pulleys, and principles of mechanical advantage in ancient Greece.",
+        "chinese": "阿基米德研究杠杆、滑轮以及机械效率的原理，生活在古希腊。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A pulley is a simple machine that uses a wheel and rope to lift or move loads.", "correct": "true" },
+      { "sentence": "A pulley is a simple machine that only changes the direction of force without lifting.", "correct": "false" },
+      { "sentence": "A pulley is a simple machine that works only with motors or engines attached.", "correct": "false" },
+      { "sentence": "A pulley is a simple machine that reduces the weight of objects rather than redirecting force.", "correct": "false" },
+      { "sentence": "A pulley is a simple machine that cannot lift loads by itself and only holds ropes.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Pulleys help lift loads by changing the direction of the applied force.",
+        "chinese": "滑轮通过改变施力方向来帮助提升物体。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A lever is a rigid bar that rotates around a fulcrum to lift or move loads.", "correct": "true" },
+      { "sentence": "A lever is a flexible bar that bends to push or pull objects instead of rotating around a fulcrum.", "correct": "false" },
+      { "sentence": "A lever only works if connected to a pulley or inclined plane.", "correct": "false" },
+      { "sentence": "A lever is used to increase mass rather than apply force effectively.", "correct": "false" },
+      { "sentence": "A lever converts energy from nothing into mechanical work without effort.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Levers allow small forces to move heavy loads by pivoting around a fulcrum.",
+        "chinese": "杠杆通过在支点周围旋转，使小力移动重物。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A ramp or inclined plane is a flat surface set at an angle to help lift objects with less force.", "correct": "true" },
+      { "sentence": "A ramp is a flat surface that magically reduces the weight of objects when pushed upwards.", "correct": "false" },
+      { "sentence": "A ramp works only if it is made of metal or hard materials.", "correct": "false" },
+      { "sentence": "A ramp increases mass instead of reducing the force needed to lift objects.", "correct": "false" },
+      { "sentence": "A ramp converts energy into mechanical work automatically without applying force.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Inclined planes reduce the effort needed to raise objects by extending the distance over which force is applied.",
+        "chinese": "斜面通过延长施力距离来减少抬起物体所需的力。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A compound machine is made of two or more simple machines working together.", "correct": "true" },
+      { "sentence": "A compound machine is a machine that works without any simple machines included.", "correct": "false" },
+      { "sentence": "A compound machine reduces force instead of combining simple machines to help work.", "correct": "false" },
+      { "sentence": "A compound machine only exists as a theoretical concept and cannot be built.", "correct": "false" },
+      { "sentence": "A compound machine produces energy by itself without applying any force.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Compound machines combine simple machines to perform more complex tasks efficiently.",
+        "chinese": "复合机械结合多个简单机械以更高效地完成复杂任务。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Newtons (N) are the units used to measure force in physics.", "correct": "true" },
+      { "sentence": "Newtons are units used to measure mass, temperature, or volume, not force.", "correct": "false" },
+      { "sentence": "Newtons are a type of machine that lifts heavy objects in physics experiments.", "correct": "false" },
+      { "sentence": "Newtons are units only used in chemistry, not for measuring forces.", "correct": "false" },
+      { "sentence": "Newtons measure energy produced by machines rather than the force applied.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Force is measured in Newtons, named after Sir Isaac Newton.",
+        "chinese": "力的单位是牛顿，以艾萨克·牛顿命名。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Mechanical advantage is the ratio of output force to input force in a machine.", "correct": "true" },
+      { "sentence": "Mechanical advantage measures the total weight of a machine rather than the force ratio.", "correct": "false" },
+      { "sentence": "Mechanical advantage tells how much mass a machine removes from an object.", "correct": "false" },
+      { "sentence": "Mechanical advantage measures the distance a machine moves per second, not force ratio.", "correct": "false" },
+      { "sentence": "Mechanical advantage describes the energy lost as heat instead of the multiplication of force.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Mechanical advantage tells how much a machine multiplies force to make work easier.",
+        "chinese": "机械效率表示机械放大力以减轻工作量的能力。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Scissors are a combination of two simple machines: levers and wedges.", "correct": "true" },
+      { "sentence": "Scissors are a single simple machine that works only as a lever.", "correct": "false" },
+      { "sentence": "Scissors work only as a wedge and cannot function as levers.", "correct": "false" },
+      { "sentence": "Scissors are pulleys that lift objects rather than cutting materials.", "correct": "false" },
+      { "sentence": "Scissors convert energy into force directly without any mechanical advantage.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Scissors use levers to amplify force and wedges (blades) to cut materials.",
+        "chinese": "剪刀利用杠杆放大力，并使用刀刃作为楔形切割材料。"
+      }
+    ]
+  }
+]
