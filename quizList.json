@@ -514,5 +514,11 @@
         "file": "b2_matter_and_physical_changes",
         "type": "science",
         "level": "2"
+    },
+             {
+        "name": "b1_simple_machines_new",
+        "file": "b1_simple_machines_new",
+        "type": "science",
+        "level": "1"
     }
 ]
