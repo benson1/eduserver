@@ -520,5 +520,11 @@
         "file": "b1_simple_machines_new",
         "type": "science",
         "level": "1"
+    },
+                {
+        "name": "b4_organisms",
+        "file": "b4_organisms",
+        "type": "science",
+        "level": "4"
     }
 ]
