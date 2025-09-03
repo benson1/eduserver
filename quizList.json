@@ -526,5 +526,11 @@
         "file": "b4_organisms",
         "type": "science",
         "level": "4"
+    },
+                 {
+        "name": "b1_organisms_louis_advanced",
+        "file": "b1_organisms_louis_advanced",
+        "type": "science",
+        "level": "1"
     }
 ]
