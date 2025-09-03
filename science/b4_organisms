@@ -1,0 +1,226 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An organism is a living thing that can carry out life processes independently.", "correct": "true" },
+      { "sentence": "An organism is a collection of cells that cannot perform any processes of life.", "correct": "false" },
+      { "sentence": "An organism refers only to animals and excludes plants or fungi.", "correct": "false" },
+      { "sentence": "An organism is defined as a non-living structure made of chemicals only.", "correct": "false" },
+      { "sentence": "An organism survives only when supported by machines and never on its own.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "An organism is any living being, from single-celled bacteria to complex animals and plants.",
+        "chinese": "生物是指能够独立进行生命活动的任何生物体，从单细胞细菌到复杂的动植物。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Reproduction is the biological process by which living things produce new individuals.", "correct": "true" },
+      { "sentence": "Reproduction only happens in animals and never in plants or microbes.", "correct": "false" },
+      { "sentence": "Reproduction is the process of cells absorbing nutrients for energy.", "correct": "false" },
+      { "sentence": "Reproduction occurs only through machines and not naturally in organisms.", "correct": "false" },
+      { "sentence": "Reproduction is a rare process that occurs only once in the lifetime of all species.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Reproduction allows organisms to create offspring, ensuring the survival of species.",
+        "chinese": "生殖是生物产生新个体的过程，确保物种的延续。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Offspring are the new individuals produced by reproduction from parent organisms.", "correct": "true" },
+      { "sentence": "Offspring are unrelated organisms that appear without reproduction.", "correct": "false" },
+      { "sentence": "Offspring are always genetically identical to their parents with no variation.", "correct": "false" },
+      { "sentence": "Offspring refers only to plant seeds and not to animal young.", "correct": "false" },
+      { "sentence": "Offspring are non-living products created during cell respiration.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Offspring result from reproduction and carry genetic information from their parents.",
+        "chinese": "后代是通过生殖产生的新个体，携带来自父母的遗传信息。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A cell is the basic structural and functional unit of life.", "correct": "true" },
+      { "sentence": "A cell is a large organ that exists only in animals.", "correct": "false" },
+      { "sentence": "A cell is a structure made only of DNA without other components.", "correct": "false" },
+      { "sentence": "A cell is a rigid non-living block that supports organisms like a wall.", "correct": "false" },
+      { "sentence": "A cell is made entirely of empty space without organelles or cytoplasm.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Cells are the smallest units of life, making up all living organisms.",
+        "chinese": "细胞是生命的基本单位，构成所有生物体。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A specialized cell performs a specific function, such as a red blood cell carrying oxygen.", "correct": "true" },
+      { "sentence": "A specialized cell can perform every function in the body equally well.", "correct": "false" },
+      { "sentence": "A specialized cell is identical to a stem cell with no differences.", "correct": "false" },
+      { "sentence": "A specialized cell refers only to plant root hairs and no other cells.", "correct": "false" },
+      { "sentence": "A specialized cell is always non-living and found in fossils only.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Specialized cells have unique structures adapted for specific roles in organisms.",
+        "chinese": "专门化细胞具有独特的结构，以适应生物体中的特定功能。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An organ is a group of tissues working together to perform a function.", "correct": "true" },
+      { "sentence": "An organ is a single cell that acts as a complete living system.", "correct": "false" },
+      { "sentence": "An organ is only found in animals and not in plants.", "correct": "false" },
+      { "sentence": "An organ is an empty structure without any functional role.", "correct": "false" },
+      { "sentence": "An organ is the smallest unit of life, smaller than a cell.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Organs, like the heart or leaves, consist of tissues that work together for a task.",
+        "chinese": "器官由多种组织组成，如心脏或叶子，共同完成特定任务。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An organelle is a specialized structure within a cell that performs a function.", "correct": "true" },
+      { "sentence": "An organelle is a tissue made of many cells working together.", "correct": "false" },
+      { "sentence": "An organelle exists only outside the cell, never inside.", "correct": "false" },
+      { "sentence": "An organelle refers to entire organisms such as animals or plants.", "correct": "false" },
+      { "sentence": "An organelle is a non-living particle unrelated to cellular activity.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Organelles are internal cell structures like mitochondria and chloroplasts with specific roles.",
+        "chinese": "细胞器是细胞内部的结构，如线粒体和叶绿体，具有特定功能。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Vacuoles are storage organelles that hold water, nutrients, or waste.", "correct": "true" },
+      { "sentence": "Vacuoles are the primary site of energy production in all cells.", "correct": "false" },
+      { "sentence": "Vacuoles only exist in animal cells and not in plant cells.", "correct": "false" },
+      { "sentence": "Vacuoles are the structures that contain DNA for cell control.", "correct": "false" },
+      { "sentence": "Vacuoles function as rigid protective walls outside the cell.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Plant cells often contain a large vacuole for storage and maintaining cell shape.",
+        "chinese": "植物细胞通常含有大的液泡，用于储存和维持细胞形态。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Chlorophyll is a green pigment in chloroplasts that absorbs light for photosynthesis.", "correct": "true" },
+      { "sentence": "Chlorophyll is a protein in animal muscles that stores oxygen.", "correct": "false" },
+      { "sentence": "Chlorophyll is a carbohydrate used for storing energy like starch.", "correct": "false" },
+      { "sentence": "Chlorophyll is found only in fungi and not in plants.", "correct": "false" },
+      { "sentence": "Chlorophyll is a mineral absorbed by plants from the soil.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Chlorophyll captures light energy and gives plants their green color.",
+        "chinese": "叶绿素吸收光能，并使植物呈现绿色。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The cell wall is a rigid layer that provides structure and support in plant cells.", "correct": "true" },
+      { "sentence": "The cell wall is a flexible membrane found only in animals.", "correct": "false" },
+      { "sentence": "The cell wall produces energy instead of mitochondria in cells.", "correct": "false" },
+      { "sentence": "The cell wall is a liquid-filled sac used for storage.", "correct": "false" },
+      { "sentence": "The cell wall is found in every type of animal tissue.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Plant cell walls are made mainly of cellulose and provide strength and shape.",
+        "chinese": "植物细胞壁主要由纤维素构成，提供强度和形态。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The cytoplasm is a jelly-like substance that surrounds organelles inside the cell.", "correct": "true" },
+      { "sentence": "The cytoplasm is a rigid wall outside the nucleus that gives protection.", "correct": "false" },
+      { "sentence": "The cytoplasm stores DNA instead of the nucleus.", "correct": "false" },
+      { "sentence": "The cytoplasm is only present in plant cells and not animal cells.", "correct": "false" },
+      { "sentence": "The cytoplasm produces all the cell’s energy like mitochondria.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Cytoplasm supports organelles and is the site of many chemical reactions.",
+        "chinese": "细胞质支撑细胞器，是许多化学反应的场所。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Mitochondria are organelles that release energy through respiration.", "correct": "true" },
+      { "sentence": "Mitochondria store DNA for controlling cell reproduction instead of the nucleus.", "correct": "false" },
+      { "sentence": "Mitochondria capture light for photosynthesis in animal cells.", "correct": "false" },
+      { "sentence": "Mitochondria are only present in plant cells and never in animals.", "correct": "false" },
+      { "sentence": "Mitochondria function as storage vacuoles for water and salts.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Mitochondria are known as the powerhouses of cells, generating energy for activities.",
+        "chinese": "线粒体被称为细胞的能量工厂，为细胞活动提供能量。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The nucleus stores DNA and controls the activities of the cell.", "correct": "true" },
+      { "sentence": "The nucleus is mainly filled with water to keep the cell hydrated.", "correct": "false" },
+      { "sentence": "The nucleus produces energy instead of mitochondria in the cell.", "correct": "false" },
+      { "sentence": "The nucleus is found only in plants and never in animals.", "correct": "false" },
+      { "sentence": "The nucleus acts only as a physical barrier without regulating functions.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The nucleus is the control center of the cell, housing genetic information.",
+        "chinese": "细胞核是细胞的控制中心，储存遗传信息。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The cell membrane regulates the movement of substances in and out of the cell.", "correct": "true" },
+      { "sentence": "The cell membrane is a rigid wall that provides shape like in plants.", "correct": "false" },
+      { "sentence": "The cell membrane produces energy like mitochondria.", "correct": "false" },
+      { "sentence": "The cell membrane exists only in plants to protect the wall.", "correct": "false" },
+      { "sentence": "The cell membrane is a water-filled cavity inside the cytoplasm.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The cell membrane is a flexible barrier that controls entry and exit of substances.",
+        "chinese": "细胞膜是柔性的屏障，控制物质进出细胞。"
+      }
+    ]
+  }
+]
