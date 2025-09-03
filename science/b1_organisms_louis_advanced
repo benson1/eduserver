@@ -1,0 +1,146 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Photosynthesis is the process by which plants, algae, and some bacteria use sunlight, CO₂, and water to make glucose and release oxygen.", "correct": "true" },
+      { "sentence": "Photosynthesis is the process where plants absorb oxygen and nitrogen to build proteins and release glucose as a waste product.", "correct": "false" },
+      { "sentence": "Photosynthesis is how animal cells convert oxygen and glucose into carbon dioxide and energy for survival.", "correct": "false" },
+      { "sentence": "Photosynthesis describes how fungi decompose organic matter outside their cells and absorb the nutrients directly.", "correct": "false" },
+      { "sentence": "Photosynthesis is a process carried out by plants where oxygen is stored as food and carbon dioxide is released.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Photosynthesis converts sunlight, water, and carbon dioxide into glucose and oxygen.",
+        "chinese": "光合作用利用阳光、水和二氧化碳生成葡萄糖并释放氧气。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Bacteria are microscopic, single-celled organisms that can be beneficial, like in digestion, or harmful, like in infections.", "correct": "true" },
+      { "sentence": "Bacteria are large multicellular organisms that always live in groups and have organs and tissues like animals.", "correct": "false" },
+      { "sentence": "Bacteria are tiny living things but they can only survive in extreme environments like volcanoes and never inside humans.", "correct": "false" },
+      { "sentence": "Bacteria are simple non-living particles with no cell structure, very similar to viruses in how they reproduce.", "correct": "false" },
+      { "sentence": "Bacteria are always harmful to humans and the environment and they never provide any useful or beneficial roles.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Bacteria are single-celled organisms; some aid digestion while others cause disease.",
+        "chinese": "细菌是单细胞生物；有些帮助消化，有些会引起疾病。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Respiration is the process where cells break down glucose, usually using oxygen, to release energy and produce carbon dioxide.", "correct": "true" },
+      { "sentence": "Respiration is the process where cells take in carbon dioxide and water to create glucose and oxygen like photosynthesis.", "correct": "false" },
+      { "sentence": "Respiration is limited to plants only, while animal cells never use oxygen to produce cellular energy.", "correct": "false" },
+      { "sentence": "Respiration simply refers to the act of breathing, moving air in and out, without involving any chemical reactions in cells.", "correct": "false" },
+      { "sentence": "Respiration is the process where oxygen gas is produced directly from glucose instead of carbon dioxide as a product.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Cellular respiration breaks down glucose to release energy, often using oxygen and producing carbon dioxide.",
+        "chinese": "细胞呼吸分解葡萄糖以释放能量，通常消耗氧气并产生二氧化碳。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Oxygen is a colorless, odorless gas essential for respiration, and its chemical symbol is O₂.", "correct": "true" },
+      { "sentence": "Oxygen is a heavy green liquid used only by plants for photosynthesis and not needed by animals at all.", "correct": "false" },
+      { "sentence": "Oxygen is a solid substance that animals must eat directly in their diet to survive and grow properly.", "correct": "false" },
+      { "sentence": "Oxygen is a rare gas released only by volcanoes and lightning and is not normally found in Earth’s air.", "correct": "false" },
+      { "sentence": "Oxygen is always harmful to living organisms and is considered toxic for both plants and animals alike.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Oxygen is vital for most living organisms to carry out respiration.",
+        "chinese": "氧气对大多数生物进行呼吸作用至关重要。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Carbon dioxide (CO₂) is a colorless gas released during respiration and used by plants in photosynthesis.", "correct": "true" },
+      { "sentence": "Carbon dioxide is a green solid stored in leaves as food by plants, serving as their main source of nutrients.", "correct": "false" },
+      { "sentence": "Carbon dioxide is the main gas that animals breathe in for survival, providing them with energy directly.", "correct": "false" },
+      { "sentence": "Carbon dioxide is a liquid nutrient that plant roots absorb from the soil just like water and minerals.", "correct": "false" },
+      { "sentence": "Carbon dioxide is another name for oxygen and its chemical formula is the same, written as O₂.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Carbon dioxide is produced by respiration and taken in by plants for photosynthesis.",
+        "chinese": "二氧化碳在呼吸过程中产生，被植物吸收用于光合作用。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Cells are the smallest units of life and the basic building blocks of all living organisms.", "correct": "true" },
+      { "sentence": "Cells are large organ-like structures found only in animals and never in plants or bacteria.", "correct": "false" },
+      { "sentence": "Cells are lifeless particles that support tissues like stones, providing shape but not activity.", "correct": "false" },
+      { "sentence": "Cells are made only of DNA without cytoplasm, organelles, or membranes of any kind.", "correct": "false" },
+      { "sentence": "Cells exist exclusively in plants while animals and bacteria survive without any cells at all.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Cells are the fundamental structural and functional units of all living things.",
+        "chinese": "细胞是所有生物体的基本结构和功能单位。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A parasite is an organism that lives in or on another organism and obtains nutrients at the host’s expense.", "correct": "true" },
+      { "sentence": "A parasite is a partner organism that always shares resources equally and benefits its host completely.", "correct": "false" },
+      { "sentence": "A parasite is a tiny non-living particle with no cells, attaching to surfaces like grains of dust.", "correct": "false" },
+      { "sentence": "A parasite is a special organism that always provides food to plants instead of taking nutrients away.", "correct": "false" },
+      { "sentence": "A parasite is the same as a predator, hunting and killing its prey for food and survival.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Parasites rely on hosts for nutrients, often harming them in the process.",
+        "chinese": "寄生虫依赖宿主获取营养，往往对宿主有害。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A characteristic (trait) is a feature or quality of an organism, such as eye color, leaf shape, or swimming ability.", "correct": "true" },
+      { "sentence": "A characteristic is always the same for every member of a species, with no genetic or environmental variation.", "correct": "false" },
+      { "sentence": "A characteristic refers strictly to behavior and never includes visible features like body shape or color.", "correct": "false" },
+      { "sentence": "A characteristic is a temporary feature that disappears after a short time, never passed to offspring.", "correct": "false" },
+      { "sentence": "A characteristic is identical to an organ, made of tissues, and functions as a body system.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Traits are inherited or influenced by the environment and describe features of organisms.",
+        "chinese": "性状是由遗传或环境影响的，描述生物体的特征。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Salmon are diadromous fish that hatch in freshwater, grow in the ocean, and return to rivers to spawn.", "correct": "true" },
+      { "sentence": "Salmon are fish that spend their entire lives only in saltwater and never migrate back into rivers.", "correct": "false" },
+      { "sentence": "Salmon are fish that reproduce only in the ocean and avoid freshwater streams completely.", "correct": "false" },
+      { "sentence": "Salmon are amphibians that can live both on land and in water throughout their entire lives.", "correct": "false" },
+      { "sentence": "Salmon are freshwater-only fish that never enter the ocean at any stage of their life cycle.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Salmon are anadromous fish: they hatch in rivers, migrate to the sea, and return to freshwater to reproduce.",
+        "chinese": "鲑鱼是溯河洄游鱼类：在淡水中孵化，迁移到海洋，再回到淡水繁殖。"
+      }
+    ]
+  }
+]
