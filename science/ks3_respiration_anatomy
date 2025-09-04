@@ -1,194 +1,122 @@
 [
-{
-"question": "Which sentence is scientifically correct?",
-"options": [
-{ "sentence": "Metabolism is the sum of all chemical reactions that occur within an organism to maintain life.", "correct": "true" },
-{ "sentence": "Metabolism is solely the process of converting food into cellular energy.", "correct": "false" },
-{ "sentence": "Metabolism refers to the physical breakdown of large food particles during digestion.", "correct": "false" },
-{ "sentence": "Metabolism is the system of organs responsible for nutrient absorption.", "correct": "false" },
-{ "sentence": "Metabolism describes the exchange of gases in the respiratory system.", "correct": "false" }
-],
-"explanation": [
-{
-"english": "Metabolism encompasses all anabolic (building up) and catabolic (breaking down) reactions in an organism.",
-"chinese": "新陈代谢包括生物体内所有合成代谢（构建）和分解代谢（分解）反应。"
-}
-]
-},
-{
-"question": "Which sentence is scientifically correct?",
-"options": [
-{ "sentence": "An organ is a structure composed of multiple tissue types that work together to perform a specific function.", "correct": "true" },
-{ "sentence": "An organ is a group of identical cells that perform the same task.", "correct": "false" },
-{ "sentence": "An organ is the smallest living unit capable of independent reproduction.", "correct": "false" },
-{ "sentence": "An organ is a body cavity that houses and protects other structures.", "correct": "false" },
-{ "sentence": "An organ is a system of vessels that transport fluids throughout the body.", "correct": "false" }
-],
-"explanation": [
-{
-"english": "Organs are structures made of two or more tissues working together (e.g., the heart contains muscle, nerve, and connective tissue).",
-"chinese": "器官是由两种或更多组织协同工作的结构（例如，心脏包含肌肉、神经和结缔组织）。"
-}
-]
-},
-{
-"question": "Which sentence is scientifically correct?",
-"options": [
-{ "sentence": "A tissue is a group of similar cells that work together to perform a specific function.", "correct": "true" },
-{ "sentence": "A tissue is a single cell that can perform all necessary life functions.", "correct": "false" },
-{ "sentence": "A tissue is a structure that contains multiple different organs.", "correct": "false" },
-{ "sentence": "A tissue is a fluid that carries nutrients between cells.", "correct": "false" },
-{ "sentence": "A tissue is a protective layer that only covers external body surfaces.", "correct": "false" }
-],
-"explanation": [
-{
-"english": "Tissues are the organizational level between cells and organs. Examples include muscle tissue, nervous tissue, and xylem in plants.",
-"chinese": "组织是细胞和器官之间的组织层级。例如肌肉组织、神经组织和植物中的木质部。"
-}
-]
-},
-{
-"question": "Which sentence is scientifically correct?",
-"options": [
-{ "sentence": "Xylem is a plant tissue that transports water and minerals from the roots to the rest of the plant.", "correct": "true" },
-{ "sentence": "Xylem is a plant tissue that transports sugars produced in the leaves to other parts of the plant.", "correct": "false" },
-{ "sentence": "Xylem is the outer protective layer of bark on a tree trunk.", "correct": "false" },
-{ "sentence": "Xylem is a cell organelle where photosynthesis takes place.", "correct": "false" },
-{ "sentence": "Xylem is a reproductive structure found in flowering plants.", "correct": "false" }
-],
-"explanation": [
-{
-"english": "Xylem consists of hollow, non-living cells that form tubes for the upward movement of water and dissolved minerals.",
-"chinese": "木质部由中空的死细胞组成，形成管道用于水和溶解矿物质的向上运输。"
-}
-]
-},
-{
-"question": "Which sentence is scientifically correct?",
-"options": [
-{ "sentence": "The respiratory system is responsible for the exchange of oxygen and carbon dioxide between the body and the environment.", "correct": "true" },
-{ "sentence": "The respiratory system pumps oxygenated blood throughout the body.", "correct": "false" },
-{ "sentence": "The respiratory system is primarily involved in breaking down food for energy.", "correct": "false" },
-{ "sentence": "The respiratory system filters waste products from the blood for excretion.", "correct": "false" },
-{ "sentence": "The respiratory system produces hormones that regulate growth.", "correct": "false" }
-],
-"explanation": [
-{
-"english": "The respiratory system includes the lungs and airways, facilitating gas exchange to oxygenate blood and remove carbon dioxide.",
-"chinese": "呼吸系统包括肺和气道，促进气体交换，为血液充氧并清除二氧化碳。"
-}
-]
-},
-{
-"question": "Which sentence is scientifically correct?",
-"options": [
-{ "sentence": "The trachea is the windpipe that carries air from the larynx to the bronchi.", "correct": "true" },
-{ "sentence": "The trachea is a blood vessel that carries oxygenated blood away from the heart.", "correct": "false" },
-{ "sentence": "The trachea is a muscle that controls the expansion and contraction of the lungs.", "correct": "false" },
-{ "sentence": "The trachea is the sac where gas exchange with the blood occurs.", "correct": "false" },
-{ "sentence": "The trachea is a bone that protects the front of the neck.", "correct": "false" }
-],
-"explanation": [
-{
-"english": "The trachea is a tube reinforced with cartilage rings that keeps the airway open for air passage.",
-"chinese": "气管是一个由软骨环支撑的管道，保持气道开放以允许空气通过。"
-}
-]
-},
-{
-"question": "Which sentence is scientifically correct?",
-"options": [
-{ "sentence": "A bronchus is a major airway that branches off from the trachea and leads into the lungs.", "correct": "true" },
-{ "sentence": "A bronchus is a tiny blood vessel that surrounds the alveoli for gas exchange.", "correct": "false" },
-{ "sentence": "A bronchus is a valve that prevents food from entering the airway.", "correct": "false" },
-{ "sentence": "A bronchus is the membrane that encloses and protects the lungs.", "correct": "false" },
-{ "sentence": "A bronchus is a bone structure that forms the rib cage.", "correct": "false" }
-],
-"explanation": [
-{
-"english": "The trachea splits into the left and right primary bronchi, each connecting to a lung and further branching into smaller bronchioles.",
-"chinese": "气管分成左、右主支气管，分别连接左肺和右肺，并进一步分支成更小的细支气管。"
-}
-]
-},
-{
-"question": "Which sentence is scientifically correct?",
-"options": [
-{ "sentence": "An alveolus is a tiny air sac in the lungs where gas exchange with the blood occurs.", "correct": "true" },
-{ "sentence": "An alveolus is a cell that produces mucus to trap dust and pathogens.", "correct": "false" },
-{ "sentence": "An alveolus is a muscle that helps to inflate and deflate the lungs.", "correct": "false" },
-{ "sentence": "An alveolus is the largest airway before the trachea splits.", "correct": "false" },
-{ "sentence": "An alveolus is a cartilage ring that provides structure to the airways.", "correct": "false" }
-],
-"explanation": [
-{
-"english": "Alveoli have extremely thin walls and are surrounded by capillaries, allowing for efficient diffusion of oxygen into the blood and carbon dioxide out.",
-"chinese": "肺泡有极薄的壁，并被毛细血管包围，允许氧气高效扩散到血液中，二氧化碳扩散出来。"
-}
-]
-},
-{
-"question": "Which sentence is scientifically correct?",
-"options": [
-{ "sentence": "Bone marrow is the soft tissue inside bones where blood cells are produced.", "correct": "true" },
-{ "sentence": "Bone marrow is the hard, outer layer of bone that provides strength.", "correct": "false" },
-{ "sentence": "Bone marrow is the fluid found in joints that acts as a lubricant.", "correct": "false" },
-{ "sentence": "Bone marrow is a type of connective tissue that attaches muscle to bone.", "correct": "false" },
-{ "sentence": "Bone marrow is the cavity in the center of long bones that stores fat only.", "correct": "false" }
-],
-"explanation": [
-{
-"english": "Bone marrow is the site of hematopoiesis, the process of producing red blood cells, white blood cells, and platelets.",
-"chinese": "骨髓是造血的场所，是产生红细胞、白细胞和血小板的过程。"
-}
-]
-},
-{
-"question": "Which sentence is scientifically correct?",
-"options": [
-{ "sentence": "A red blood cell is specialized to carry oxygen from the lungs to the body's tissues.", "correct": "true" },
-{ "sentence": "A red blood cell is a cell that fights infection by attacking pathogens.", "correct": "false" },
-{ "sentence": "A red blood cell contains a nucleus to control its functions.", "correct": "false" },
-{ "sentence": "A red blood cell is responsible for clotting blood at the site of a wound.", "correct": "false" },
-{ "sentence": "A red blood cell is produced in the liver and stored in the spleen.", "correct": "false" }
-],
-"explanation": [
-{
-"english": "Red blood cells contain hemoglobin, an iron-rich protein that binds to oxygen. They lack a nucleus to make more room for oxygen transport.",
-"chinese": "红细胞含有血红蛋白，这是一种富含铁的蛋白质，可以结合氧气。它们没有细胞核，为氧气运输腾出更多空间。"
-}
-]
-},
-{
-"question": "Which sentence is scientifically correct?",
-"options": [
-{ "sentence": "A white blood cell is a key component of the immune system that defends against infection.", "correct": "true" },
-{ "sentence": "A white blood cell's primary role is to carry carbon dioxide away from tissues.", "correct": "false" },
-{ "sentence": "A white blood cell is the most abundant cell type in human blood.", "correct": "false" },
-{ "sentence": "A white blood cell uses hemoglobin to transport gases through the bloodstream.", "correct": "false" },
-{ "sentence": "A white blood cell is a cell fragment that initiates blood clotting.", "correct": "false" }
-],
-"explanation": [
-{
-"english": "White blood cells identify and destroy pathogens like bacteria and viruses, and they can also produce antibodies.",
-"chinese": "白细胞识别并摧毁细菌和病毒等病原体，它们也能产生抗体。"
-}
-]
-},
-{
-"question": "Which sentence is scientifically correct?",
-"options": [
-{ "sentence": "Sinusoidal capillaries are leaky capillaries with large pores that allow large molecules and cells to pass through.", "correct": "true" },
-{ "sentence": "Sinusoidal capillaries are the most common type of capillary, with very tight junctions between cells.", "correct": "false" },
-{ "sentence": "Sinusoidal capillaries are thick-walled vessels that withstand high blood pressure from the heart.", "correct": "false" },
-{ "sentence": "Sinusoidal capillaries are found only in the brain to form the blood-brain barrier.", "correct": "false" },
-{ "sentence": "Sinusoidal capillaries are valves that ensure one-way blood flow back to the heart.", "correct": "false" }
-],
-"explanation": [
-{
-"english": "Sinusoidal capillaries have large intercellular gaps and an incomplete basement membrane, enabling the exchange of large proteins and even cells. They are found in the liver, bone marrow, and spleen.",
-"chinese": "血窦毛细血管具有大的细胞间隙和不完整的基底膜，能够交换大蛋白质甚至细胞。它们存在于肝脏、骨髓和脾脏中。"
-}
-]
-}
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      {"sentence": "Metabolism is the sum of all chemical reactions that occur within an organism to maintain life.", "correct": "true"},
+      {"sentence": "Metabolism is the process of breaking down nutrients to produce energy for cells.", "correct": "false"},
+      {"sentence": "Metabolism is the set of chemical changes that occur in cells to support life.", "correct": "false"},
+      {"sentence": "Metabolism is the combined activity of organs that convert food into energy.", "correct": "false"},
+      {"sentence": "Metabolism is the process by which gases like oxygen are moved through the body.", "correct": "false"}
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      {"sentence": "An organ is a structure composed of multiple tissue types that work together to perform a specific function.", "correct": "true"},
+      {"sentence": "An organ is a group of identical cells that work together to carry out a function.", "correct": "false"},
+      {"sentence": "An organ is the smallest living unit capable of sustaining independent life.", "correct": "false"},
+      {"sentence": "An organ is a hollow space inside the body that houses other internal tissues.", "correct": "false"},
+      {"sentence": "An organ is a system of vessels and structures that help move substances around.", "correct": "false"}
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      {"sentence": "A tissue is a group of similar cells that work together to perform a specific function.", "correct": "true"},
+      {"sentence": "A tissue is a single cell that can perform multiple necessary functions at once.", "correct": "false"},
+      {"sentence": "A tissue is a combination of different organs working together as one unit.", "correct": "false"},
+      {"sentence": "A tissue is a fluid that moves nutrients and other materials between cells.", "correct": "false"},
+      {"sentence": "A tissue is a protective layer that covers surfaces and some internal structures.", "correct": "false"}
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      {"sentence": "Xylem is a plant tissue that transports water and minerals from the roots to the rest of the plant.", "correct": "true"},
+      {"sentence": "Xylem is a plant tissue that moves sugars from leaves to roots of the plant.", "correct": "false"},
+      {"sentence": "Xylem is the outer layer of a plant stem that protects it from damage.", "correct": "false"},
+      {"sentence": "Xylem is the tissue in plants where cells carry out photosynthesis reactions.", "correct": "false"},
+      {"sentence": "Xylem is a reproductive structure that forms seeds in flowering plants.", "correct": "false"}
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      {"sentence": "The respiratory system is responsible for the exchange of oxygen and carbon dioxide between the body and the environment.", "correct": "true"},
+      {"sentence": "The respiratory system pumps blood and nutrients through the heart and vessels.", "correct": "false"},
+      {"sentence": "The respiratory system is mainly involved in digesting food for energy use.", "correct": "false"},
+      {"sentence": "The respiratory system filters wastes and toxins from the bloodstream constantly.", "correct": "false"},
+      {"sentence": "The respiratory system produces hormones that regulate growth and metabolism.", "correct": "false"}
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      {"sentence": "The trachea is the windpipe that carries air from the larynx to the bronchi.", "correct": "true"},
+      {"sentence": "The trachea is a large blood vessel that carries oxygenated blood from the heart.", "correct": "false"},
+      {"sentence": "The trachea is a muscle that controls the lungs during inhalation and exhalation.", "correct": "false"},
+      {"sentence": "The trachea is a small sac where gases like oxygen and carbon dioxide are exchanged.", "correct": "false"},
+      {"sentence": "The trachea is a cartilage-reinforced tube that protects the front of the neck.", "correct": "false"}
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      {"sentence": "A bronchus is a major airway that branches off from the trachea and leads into the lungs.", "correct": "true"},
+      {"sentence": "A bronchus is a network of blood vessels around alveoli for gas exchange in lungs.", "correct": "false"},
+      {"sentence": "A bronchus is a valve that prevents food or liquid from entering the airways.", "correct": "false"},
+      {"sentence": "A bronchus is a thin membrane that surrounds and protects the lungs from damage.", "correct": "false"},
+      {"sentence": "A bronchus is a rigid bone structure that forms part of the rib cage of the chest.", "correct": "false"}
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      {"sentence": "An alveolus is a tiny air sac in the lungs where gas exchange with the blood occurs.", "correct": "true"},
+      {"sentence": "An alveolus is a cell that produces mucus to trap dust and pathogens in the lungs.", "correct": "false"},
+      {"sentence": "An alveolus is a muscle that helps inflate and deflate the lungs during breathing.", "correct": "false"},
+      {"sentence": "An alveolus is the largest airway before the trachea splits into the bronchi.", "correct": "false"},
+      {"sentence": "An alveolus is a cartilage ring that provides structure to the small airways of lungs.", "correct": "false"}
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      {"sentence": "Bone marrow is the soft tissue inside bones where blood cells are produced.", "correct": "true"},
+      {"sentence": "Bone marrow is the hard outer layer that gives bones strength and support.", "correct": "false"},
+      {"sentence": "Bone marrow is the fluid in joints that acts as a lubricant for easy movement.", "correct": "false"},
+      {"sentence": "Bone marrow is connective tissue that attaches muscles to bones firmly.", "correct": "false"},
+      {"sentence": "Bone marrow is the cavity in long bones that primarily stores fat cells.", "correct": "false"}
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      {"sentence": "A red blood cell is specialized to carry oxygen from the lungs to the body's tissues.", "correct": "true"},
+      {"sentence": "A red blood cell is a cell that defends the body by attacking pathogens.", "correct": "false"},
+      {"sentence": "A red blood cell contains a nucleus that regulates all of its cellular functions.", "correct": "false"},
+      {"sentence": "A red blood cell is responsible for forming clots at the site of a wound.", "correct": "false"},
+      {"sentence": "A red blood cell is produced in the liver and stored temporarily in the spleen.", "correct": "false"}
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      {"sentence": "A white blood cell is a key component of the immune system that defends against infection.", "correct": "true"},
+      {"sentence": "A white blood cell mainly removes carbon dioxide from the tissues of the body.", "correct": "false"},
+      {"sentence": "A white blood cell is the most abundant type of cell in human blood.", "correct": "false"},
+      {"sentence": "A white blood cell uses hemoglobin to transport gases through the bloodstream.", "correct": "false"},
+      {"sentence": "A white blood cell is a fragment that initiates blood clotting at wound sites.", "correct": "false"}
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      {"sentence": "Sinusoidal capillaries are leaky capillaries with large pores that allow large molecules and cells to pass through.", "correct": "true"},
+      {"sentence": "Sinusoidal capillaries are the most common type of capillaries with tight junctions.", "correct": "false"},
+      {"sentence": "Sinusoidal capillaries are thick-walled vessels that withstand high pressure from blood.", "correct": "false"},
+      {"sentence": "Sinusoidal capillaries are found only in the brain forming the blood-brain barrier.", "correct": "false"},
+      {"sentence": "Sinusoidal capillaries are valve-like structures that ensure blood flows one direction.", "correct": "false"}
+    ]
+  }
 ]
