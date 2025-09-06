@@ -1,0 +1,250 @@
+[
+  {
+    "question": "What is a producer in nature?",
+    "options": [
+      {
+        "sentence": "An organism that makes its own food using sunlight or chemicals.",
+        "correct": "true"
+      },
+      {
+        "sentence": "An animal that survives by eating plants, animals, or both types of food.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A creature that breaks down dead organisms and returns nutrients to soil.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A predator that hunts smaller species and uses them as its main energy source.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An organism that relies only on food prepared and provided by humans.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Producers like plants and algae use photosynthesis to create energy-rich food.",
+        "chinese": "像植物和藻类这样的生产者通过光合作用制造富含能量的食物。"
+      }
+    ]
+  },
+  {
+    "question": "What is a consumer?",
+    "options": [
+      {
+        "sentence": "An organism that gets energy by eating plants or other animals.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A plant that produces its own food using sunlight, water, and carbon dioxide.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A fungus that breaks down dead organisms into smaller and useful nutrients.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An animal that never eats at all and manages to survive without food.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A habitat like a river or lake where living things gather to find water.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Herbivores, carnivores, and omnivores are all consumers because they must eat to gain energy.",
+        "chinese": "草食动物、肉食动物和杂食动物都是消费者，因为它们必须通过进食来获得能量。"
+      }
+    ]
+  },
+  {
+    "question": "What is a decomposer?",
+    "options": [
+      {
+        "sentence": "An organism that breaks down dead plants and animals into nutrients.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A predator that survives by hunting and feeding on living creatures around it.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A producer that makes its own food using energy from the sun or chemicals.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A type of plant that grows without sunlight and survives in total darkness.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An animal that stores fat in its body to survive through the winter months.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Decomposers like fungi, worms, and bacteria recycle nutrients back into the soil.",
+        "chinese": "像真菌、蠕虫和细菌这样的分解者会把养分循环回土壤中。"
+      }
+    ]
+  },
+  {
+    "question": "What is a food chain?",
+    "options": [
+      {
+        "sentence": "A simple path showing how energy passes from one organism to another.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A type of chain made of metal links that animals might wear for safety.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A group of animals that stay together in order to share food and safety.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A set of plants that always grow in the same soil and share the sunlight.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A waterway where fish move together as they search for food and shelter.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "A food chain might show grass → rabbit → fox, transferring energy step by step.",
+        "chinese": "食物链可能显示草→兔子→狐狸，能量一步步传递。"
+      }
+    ]
+  },
+  {
+    "question": "What is a food web?",
+    "options": [
+      {
+        "sentence": "A network of many food chains connected together in an ecosystem.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A sticky web made by spiders to catch and eat insects for survival.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A single straight chain that shows animals eating one after another.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A farming tool designed by humans to help crops grow more quickly.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A path used by migrating animals as they travel during certain seasons.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "A food web shows how multiple food chains overlap, making ecosystems stable.",
+        "chinese": "食物网显示了多个食物链如何相互交织，使生态系统保持稳定。"
+      }
+    ]
+  },
+  {
+    "question": "What is competition in ecosystems?",
+    "options": [
+      {
+        "sentence": "When organisms fight for the same limited resources like food or space.",
+        "correct": "true"
+      },
+      {
+        "sentence": "When animals work together in groups to help each other stay alive.",
+        "correct": "false"
+      },
+      {
+        "sentence": "When decomposers recycle nutrients in soil and return them to the plants.",
+        "correct": "false"
+      },
+      {
+        "sentence": "When predators capture their prey to gain the energy needed for life.",
+        "correct": "false"
+      },
+      {
+        "sentence": "When animals travel long distances to warmer places during the winter.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Plants may compete for sunlight, while animals may compete for food or mates.",
+        "chinese": "植物可能会争夺阳光，而动物可能会争夺食物或配偶。"
+      }
+    ]
+  },
+  {
+    "question": "What is an energy pyramid?",
+    "options": [
+      {
+        "sentence": "A diagram showing how energy decreases at each level of a food chain.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A pyramid-shaped nest carefully built by birds to keep their young safe.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A mountain where animals climb to search for food, water, and shelter.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A symbol used to show the balance between animals living on land and sea.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A rock formation that holds the fossils of ancient plants and animals.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "An energy pyramid shows producers at the base with the most energy, and top predators at the tip with the least.",
+        "chinese": "能量金字塔显示了生产者在底部拥有最多能量，而顶端捕食者拥有最少能量。"
+      }
+    ]
+  },
+  {
+    "question": "What is an ecosystem?",
+    "options": [
+      {
+        "sentence": "A community of living things interacting with each other and their environment.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A shelter or cave that animals use to stay safe when the weather is bad.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A single predator that spends its time hunting prey to find enough food.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A forest that is filled with trees and plants but does not include animals.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A machine designed by humans to protect animals and control their living space.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "An ecosystem includes living things like animals and plants plus nonliving parts like water, soil, and sunlight.",
+        "chinese": "生态系统包括动物和植物等生物，以及水、土壤和阳光等非生物部分。"
+      }
+    ]
+  }
+]
