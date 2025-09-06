@@ -538,5 +538,11 @@
         "file": "ks3_respiration_anatomy",
         "type": "science",
         "level": "5"
+    },
+        {
+         "name": "b4_food_chains",
+        "file": "b4_food_chains",
+        "type": "science",
+        "level": "4"
     }
 ]
