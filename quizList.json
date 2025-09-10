@@ -544,5 +544,12 @@
         "file": "b4_food_chains",
         "type": "science",
         "level": "4"
+    },
+            {
+         "name": "b1_natural_resources_energy_sources",
+        "file": "b1_natural_resources_energy_sources",
+        "type": "science",
+        "level": "1"
     }
+
 ]
