@@ -1,0 +1,194 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Geology is the study of the Earth, including rocks, minerals, and processes that shape it.", "correct": "true" },
+      { "sentence": "Geology is the study of weather patterns, climate, and atmospheric processes.", "correct": "false" },
+      { "sentence": "Geology is the study of living organisms and their interactions in ecosystems.", "correct": "false" },
+      { "sentence": "Geology is the study of stars, planets, and galaxies beyond Earth.", "correct": "false" },
+      { "sentence": "Geology is the study of electricity, magnetism, and energy in machines.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Geology is the science of Earth's structure, materials, and history.",
+        "chinese": "地质学是研究地球结构、物质和历史的科学。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Weathering is the breaking down of rocks into smaller pieces by natural forces.", "correct": "true" },
+      { "sentence": "Weathering is the movement of sediments from one place to another by wind or water.", "correct": "false" },
+      { "sentence": "Weathering is the solidification of molten rock into igneous rock.", "correct": "false" },
+      { "sentence": "Weathering is the layering of sediments into new rock formations.", "correct": "false" },
+      { "sentence": "Weathering is the recycling of minerals through tectonic activity.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Weathering breaks rocks into smaller pieces through physical, chemical, or biological processes.",
+        "chinese": "风化通过物理、化学或生物过程将岩石分解成较小的碎片。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Erosion is the transport of weathered rock and soil by wind, water, or ice.", "correct": "true" },
+      { "sentence": "Erosion is the breakdown of solid rock into smaller fragments.", "correct": "false" },
+      { "sentence": "Erosion is the process of forming crystals deep within the Earth.", "correct": "false" },
+      { "sentence": "Erosion is the compaction of sediments into sedimentary rock.", "correct": "false" },
+      { "sentence": "Erosion is the cooling and solidification of magma at the surface.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Erosion moves sediments after weathering, usually by water, wind, or glaciers.",
+        "chinese": "侵蚀是风化后通过水、风或冰川搬运沉积物的过程。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Pollution is the introduction of harmful substances into the environment.", "correct": "true" },
+      { "sentence": "Pollution is the natural recycling of materials through ecosystems.", "correct": "false" },
+      { "sentence": "Pollution is the natural release of gases from volcanoes and geysers.", "correct": "false" },
+      { "sentence": "Pollution is the process of water evaporating into the atmosphere.", "correct": "false" },
+      { "sentence": "Pollution is the mixing of soil and minerals to create fertile land.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Pollution damages the environment by adding harmful substances like smoke, chemicals, or waste.",
+        "chinese": "污染是指向环境中引入有害物质，如烟雾、化学品或废物，从而破坏环境。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A natural resource is a useful material that comes from the Earth, like water, wood, or minerals.", "correct": "true" },
+      { "sentence": "A natural resource is any product manufactured by humans in factories.", "correct": "false" },
+      { "sentence": "A natural resource refers only to fossil fuels formed underground.", "correct": "false" },
+      { "sentence": "A natural resource is defined as energy produced by burning coal.", "correct": "false" },
+      { "sentence": "A natural resource is always an unlimited supply of materials from Earth.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Natural resources are materials from nature that humans use, such as water, air, soil, and minerals.",
+        "chinese": "自然资源是来自自然并被人类利用的材料，如水、空气、土壤和矿物。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Reuse means using items again instead of throwing them away.", "correct": "true" },
+      { "sentence": "Reuse means processing used materials into completely new products.", "correct": "false" },
+      { "sentence": "Reuse means reducing the total number of materials we consume.", "correct": "false" },
+      { "sentence": "Reuse means discarding materials so they do not enter the environment.", "correct": "false" },
+      { "sentence": "Reuse means transforming waste into energy through burning.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Reuse is using products again to save resources and reduce waste.",
+        "chinese": "重复使用是指再次使用物品以节约资源并减少浪费。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Reduce means cutting down the amount of resources or energy we use.", "correct": "true" },
+      { "sentence": "Reduce means reusing materials multiple times before disposal.", "correct": "false" },
+      { "sentence": "Reduce means recycling waste into new materials.", "correct": "false" },
+      { "sentence": "Reduce means producing more goods from fewer natural resources.", "correct": "false" },
+      { "sentence": "Reduce means concentrating natural resources into fewer locations.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Reduce means lowering our use of resources to minimize waste and pollution.",
+        "chinese": "减少是指降低资源的使用，以减少浪费和污染。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Recycle means processing used materials into new products.", "correct": "true" },
+      { "sentence": "Recycle means reducing the number of materials we consume.", "correct": "false" },
+      { "sentence": "Recycle means reusing items in their original form without changes.", "correct": "false" },
+      { "sentence": "Recycle means burying waste in landfills to remove it from the environment.", "correct": "false" },
+      { "sentence": "Recycle means breaking rocks into smaller sediments by natural forces.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Recycling transforms waste into new materials or products to save resources.",
+        "chinese": "回收是将废物转化为新材料或产品，以节约资源。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A fossil is the preserved remains or traces of ancient living organisms.", "correct": "true" },
+      { "sentence": "A fossil is a newly formed rock created by volcanic activity.", "correct": "false" },
+      { "sentence": "A fossil is the preserved minerals inside a cave formation.", "correct": "false" },
+      { "sentence": "A fossil is the remains of plants and animals that are still alive today.", "correct": "false" },
+      { "sentence": "A fossil is the waste left behind by human activity.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Fossils are remains or imprints of organisms preserved in rocks over millions of years.",
+        "chinese": "化石是数百万年间保存在岩石中的生物遗骸或印痕。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Renewable energy comes from sources like sunlight, wind, and water that can be naturally replenished.", "correct": "true" },
+      { "sentence": "Renewable energy comes from fossil fuels that take millions of years to form.", "correct": "false" },
+      { "sentence": "Renewable energy comes only from nuclear reactions deep inside Earth.", "correct": "false" },
+      { "sentence": "Renewable energy comes from minerals that are mined and used once.", "correct": "false" },
+      { "sentence": "Renewable energy comes from burning non-renewable natural gas reserves.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Renewable energy sources regenerate naturally, such as solar, wind, hydro, and geothermal.",
+        "chinese": "可再生能源来自自然能够再生的来源，如太阳能、风能、水能和地热能。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Non-renewable energy comes from resources like coal, oil, and natural gas that cannot be quickly replaced.", "correct": "true" },
+      { "sentence": "Non-renewable energy comes from renewable resources such as sunlight and wind.", "correct": "false" },
+      { "sentence": "Non-renewable energy comes from geothermal heat and flowing rivers.", "correct": "false" },
+      { "sentence": "Non-renewable energy comes from continuously available natural cycles.", "correct": "false" },
+      { "sentence": "Non-renewable energy comes from resources that regenerate quickly on a human timescale.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Non-renewable energy sources are limited and take millions of years to form, such as fossil fuels.",
+        "chinese": "不可再生能源是有限的，需要数百万年形成，如化石燃料。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Fossil fuels are energy sources formed from ancient plants and animals, such as coal, oil, and natural gas.", "correct": "true" },
+      { "sentence": "Fossil fuels are energy sources formed from molten rock cooling underground.", "correct": "false" },
+      { "sentence": "Fossil fuels are energy sources formed only from mineral deposits with no organic matter.", "correct": "false" },
+      { "sentence": "Fossil fuels are energy sources formed from the breakdown of modern plastics.", "correct": "false" },
+      { "sentence": "Fossil fuels are energy sources formed from volcanic gases in Earth’s atmosphere.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Fossil fuels formed from ancient biomass and are non-renewable sources of energy.",
+        "chinese": "化石燃料由古代生物质形成，是不可再生的能源。"
+      }
+    ]
+  }
+]
