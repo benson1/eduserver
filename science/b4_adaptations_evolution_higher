@@ -1,0 +1,226 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Adaptation is a trait or behavior that increases an organism’s chances of survival in its environment.", "correct": "true" },
+      { "sentence": "Adaptation is a sudden change in climate that organisms must endure without altering their characteristics.", "correct": "false" },
+      { "sentence": "Adaptation is a process in which organisms adjust daily activities but not long-term features of survival.", "correct": "false" },
+      { "sentence": "Adaptation is the random appearance of traits that do not affect survival or reproduction at all.", "correct": "false" },
+      { "sentence": "Adaptation is a temporary shift in habits that disappears when conditions return to normal.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Adaptation is any trait, structure, or behavior that helps an organism survive and reproduce in its environment.",
+        "chinese": "适应是指有助于生物在其环境中生存和繁殖的任何特征、结构或行为。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Camouflage is when an organism blends into its surroundings to avoid predators or capture prey.", "correct": "true" },
+      { "sentence": "Camouflage is when an organism grows larger muscles to fight off any predator it encounters.", "correct": "false" },
+      { "sentence": "Camouflage is when an organism changes its food source in order to survive different seasons.", "correct": "false" },
+      { "sentence": "Camouflage is when an organism releases bright light so predators can clearly see it in the dark.", "correct": "false" },
+      { "sentence": "Camouflage is when an organism builds shelters that disguise its body instead of blending in.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Camouflage allows organisms to hide by blending with their surroundings, making them less visible to predators or prey.",
+        "chinese": "伪装使生物能够与周围环境融为一体，从而不易被捕食者或猎物发现。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Hibernation is a state of inactivity and lowered body functions that helps animals survive winter.", "correct": "true" },
+      { "sentence": "Hibernation is a short daily nap animals take to conserve energy during the daylight hours.", "correct": "false" },
+      { "sentence": "Hibernation is the constant movement of animals to stay warm when the weather gets cold.", "correct": "false" },
+      { "sentence": "Hibernation is when animals eat continuously throughout the cold season without resting.", "correct": "false" },
+      { "sentence": "Hibernation is a condition where animals overheat and avoid shade during hot summer months.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Hibernation is a survival strategy where animals enter a state of reduced activity and metabolism during cold seasons.",
+        "chinese": "冬眠是一种生存策略，动物在寒冷季节通过进入低活动和低代谢状态来维持生命。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Migration is the seasonal movement of animals from one region to another for food, breeding, or climate.", "correct": "true" },
+      { "sentence": "Migration is when animals dig burrows underground to hide from predators instead of moving long distances.", "correct": "false" },
+      { "sentence": "Migration is when animals grow thicker fur and remain in the same area throughout the year.", "correct": "false" },
+      { "sentence": "Migration is when animals randomly scatter without following a predictable route or purpose.", "correct": "false" },
+      { "sentence": "Migration is when animals develop new traits immediately to adjust to changing weather patterns.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Migration is a repeated seasonal journey that animals make, often for feeding, breeding, or better climate conditions.",
+        "chinese": "迁徙是动物反复进行的季节性旅程，通常是为了觅食、繁殖或寻找更适宜的气候条件。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Brumation is a period of dormancy in reptiles during cold weather, similar to hibernation in mammals.", "correct": "true" },
+      { "sentence": "Brumation is when reptiles eat continuously to stay active throughout the entire winter season.", "correct": "false" },
+      { "sentence": "Brumation is when reptiles migrate across continents to find warmer climates every year.", "correct": "false" },
+      { "sentence": "Brumation is a rapid growth process in reptiles that only happens during the summer months.", "correct": "false" },
+      { "sentence": "Brumation is when reptiles produce body heat constantly so they never become inactive in cold weather.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Brumation is a state of dormancy in cold-blooded animals like reptiles during winter, where activity slows and metabolism decreases.",
+        "chinese": "冬蛰是冷血动物（如爬行动物）在冬季进入的一种休眠状态，其活动和代谢都会减慢。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Mimicry is when one species evolves to resemble another for protection or to gain an advantage in its environment.", "correct": "true" },
+      { "sentence": "Mimicry is when animals change their fur color seasonally without any effect on survival or predators.", "correct": "false" },
+      { "sentence": "Mimicry is when plants grow taller than others in the same field to compete for sunlight.", "correct": "false" },
+      { "sentence": "Mimicry is when animals migrate long distances to copy the behaviors of other species.", "correct": "false" },
+      { "sentence": "Mimicry is when organisms increase their body size rapidly to intimidate predators temporarily.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Mimicry occurs when one species evolves to resemble another, like harmless butterflies imitating toxic ones to avoid predators.",
+        "chinese": "拟态发生在一种物种进化成类似另一种物种的外形，如无害蝴蝶模仿有毒蝴蝶以躲避捕食者。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Tropism is the growth response of a plant toward or away from an environmental stimulus such as light or gravity.", "correct": "true" },
+      { "sentence": "Tropism is when animals move in response to seasonal temperature changes rather than growing toward a stimulus.", "correct": "false" },
+      { "sentence": "Tropism is when plants shed their leaves in autumn as a direct response to predators.", "correct": "false" },
+      { "sentence": "Tropism is the daily opening and closing of flowers without responding to external stimuli.", "correct": "false" },
+      { "sentence": "Tropism is when plants produce extra seeds as a reaction to nutrient availability in the soil.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Examples of tropism include phototropism, where plants grow toward light, and gravitropism, where roots grow downward in response to gravity.",
+        "chinese": "向性反应的例子包括向光性（植物向光生长）和向地性（根朝下生长以响应重力）。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Accommodation is the process by which the eye changes the shape of its lens to focus on objects at different distances.", "correct": "true" },
+      { "sentence": "Accommodation is when animals relocate to different habitats to survive seasonal changes without altering vision.", "correct": "false" },
+      { "sentence": "Accommodation is the process by which plants grow taller to avoid shade from other vegetation.", "correct": "false" },
+      { "sentence": "Accommodation is when animals hibernate and change their metabolism in winter months rather than focusing vision.", "correct": "false" },
+      { "sentence": "Accommodation is when organisms change their behavior temporarily in response to predators instead of adjusting eye focus.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Accommodation is how the lens of the eye changes shape to focus near or distant objects clearly.",
+        "chinese": "调节是眼睛晶状体改变形状以清晰聚焦远近物体的过程。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Extinction is the permanent disappearance of a species from Earth when the last individual dies.", "correct": "true" },
+      { "sentence": "Extinction is when a species temporarily decreases in population but recovers in the next season without disappearing.", "correct": "false" },
+      { "sentence": "Extinction is when organisms migrate to a new area and establish a population elsewhere without dying out.", "correct": "false" },
+      { "sentence": "Extinction is when a species undergoes genetic changes that allow it to survive in a changing environment.", "correct": "false" },
+      { "sentence": "Extinction is when a species hibernates or becomes inactive seasonally but reappears later.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Extinction happens when a species completely disappears, like the dodo or passenger pigeon.",
+        "chinese": "灭绝是指一个物种完全消失，例如渡渡鸟或旅鸽。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An endangered species is one facing a very high risk of extinction in the near future due to low population or habitat loss.", "correct": "true" },
+      { "sentence": "An endangered species is a species that is abundant and widespread but occasionally migrates to avoid predators.", "correct": "false" },
+      { "sentence": "An endangered species is one that has become extinct in certain regions but thrives globally.", "correct": "false" },
+      { "sentence": "An endangered species is one that can adapt immediately to any environmental change without population decline.", "correct": "false" },
+      { "sentence": "An endangered species is one that only survives in captivity and has a stable wild population elsewhere.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Endangered species, like tigers or sea turtles, face serious threats and require conservation efforts to survive.",
+        "chinese": "濒危物种，如老虎或海龟，面临严重威胁，需要保护措施才能生存。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A trait is a characteristic or feature of an organism that can be inherited or influenced by the environment.", "correct": "true" },
+      { "sentence": "A trait is the exact habitat where an organism is currently living, unrelated to inheritance or characteristics.", "correct": "false" },
+      { "sentence": "A trait is the specific type of food an organism eats daily rather than a biological characteristic.", "correct": "false" },
+      { "sentence": "A trait is the seasonal migration pattern of a species instead of a feature or behavior.", "correct": "false" },
+      { "sentence": "A trait is a temporary behavioral adjustment that does not reflect genetics or long-term characteristics.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Traits include features like eye color, body shape, or behaviors that can be inherited or environmentally influenced.",
+        "chinese": "性状包括眼睛颜色、身体形态或行为等可以遗传或受环境影响的特征。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Endothermic animals produce and regulate their own internal heat to maintain a stable body temperature.", "correct": "true" },
+      { "sentence": "Endothermic animals rely entirely on sunlight and external heat sources to survive and maintain body warmth.", "correct": "false" },
+      { "sentence": "Endothermic animals cannot survive outside tropical climates and lose heat rapidly in cold conditions.", "correct": "false" },
+      { "sentence": "Endothermic animals allow their body temperature to fluctuate widely with the environment rather than regulating it internally.", "correct": "false" },
+      { "sentence": "Endothermic animals only generate heat during periods of activity and remain cold when resting for extended times.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Mammals and birds are endothermic, keeping body temperature steady regardless of external temperature.",
+        "chinese": "哺乳动物和鸟类是温血动物，无论外界温度如何都能保持体温稳定。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Exothermic animals rely on environmental heat sources to regulate their body temperature instead of producing their own heat internally.", "correct": "true" },
+      { "sentence": "Exothermic animals produce constant internal heat to maintain temperature regardless of the environment.", "correct": "false" },
+      { "sentence": "Exothermic animals cannot adjust activity levels in response to environmental temperatures and remain active constantly.", "correct": "false" },
+      { "sentence": "Exothermic animals survive exclusively in tropical climates because they cannot gain warmth from the environment.", "correct": "false" },
+      { "sentence": "Exothermic animals generate heat only during intense activity but cannot maintain temperature during rest periods.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Reptiles, amphibians, and fish are exothermic, depending on heat from the sun or surroundings to maintain body temperature.",
+        "chinese": "爬行动物、两栖动物和鱼类是冷血动物，依靠阳光或周围环境的热量来维持体温。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Evolution is the process by which species gradually change over generations through genetic variation and natural selection.", "correct": "true" },
+      { "sentence": "Evolution is the growth of an individual organism from birth to adulthood, without changes in the species over generations.", "correct": "false" },
+      { "sentence": "Evolution is the seasonal migration of animals or sudden behavioral shifts rather than genetic changes over time.", "correct": "false" },
+      { "sentence": "Evolution is when a new species appears overnight due to immediate environmental pressures.", "correct": "false" },
+      { "sentence": "Evolution is when organisms instantly adapt to a new environment without genetic modifications across generations.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Evolution explains how species diversify and adapt over long periods through mutations, inheritance, and natural selection.",
+        "chinese": "进化解释了物种如何通过突变、遗传和自然选择在长时间内多样化和适应环境。"
+      }
+    ]
+  }
+]
