@@ -550,6 +550,11 @@
         "file": "b1_natural_resources_energy_sources",
         "type": "science",
         "level": "1"
+    },
+          {
+         "name": "darren_simple_vores_etc",
+        "file": "darren_simple_vores_etc",
+        "type": "science",
+        "level": "1"
     }
-
 ]
