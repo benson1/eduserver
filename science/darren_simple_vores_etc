@@ -1,0 +1,114 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A carnivore is an animal that primarily eats other animals for food.", "correct": "true" },
+      { "sentence": "A carnivore is an animal that only eats plants and plant products.", "correct": "false" },
+      { "sentence": "A carnivore is an organism that consumes both plants and animals equally.", "correct": "false" },
+      { "sentence": "A carnivore is a microorganism that feeds only on decaying organic matter.", "correct": "false" },
+      { "sentence": "A carnivore is a plant that makes its own food through photosynthesis.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Carnivores are animals that mainly feed on the flesh of other animals, such as lions, tigers, and sharks.",
+        "chinese": "肉食动物是主要以其他动物为食的动物，例如狮子、老虎和鲨鱼。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A herbivore is an animal that primarily feeds on plants.", "correct": "true" },
+      { "sentence": "A herbivore is an organism that eats both plants and animals.", "correct": "false" },
+      { "sentence": "A herbivore is an animal that only eats other animals for survival.", "correct": "false" },
+      { "sentence": "A herbivore is a parasite that lives inside other animals.", "correct": "false" },
+      { "sentence": "A herbivore is a fungus that decomposes dead organisms.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Herbivores feed mainly on plants, such as cows, deer, and rabbits.",
+        "chinese": "草食动物主要以植物为食，例如牛、鹿和兔子。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An omnivore is an animal that eats both plants and animals.", "correct": "true" },
+      { "sentence": "An omnivore is an animal that feeds only on meat.", "correct": "false" },
+      { "sentence": "An omnivore is a plant that consumes nutrients from sunlight.", "correct": "false" },
+      { "sentence": "An omnivore is an animal that feeds exclusively on decaying matter.", "correct": "false" },
+      { "sentence": "An omnivore is a microorganism that produces its own food through photosynthesis.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Omnivores eat both plant material and animal flesh, examples include bears, pigs, and humans.",
+        "chinese": "杂食动物既吃植物也吃动物，例如熊、猪和人类。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An organism is any individual living thing, such as an animal, plant, fungus, or microbe.", "correct": "true" },
+      { "sentence": "An organism is only an animal with a nervous system and muscles.", "correct": "false" },
+      { "sentence": "An organism is a non-living structure that provides shelter for other species.", "correct": "false" },
+      { "sentence": "An organism is only a single cell that cannot form larger structures.", "correct": "false" },
+      { "sentence": "An organism is a collection of molecules that has no independent life.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "An organism is a living thing, ranging from single-celled bacteria to complex animals and plants.",
+        "chinese": "生物是指任何一种生命体，从单细胞的细菌到复杂的动物和植物。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A life cycle is the series of stages an organism goes through from birth, growth, reproduction, to death.", "correct": "true" },
+      { "sentence": "A life cycle is the daily behavior an organism repeats to survive.", "correct": "false" },
+      { "sentence": "A life cycle refers only to the stages of human development.", "correct": "false" },
+      { "sentence": "A life cycle is the process by which food is digested in animals.", "correct": "false" },
+      { "sentence": "A life cycle is a chemical reaction that produces energy inside cells.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A life cycle describes the developmental stages of a living thing, such as egg, larva, pupa, and adult in butterflies.",
+        "chinese": "生命周期描述了生物体的发育阶段，例如蝴蝶的卵、幼虫、蛹和成虫阶段。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Metamorphosis is a biological process where an organism changes form during its life cycle, such as a caterpillar becoming a butterfly.", "correct": "true" },
+      { "sentence": "Metamorphosis is the daily activity pattern of animals, like hunting or sleeping.", "correct": "false" },
+      { "sentence": "Metamorphosis is the process of breaking down food into smaller molecules in digestion.", "correct": "false" },
+      { "sentence": "Metamorphosis is the gradual increase in body size as an organism ages.", "correct": "false" },
+      { "sentence": "Metamorphosis is a type of respiration where oxygen is used by cells to produce energy.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Metamorphosis is a dramatic transformation in body structure during development, seen in frogs and insects.",
+        "chinese": "变态发育是在发育过程中身体结构发生显著变化的过程，常见于青蛙和昆虫。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Adaptation is a trait or behavior that helps an organism survive and reproduce in its environment.", "correct": "true" },
+      { "sentence": "Adaptation is the process of learning new skills during an organism’s lifetime.", "correct": "false" },
+      { "sentence": "Adaptation is the immediate reaction of an organism to sudden danger.", "correct": "false" },
+      { "sentence": "Adaptation is a physical injury that permanently changes an organism’s body.", "correct": "false" },
+      { "sentence": "Adaptation is the way energy is transferred from one organism to another in a food chain.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Adaptations are inherited features that improve survival, like camouflage in chameleons or thick fur in polar bears.",
+        "chinese": "适应是帮助生物在环境中生存和繁殖的遗传特征，例如变色龙的伪装或北极熊的浓密毛发。"
+      }
+    ]
+  }
+]
