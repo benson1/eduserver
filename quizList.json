@@ -562,5 +562,11 @@
         "file": "b4_adaptations_evolution_higher",
         "type": "science",
         "level": "4"
+    },
+              {
+         "name": "ks1_reproduction_detailed",
+        "file": "ks1_reproduction_detailed",
+        "type": "science",
+        "level": "6"
     }
 ]
