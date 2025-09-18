@@ -306,7 +306,7 @@
 {
   "question": "Which sentence is scientifically correct?",
   "options": [
-    { "sentence": "A zygote is the single cell formed by the fusion of a sperm and an egg during fertilization.", "correct": "true" },
+    { "sentence": "A zygote is the single cell organism formed by the fusion of a sperm and an egg during fertilization.", "correct": "true" },
     { "sentence": "A zygote is a mature egg cell that has not yet been fertilized by sperm.", "correct": "false" },
     { "sentence": "A zygote is a specialized tissue in the ovary that releases eggs during ovulation.", "correct": "false" },
     { "sentence": "A zygote is the fully developed embryo ready to implant in the uterus.", "correct": "false" },
