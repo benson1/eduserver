@@ -302,5 +302,21 @@
         "chinese": "种子由受精的胚珠形成，含有可发育成新植物的胚胎。"
       }
     ]
-  }
+  },
+{
+  "question": "Which sentence is scientifically correct?",
+  "options": [
+    { "sentence": "A zygote is the single cell formed by the fusion of a sperm and an egg during fertilization.", "correct": "true" },
+    { "sentence": "A zygote is a mature egg cell that has not yet been fertilized by sperm.", "correct": "false" },
+    { "sentence": "A zygote is a specialized tissue in the ovary that releases eggs during ovulation.", "correct": "false" },
+    { "sentence": "A zygote is the fully developed embryo ready to implant in the uterus.", "correct": "false" },
+    { "sentence": "A zygote is a cluster of cells in the placenta that nourishes the developing embryo.", "correct": "false" }
+  ],
+  "explanation": [
+    {
+      "english": "A zygote is the first cell formed after fertilization, containing a full set of chromosomes from both parents.",
+      "chinese": "合子是受精后形成的第一个细胞，含有来自父母双方的完整染色体组。"
+    }
+  ]
+}
 ]
