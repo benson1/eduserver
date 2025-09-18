@@ -1,0 +1,306 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A gamete is a reproductive cell, such as a sperm or egg, that carries half the genetic material of an organism.", "correct": "true" },
+      { "sentence": "A gamete is a fertilized cell that already contains the full set of chromosomes of the organism.", "correct": "false" },
+      { "sentence": "A gamete is a specialized tissue cell responsible for tissue repair and growth in the body.", "correct": "false" },
+      { "sentence": "A gamete is a hormone-producing structure that triggers reproductive cycles in the organism.", "correct": "false" },
+      { "sentence": "A gamete is an early embryo that has begun cell division but has not yet implanted.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Gametes are reproductive cells (sperm in males, eggs in females) that contain half the normal chromosome number (haploid).",
+        "chinese": "配子是生殖细胞（雄性的精子，雌性的卵子），含有正常染色体数的一半（单倍体）。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Sexual reproduction involves the fusion of two gametes to produce offspring with genetic variation.", "correct": "true" },
+      { "sentence": "Sexual reproduction produces offspring identical to the parent and does not involve gametes.", "correct": "false" },
+      { "sentence": "Sexual reproduction occurs only in animals and is not observed in plants or microorganisms.", "correct": "false" },
+      { "sentence": "Sexual reproduction relies entirely on mitosis without combining genetic material from different cells.", "correct": "false" },
+      { "sentence": "Sexual reproduction results in offspring that inherit only the maternal genetic material without variation.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Sexual reproduction combines genetic material from two parents, producing offspring with variation.",
+        "chinese": "有性生殖结合两个亲本的遗传物质，产生具有遗传多样性的后代。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Fertilization is the fusion of a male gamete (sperm) and a female gamete (egg) to form a zygote.", "correct": "true" },
+      { "sentence": "Fertilization is the release of an egg from the ovary without combining with sperm.", "correct": "false" },
+      { "sentence": "Fertilization is the implantation of an embryo in the uterine lining after several divisions.", "correct": "false" },
+      { "sentence": "Fertilization is the division of a single cell into multiple identical cells before development.", "correct": "false" },
+      { "sentence": "Fertilization is the attachment of the placenta to the uterus for nutrient supply before embryo formation.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Fertilization occurs when a sperm cell and an egg cell unite, creating a zygote with a full set of chromosomes.",
+        "chinese": "受精是精子和卵子结合，形成含有完整染色体组的合子。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An embryo is an early stage of development that forms after fertilization of the egg.", "correct": "true" },
+      { "sentence": "An embryo is a mature egg cell that has not yet been fertilized by a sperm cell.", "correct": "false" },
+      { "sentence": "An embryo is a structure in the ovary responsible for releasing eggs during ovulation.", "correct": "false" },
+      { "sentence": "An embryo is a fully developed fetus that has reached term and is ready for birth.", "correct": "false" },
+      { "sentence": "An embryo is the placenta-like tissue that provides nutrients to the fetus during development.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "An embryo develops after fertilization and undergoes cell division and differentiation to form body structures.",
+        "chinese": "受精后形成胚胎，经过细胞分裂和分化，逐渐形成身体结构。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Implantation is the process by which an embryo attaches to the lining of the uterus.", "correct": "true" },
+      { "sentence": "Implantation is the release of an egg from the ovary into the fallopian tube during ovulation.", "correct": "false" },
+      { "sentence": "Implantation is the fusion of sperm and egg to form a zygote at conception.", "correct": "false" },
+      { "sentence": "Implantation is the early cell division process that converts a zygote into a blastocyst.", "correct": "false" },
+      { "sentence": "Implantation is the attachment of the placenta after several weeks of embryonic development.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "After fertilization, the embryo implants into the uterine wall to establish a connection for nourishment.",
+        "chinese": "受精后，胚胎植入子宫壁，以建立营养供应的连接。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Ovulation is the release of a mature egg from the ovary into the fallopian tube.", "correct": "true" },
+      { "sentence": "Ovulation is the fusion of egg and sperm to form a zygote inside the ovary.", "correct": "false" },
+      { "sentence": "Ovulation is the implantation of an embryo into the uterine lining after fertilization.", "correct": "false" },
+      { "sentence": "Ovulation is the shedding of the uterine lining during menstruation in females.", "correct": "false" },
+      { "sentence": "Ovulation is the first cell division of a zygote that produces a multicellular embryo.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Ovulation is the release of a mature egg from an ovary, making it available for fertilization.",
+        "chinese": "排卵是卵巢释放成熟卵子的过程，使其可以被受精。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Asexual reproduction produces offspring from a single parent without the fusion of gametes.", "correct": "true" },
+      { "sentence": "Asexual reproduction requires sperm and egg from two parents to produce offspring with variation.", "correct": "false" },
+      { "sentence": "Asexual reproduction occurs only in animals and does not occur in plants or microorganisms.", "correct": "false" },
+      { "sentence": "Asexual reproduction produces offspring with genetic material combined from both parents.", "correct": "false" },
+      { "sentence": "Asexual reproduction occurs only after pollination and fertilization between two flowers.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Asexual reproduction requires only one parent and produces genetically identical offspring (clones).",
+        "chinese": "无性生殖只需要一个亲本，并产生与亲本基因完全相同的后代（克隆体）。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Pollination is the transfer of pollen from the anther to the stigma of a flower.", "correct": "true" },
+      { "sentence": "Pollination is the fertilization of ovules inside the ovary using soil or water nutrients.", "correct": "false" },
+      { "sentence": "Pollination is the release of eggs from the ovary into the environment for fertilization.", "correct": "false" },
+      { "sentence": "Pollination is the development of seeds from embryos after fertilization is complete.", "correct": "false" },
+      { "sentence": "Pollination is the fusion of sperm and egg cells occurring on the surface of the stigma.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Pollination brings pollen grains from the male part (anther) to the female part (stigma), enabling fertilization.",
+        "chinese": "授粉是将花粉从雄蕊（花药）转移到雌蕊（柱头）的过程，使受精成为可能。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Germination is the process in which a seed begins to grow and develop into a new plant.", "correct": "true" },
+      { "sentence": "Germination is the fertilization of ovules by pollen inside the ovary of a flower.", "correct": "false" },
+      { "sentence": "Germination is the transfer of pollen from one flower to the stigma of another flower.", "correct": "false" },
+      { "sentence": "Germination is the release of a mature egg from the ovary during ovulation.", "correct": "false" },
+      { "sentence": "Germination is the division of a zygote into multiple cells to form an embryo before planting.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "When conditions are right, a seed germinates and starts developing roots and shoots to form a plant.",
+        "chinese": "在适宜条件下，种子会发芽，长出根和芽，逐渐发育成植物。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The stamen is the male reproductive part of a flower, consisting of the anther and filament.", "correct": "true" },
+      { "sentence": "The stamen is the female reproductive organ including the stigma, style, and ovary.", "correct": "false" },
+      { "sentence": "The stamen is the protective leaf-like structure that shields the developing bud.", "correct": "false" },
+      { "sentence": "The stamen is the colorful part of the flower that attracts pollinators.", "correct": "false" },
+      { "sentence": "The stamen is the root-like structure that absorbs water and nutrients for the flower.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The stamen produces pollen and includes the anther (pollen sac) and filament (support stalk).",
+        "chinese": "雄蕊是花的雄性生殖器官，包括花药（产生花粉）和花丝（支撑花药）。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The anther is the part of the stamen that produces and contains pollen grains.", "correct": "true" },
+      { "sentence": "The anther is the sticky surface of the carpel that receives pollen during pollination.", "correct": "false" },
+      { "sentence": "The anther is the long stalk that supports the ovary of the flower.", "correct": "false" },
+      { "sentence": "The anther is the structure inside the ovary where ovules develop into seeds.", "correct": "false" },
+      { "sentence": "The anther is the green leaf-like structure that protects the flower bud.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The anther is located at the top of the filament and produces pollen grains for reproduction.",
+        "chinese": "花药位于花丝的顶部，产生用于繁殖的花粉粒。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The filament is the slender stalk that supports the anther in a flower’s stamen.", "correct": "true" },
+      { "sentence": "The filament is the sticky surface of the stigma that captures pollen grains.", "correct": "false" },
+      { "sentence": "The filament is the swollen base of the carpel that contains ovules for fertilization.", "correct": "false" },
+      { "sentence": "The filament is the leaf-like structure that encloses the developing flower bud.", "correct": "false" },
+      { "sentence": "The filament is the root-like structure that absorbs nutrients from the soil.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The filament positions the anther to make pollen accessible to pollinators or the wind.",
+        "chinese": "花丝支撑花药，使花粉更容易被传粉者或风带走。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The carpel is the female reproductive part of a flower, consisting of the stigma, style, and ovary.", "correct": "true" },
+      { "sentence": "The carpel is the male reproductive organ including the anther and filament.", "correct": "false" },
+      { "sentence": "The carpel is the protective covering that surrounds and shelters the developing bud.", "correct": "false" },
+      { "sentence": "The carpel is the colorful part of the flower that attracts insects and birds.", "correct": "false" },
+      { "sentence": "The carpel is the tube-like structure that supports pollen-producing anthers.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The carpel is the female organ of the flower, including the stigma (pollen receiver), style, and ovary (ovule holder).",
+        "chinese": "雌蕊是花的雌性器官，包括柱头（接收花粉）、花柱和子房（含胚珠）。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The stigma is the sticky surface at the top of the carpel that receives pollen during pollination.", "correct": "true" },
+      { "sentence": "The stigma is the slender stalk of the stamen that supports the pollen-producing anther.", "correct": "false" },
+      { "sentence": "The stigma is the chamber inside the ovary that contains and protects the ovules.", "correct": "false" },
+      { "sentence": "The stigma is the petal-like structure that attracts pollinators with its bright colors.", "correct": "false" },
+      { "sentence": "The stigma is the green outer layer of the bud that protects the flower before it opens.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The stigma is sticky to catch pollen grains, allowing fertilization to begin.",
+        "chinese": "柱头表面粘性强，可以捕获花粉，从而开始受精过程。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The style is the slender stalk that connects the stigma to the ovary in a flower.", "correct": "true" },
+      { "sentence": "The style is the pollen-bearing structure located at the top of the filament.", "correct": "false" },
+      { "sentence": "The style is the protective outer covering that encloses the developing seed.", "correct": "false" },
+      { "sentence": "The style is the brightly colored petal that attracts pollinators to the flower.", "correct": "false" },
+      { "sentence": "The style is the base of the flower that holds nectar to attract insects and birds.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The style supports the stigma and provides a pathway for pollen tubes to reach the ovary.",
+        "chinese": "花柱支撑柱头，并为花粉管提供通向子房的通道。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The ovary is the part of the carpel that contains ovules and later develops into fruit after fertilization.", "correct": "true" },
+      { "sentence": "The ovary is the sticky top surface of the carpel that traps pollen during pollination.", "correct": "false" },
+      { "sentence": "The ovary is the pollen-producing sac found inside the anther of the stamen.", "correct": "false" },
+      { "sentence": "The ovary is the slender stalk that connects the stigma to the base of the flower.", "correct": "false" },
+      { "sentence": "The ovary is the green petal-like structure that protects the flower bud before it opens.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The ovary houses ovules and matures into fruit once fertilization occurs.",
+        "chinese": "子房中含有胚珠，受精后发育成果实。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An ovule is a structure inside the ovary that develops into a seed after fertilization.", "correct": "true" },
+      { "sentence": "An ovule is the pollen grain that fertilizes the egg cell inside the ovary.", "correct": "false" },
+      { "sentence": "An ovule is the male gamete that combines with an egg to form a zygote.", "correct": "false" },
+      { "sentence": "An ovule is the outer protective layer of the flower that covers the petals.", "correct": "false" },
+      { "sentence": "An ovule is the sticky tip of the carpel that receives pollen during pollination.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The ovule contains the female gametophyte and develops into a seed after fertilization.",
+        "chinese": "胚珠含有雌配子体，受精后发育成种子。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A sepal is a green leaf-like structure that protects the flower bud before it opens.", "correct": "true" },
+      { "sentence": "A sepal is the brightly colored part of a flower that attracts pollinators.", "correct": "false" },
+      { "sentence": "A sepal is the stalk that connects the stigma to the ovary in the flower.", "correct": "false" },
+      { "sentence": "A sepal is the male reproductive part of a flower that produces pollen.", "correct": "false" },
+      { "sentence": "A sepal is the female organ that includes the stigma, style, and ovary.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Sepals protect the developing flower bud and are usually green and leaf-like.",
+        "chinese": "萼片保护发育中的花蕾，通常呈绿色，叶状。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A seed is the mature ovule that contains an embryo and can develop into a new plant.", "correct": "true" },
+      { "sentence": "A seed is the pollen grain released from the anther for fertilization.", "correct": "false" },
+      { "sentence": "A seed is the sticky tip of the carpel that receives pollen during pollination.", "correct": "false" },
+      { "sentence": "A seed is the slender stalk connecting the stigma to the ovary.", "correct": "false" },
+      { "sentence": "A seed is the green leaf-like structure that protects the flower bud.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A seed is formed from a fertilized ovule and contains an embryo that can grow into a new plant.",
+        "chinese": "种子由受精的胚珠形成，含有可发育成新植物的胚胎。"
+      }
+    ]
+  }
+]
