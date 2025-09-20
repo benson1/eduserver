@@ -1,0 +1,130 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An organism is any individual living thing, such as an animal, plant, fungus, or microbe.", "correct": "true" },
+      { "sentence": "An organism is only an animal with a nervous system and muscles.", "correct": "false" },
+      { "sentence": "An organism is a non-living structure that provides shelter for other species.", "correct": "false" },
+      { "sentence": "An organism is only a single cell that cannot form larger structures.", "correct": "false" },
+      { "sentence": "An organism is a collection of molecules that has no independent life.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "An organism is a living thing, ranging from single-celled bacteria to complex animals and plants.",
+        "chinese": "生物是指任何一种生命体，从单细胞的细菌到复杂的动物和植物。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A life cycle is the series of stages an organism goes through from birth, growth, reproduction, to death.", "correct": "true" },
+      { "sentence": "A life cycle is the daily behavior an organism repeats to survive.", "correct": "false" },
+      { "sentence": "A life cycle refers only to the stages of human development.", "correct": "false" },
+      { "sentence": "A life cycle is the process by which food is digested in animals.", "correct": "false" },
+      { "sentence": "A life cycle is a chemical reaction that produces energy inside cells.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A life cycle describes the developmental stages of a living thing, such as egg, larva, pupa, and adult in butterflies.",
+        "chinese": "生命周期描述了生物体的发育阶段，例如蝴蝶的卵、幼虫、蛹和成虫阶段。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An endangered species is one that is at risk of becoming extinct in the near future.", "correct": "true" },
+      { "sentence": "An endangered species is one that has a very large and stable population.", "correct": "false" },
+      { "sentence": "An endangered species is an animal kept in zoos for entertainment only.", "correct": "false" },
+      { "sentence": "An endangered species is any organism that reproduces quickly and abundantly.", "correct": "false" },
+      { "sentence": "An endangered species is a plant that grows only in deserts.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Endangered species are those facing a high risk of extinction, such as tigers, pandas, and sea turtles.",
+        "chinese": "濒危物种是指面临高度灭绝风险的物种，例如老虎、熊猫和海龟。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Rodents are mammals with continuously growing front teeth, such as rats, mice, and squirrels.", "correct": "true" },
+      { "sentence": "Rodents are reptiles that lay eggs in sandy environments.", "correct": "false" },
+      { "sentence": "Rodents are birds that feed on seeds and insects.", "correct": "false" },
+      { "sentence": "Rodents are amphibians that live both in water and on land.", "correct": "false" },
+      { "sentence": "Rodents are carnivorous mammals that primarily hunt other animals.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Rodents are mammals characterized by sharp, ever-growing incisors, including mice, rats, beavers, and squirrels.",
+        "chinese": "啮齿动物是哺乳动物，具有不断生长的锋利门牙，包括老鼠、河狸和松鼠。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Nocturnal animals are active during the night and rest during the day.", "correct": "true" },
+      { "sentence": "Nocturnal animals are only active during the daytime.", "correct": "false" },
+      { "sentence": "Nocturnal animals are plants that bloom only in the morning.", "correct": "false" },
+      { "sentence": "Nocturnal animals are microorganisms that live in water.", "correct": "false" },
+      { "sentence": "Nocturnal animals are mammals that migrate during the winter.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Nocturnal animals, such as owls, bats, and foxes, are active at night to avoid predators or hunt prey.",
+        "chinese": "夜行性动物如猫头鹰、蝙蝠和狐狸在夜间活动，以躲避捕食者或捕猎猎物。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Metamorphosis is a biological process where an organism changes form during its life cycle, such as a caterpillar becoming a butterfly.", "correct": "true" },
+      { "sentence": "Metamorphosis is the daily activity pattern of animals, like hunting or sleeping.", "correct": "false" },
+      { "sentence": "Metamorphosis is the process of breaking down food into smaller molecules in digestion.", "correct": "false" },
+      { "sentence": "Metamorphosis is the gradual increase in body size as an organism ages.", "correct": "false" },
+      { "sentence": "Metamorphosis is a type of respiration where oxygen is used by cells to produce energy.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Metamorphosis is a dramatic transformation in body structure during development, seen in frogs and insects.",
+        "chinese": "变态发育是在发育过程中身体结构发生显著变化的过程，常见于青蛙和昆虫。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Survival is the ability of an organism to continue living by obtaining food, water, shelter, and avoiding danger.", "correct": "true" },
+      { "sentence": "Survival is the immediate growth of new body parts after injury.", "correct": "false" },
+      { "sentence": "Survival means living forever without the need for resources.", "correct": "false" },
+      { "sentence": "Survival is the reproduction of an organism without any adaptation.", "correct": "false" },
+      { "sentence": "Survival is when an organism only depends on other species for existence.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Survival requires meeting basic needs such as food, water, shelter, and protection from predators or harsh conditions.",
+        "chinese": "生存需要满足基本需求，例如食物、水、庇护所，以及避免捕食者或恶劣环境。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Adaptation is a trait or behavior that helps an organism survive and reproduce in its environment.", "correct": "true" },
+      { "sentence": "Adaptation is the process of learning new skills during an organism’s lifetime.", "correct": "false" },
+      { "sentence": "Adaptation is the immediate reaction of an organism to sudden danger.", "correct": "false" },
+      { "sentence": "Adaptation is a physical injury that permanently changes an organism’s body.", "correct": "false" },
+      { "sentence": "Adaptation is the way energy is transferred from one organism to another in a food chain.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Adaptations are inherited features that improve survival, like camouflage in chameleons or thick fur in polar bears.",
+        "chinese": "适应是帮助生物在环境中生存和繁殖的遗传特征，例如变色龙的伪装或北极熊的浓密毛发。"
+      }
+    ]
+  }
+]
