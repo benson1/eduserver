@@ -574,5 +574,12 @@
         "file": "b1_darren_organisms_easy",
         "type": "science",
         "level": "1"
+    },
+               {
+         "name": "b4_continental_geology",
+        "file": "b4_continental_geology",
+        "type": "science",
+        "level": "4"
     }
+
 ]
