@@ -1,0 +1,194 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The Earth's crust is the thin outermost solid layer of the Earth where we live, made of rocks and minerals.", "correct": "true" },
+      { "sentence": "The Earth's crust is the liquid metal center of the planet that generates the magnetic field deep underground.", "correct": "false" },
+      { "sentence": "The Earth's crust is a thick layer of molten magma located far beneath the mantle inside the Earth.", "correct": "false" },
+      { "sentence": "The Earth's crust is the largest and deepest internal layer, stretching thousands of kilometers in depth.", "correct": "false" },
+      { "sentence": "The Earth's crust is made entirely of gases such as oxygen, carbon dioxide, nitrogen, and methane.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The Earth's crust is the outer solid layer composed of rocks and minerals, including continents and ocean floors.",
+        "chinese": "地壳是地球最外层的固体部分，由岩石和矿物组成，包括大陆和海洋底部。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The Earth's mantle is the thick layer of solid rock beneath the crust that slowly flows over time.", "correct": "true" },
+      { "sentence": "The Earth's mantle is a thin layer of liquid water covering the surface of the crust across the globe.", "correct": "false" },
+      { "sentence": "The Earth's mantle is the outer layer of atmospheric gases that completely surrounds the planet.", "correct": "false" },
+      { "sentence": "The Earth's mantle is the metallic core found at the very center of Earth’s internal structure.", "correct": "false" },
+      { "sentence": "The Earth's mantle is a frozen sheet of solid ice that lies directly underneath the rocky crust.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The mantle lies beneath the crust and is made of semi-solid rock that moves slowly, driving plate tectonics.",
+        "chinese": "地幔位于地壳之下，由半固体岩石组成，缓慢运动推动板块构造。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An earthquake is the shaking of the Earth's surface caused by the sudden release of energy in the crust.", "correct": "true" },
+      { "sentence": "An earthquake is the predictable rising and setting of the sun that repeats every single day without fail.", "correct": "false" },
+      { "sentence": "An earthquake is the slow and steady growth of tall mountain ranges that form over millions of years.", "correct": "false" },
+      { "sentence": "An earthquake is a violent rotating storm with heavy rainfall that develops over warm ocean waters.", "correct": "false" },
+      { "sentence": "An earthquake is the gradual breakdown of surface rocks caused by water, ice, wind, and changing weather.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Earthquakes happen when stress builds up and rocks in the Earth's crust break or shift suddenly, releasing energy.",
+        "chinese": "地震发生在地壳中的岩石积累压力并突然断裂或移动时，能量释放导致地表震动。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A seismograph is an instrument that detects and records the vibrations of earthquakes.", "correct": "true" },
+      { "sentence": "A seismograph is a meteorological device that measures the wind speed and rainfall produced by hurricanes.", "correct": "false" },
+      { "sentence": "A seismograph is a powerful telescope designed to study the movement and brightness of distant stars.", "correct": "false" },
+      { "sentence": "A seismograph is a type of rain gauge that collects falling water and measures annual precipitation.", "correct": "false" },
+      { "sentence": "A seismograph is an orbiting satellite used to observe climate systems and predict global weather.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A seismograph records ground movements during earthquakes, helping scientists measure their strength and location.",
+        "chinese": "地震仪记录地震时的地面运动，帮助科学家测量地震的强度和位置。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Weathering is the breaking down of rocks into smaller pieces by wind, water, temperature, or living things.", "correct": "true" },
+      { "sentence": "Weathering is the movement of broken rocks and soil to new places through rivers, glaciers, and wind.", "correct": "false" },
+      { "sentence": "Weathering is the violent shaking of the Earth’s crust caused by tectonic plate movements underground.", "correct": "false" },
+      { "sentence": "Weathering is the explosive eruption of molten magma, hot gases, and ash from an active volcano.", "correct": "false" },
+      { "sentence": "Weathering is the slow circular rotation of Earth’s tectonic plates beneath the solid outer crust.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Weathering breaks rocks into smaller pieces through physical, chemical, or biological processes.",
+        "chinese": "风化是岩石在物理、化学或生物作用下分解成小块的过程。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Tectonic plates are large slabs of the Earth's crust and upper mantle that move and interact with each other.", "correct": "true" },
+      { "sentence": "Tectonic plates are small broken rocks that are found mainly along beaches and coastal shorelines.", "correct": "false" },
+      { "sentence": "Tectonic plates are thin invisible layers of air that circulate around the planet in the atmosphere.", "correct": "false" },
+      { "sentence": "Tectonic plates are part of the Earth’s inner liquid core that flows beneath the mantle region.", "correct": "false" },
+      { "sentence": "Tectonic plates are massive frozen sheets of ice that exist only at the North and South Poles.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Tectonic plates make up the Earth's surface and their movements cause earthquakes, volcanoes, and mountain formation.",
+        "chinese": "板块构造形成地球表面，它们的运动会引发地震、火山和山脉的形成。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Tectonic activity refers to the movement and interaction of Earth's plates, causing earthquakes, volcanoes, and mountain building.", "correct": "true" },
+      { "sentence": "Tectonic activity is the daily rotation of the Earth on its axis, creating day and night around the planet.", "correct": "false" },
+      { "sentence": "Tectonic activity is the natural breakdown of rocks into smaller pieces caused by rain and wind.", "correct": "false" },
+      { "sentence": "Tectonic activity is the process of plants using light energy from the sun to make their own food.", "correct": "false" },
+      { "sentence": "Tectonic activity is the movement of air masses in the atmosphere that creates storms and rainfall.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Tectonic activity includes earthquakes, volcanic eruptions, and the movement of plates shaping Earth's surface.",
+        "chinese": "构造活动包括地震、火山喷发以及塑造地球表面的板块运动。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A hurricane is a powerful storm system with strong winds and heavy rain that forms over warm ocean waters.", "correct": "true" },
+      { "sentence": "A hurricane is the sudden shaking of the Earth’s surface caused by tectonic plate collisions underground.", "correct": "false" },
+      { "sentence": "A hurricane is a volcanic eruption in which molten lava and gases are released from deep within the Earth.", "correct": "false" },
+      { "sentence": "A hurricane is the natural breakdown of solid rocks into smaller particles through wind and water.", "correct": "false" },
+      { "sentence": "A hurricane is the protective layer of atmospheric gases that surrounds the entire planet Earth.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Hurricanes, also called typhoons or cyclones, are large rotating storms that form over warm oceans.",
+        "chinese": "飓风（也称台风或气旋）是形成于温暖海洋上的巨大旋转风暴。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Erosion is the process by which soil, rock, and sand are moved from one place to another by wind, water, or ice.", "correct": "true" },
+      { "sentence": "Erosion is the process where solid rocks are broken down into fragments without being transported anywhere else.", "correct": "false" },
+      { "sentence": "Erosion is the violent shaking of the Earth’s surface caused by sudden tectonic movements underground.", "correct": "false" },
+      { "sentence": "Erosion is the cooling and hardening of molten magma that forms new layers of solid rock.", "correct": "false" },
+      { "sentence": "Erosion is the upward rising of hot air masses into the atmosphere, producing weather changes.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Erosion transports weathered materials through rivers, wind, glaciers, or waves.",
+        "chinese": "侵蚀是通过河流、风、冰川或海浪搬运风化物质的过程。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The Mariana Trench is the deepest part of Earth's oceans, located in the western Pacific Ocean.", "correct": "true" },
+      { "sentence": "The Mariana Trench is the tallest mountain range found on Earth, rising high above sea level.", "correct": "false" },
+      { "sentence": "The Mariana Trench is an enormous active volcano located in the Andes Mountains of South America.", "correct": "false" },
+      { "sentence": "The Mariana Trench is a massive frozen glacier stretching across the entire Arctic Ocean region.", "correct": "false" },
+      { "sentence": "The Mariana Trench is a dry desert valley located within the northern part of the African continent.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The Mariana Trench reaches a depth of about 11,000 meters, making it the deepest known oceanic trench.",
+        "chinese": "马里亚纳海沟深达约11,000米，是已知最深的海洋沟。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The Earth's outer core is a liquid layer made mostly of iron and nickel beneath the mantle.", "correct": "true" },
+      { "sentence": "The Earth's outer core is a rigid solid layer of cold rock located at the planet’s surface.", "correct": "false" },
+      { "sentence": "The Earth's outer core is a vast gaseous shell composed mainly of oxygen and nitrogen gases.", "correct": "false" },
+      { "sentence": "The Earth's outer core is the deepest inner region that remains completely solid despite pressure.", "correct": "false" },
+      { "sentence": "The Earth's outer core is composed only of frozen water and ice that lies below the mantle.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The outer core is a molten metallic layer that generates Earth's magnetic field through its movement.",
+        "chinese": "外核是由熔融金属组成的层，其流动产生地球的磁场。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The Earth's inner core is a solid sphere made mostly of iron and nickel at the center of the Earth.", "correct": "true" },
+      { "sentence": "The Earth's inner core is a liquid layer of melted rock that lies just beneath the surface crust.", "correct": "false" },
+      { "sentence": "The Earth's inner core is a vast gaseous layer surrounding the Earth like an atmospheric shell.", "correct": "false" },
+      { "sentence": "The Earth's inner core is an enormous frozen ocean of water and ice beneath the rocky mantle.", "correct": "false" },
+      { "sentence": "The Earth's inner core is a very thin sheet of rock located directly under the outer crust.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The inner core is solid due to immense pressure, despite its extremely high temperature.",
+        "chinese": "由于巨大的压力，内核虽然温度极高，但仍保持固态。"
+      }
+    ]
+  }
+]
