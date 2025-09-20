@@ -568,5 +568,11 @@
         "file": "ks1_reproduction_detailed",
         "type": "science",
         "level": "6"
+    },
+              {
+         "name": "b1_darren_organisms_easy",
+        "file": "b1_darren_organisms_easy",
+        "type": "science",
+        "level": "1"
     }
 ]
