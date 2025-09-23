@@ -1,0 +1,226 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A thermal insulator is a material that slows down or blocks the transfer of heat.", "correct": "true" },
+      { "sentence": "A thermal insulator is a material that allows heat to pass quickly through it.", "correct": "false" },
+      { "sentence": "A thermal insulator is a type of energy that flows from hot to cold objects.", "correct": "false" },
+      { "sentence": "A thermal insulator is a device used to measure temperature.", "correct": "false" },
+      { "sentence": "A thermal insulator is a shiny metal that reflects heat easily.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A thermal insulator slows or blocks heat transfer. Examples include wood, wool, rubber, and plastic.",
+        "chinese": "热绝缘体能减缓或阻止热量传递。常见例子有木材、羊毛、橡胶和塑料。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A thermal conductor is a material that allows heat to move through it quickly.", "correct": "true" },
+      { "sentence": "A thermal conductor is a material that prevents heat transfer completely.", "correct": "false" },
+      { "sentence": "A thermal conductor is a chemical element that produces its own heat.", "correct": "false" },
+      { "sentence": "A thermal conductor is a device used for storing hot water.", "correct": "false" },
+      { "sentence": "A thermal conductor is a gas that traps heat in the atmosphere.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A thermal conductor lets heat pass quickly. Metals like copper, silver, aluminum, and iron are good conductors.",
+        "chinese": "热导体能让热量快速通过。铜、银、铝和铁等金属是良好的导体。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An electrical insulator is a material that does not allow electricity to flow through it easily.", "correct": "true" },
+      { "sentence": "An electrical insulator is a material that allows current to pass freely.", "correct": "false" },
+      { "sentence": "An electrical insulator is a device that produces electric charges.", "correct": "false" },
+      { "sentence": "An electrical insulator is a type of battery that stores electricity.", "correct": "false" },
+      { "sentence": "An electrical insulator is a metal used for electrical wiring.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Electrical insulators hold electrons tightly and block current flow. Examples include rubber, glass, dry wood, and plastics.",
+        "chinese": "电绝缘体紧紧束缚电子，阻止电流流动。常见例子有橡胶、玻璃、干木头和塑料。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An electrical conductor is a material that allows electricity to flow freely.", "correct": "true" },
+      { "sentence": "An electrical conductor is a material that blocks the flow of current.", "correct": "false" },
+      { "sentence": "An electrical conductor is a device that generates electricity.", "correct": "false" },
+      { "sentence": "An electrical conductor is a type of insulator used in power lines.", "correct": "false" },
+      { "sentence": "An electrical conductor is a chemical compound that glows in the dark.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Electrical conductors allow electrons to move freely. Metals like copper and silver are excellent conductors.",
+        "chinese": "电导体能让电子自由移动。铜和银是极好的导体。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Silver is the best natural conductor of heat and electricity.", "correct": "true" },
+      { "sentence": "Silver is a nonmetal that does not conduct electricity.", "correct": "false" },
+      { "sentence": "Silver is mainly used for ordinary household wiring because it is cheap.", "correct": "false" },
+      { "sentence": "Silver rusts quickly in air and water.", "correct": "false" },
+      { "sentence": "Silver is a liquid metal at room temperature.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Silver (Ag) is shiny, highly conductive, reflective, and corrosion-resistant. It is used in jewelry, coins, and electronics.",
+        "chinese": "银 (Ag) 光亮，导电导热性极佳，耐腐蚀、反射性强。用于首饰、硬币和电子产品。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Copper is an excellent conductor of heat and electricity and is used in wires and plumbing.", "correct": "true" },
+      { "sentence": "Copper is a poor conductor and cannot be shaped into wires.", "correct": "false" },
+      { "sentence": "Copper is a lightweight metal mainly used in aircraft.", "correct": "false" },
+      { "sentence": "Copper is a precious metal more expensive than silver.", "correct": "false" },
+      { "sentence": "Copper is nonmetallic and brittle.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Copper (Cu) is reddish-brown, highly conductive, and easily shaped into wires and pipes.",
+        "chinese": "铜 (Cu) 呈红棕色，导热导电性强，易拉成电线或制成管道。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The periodic table organizes chemical elements by atomic number and groups with similar properties.", "correct": "true" },
+      { "sentence": "The periodic table is a chart of compounds arranged by their reactivity.", "correct": "false" },
+      { "sentence": "The periodic table lists elements randomly based on discovery dates.", "correct": "false" },
+      { "sentence": "The periodic table shows only metals and leaves out nonmetals.", "correct": "false" },
+      { "sentence": "The periodic table is a list of common laboratory equipment.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The periodic table arranges all elements by atomic number. Elements in the same group share similar properties.",
+        "chinese": "元素周期表按原子序数排列元素。同一族的元素有相似性质。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Magnetism is a force caused by moving electric charges, pulling or pushing certain materials.", "correct": "true" },
+      { "sentence": "Magnetism is the flow of heat from one object to another.", "correct": "false" },
+      { "sentence": "Magnetism is a chemical property of gases like oxygen and nitrogen.", "correct": "false" },
+      { "sentence": "Magnetism only exists in plastic and wood.", "correct": "false" },
+      { "sentence": "Magnetism is the same as static electricity.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Magnetism comes from moving electric charges, mainly electrons. Iron, nickel, and cobalt are strongly magnetic.",
+        "chinese": "磁性来自运动的电荷，主要是电子。铁、镍和钴具有强磁性。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Magnetite is a naturally magnetic mineral made of iron oxide.", "correct": "true" },
+      { "sentence": "Magnetite is an artificial metal created in factories.", "correct": "false" },
+      { "sentence": "Magnetite is a liquid used in batteries to produce electricity.", "correct": "false" },
+      { "sentence": "Magnetite is a nonmagnetic crystal found in salt.", "correct": "false" },
+      { "sentence": "Magnetite is a gas that makes objects magnetic when heated.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Magnetite (Fe₃O₄) is a natural iron oxide mineral that is magnetic and was used in early compasses.",
+        "chinese": "磁铁矿 (Fe₃O₄) 是天然带磁性的铁氧化物，古代用于制造指南针。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Magnetic attraction is the pulling force between opposite poles of magnets.", "correct": "true" },
+      { "sentence": "Magnetic attraction occurs between like poles of magnets.", "correct": "false" },
+      { "sentence": "Magnetic attraction is the push between north and south poles.", "correct": "false" },
+      { "sentence": "Magnetic attraction only works in nonmetallic materials.", "correct": "false" },
+      { "sentence": "Magnetic attraction is caused by heat energy moving through metals.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Opposite poles attract each other, such as the north pole of one magnet pulling the south pole of another.",
+        "chinese": "磁铁的异极相吸，例如一个磁铁的北极会吸引另一个的南极。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Magnetic repulsion is the pushing force between like poles of magnets.", "correct": "true" },
+      { "sentence": "Magnetic repulsion is the pulling force between opposite poles of magnets.", "correct": "false" },
+      { "sentence": "Magnetic repulsion is caused by heat moving through metals.", "correct": "false" },
+      { "sentence": "Magnetic repulsion happens when magnets lose their magnetic field.", "correct": "false" },
+      { "sentence": "Magnetic repulsion is the attraction between magnets and nonmagnetic objects.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Like poles (north–north or south–south) always repel each other due to overlapping fields.",
+        "chinese": "同极 (北–北或南–南) 总是相互排斥，因为磁场会互相抵触。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Iron is a strong, magnetic, silver-gray metal that is the main ingredient in steel.", "correct": "true" },
+      { "sentence": "Iron is a nonmetal that does not conduct heat or electricity.", "correct": "false" },
+      { "sentence": "Iron is a liquid at room temperature.", "correct": "false" },
+      { "sentence": "Iron never rusts when exposed to air or water.", "correct": "false" },
+      { "sentence": "Iron is used only for jewelry and coins because it is rare.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Iron (Fe) is strong, magnetic, and widely used in steel. Its weakness is that it rusts when exposed to moisture.",
+        "chinese": "铁 (Fe) 坚硬、有磁性，是钢的主要成分，但在潮湿环境下容易生锈。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Nickel is a hard, silvery-white metal that is magnetic and resistant to corrosion.", "correct": "true" },
+      { "sentence": "Nickel is a gas that forms when iron rusts.", "correct": "false" },
+      { "sentence": "Nickel is a weak nonmetal that does not conduct electricity.", "correct": "false" },
+      { "sentence": "Nickel is a liquid used in thermometers instead of mercury.", "correct": "false" },
+      { "sentence": "Nickel is a soft material that cannot be mixed with other metals.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Nickel (Ni) is magnetic, corrosion-resistant, and used in alloys like stainless steel and in batteries.",
+        "chinese": "镍 (Ni) 有磁性，耐腐蚀，常用于不锈钢合金和电池。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Titanium is a strong, lightweight metal that resists rust and is safe for use in the human body.", "correct": "true" },
+      { "sentence": "Titanium is a poor structural metal because it is weak and brittle.", "correct": "false" },
+      { "sentence": "Titanium is the best conductor of heat and electricity.", "correct": "false" },
+      { "sentence": "Titanium is mainly used in jewelry because it rusts easily.", "correct": "false" },
+      { "sentence": "Titanium is a gas used in spacecraft fuel tanks.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Titanium (Ti) is strong, lightweight, corrosion-resistant, and widely used in aircraft, spacecraft, and medical implants.",
+        "chinese": "钛 (Ti) 坚固、轻便、耐腐蚀，广泛用于飞机、航天器和医疗植入物。"
+      }
+    ]
+  }
+]
