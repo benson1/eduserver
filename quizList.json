@@ -580,6 +580,11 @@
         "file": "b4_continental_geology",
         "type": "science",
         "level": "4"
+    },
+                  {
+         "name": "b1_harder_conductors_elements",
+        "file": "b1_harder_conductors_elements",
+        "type": "science",
+        "level": "1"
     }
-
 ]
