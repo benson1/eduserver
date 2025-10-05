@@ -1,0 +1,162 @@
+[
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "He could plays the guitar when he was a child.", "correct": "false" },
+      { "sentence": "He could play the guitar when he was a child.", "correct": "true" },
+      { "sentence": "He could to play the guitar when he was a child.", "correct": "false" },
+      { "sentence": "He could playing the guitar when he was a child.", "correct": "false" },
+      { "sentence": "He could plays the guitar well when he was a child.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "After 'could', we use the base form of the verb ('play'). The sentence describes ability in the past.",
+        "chinese": "'Could' 后面要用动词原形 ('play')，句子表示过去的能力。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "You shouldn't to eat too much sugar if you want to stay healthy.", "correct": "false" },
+      { "sentence": "You shouldn't eat too much sugar if you want to stay healthy.", "correct": "true" },
+      { "sentence": "You should not eats too much sugar if you want to stay healthy.", "correct": "false" },
+      { "sentence": "You shouldn't eating too much sugar if you want to stay healthy.", "correct": "false" },
+      { "sentence": "You should eats too much sugar if you want to stay healthy.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "After 'should' or 'shouldn't', use the base form of the verb ('eat').",
+        "chinese": "'Should' 或 'shouldn't' 后面要接动词原形 ('eat')。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "I might to visit my grandparents next weekend if I have time.", "correct": "false" },
+      { "sentence": "I might visit my grandparents next weekend if I have time.", "correct": "true" },
+      { "sentence": "I might visiting my grandparents next weekend if I have time.", "correct": "false" },
+      { "sentence": "I might visits my grandparents next weekend if I have time.", "correct": "false" },
+      { "sentence": "I might visited my grandparents next weekend if I have time.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Modal verbs like 'might' are followed by the base verb ('visit'), not 'to' or an '-ing' form.",
+        "chinese": "情态动词如 'might' 后面要接动词原形 ('visit')，不能加 'to' 或 '-ing'。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "She can't to come to the meeting because she has another appointment.", "correct": "false" },
+      { "sentence": "She can't come to the meeting because she has another appointment.", "correct": "true" },
+      { "sentence": "She cannot comes to the meeting because she has another appointment.", "correct": "false" },
+      { "sentence": "She can't coming to the meeting because she has another appointment.", "correct": "false" },
+      { "sentence": "She can comes to the meeting because she has another appointment.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "After 'can' or 'can't', use the base verb ('come'). This expresses inability.",
+        "chinese": "'Can' 或 'can't' 后面接动词原形 ('come')，表示能力或无能为力。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "We should have left earlier if we wanted to catch the train.", "correct": "true" },
+      { "sentence": "We should has left earlier if we wanted to catch the train.", "correct": "false" },
+      { "sentence": "We should had left earlier if we wanted to catch the train.", "correct": "false" },
+      { "sentence": "We should have leaves earlier if we wanted to catch the train.", "correct": "false" },
+      { "sentence": "We should leaving earlier if we wanted to catch the train.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Should have + past participle' expresses a past regret or advice that came too late.",
+        "chinese": "'Should have + 过去分词' 表示对过去的遗憾或迟到的建议。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "He would help you if he knew about your problem.", "correct": "true" },
+      { "sentence": "He would helps you if he knew about your problem.", "correct": "false" },
+      { "sentence": "He would to help you if he knew about your problem.", "correct": "false" },
+      { "sentence": "He would helping you if he knew about your problem.", "correct": "false" },
+      { "sentence": "He would helped you if he knew about your problem.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "In conditional sentences, 'would' is followed by the base verb ('help').",
+        "chinese": "在条件句中，'would' 后面接动词原形 ('help')。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "You couldn't find a better restaurant in this city.", "correct": "true" },
+      { "sentence": "You couldn't finds a better restaurant in this city.", "correct": "false" },
+      { "sentence": "You couldn't to find a better restaurant in this city.", "correct": "false" },
+      { "sentence": "You couldn't finding a better restaurant in this city.", "correct": "false" },
+      { "sentence": "You could finds a better restaurant in this city.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Couldn't' means 'it’s not possible to'; it’s followed by the base verb ('find').",
+        "chinese": "'Couldn't' 表示“不可能”，后面接动词原形 ('find')。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "They may arrives late because of the heavy traffic.", "correct": "false" },
+      { "sentence": "They may arrive late because of the heavy traffic.", "correct": "true" },
+      { "sentence": "They may to arrive late because of the heavy traffic.", "correct": "false" },
+      { "sentence": "They may arriving late because of the heavy traffic.", "correct": "false" },
+      { "sentence": "They may arrived late because of the heavy traffic.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "After 'may', use the base form of the verb ('arrive'). It expresses possibility.",
+        "chinese": "'May' 后面接动词原形 ('arrive')，表示可能性。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "If I were you, I would take that job opportunity.", "correct": "true" },
+      { "sentence": "If I was you, I would takes that job opportunity.", "correct": "false" },
+      { "sentence": "If I were you, I would to take that job opportunity.", "correct": "false" },
+      { "sentence": "If I were you, I would taking that job opportunity.", "correct": "false" },
+      { "sentence": "If I were you, I would took that job opportunity.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "In unreal conditional sentences, use 'If I were you' and 'would + base verb'.",
+        "chinese": "虚拟条件句中要用 'If I were you' 和 'would + 动词原形'。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "She might have forgotten about the meeting because she was busy.", "correct": "true" },
+      { "sentence": "She might has forgotten about the meeting because she was busy.", "correct": "false" },
+      { "sentence": "She might had forgotten about the meeting because she was busy.", "correct": "false" },
+      { "sentence": "She might have forget about the meeting because she was busy.", "correct": "false" },
+      { "sentence": "She might have forgetting about the meeting because she was busy.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Might have + past participle' expresses a possibility about the past.",
+        "chinese": "'Might have + 过去分词' 表示对过去的可能推测。"
+      }
+    ]
+  }
+]
