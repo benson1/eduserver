@@ -586,5 +586,11 @@
         "file": "b1_harder_conductors_elements",
         "type": "science",
         "level": "1"
+    },
+                      {
+         "name": "modal_aux2.json",
+        "file": "modal_aux2.json",
+        "type": "english",
+        "level": "2"
     }
 ]
