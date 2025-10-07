@@ -1,0 +1,162 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Tectonic plates are massive pieces of Earth's lithosphere that move and interact at their boundaries.", "correct": "true" },
+      { "sentence": "Tectonic plates are vast sections of the mantle that flow slowly beneath the Earth's crust.", "correct": "false" },
+      { "sentence": "Tectonic plates are thick layers of molten rock that rise to the Earth's surface during volcanic eruptions.", "correct": "false" },
+      { "sentence": "Tectonic plates are rigid portions of the atmosphere that influence weather patterns and wind currents.", "correct": "false" },
+      { "sentence": "Tectonic plates are stationary slabs of rock that form mountains but do not interact or move.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Tectonic plates are sections of Earth's lithosphere that float on the semi-fluid asthenosphere and are responsible for earthquakes, mountains, and volcanoes.",
+        "chinese": "构造板块是地球岩石圈的部分，漂浮在半流体的软流圈上，会导致地震、山脉和火山的形成。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Seismology is the scientific study of earthquakes and the propagation of seismic waves through the Earth.", "correct": "true" },
+      { "sentence": "Seismology is the detailed investigation of ocean floor currents and tidal forces along coastal regions.", "correct": "false" },
+      { "sentence": "Seismology is a branch of geology that examines volcanic eruptions and lava flow patterns in mountainous regions.", "correct": "false" },
+      { "sentence": "Seismology is the measurement of atmospheric pressure fluctuations and wind shear patterns for predicting storms.", "correct": "false" },
+      { "sentence": "Seismology is the study of soil erosion and sediment deposits caused by rainfall and river activity.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Seismology focuses on understanding earthquakes and seismic waves, which helps in earthquake hazard assessment and Earth structure studies.",
+        "chinese": "地震学研究地震及其波动，有助于地震风险评估和地球结构研究。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A seismograph is an instrument that detects and records the vibrations of the ground caused by seismic waves.", "correct": "true" },
+      { "sentence": "A seismograph is a complex device that monitors shifts in ocean currents to detect underwater activity.", "correct": "false" },
+      { "sentence": "A seismograph is an instrument that measures atmospheric pressure fluctuations during extreme weather events.", "correct": "false" },
+      { "sentence": "A seismograph is a precision tool used to record volcanic eruptions and lava movement with high accuracy.", "correct": "false" },
+      { "sentence": "A seismograph is an electrical device designed to detect magnetic field changes in Earth's crust.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Seismographs detect ground motion during earthquakes and produce a seismogram, showing the strength and duration of seismic waves.",
+        "chinese": "地震仪探测地震期间的地面运动，并绘制地震图，显示地震波的强度和持续时间。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Convergence is the process where two tectonic plates move toward each other, often causing mountains or subduction zones.", "correct": "true" },
+      { "sentence": "Convergence is the phenomenon where two tectonic plates gradually move apart, creating oceanic ridges or valleys.", "correct": "false" },
+      { "sentence": "Convergence is a slow sliding motion of tectonic plates past one another along vertical fault lines.", "correct": "false" },
+      { "sentence": "Convergence is a geological process where magma rises to fill gaps between tectonic plates at divergent boundaries.", "correct": "false" },
+      { "sentence": "Convergence is the gradual settling of sediments and rocks into low-lying areas caused by erosion.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Plate convergence occurs at boundaries where plates collide, producing mountains, earthquakes, and sometimes subduction zones.",
+        "chinese": "板块汇聚发生在板块碰撞的边界，形成山脉、地震，有时还会产生俯冲带。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Divergence is the process where two tectonic plates move away from each other, often forming rift valleys or mid-ocean ridges.", "correct": "true" },
+      { "sentence": "Divergence is the slow movement of two tectonic plates toward one another, forming mountain ranges over millions of years.", "correct": "false" },
+      { "sentence": "Divergence occurs when tectonic plates slide past each other horizontally, creating faults along the boundary line.", "correct": "false" },
+      { "sentence": "Divergence is the subduction of an oceanic plate beneath a continental plate, causing trenches and volcanic activity.", "correct": "false" },
+      { "sentence": "Divergence is the erosion and deposition of sediments in river deltas caused by changes in water flow and gravity.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Plate divergence occurs at boundaries where plates move apart, creating new crust through volcanic activity.",
+        "chinese": "板块离散发生在板块分开的边界，通过火山活动形成新的地壳。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Subduction is the process in which one tectonic plate is forced under another into the mantle.", "correct": "true" },
+      { "sentence": "Subduction is the horizontal sliding of two plates past each other without vertical motion, causing lateral stress.", "correct": "false" },
+      { "sentence": "Subduction is the movement of two tectonic plates away from each other at mid-ocean ridges forming new crust.", "correct": "false" },
+      { "sentence": "Subduction is the gradual accumulation of sediment layers at the ocean floor due to slow geological deposition.", "correct": "false" },
+      { "sentence": "Subduction is the rapid release of energy along fractures in the Earth's crust causing volcanic eruptions.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "During subduction, a denser oceanic plate sinks beneath a lighter continental plate or another oceanic plate, often creating trenches and volcanic activity.",
+        "chinese": "在俯冲过程中，密度较大的海洋板块沉入较轻的大陆板块或另一海洋板块下方，形成海沟和火山活动。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A strike-slip fault is a fault where two tectonic plates slide horizontally past one another.", "correct": "true" },
+      { "sentence": "A strike-slip fault is a location where one tectonic plate is thrust vertically beneath another plate forming mountains.", "correct": "false" },
+      { "sentence": "A strike-slip fault is a type of divergent boundary where new crust is created as plates move apart.", "correct": "false" },
+      { "sentence": "A strike-slip fault is a layer of soft sediment between tectonic plates that absorbs minor seismic activity.", "correct": "false" },
+      { "sentence": "A strike-slip fault is a ridge formed at convergent boundaries where continental plates collide and compress.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Strike-slip faults involve horizontal motion, like the San Andreas Fault, and often produce earthquakes.",
+        "chinese": "走滑断层涉及水平运动，如圣安德烈亚斯断层，经常引发地震。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A dampener is a device used in seismology to reduce vibrations in instruments or structures.", "correct": "true" },
+      { "sentence": "A dampener is a mechanical system designed to amplify small tremors for easier detection by seismographs.", "correct": "false" },
+      { "sentence": "A dampener is a geological feature that absorbs seismic waves naturally without man-made structures.", "correct": "false" },
+      { "sentence": "A dampener is an instrument that records earthquake magnitude and duration by converting motion into digital signals.", "correct": "false" },
+      { "sentence": "A dampener is a layer of rock or sediment that strengthens foundations against minor seismic disturbances.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Dampeners reduce unwanted vibrations in seismographs or buildings to improve measurement accuracy or structural stability.",
+        "chinese": "阻尼器用于减少地震仪或建筑物的不必要振动，提高测量精度或结构稳定性。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Magnitude is a measure of the energy released during an earthquake, often expressed on the Richter or moment magnitude scale.", "correct": "true" },
+      { "sentence": "Magnitude is the depth beneath the Earth's surface where an earthquake originates and releases energy into surrounding rocks.", "correct": "false" },
+      { "sentence": "Magnitude is the velocity at which tectonic plates move relative to one another across fault lines.", "correct": "false" },
+      { "sentence": "Magnitude is the measurement of gas emissions or lava volume during volcanic eruptions over a specific time period.", "correct": "false" },
+      { "sentence": "Magnitude is the total temperature increase in the Earth's crust caused by friction between moving plates during earthquakes.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Magnitude quantifies the size or energy of an earthquake, providing a numerical value to compare earthquakes.",
+        "chinese": "地震震级量化地震的规模或能量，提供一个数值以比较地震。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An intraplate earthquake is an earthquake that occurs within the interior of a tectonic plate, away from plate boundaries.", "correct": "true" },
+      { "sentence": "An intraplate earthquake is an earthquake that occurs exclusively at the boundary between two tectonic plates, causing frequent volcanic activity.", "correct": "false" },
+      { "sentence": "An intraplate earthquake is a minor tremor caused by seasonal shifts in atmospheric pressure over large regions of the Earth.", "correct": "false" },
+      { "sentence": "An intraplate earthquake is the sudden collapse of underground cavities or mines, unrelated to tectonic stresses.", "correct": "false" },
+      { "sentence": "An intraplate earthquake is a type of volcanic eruption that releases magma and gas without any ground shaking.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Intraplate earthquakes occur within a single tectonic plate, often caused by ancient faults reactivating or stresses transmitted across the plate.",
+        "chinese": "板内地震发生在单一构造板块内部，通常是由古老断层再活动或板块内部传递的应力引起的。"
+      }
+    ]
+  }
+]
