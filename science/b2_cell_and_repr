@@ -1,0 +1,114 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A nucleus is the membrane-bound organelle in a cell that contains genetic material and controls cellular activities.", "correct": "true" },
+      { "sentence": "A nucleus is a small vesicle in the cytoplasm that stores nutrients and helps transport them throughout the cell.", "correct": "false" },
+      { "sentence": "A nucleus is a protein structure in the cell responsible for catalyzing all chemical reactions within the cytoplasm.", "correct": "false" },
+      { "sentence": "A nucleus is a part of the cell membrane that regulates the entry and exit of all molecules from the cell.", "correct": "false" },
+      { "sentence": "A nucleus is a temporary structure formed only during cell division to help chromosomes separate.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The nucleus stores DNA and acts as the control center of the cell, regulating growth, metabolism, and reproduction.",
+        "chinese": "细胞核储存 DNA 并作为细胞的控制中心，调节生长、代谢和繁殖。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A cell is the basic structural and functional unit of all living organisms.", "correct": "true" },
+      { "sentence": "A cell is a group of tissues working together to perform a specific function in an organism.", "correct": "false" },
+      { "sentence": "A cell is a collection of organs that interact to maintain homeostasis in the body.", "correct": "false" },
+      { "sentence": "A cell is a small cavity in the bone that produces blood cells.", "correct": "false" },
+      { "sentence": "A cell is a temporary structure formed only during reproduction and then disappears.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Cells are the fundamental units of life, capable of growth, metabolism, and reproduction.",
+        "chinese": "细胞是生命的基本单位，能够生长、代谢和繁殖。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "DNA is the molecule that stores genetic instructions used in the growth, development, and reproduction of living organisms.", "correct": "true" },
+      { "sentence": "DNA is a protein in the cell that catalyzes metabolic reactions and stores energy for growth.", "correct": "false" },
+      { "sentence": "DNA is a lipid molecule that forms the protective barrier around the nucleus of the cell.", "correct": "false" },
+      { "sentence": "DNA is a carbohydrate used by the cell to produce energy during cellular respiration.", "correct": "false" },
+      { "sentence": "DNA is a mineral deposit in bones that helps strengthen the skeletal structure.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "DNA contains the genetic code that determines the traits and functioning of all living cells.",
+        "chinese": "DNA 包含遗传信息，决定所有生物细胞的特征和功能。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A life cycle is the series of stages an organism passes through from birth to reproduction and death.", "correct": "true" },
+      { "sentence": "A life cycle is the chemical process within a cell that produces energy from nutrients.", "correct": "false" },
+      { "sentence": "A life cycle is the structure inside a cell where DNA is stored and copied during division.", "correct": "false" },
+      { "sentence": "A life cycle is the movement of water and nutrients through an ecosystem.", "correct": "false" },
+      { "sentence": "A life cycle is the process by which an organism absorbs sunlight and converts it into energy.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The life cycle describes the full sequence of growth, development, reproduction, and death of an organism.",
+        "chinese": "生命周期描述了生物从生长、发育、繁殖到死亡的完整过程。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Reproduction is the biological process by which organisms produce new individuals of the same species.", "correct": "true" },
+      { "sentence": "Reproduction is the breakdown of nutrients within cells to release energy for survival.", "correct": "false" },
+      { "sentence": "Reproduction is the process by which cells divide to repair damaged tissues without producing offspring.", "correct": "false" },
+      { "sentence": "Reproduction is the method organisms use to absorb water and minerals from the environment.", "correct": "false" },
+      { "sentence": "Reproduction is the process of exchanging gases like oxygen and carbon dioxide in living organisms.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Reproduction ensures the survival of species by producing new individuals that inherit genetic material from their parents.",
+        "chinese": "繁殖通过产生继承父母遗传物质的新个体来保证物种的生存。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Pollination is the transfer of pollen from the male part of a flower to the female part to enable fertilization.", "correct": "true" },
+      { "sentence": "Pollination is the process by which plants absorb water and nutrients from the soil for growth.", "correct": "false" },
+      { "sentence": "Pollination is the movement of leaves and stems in response to sunlight and gravity.", "correct": "false" },
+      { "sentence": "Pollination is the decomposition of plant material by bacteria to enrich the soil with nutrients.", "correct": "false" },
+      { "sentence": "Pollination is the process by which seeds germinate and grow into mature plants.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Pollination allows plants to reproduce sexually by transferring pollen so that fertilization can occur.",
+        "chinese": "授粉通过传递花粉使植物进行有性繁殖，从而完成受精。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Bacteria are single-celled microorganisms that can live in a wide variety of environments, some of which cause disease.", "correct": "true" },
+      { "sentence": "Bacteria are multicellular organisms that produce seeds for plant reproduction.", "correct": "false" },
+      { "sentence": "Bacteria are large eukaryotic cells that store genetic material inside a membrane-bound nucleus.", "correct": "false" },
+      { "sentence": "Bacteria are viruses that require host cells to reproduce and cannot survive independently.", "correct": "false" },
+      { "sentence": "Bacteria are specialized animal cells that make up muscle tissue and aid in locomotion.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Bacteria are prokaryotic microorganisms that can be beneficial, neutral, or pathogenic depending on the species.",
+        "chinese": "细菌是原核微生物，根据种类可以是有益的、中性的或致病的。"
+      }
+    ]
+  }
+]
