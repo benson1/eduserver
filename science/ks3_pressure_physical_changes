@@ -1,0 +1,145 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Evaporation is when molecules at the surface of a liquid gain enough energy to enter the gas phase below the boiling point, influenced by temperature, surface area, and ambient pressure.", "correct": "true" },
+      { "sentence": "Evaporation occurs throughout the bulk of a liquid only at boiling point, forming bubbles internally while the surface molecules remain unchanged.", "correct": "false" },
+      { "sentence": "Evaporation happens when surface molecules leave the liquid and immediately condense in surrounding air, primarily dependent on humidity rather than temperature.", "correct": "false" },
+      { "sentence": "Evaporation is a uniform transition of all molecules in a liquid to gas simultaneously, independent of surface exposure or environmental pressure.", "correct": "false" },
+      { "sentence": "Evaporation is triggered by chemical reactions weakening intermolecular forces, causing molecules to escape into gas without heating the liquid.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Evaporation is a surface phenomenon driven by kinetic energy; false options misrepresent it as boiling, condensation, bulk transition, or chemical effect.", "chinese": "蒸发是由分子动能驱动的表面现象；错误选项将其错误描述为沸腾、凝结、体积转变或化学作用。" }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Condensation is when gas molecules lose energy and form liquid droplets, influenced by temperature, pressure, and humidity, and can occur below the gas’s boiling point.", "correct": "true" },
+      { "sentence": "Condensation occurs only when gas reaches boiling temperature, with rapid droplet formation throughout the volume rather than at surfaces.", "correct": "false" },
+      { "sentence": "Condensation is caused by chemical interactions between molecules in gas, forming liquid regardless of energy loss or cooling.", "correct": "false" },
+      { "sentence": "Condensation happens when gas molecules slow at surfaces due to arbitrary temperature changes, without influence from pressure or composition.", "correct": "false" },
+      { "sentence": "Condensation occurs only on nucleation sites and requires special particles, otherwise gas remains uncondensed even when cooled.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Condensation is a gas-to-liquid phase change caused by energy loss; false options misrepresent it as boiling, chemical reaction, or overly restricted to nucleation.", "chinese": "凝结是气体因能量损失而变为液体的相变；错误选项混淆了沸腾、化学反应或仅限于成核的情况。" }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Boiling is when a liquid reaches a temperature where vapor pressure equals external pressure, forming bubbles throughout the liquid volume.", "correct": "true" },
+      { "sentence": "Boiling occurs only at the liquid surface when molecules escape as gas, without bubble formation inside the bulk.", "correct": "false" },
+      { "sentence": "Boiling is when molecules gradually evaporate throughout the liquid volume at any temperature, independent of vapor pressure.", "correct": "false" },
+      { "sentence": "Boiling happens due to chemical reactions within the liquid producing gas, rather than physical vapor pressure changes.", "correct": "false" },
+      { "sentence": "Boiling is a slow transition where the liquid’s surface and interior heat evenly, causing a uniform release of molecules into gas without bubbling.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Boiling is a bulk phase change driven by vapor pressure matching external pressure; false options misrepresent it as surface evaporation, chemical reaction, or uniform non-bubbling transition.", "chinese": "沸腾是液体蒸气压等于外界压力而产生的整体相变；错误选项混淆了表面蒸发、化学反应或均匀无气泡的转变。" }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Sublimation is the direct phase change of a solid into gas without passing through the liquid phase, typically influenced by pressure and temperature.", "correct": "true" },
+      { "sentence": "Sublimation occurs only when a solid is heated to its melting point, producing liquid first before turning into gas.", "correct": "false" },
+      { "sentence": "Sublimation is gas condensing directly into solid without forming liquid, usually during cooling rather than heating.", "correct": "false" },
+      { "sentence": "Sublimation happens uniformly throughout a solid, with all molecules gaining enough energy to become gas simultaneously regardless of surface exposure.", "correct": "false" },
+      { "sentence": "Sublimation is a chemical decomposition of solid material producing gas molecules without a phase transition.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Sublimation bypasses the liquid phase; false options misrepresent it as melting, condensation, bulk conversion, or chemical decomposition.", "chinese": "升华绕过液相；错误选项混淆了融化、凝结、整体转变或化学分解。" }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Density is the ratio of mass to volume of a substance, determining how compact the material is under given conditions.", "correct": "true" },
+      { "sentence": "Density is measured solely as weight in air, without accounting for volume or temperature changes.", "correct": "false" },
+      { "sentence": "Density changes only with chemical composition, ignoring temperature, pressure, or phase state effects.", "correct": "false" },
+      { "sentence": "Density measures the average speed of particles in a substance rather than their mass per unit volume.", "correct": "false" },
+      { "sentence": "Density is the space a substance occupies relative to its external shape, rather than its mass distribution.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Density is mass per unit volume; false options misinterpret it as weight, particle speed, or volume-only measures.", "chinese": "密度是单位体积的质量；错误选项将其误解为重量、粒子速度或仅测量体积。" }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Deposition is the direct transition of gas into solid without passing through the liquid phase, influenced by pressure and temperature conditions.", "correct": "true" },
+      { "sentence": "Deposition occurs when gas condenses into liquid and then freezes immediately to solid.", "correct": "false" },
+      { "sentence": "Deposition is a chemical reaction where gaseous molecules combine to form a solid compound, not a phase change.", "correct": "false" },
+      { "sentence": "Deposition happens uniformly throughout the gas volume, with all molecules simultaneously forming solid regardless of surfaces.", "correct": "false" },
+      { "sentence": "Deposition is when solid materials vaporize and then re-solidify due to environmental cooling, involving both liquid and gas phases.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Deposition is gas to solid without liquid; false options confuse it with freezing after condensation, chemical reactions, uniform bulk transitions, or multi-phase processes.", "chinese": "凝华是气体直接变为固体而不经过液相；错误选项混淆了先凝结再冻结、化学反应、体积转变或多相过程。" }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Distillation separates components of a mixture based on differences in boiling points, using controlled heating and condensation to collect purified fractions.", "correct": "true" },
+      { "sentence": "Distillation mixes liquids at high temperature to cause chemical reactions that produce separate compounds.", "correct": "false" },
+      { "sentence": "Distillation removes solids from liquids by filtration, relying on particle size rather than boiling points.", "correct": "false" },
+      { "sentence": "Distillation freezes liquids to isolate components, rather than relying on vaporization and condensation.", "correct": "false" },
+      { "sentence": "Distillation involves changing the chemical composition of liquids to separate volatile components.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Distillation separates mixtures physically by boiling point; false options misrepresent it as chemical reaction, filtration, freezing, or compositional change.", "chinese": "蒸馏通过沸点差异物理分离混合物；错误选项将其误解为化学反应、过滤、冷冻或成分变化。" }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A barometer is an instrument that measures atmospheric pressure, typically using mercury or aneroid mechanisms to detect pressure changes.", "correct": "true" },
+      { "sentence": "A barometer measures air temperature by observing expansion or contraction of mercury or gas within a sealed container.", "correct": "false" },
+      { "sentence": "A barometer detects humidity in the air by measuring condensation rates or water vapor density.", "correct": "false" },
+      { "sentence": "A barometer calculates wind speed based on oscillations of mercury or aneroid capsules exposed to airflow.", "correct": "false" },
+      { "sentence": "A barometer estimates rainfall by observing pressure differences over time and correlating them with precipitation.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Barometers measure atmospheric pressure; false options confuse it with temperature, humidity, wind, or rainfall measurement.", "chinese": "气压计用于测量大气压力；错误选项混淆了温度、湿度、风速或降水测量。" }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Lower air pressure increases the rate of evaporation by reducing the force opposing surface molecules escaping into the gas phase.", "correct": "true" },
+      { "sentence": "Evaporation rate is independent of air pressure and depends only on temperature and surface area.", "correct": "false" },
+      { "sentence": "Higher air pressure accelerates evaporation because it pushes molecules away from the liquid surface faster.", "correct": "false" },
+      { "sentence": "Air pressure affects only condensation, leaving evaporation unaffected in all cases.", "correct": "false" },
+      { "sentence": "Evaporation occurs primarily due to surface area and wind, while air pressure plays a negligible role.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Evaporation increases at lower pressure due to reduced opposing force; false options ignore pressure influence or misattribute effects to other factors.", "chinese": "较低气压下蒸发加快，因为阻力减小；错误选项忽略压力影响或错误归因于其他因素。" }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A Pascal (Pa) is the SI unit of pressure, defined as one newton of force per square meter of area.", "correct": "true" },
+      { "sentence": "A Pascal measures the total force applied over time, rather than pressure per unit area.", "correct": "false" },
+      { "sentence": "A Pascal quantifies temperature changes in pressurized systems, rather than mechanical force.", "correct": "false" },
+      { "sentence": "A Pascal measures mass per unit volume, confusing density with pressure.", "correct": "false" },
+      { "sentence": "A Pascal is the pressure exerted by a 1-liter liquid column at rest, rather than a defined SI unit.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Pressure in SI units is measured in Pascals; false options confuse it with force over time, temperature, density, or hydrostatic weight.", "chinese": "压力的国际单位是帕斯卡；错误选项混淆了时间力、温度、密度或液柱重量。" }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Temperature increase corresponds to an increase in the average kinetic energy of particles in a substance, affecting the speed and energy of molecular motion.", "correct": "true" },
+      { "sentence": "Temperature increase adds more particles to a substance, increasing the total kinetic energy rather than the average per particle.", "correct": "false" },
+      { "sentence": "Higher temperature slows particle motion, decreasing kinetic energy while increasing internal energy via phase change.", "correct": "false" },
+      { "sentence": "Temperature measures only chemical energy stored in molecular bonds, not kinetic energy of motion.", "correct": "false" },
+      { "sentence": "Temperature increase occurs only in liquids, with gases and solids unaffected by heat input.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Temperature reflects average kinetic energy of particles; false options confuse total energy, phase effects, or chemical energy with particle motion.", "chinese": "温度反映粒子平均动能；错误选项混淆了总能量、相变或化学能与粒子运动。" }
+    ]
+  }
+]
