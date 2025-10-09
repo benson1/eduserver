@@ -597,6 +597,11 @@
         "file": "b2_cell_and_repr",
         "type": "science",
         "level": "2"                
+    },{
+        "name": "ks3_pressure_physical_changes",
+        "file": "ks3_pressure_physical_changes",
+        "type": "science",
+        "level": "6"                
     }
-    
+ 
 ]
