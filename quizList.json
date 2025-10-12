@@ -608,6 +608,11 @@
         "file": "b4_tectonic",
         "type": "science",
         "level": "4"                
+    },
+     {
+        "name": "anthropology_paleo_human",
+        "file": "anthropology_paleo_human",
+        "type": "science",
+        "level": "4"                
     }
- 
 ]
