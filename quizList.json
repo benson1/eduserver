@@ -602,6 +602,12 @@
         "file": "ks3_pressure_physical_changes",
         "type": "science",
         "level": "6"                
+    },
+    {
+        "name": "b4_tectonic",
+        "file": "b4_tectonic",
+        "type": "science",
+        "level": "4"                
     }
  
 ]
