@@ -1,0 +1,121 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "image": "https://miro.medium.com/v2/resize:fit:1400/0*3Wufg4NXQ8osiSNy.jpeg",
+    "options": [
+      { "sentence": "Anthropology is the study of humans, their societies, cultures, and biological evolution.", "correct": "true" },
+      { "sentence": "Anthropology is the study of stars, planets, and other celestial objects.", "correct": "false" },
+      { "sentence": "Anthropology is the science of chemical reactions and laboratory experiments.", "correct": "false" },
+      { "sentence": "Anthropology is the branch of physics that examines the motion of objects on Earth.", "correct": "false" },
+      { "sentence": "Anthropology is the study of weather patterns and climate phenomena.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Anthropology studies humans in all aspects: cultural, social, linguistic, and biological, including our evolutionary history.",
+        "chinese": "人类学研究人类的各个方面：文化、社会、语言和生物学，包括我们的进化历史。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "image": "https://th-thumbnailer.cdn-si-edu.com/6dSJX4bWZMRa7cDdpMLFAK5Pnns=/1280x720/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/20111116112013Australopithecus_afarensis.jpg",
+    "options": [
+      { "sentence": "A hominid is any member of the biological family Hominidae, which includes modern humans, extinct human species, and great apes.", "correct": "true" },
+      { "sentence": "A hominid is a type of dinosaur that lived during the Mesozoic era.", "correct": "false" },
+      { "sentence": "A hominid is a small marine organism studied in oceanography.", "correct": "false" },
+      { "sentence": "A hominid is an ancient tree species used in early human toolmaking.", "correct": "false" },
+      { "sentence": "A hominid is a type of atmospheric phenomenon that affects climate patterns.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Hominids include all great apes and humans, both living and extinct, and are distinguished by traits like larger brains and upright posture.",
+        "chinese": "人科包括所有现存和已灭绝的灵长类动物和人类，其特征包括较大的脑容量和直立行走。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYoZO3EYoYD4_kKAtuk2AgjUUqWAPIiv3ECQ&s",
+    "options": [
+      { "sentence": "Homo erectus is an extinct species of hominid that lived from about 1.9 million to 110,000 years ago and is considered an ancestor of modern humans.", "correct": "true" },
+      { "sentence": "Homo erectus is a species of giant flightless bird that lived in prehistoric Africa.", "correct": "false" },
+      { "sentence": "Homo erectus is a type of early marine reptile known for its large fins and aquatic lifestyle.", "correct": "false" },
+      { "sentence": "Homo erectus is a plant species used by early humans for medicinal purposes.", "correct": "false" },
+      { "sentence": "Homo erectus is a volcanic formation discovered in Indonesia with unusual mineral deposits.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Homo erectus was a human ancestor known for walking upright, using tools, and possibly controlling fire, bridging early hominids and Homo sapiens.",
+        "chinese": "直立人是已灭绝的人类祖先，以直立行走、使用工具以及可能控制火而闻名，是早期人科与智人的过渡种。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "image": "https://media.newyorker.com/photos/5909685dc14b3c606c106cd2/master/pass/110815_r21179_g2048.jpg",
+    "options": [
+      { "sentence": "Neanderthals are an extinct species or subspecies of archaic humans who lived in Europe and western Asia until about 40,000 years ago.", "correct": "true" },
+      { "sentence": "Neanderthals are a type of prehistoric giant lizard that lived during the Ice Age.", "correct": "false" },
+      { "sentence": "Neanderthals are a mythical race described in ancient folklore.", "correct": "false" },
+      { "sentence": "Neanderthals are an early species of birds known for migration patterns in Europe.", "correct": "false" },
+      { "sentence": "Neanderthals are plants cultivated by early humans for food and medicine.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Neanderthals were close relatives of modern humans, skilled hunters, and may have had symbolic culture and tools.",
+        "chinese": "尼安德特人是现代人的近亲，熟练的猎人，并可能拥有象征性的文化和工具使用。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "image": "https://tautrust.org/wp-content/themes/yootheme/cache/22/AI-reconstruction-of-mixed-Neanderthal-Homo-sapiens-family-580-2205ec5f.jpeg",
+    "options": [
+      { "sentence": "Homo sapiens is the species name for modern humans, characterized by complex language, abstract thinking, and culture.", "correct": "true" },
+      { "sentence": "Homo sapiens is an extinct marine reptile known for its large fins.", "correct": "false" },
+      { "sentence": "Homo sapiens is an early hominid species that lived only in Africa and never left the continent.", "correct": "false" },
+      { "sentence": "Homo sapiens is a prehistoric bird species found in North America.", "correct": "false" },
+      { "sentence": "Homo sapiens is a genus of primates unrelated to humans.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Homo sapiens are modern humans with advanced cognitive abilities, social structures, and cultural practices.",
+        "chinese": "智人是现代人，拥有高级认知能力、社会结构和文化实践。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "image": "https://scx2.b-cdn.net/gfx/news/hires/2023/paleolithic-humans-may-2.jpg",
+    "options": [
+      { "sentence": "The Paleolithic Age is the prehistoric period during which humans used stone tools and were primarily hunter-gatherers.", "correct": "true" },
+      { "sentence": "The Paleolithic Age is the period when humans first developed agriculture and permanent settlements.", "correct": "false" },
+      { "sentence": "The Paleolithic Age refers to the time when humans built pyramids and large stone temples.", "correct": "false" },
+      { "sentence": "The Paleolithic Age is the era of the first industrial machinery and iron tools.", "correct": "false" },
+      { "sentence": "The Paleolithic Age describes the period of modern urban civilizations.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The Paleolithic Age is marked by the use of stone tools, hunting and gathering, and nomadic lifestyles.",
+        "chinese": "旧石器时代以石器使用、狩猎采集和游牧生活方式为特征。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "image": "https://e-history.kz/storage/tmp/resize/news/1200_0_7268c3c73d787c9e80f3b5922239b74e.jpg",
+    "options": [
+      { "sentence": "Nomads are people who move from place to place rather than living in permanent settlements, often following food or grazing resources.", "correct": "true" },
+      { "sentence": "Nomads are ancient civilizations that built permanent cities and pyramids.", "correct": "false" },
+      { "sentence": "Nomads are a type of early domestic animal used for farming.", "correct": "false" },
+      { "sentence": "Nomads are stone tools used by prehistoric humans for hunting.", "correct": "false" },
+      { "sentence": "Nomads are volcanic formations that ancient humans used for shelter.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Nomadic groups move regularly to access resources, a lifestyle common during the Paleolithic Age.",
+        "chinese": "游牧群体为了获取资源而定期迁移，这种生活方式在旧石器时代很常见。"
+      }
+    ]
+  }
+]
