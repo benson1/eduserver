@@ -1,0 +1,194 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The scientific method is a systematic approach to investigate phenomena, acquire new knowledge, or correct previous understanding.", "correct": "true" },
+      { "sentence": "The scientific method is a random process of guessing facts without testing or observation.", "correct": "false" },
+      { "sentence": "The scientific method relies only on personal opinions and beliefs to explain natural phenomena.", "correct": "false" },
+      { "sentence": "The scientific method is purely memorizing scientific facts from textbooks.", "correct": "false" },
+      { "sentence": "The scientific method is using magic or intuition to discover unknown scientific truths.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The scientific method involves observation, hypothesis formation, experimentation, and analysis to reach conclusions.",
+        "chinese": "科学方法包括观察、假设形成、实验和分析，以得出结论。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The mean (average) is calculated by adding all values together and dividing by the number of values.", "correct": "true" },
+      { "sentence": "The mean is the difference between the largest and smallest values in a dataset.", "correct": "false" },
+      { "sentence": "The mean is the middle value when all numbers are listed in order.", "correct": "false" },
+      { "sentence": "The mean is the total number of data points without considering their values.", "correct": "false" },
+      { "sentence": "The mean is the value that occurs least frequently in a dataset.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The mean represents the central tendency of a dataset by summing all values and dividing by the count.",
+        "chinese": "平均值表示数据集的集中趋势，将所有数值相加后除以数量。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A controlled experiment tests the effect of one variable while keeping all other factors constant.", "correct": "true" },
+      { "sentence": "A controlled experiment changes all variables at the same time to observe the result.", "correct": "false" },
+      { "sentence": "A controlled experiment requires no measurements or observations.", "correct": "false" },
+      { "sentence": "A controlled experiment is based purely on theoretical predictions without testing.", "correct": "false" },
+      { "sentence": "A controlled experiment ignores all external factors and does not track outcomes.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Controlled experiments isolate one independent variable to determine its effect on the dependent variable.",
+        "chinese": "控制实验通过隔离一个自变量来确定其对因变量的影响。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An independent variable is the factor that is deliberately changed in an experiment.", "correct": "true" },
+      { "sentence": "An independent variable is the result measured in an experiment.", "correct": "false" },
+      { "sentence": "An independent variable is a factor that never changes in any experiment.", "correct": "false" },
+      { "sentence": "An independent variable is the same as the constant in an experiment.", "correct": "false" },
+      { "sentence": "An independent variable is always unrelated to the experiment.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The independent variable is manipulated to see how it affects the dependent variable.",
+        "chinese": "自变量是在实验中被操作以观察其对因变量影响的因素。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A dependent variable is the factor observed and measured in response to changes in the independent variable.", "correct": "true" },
+      { "sentence": "A dependent variable is the factor that is deliberately changed in the experiment.", "correct": "false" },
+      { "sentence": "A dependent variable remains constant and does not respond to any changes.", "correct": "false" },
+      { "sentence": "A dependent variable is the same as an independent variable.", "correct": "false" },
+      { "sentence": "A dependent variable is unrelated to the outcome of the experiment.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The dependent variable is measured to determine the effect of the independent variable.",
+        "chinese": "因变量被测量以确定自变量的影响。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A constant is a factor that remains unchanged throughout an experiment.", "correct": "true" },
+      { "sentence": "A constant is the variable that is deliberately changed.", "correct": "false" },
+      { "sentence": "A constant is the outcome measured in an experiment.", "correct": "false" },
+      { "sentence": "A constant is a factor that fluctuates randomly during an experiment.", "correct": "false" },
+      { "sentence": "A constant refers to a factor outside the experiment and not controlled.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Constants ensure that only the independent variable affects the outcome.",
+        "chinese": "常量确保实验结果只受自变量影响。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "SI units are standardized measurements used internationally to ensure consistency.", "correct": "true" },
+      { "sentence": "SI units are measurement systems used only in the United States.", "correct": "false" },
+      { "sentence": "SI units are informal ways of describing measurements without standardization.", "correct": "false" },
+      { "sentence": "SI units are based on local customary units that vary between countries.", "correct": "false" },
+      { "sentence": "SI units are only used in biology and not in other sciences.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The International System of Units (SI) provides standardized measurements like meter, kilogram, and second.",
+        "chinese": "国际单位制（SI）提供标准化测量，如米、千克和秒。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Precision refers to how close repeated measurements are to each other.", "correct": "true" },
+      { "sentence": "Precision refers to how close a measurement is to the true value.", "correct": "false" },
+      { "sentence": "Precision refers to the largest value in a dataset.", "correct": "false" },
+      { "sentence": "Precision refers to how long a measurement takes to complete.", "correct": "false" },
+      { "sentence": "Precision is unrelated to measurement consistency.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Precision measures the reproducibility of results, not their correctness.",
+        "chinese": "精密度衡量结果的重复性，而不是正确性。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Accuracy refers to how close a measurement is to the true or accepted value.", "correct": "true" },
+      { "sentence": "Accuracy refers to the consistency of repeated measurements.", "correct": "false" },
+      { "sentence": "Accuracy is the difference between the largest and smallest values in a dataset.", "correct": "false" },
+      { "sentence": "Accuracy refers to the units used to measure a quantity.", "correct": "false" },
+      { "sentence": "Accuracy measures the speed at which data is collected.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Accuracy indicates how correct a measurement is compared to the accepted or true value.",
+        "chinese": "准确度表示测量值与公认或真实值的接近程度。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Kelvin is the SI unit of temperature, where 0 K represents absolute zero.", "correct": "true" },
+      { "sentence": "Kelvin is the SI unit of pressure used in gases.", "correct": "false" },
+      { "sentence": "Kelvin is the scale used for measuring mass in the SI system.", "correct": "false" },
+      { "sentence": "Kelvin is a unit used to measure time intervals.", "correct": "false" },
+      { "sentence": "Kelvin is a non-standard temperature unit used only in chemistry.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The Kelvin scale starts at absolute zero, and it is the standard SI unit for temperature.",
+        "chinese": "开尔文温标从绝对零度开始，是温度的标准国际单位。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The SI unit of mass is the kilogram (kg).", "correct": "true" },
+      { "sentence": "The SI unit of mass is the meter (m).", "correct": "false" },
+      { "sentence": "The SI unit of mass is the second (s).", "correct": "false" },
+      { "sentence": "The SI unit of mass is the Kelvin (K).", "correct": "false" },
+      { "sentence": "The SI unit of mass is the liter (L).", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Mass is measured in kilograms in the International System of Units.",
+        "chinese": "质量在国际单位制中以千克为单位。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The SI unit of time is the second (s).", "correct": "true" },
+      { "sentence": "The SI unit of time is the kilogram (kg).", "correct": "false" },
+      { "sentence": "The SI unit of time is the meter (m).", "correct": "false" },
+      { "sentence": "The SI unit of time is the Kelvin (K).", "correct": "false" },
+      { "sentence": "The SI unit of time is the mole (mol).", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Time is measured in seconds in the International System of Units.",
+        "chinese": "时间在国际单位制中以秒为单位。"
+      }
+    ]
+  }
+]
