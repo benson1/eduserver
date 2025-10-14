@@ -614,5 +614,11 @@
         "file": "anthropology_paleo_human",
         "type": "science",
         "level": "4"                
+    },
+         {
+        "name": "g1_method_and_measure",
+        "file": "g1_method_and_measure",
+        "type": "science",
+        "level": "5"                
     }
 ]
