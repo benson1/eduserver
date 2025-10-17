@@ -1,0 +1,162 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Troposphere is the lowest layer of Earth's atmosphere where most weather occurs.", "correct": "true" },
+      { "sentence": "Troposphere is the layer where satellites orbit Earth.", "correct": "false" },
+      { "sentence": "Troposphere is completely free of gases.", "correct": "false" },
+      { "sentence": "Troposphere is where cosmic rays are absorbed completely.", "correct": "false" },
+      { "sentence": "Troposphere is the layer beyond space.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The troposphere is the atmospheric layer closest to Earth, containing most clouds, weather, and life.",
+        "chinese": "对流层是靠近地球的气层，包含大部分云、天气现象和生命。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Stratosphere contains the ozone layer, which absorbs most UV radiation.", "correct": "true" },
+      { "sentence": "Stratosphere is where all weather occurs.", "correct": "false" },
+      { "sentence": "Stratosphere is the densest part of the atmosphere.", "correct": "false" },
+      { "sentence": "Stratosphere is where humans live and breathe.", "correct": "false" },
+      { "sentence": "Stratosphere has no temperature variation.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The stratosphere lies above the troposphere and contains the ozone layer, which protects Earth from UV rays.",
+        "chinese": "平流层位于对流层上方，含臭氧层，可保护地球免受紫外线伤害。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Mesosphere is the layer where most meteors burn up upon entering Earth's atmosphere.", "correct": "true" },
+      { "sentence": "Mesosphere is the layer where weather clouds form.", "correct": "false" },
+      { "sentence": "Mesosphere is the densest layer near Earth's surface.", "correct": "false" },
+      { "sentence": "Mesosphere is where airplanes normally fly.", "correct": "false" },
+      { "sentence": "Mesosphere contains the ozone layer.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The mesosphere is located above the stratosphere and protects Earth by burning up meteors.",
+        "chinese": "中间层位于平流层之上，可燃烧进入地球的大部分流星，从而保护地球。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Thermosphere is the layer where the auroras occur and the air is very thin.", "correct": "true" },
+      { "sentence": "Thermosphere is where clouds and rain form.", "correct": "false" },
+      { "sentence": "Thermosphere is the layer humans normally breathe in.", "correct": "false" },
+      { "sentence": "Thermosphere is the densest part of the atmosphere.", "correct": "false" },
+      { "sentence": "Thermosphere is where liquid water is stable on Earth's surface.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The thermosphere lies above the mesosphere and contains very few air molecules; auroras occur here.",
+        "chinese": "热层位于中间层之上，空气稀薄，极光在此出现。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Volume is the amount of space an object occupies.", "correct": "true" },
+      { "sentence": "Volume is the weight of an object.", "correct": "false" },
+      { "sentence": "Volume is the density of an object.", "correct": "false" },
+      { "sentence": "Volume is the pressure of air on a surface.", "correct": "false" },
+      { "sentence": "Volume is the temperature of a substance.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Volume measures how much space a substance or object takes up, in liters, cubic meters, etc.",
+        "chinese": "体积是物质或物体所占据的空间，单位如升或立方米。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Density is mass per unit volume of a substance.", "correct": "true" },
+      { "sentence": "Density is the speed of a substance.", "correct": "false" },
+      { "sentence": "Density is the temperature of an object.", "correct": "false" },
+      { "sentence": "Density is the amount of pressure applied to a surface.", "correct": "false" },
+      { "sentence": "Density is how bright an object appears.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Density is calculated as mass divided by volume (ρ = m/V).",
+        "chinese": "密度是物体的质量与体积的比值（ρ = m/V）。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Air pressure is the force exerted by air molecules on a surface.", "correct": "true" },
+      { "sentence": "Air pressure is the temperature of the atmosphere.", "correct": "false" },
+      { "sentence": "Air pressure is the mass of clouds in the sky.", "correct": "false" },
+      { "sentence": "Air pressure is how fast wind blows.", "correct": "false" },
+      { "sentence": "Air pressure is the density of a solid object.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Air pressure is caused by the weight and movement of air molecules pressing on objects and surfaces.",
+        "chinese": "气压是空气分子重量和运动对物体和表面施加的压力。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Low pressure is a region where the atmospheric pressure is lower than the surrounding areas.", "correct": "true" },
+      { "sentence": "Low pressure means there is no air present.", "correct": "false" },
+      { "sentence": "Low pressure always brings cold weather only.", "correct": "false" },
+      { "sentence": "Low pressure is where air molecules are extremely heavy.", "correct": "false" },
+      { "sentence": "Low pressure is a place with high air density.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Low-pressure areas often cause wind to blow in and can lead to clouds and storms.",
+        "chinese": "低压区的气压低于周围地区，常导致风吹入和形成云雨。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "High pressure is a region where atmospheric pressure is higher than surrounding areas.", "correct": "true" },
+      { "sentence": "High pressure means there is no wind at all.", "correct": "false" },
+      { "sentence": "High pressure is where air molecules disappear.", "correct": "false" },
+      { "sentence": "High pressure is only found at the top of mountains.", "correct": "false" },
+      { "sentence": "High pressure is equivalent to high temperature always.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "High-pressure areas are associated with sinking air, often causing clear skies.",
+        "chinese": "高压区气压高于周围地区，空气下沉，常带来晴朗天气。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A barometer is an instrument used to measure atmospheric pressure.", "correct": "true" },
+      { "sentence": "A barometer measures wind speed only.", "correct": "false" },
+      { "sentence": "A barometer measures temperature.", "correct": "false" },
+      { "sentence": "A barometer calculates volume of liquids.", "correct": "false" },
+      { "sentence": "A barometer is a tool to weigh objects.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Barometers detect changes in air pressure and help forecast weather.",
+        "chinese": "气压计用于测量大气压力的变化，可帮助预测天气。"
+      }
+    ]
+  }
+]
