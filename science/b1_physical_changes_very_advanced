@@ -1,0 +1,258 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A physical change alters the form or appearance of a substance without changing its chemical composition.", "correct": "true" },
+      { "sentence": "A physical change produces new chemical compounds by breaking and reforming atomic bonds under the same conditions.", "correct": "false" },
+      { "sentence": "A physical change is defined as any process that permanently replaces atoms in a substance with different elements.", "correct": "false" },
+      { "sentence": "A physical change always involves a chemical reaction that releases or absorbs energy and changes composition.", "correct": "false" },
+      { "sentence": "A physical change converts one element into another through rearrangement of protons in the nucleus.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A physical change affects only the form or appearance of a substance, not its chemical composition.",
+        "chinese": "物理变化只改变物质的形态或外观，不改变其化学成分。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Melting is the process by which a solid turns into a liquid when it absorbs heat.", "correct": "true" },
+      { "sentence": "Melting refers to a chemical transformation in which a solid is converted into a new compound when heated.", "correct": "false" },
+      { "sentence": "Melting is the process where liquids are separated into solids by adding heat to induce crystallization.", "correct": "false" },
+      { "sentence": "Melting means that a liquid has lost energy and rearranged into a more ordered solid structure.", "correct": "false" },
+      { "sentence": "Melting denotes a nuclear-level change in atomic identity that occurs when solids are thermally excited.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Melting occurs when a solid absorbs heat and becomes a liquid.",
+        "chinese": "熔化是固体吸收热量后变成液体的过程。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Freezing is the process by which a liquid turns into a solid when it loses heat.", "correct": "true" },
+      { "sentence": "Freezing is the chemical combination of several liquids into a single new substance when cooled below room temperature.", "correct": "false" },
+      { "sentence": "Freezing is the instantaneous conversion of gas to plasma that occurs under atmospheric pressure changes.", "correct": "false" },
+      { "sentence": "Freezing occurs when a liquid gains heat rapidly and transforms into a vapor phase throughout the volume.", "correct": "false" },
+      { "sentence": "Freezing indicates the permanent fusion of molecules into a new compound that cannot revert to the original liquid.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Freezing happens when a liquid loses heat and becomes a solid.",
+        "chinese": "凝固是液体失去热量后变成固体的过程。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Evaporation is the process by which a liquid changes into a gas at its surface below the boiling point.", "correct": "true" },
+      { "sentence": "Evaporation is the direct conversion of solid material into a permanent new solid form at the surface.", "correct": "false" },
+      { "sentence": "Evaporation denotes the formation of a liquid phase from a gas when the gas is compressed into a small volume.", "correct": "false" },
+      { "sentence": "Evaporation is when the entire volume of a liquid simultaneously vaporizes only at the boiling point.", "correct": "false" },
+      { "sentence": "Evaporation is the irreversible chemical reaction of a liquid producing gaseous reaction products at room temperature.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Evaporation happens at the surface of a liquid when molecules gain enough energy to become gas.",
+        "chinese": "蒸发是在液体表面，分子获得足够能量变成气体的过程。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Boiling is the process by which a liquid changes into a gas throughout the entire liquid at its boiling point.", "correct": "true" },
+      { "sentence": "Boiling is the gradual surface-only release of liquid molecules into the air occurring below the boiling point.", "correct": "false" },
+      { "sentence": "Boiling is the spontaneous formation of solids from a liquid when it is heated above its decomposition temperature.", "correct": "false" },
+      { "sentence": "Boiling refers to the chemical breakdown of a liquid into separate elements due to heat.", "correct": "false" },
+      { "sentence": "Boiling describes the conversion of a liquid into plasma under conditions typical of everyday cooking.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Boiling occurs when a liquid reaches its boiling point and turns into gas throughout the liquid.",
+        "chinese": "沸腾是液体达到沸点时，整个液体都变成气体的过程。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Condensation is the process by which a gas changes into a liquid when it cools.", "correct": "true" },
+      { "sentence": "Condensation is the process in which liquids chemically combine to form gases at high temperature.", "correct": "false" },
+      { "sentence": "Condensation is the formation of solid crystals from a liquid by heating to very high temperatures.", "correct": "false" },
+      { "sentence": "Condensation denotes the spontaneous splitting of molecules into ionic gases as temperature drops.", "correct": "false" },
+      { "sentence": "Condensation refers to the permanent conversion of gas molecules into new chemical species on cooling.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Condensation occurs when a gas cools and becomes a liquid.",
+        "chinese": "凝结是气体冷却后变成液体的过程。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Sublimation is the process by which a solid changes directly into a gas without becoming a liquid first.", "correct": "true" },
+      { "sentence": "Sublimation is the process where gases spontaneously form crystalline solids without temperature change.", "correct": "false" },
+      { "sentence": "Sublimation describes the intermediate melting of solids into liquids before vapor formation at low pressures.", "correct": "false" },
+      { "sentence": "Sublimation is the chemical decomposition of solids into simpler molecular gases under ambient conditions.", "correct": "false" },
+      { "sentence": "Sublimation refers to the permanent fusion of solids into liquids that cannot revert to the original solid state.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Sublimation happens when a solid becomes a gas directly without forming a liquid.",
+        "chinese": "升华是固体不经过液态直接变为气体的过程。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Deposition is the process by which a gas changes directly into a solid without becoming a liquid first.", "correct": "true" },
+      { "sentence": "Deposition is the condensation of liquids into gases after heating under low pressure.", "correct": "false" },
+      { "sentence": "Deposition describes the dissolution of solids into solvents that then crystallize on cooling.", "correct": "false" },
+      { "sentence": "Deposition is the physical breaking apart of solids into gaseous atoms via mechanical force.", "correct": "false" },
+      { "sentence": "Deposition indicates a chemical reaction where gases form entirely new molecular solids on contact.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Deposition occurs when a gas changes directly into a solid without forming a liquid.",
+        "chinese": "凝华是气体不经过液态直接变为固体的过程。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Kelvin (K) is the SI unit of temperature, starting at absolute zero where molecular motion stops.", "correct": "true" },
+      { "sentence": "Kelvin is a unit that measures thermal energy in joules per mole and indicates heat content directly.", "correct": "false" },
+      { "sentence": "Kelvin is an arbitrary temperature scale that begins at the freezing point of water and uses unequal intervals.", "correct": "false" },
+      { "sentence": "Kelvin quantifies the amount of heat transferred in a reaction rather than the kinetic energy of particles.", "correct": "false" },
+      { "sentence": "Kelvin corresponds to the Celsius scale but starts at a reference defined by the boiling point of water.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The Kelvin scale measures temperature starting from absolute zero (0 K = -273.15°C).",
+        "chinese": "开尔文温标从绝对零度开始（0 K = -273.15°C）。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A mixture is a combination of two or more substances that are physically mixed but not chemically combined.", "correct": "true" },
+      { "sentence": "A mixture is a pure substance composed of identical molecules held together by fixed stoichiometry.", "correct": "false" },
+      { "sentence": "A mixture requires chemical bonding to form a homogeneous single compound under normal conditions.", "correct": "false" },
+      { "sentence": "A mixture is defined as a substance that cannot be separated into components by any physical method.", "correct": "false" },
+      { "sentence": "A mixture always implies a chemical reaction has occurred resulting in a new material with different properties.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A mixture contains two or more substances physically combined without chemical bonding.",
+        "chinese": "混合物由两种或多种物质物理混合而成，没有化学结合。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Dissolving is the process where a solute spreads evenly throughout a solvent to form a solution.", "correct": "true" },
+      { "sentence": "Dissolving is a chemical reaction that always creates a new covalently bonded compound distinct from the solute.", "correct": "false" },
+      { "sentence": "Dissolving denotes the separation of solute particles by filtration and mechanical sieving rather than mixing.", "correct": "false" },
+      { "sentence": "Dissolving describes the conversion of solvents into solutes by electrolysis at room temperature.", "correct": "false" },
+      { "sentence": "Dissolving means that the solute permanently changes its elemental composition upon contact with the solvent.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Dissolving happens when a solute mixes evenly with a solvent to form a solution.",
+        "chinese": "溶解是溶质与溶剂均匀混合形成溶液的过程。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A solution is a homogeneous mixture formed when one substance dissolves in another.", "correct": "true" },
+      { "sentence": "A solution is a heterogeneous assembly of different phases that always shows visible boundaries between components.", "correct": "false" },
+      { "sentence": "A solution is a specific type of compound produced by a chemical reaction and has a fixed formula.", "correct": "false" },
+      { "sentence": "A solution cannot be formed by liquids and is restricted to solid mixtures only under standard conditions.", "correct": "false" },
+      { "sentence": "A solution refers exclusively to gaseous systems in which components never interact at the molecular level.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A solution is a uniform mixture where one substance dissolves in another.",
+        "chinese": "溶液是一种均匀混合物，由一种物质溶解在另一种物质中形成。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A homogeneous mixture has a uniform composition throughout and its components are not visibly distinct.", "correct": "true" },
+      { "sentence": "A homogeneous mixture is characterized by large, visible particles that separate quickly on standing.", "correct": "false" },
+      { "sentence": "A homogeneous mixture always consists only of solids and cannot include liquids or gases.", "correct": "false" },
+      { "sentence": "A homogeneous mixture forms when components chemically bond and cannot be separated physically.", "correct": "false" },
+      { "sentence": "A homogeneous mixture is defined as a reactive solution that changes composition within minutes of mixing.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A homogeneous mixture has the same composition throughout; its parts are not visible.",
+        "chinese": "均匀混合物在整体上组成一致，各部分不可区分。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A heterogeneous mixture does not have a uniform composition and its different parts are visible.", "correct": "true" },
+      { "sentence": "A heterogeneous mixture is uniform and indistinguishable into separate parts at the macroscopic level.", "correct": "false" },
+      { "sentence": "A heterogeneous mixture refers only to ionic solutions that are evenly distributed at the molecular level.", "correct": "false" },
+      { "sentence": "A heterogeneous mixture always results from irreversible chemical reactions between its constituents.", "correct": "false" },
+      { "sentence": "A heterogeneous mixture is strictly a gaseous mixture that becomes homogeneous when observed under a microscope.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A heterogeneous mixture has visible different parts and is not uniform throughout.",
+        "chinese": "非均匀混合物各部分不同，可以明显区分。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Filtration is a process used to separate a solid from a liquid or gas using a filter.", "correct": "true" },
+      { "sentence": "Filtration is a thermal technique that separates components by continuously heating a mixture to vaporize selected materials.", "correct": "false" },
+      { "sentence": "Filtration describes a chemical reaction where solids dissolve into liquids and later precipitate as new compounds.", "correct": "false" },
+      { "sentence": "Filtration is the process of converting dissolved solutes into gases by applying high electrical voltages.", "correct": "false" },
+      { "sentence": "Filtration denotes the deliberate mixing of solids with liquids to achieve a homogeneous solution that cannot be separated.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Filtration separates solids from liquids or gases using a filter that only allows certain particles through.",
+        "chinese": "过滤利用过滤材料将固体与液体或气体分开，只允许特定粒子通过。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Distillation separates components of a mixture based on differences in their boiling points.", "correct": "true" },
+      { "sentence": "Distillation is a filtration method that relies on porous membranes to remove dissolved salts without phase change.", "correct": "false" },
+      { "sentence": "Distillation refers to the direct conversion of solids into solids with different crystalline forms by grinding.", "correct": "false" },
+      { "sentence": "Distillation is the mixing of liquids at constant temperature to create a uniform solution that cannot be separated.", "correct": "false" },
+      { "sentence": "Distillation is a separation technique that vaporizes the more volatile component and then condenses the vapor to collect it separately.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Distillation separates mixtures using differences in boiling points through heating and condensation.",
+        "chinese": "蒸馏通过加热和冷凝，利用沸点差异分离混合物中的成分。"
+      }
+    ]
+  }
+]
