@@ -8,6 +8,7 @@
       { "sentence": "A physical change always involves a chemical reaction that releases or absorbs energy and changes composition.", "correct": "false" },
       { "sentence": "A physical change converts one element into another through rearrangement of protons in the nucleus.", "correct": "false" }
     ],
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20240511115819/Physical-Changes-(1).png",
     "explanation": [
       {
         "english": "A physical change affects only the form or appearance of a substance, not its chemical composition.",
@@ -24,6 +25,7 @@
       { "sentence": "Melting means that a liquid has lost energy and rearranged into a more ordered solid structure.", "correct": "false" },
       { "sentence": "Melting denotes a nuclear-level change in atomic identity that occurs when solids are thermally excited.", "correct": "false" }
     ],
+    "image": "https://www.chemistrylearner.com/wp-content/uploads/2025/05/Melting.jpg",
     "explanation": [
       {
         "english": "Melting occurs when a solid absorbs heat and becomes a liquid.",
@@ -40,6 +42,7 @@
       { "sentence": "Freezing occurs when a liquid gains heat rapidly and transforms into a vapor phase throughout the volume.", "correct": "false" },
       { "sentence": "Freezing indicates the permanent fusion of molecules into a new compound that cannot revert to the original liquid.", "correct": "false" }
     ],
+    "image": "https://www.chemistrylearner.com/wp-content/uploads/2025/05/Freezing.jpg",
     "explanation": [
       {
         "english": "Freezing happens when a liquid loses heat and becomes a solid.",
@@ -56,6 +59,7 @@
       { "sentence": "Evaporation is when the entire volume of a liquid simultaneously vaporizes only at the boiling point.", "correct": "false" },
       { "sentence": "Evaporation is the irreversible chemical reaction of a liquid producing gaseous reaction products at room temperature.", "correct": "false" }
     ],
+    "image": "https://eschooltoday.com/learn/wp-content/uploads/2020/10/evaporation-in-the-water-cycle.jpg",
     "explanation": [
       {
         "english": "Evaporation happens at the surface of a liquid when molecules gain enough energy to become gas.",
@@ -72,6 +76,7 @@
       { "sentence": "Boiling refers to the chemical breakdown of a liquid into separate elements due to heat.", "correct": "false" },
       { "sentence": "Boiling describes the conversion of a liquid into plasma under conditions typical of everyday cooking.", "correct": "false" }
     ],
+    "image": "https://cdn.britannica.com/88/78188-004-43BFD14F/Water-boiling-point.jpg",
     "explanation": [
       {
         "english": "Boiling occurs when a liquid reaches its boiling point and turns into gas throughout the liquid.",
@@ -88,6 +93,7 @@
       { "sentence": "Condensation denotes the spontaneous splitting of molecules into ionic gases as temperature drops.", "correct": "false" },
       { "sentence": "Condensation refers to the permanent conversion of gas molecules into new chemical species on cooling.", "correct": "false" }
     ],
+    "image": "https://natural-resources.canada.ca/sites/nrcan/files/energy/jpg/condensation.jpg",
     "explanation": [
       {
         "english": "Condensation occurs when a gas cools and becomes a liquid.",
@@ -104,6 +110,7 @@
       { "sentence": "Sublimation is the chemical decomposition of solids into simpler molecular gases under ambient conditions.", "correct": "false" },
       { "sentence": "Sublimation refers to the permanent fusion of solids into liquids that cannot revert to the original solid state.", "correct": "false" }
     ],
+    "image": "https://www.thoughtco.com/thmb/BfiSt3_I8fnM9wKOgGqALUXA8BY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/sublimation-of-dry-ice-co2-solid-co2-changes-directly-from-solid-to-gas-128108785-5768263e5f9b58346ad1d386.jpg",
     "explanation": [
       {
         "english": "Sublimation happens when a solid becomes a gas directly without forming a liquid.",
@@ -120,6 +127,7 @@
       { "sentence": "Deposition is the physical breaking apart of solids into gaseous atoms via mechanical force.", "correct": "false" },
       { "sentence": "Deposition indicates a chemical reaction where gases form entirely new molecular solids on contact.", "correct": "false" }
     ],
+    "image": "https://d20khd7ddkh5ls.cloudfront.net/img_3caf58d0680e-1.jpeg",
     "explanation": [
       {
         "english": "Deposition occurs when a gas changes directly into a solid without forming a liquid.",
@@ -130,128 +138,136 @@
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
-      { "sentence": "Kelvin (K) is the SI unit of temperature, starting at absolute zero where molecular motion stops.", "correct": "true" },
-      { "sentence": "Kelvin is a unit that measures thermal energy in joules per mole and indicates heat content directly.", "correct": "false" },
-      { "sentence": "Kelvin is an arbitrary temperature scale that begins at the freezing point of water and uses unequal intervals.", "correct": "false" },
-      { "sentence": "Kelvin quantifies the amount of heat transferred in a reaction rather than the kinetic energy of particles.", "correct": "false" },
-      { "sentence": "Kelvin corresponds to the Celsius scale but starts at a reference defined by the boiling point of water.", "correct": "false" }
+      { "sentence": "Kelvin is the absolute temperature scale where zero Kelvin represents the absence of all thermal energy.", "correct": "true" },
+      { "sentence": "Kelvin is the temperature scale where zero represents the average temperature of the Earth's surface under standard conditions.", "correct": "false" },
+      { "sentence": "Kelvin is a unit of temperature that defines freezing point of water as zero degrees and boiling as 100 degrees.", "correct": "false" },
+      { "sentence": "Kelvin is the relative temperature scale based on arbitrary reference points for common laboratory reactions.", "correct": "false" },
+      { "sentence": "Kelvin is a measure of energy change during chemical reactions and does not represent temperature directly.", "correct": "false" }
     ],
+    "image": "https://sciencenotes.org/wp-content/uploads/2020/08/Absolute-Zero.jpg",
     "explanation": [
       {
-        "english": "The Kelvin scale measures temperature starting from absolute zero (0 K = -273.15°C).",
-        "chinese": "开尔文温标从绝对零度开始（0 K = -273.15°C）。"
+        "english": "Kelvin is an absolute temperature scale starting at absolute zero, where all molecular motion stops.",
+        "chinese": "开尔文是绝对温标，从绝对零度开始，分子运动完全停止。"
       }
     ]
   },
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
-      { "sentence": "A mixture is a combination of two or more substances that are physically mixed but not chemically combined.", "correct": "true" },
-      { "sentence": "A mixture is a pure substance composed of identical molecules held together by fixed stoichiometry.", "correct": "false" },
-      { "sentence": "A mixture requires chemical bonding to form a homogeneous single compound under normal conditions.", "correct": "false" },
-      { "sentence": "A mixture is defined as a substance that cannot be separated into components by any physical method.", "correct": "false" },
-      { "sentence": "A mixture always implies a chemical reaction has occurred resulting in a new material with different properties.", "correct": "false" }
+      { "sentence": "A mixture is a combination of two or more substances that are not chemically bonded and can be separated physically.", "correct": "true" },
+      { "sentence": "A mixture is a chemical combination where the substances form a single new compound with fixed proportions.", "correct": "false" },
+      { "sentence": "A mixture is a homogeneous collection of molecules that have reacted to form a pure substance.", "correct": "false" },
+      { "sentence": "A mixture is a type of solution where the components undergo permanent molecular rearrangement.", "correct": "false" },
+      { "sentence": "A mixture is a physical combination that changes the chemical identity of the substances involved.", "correct": "false" }
     ],
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20220916144443/WhatisMixture.png",
     "explanation": [
       {
-        "english": "A mixture contains two or more substances physically combined without chemical bonding.",
-        "chinese": "混合物由两种或多种物质物理混合而成，没有化学结合。"
+        "english": "A mixture consists of two or more substances physically combined without chemical bonding, and can be separated.",
+        "chinese": "混合物由两个或更多物质通过物理方式混合而成，没有化学键，可分离。"
       }
     ]
   },
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
-      { "sentence": "Dissolving is the process where a solute spreads evenly throughout a solvent to form a solution.", "correct": "true" },
-      { "sentence": "Dissolving is a chemical reaction that always creates a new covalently bonded compound distinct from the solute.", "correct": "false" },
-      { "sentence": "Dissolving denotes the separation of solute particles by filtration and mechanical sieving rather than mixing.", "correct": "false" },
-      { "sentence": "Dissolving describes the conversion of solvents into solutes by electrolysis at room temperature.", "correct": "false" },
-      { "sentence": "Dissolving means that the solute permanently changes its elemental composition upon contact with the solvent.", "correct": "false" }
+      { "sentence": "Dissolve means a substance mixes uniformly into a liquid to form a solution.", "correct": "true" },
+      { "sentence": "Dissolve refers to the process where a liquid chemically reacts with another liquid to form a solid compound.", "correct": "false" },
+      { "sentence": "Dissolve is the physical removal of solids from liquids by heating until they vaporize completely.", "correct": "false" },
+      { "sentence": "Dissolve means that a substance disappears permanently by converting into gas when added to a liquid.", "correct": "false" },
+      { "sentence": "Dissolve is the process of transforming a liquid into a solid crystal lattice by freezing.", "correct": "false" }
     ],
+    "image": "https://cdn1.byjus.com/wp-content/uploads/2017/03/Solutions-700x336.png",
     "explanation": [
       {
-        "english": "Dissolving happens when a solute mixes evenly with a solvent to form a solution.",
-        "chinese": "溶解是溶质与溶剂均匀混合形成溶液的过程。"
+        "english": "Dissolving is when a substance mixes uniformly in a liquid to form a solution without changing chemically.",
+        "chinese": "溶解是指物质均匀混入液体形成溶液，而不发生化学变化。"
       }
     ]
   },
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
-      { "sentence": "A solution is a homogeneous mixture formed when one substance dissolves in another.", "correct": "true" },
-      { "sentence": "A solution is a heterogeneous assembly of different phases that always shows visible boundaries between components.", "correct": "false" },
-      { "sentence": "A solution is a specific type of compound produced by a chemical reaction and has a fixed formula.", "correct": "false" },
-      { "sentence": "A solution cannot be formed by liquids and is restricted to solid mixtures only under standard conditions.", "correct": "false" },
-      { "sentence": "A solution refers exclusively to gaseous systems in which components never interact at the molecular level.", "correct": "false" }
+      { "sentence": "A solution is a homogeneous mixture of two or more substances where the solute is completely dissolved in the solvent.", "correct": "true" },
+      { "sentence": "A solution is a heterogeneous mixture where particles are visibly separated and can settle over time.", "correct": "false" },
+      { "sentence": "A solution is a chemical compound formed from two substances reacting to produce a new molecule.", "correct": "false" },
+      { "sentence": "A solution refers to the physical layering of two liquids without any molecular mixing.", "correct": "false" },
+      { "sentence": "A solution is a mixture in which solids remain completely undissolved regardless of stirring.", "correct": "false" }
     ],
+    "image": "https://cdn1.byjus.com/wp-content/uploads/2017/03/Solutions-700x336.png",
     "explanation": [
       {
-        "english": "A solution is a uniform mixture where one substance dissolves in another.",
-        "chinese": "溶液是一种均匀混合物，由一种物质溶解在另一种物质中形成。"
+        "english": "A solution is a uniform mixture where the solute is fully dissolved in the solvent.",
+        "chinese": "溶液是均匀混合物，其中溶质完全溶解在溶剂中。"
       }
     ]
   },
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
-      { "sentence": "A homogeneous mixture has a uniform composition throughout and its components are not visibly distinct.", "correct": "true" },
-      { "sentence": "A homogeneous mixture is characterized by large, visible particles that separate quickly on standing.", "correct": "false" },
-      { "sentence": "A homogeneous mixture always consists only of solids and cannot include liquids or gases.", "correct": "false" },
-      { "sentence": "A homogeneous mixture forms when components chemically bond and cannot be separated physically.", "correct": "false" },
-      { "sentence": "A homogeneous mixture is defined as a reactive solution that changes composition within minutes of mixing.", "correct": "false" }
+      { "sentence": "A homogeneous mixture has a uniform composition and appearance throughout.", "correct": "true" },
+      { "sentence": "A homogeneous mixture is one in which the components are visibly separated and unevenly distributed.", "correct": "false" },
+      { "sentence": "A homogeneous mixture always contains solids that settle over time, giving a layered structure.", "correct": "false" },
+      { "sentence": "A homogeneous mixture is a mixture where chemical reactions occur continuously between components.", "correct": "false" },
+      { "sentence": "A homogeneous mixture is formed only by heating two solids until they fuse into a new compound.", "correct": "false" }
     ],
+    "image": "https://static.vecteezy.com/system/resources/previews/039/359/350/non_2x/homogeneous-mixture-is-uniform-blend-of-substances-consistent-in-composition-throughout-vector.jpg",
     "explanation": [
       {
-        "english": "A homogeneous mixture has the same composition throughout; its parts are not visible.",
-        "chinese": "均匀混合物在整体上组成一致，各部分不可区分。"
+        "english": "A homogeneous mixture looks the same throughout because its composition is uniform.",
+        "chinese": "均匀混合物在整个物质中看起来相同，因为其组成是均一的。"
       }
     ]
   },
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
-      { "sentence": "A heterogeneous mixture does not have a uniform composition and its different parts are visible.", "correct": "true" },
-      { "sentence": "A heterogeneous mixture is uniform and indistinguishable into separate parts at the macroscopic level.", "correct": "false" },
-      { "sentence": "A heterogeneous mixture refers only to ionic solutions that are evenly distributed at the molecular level.", "correct": "false" },
-      { "sentence": "A heterogeneous mixture always results from irreversible chemical reactions between its constituents.", "correct": "false" },
-      { "sentence": "A heterogeneous mixture is strictly a gaseous mixture that becomes homogeneous when observed under a microscope.", "correct": "false" }
+      { "sentence": "A heterogeneous mixture has visibly different components and is not uniform in composition.", "correct": "true" },
+      { "sentence": "A heterogeneous mixture is one where all components are chemically bonded to form a single uniform substance.", "correct": "false" },
+      { "sentence": "A heterogeneous mixture always forms a solution where particles are completely dissolved and invisible.", "correct": "false" },
+      { "sentence": "A heterogeneous mixture refers to a mixture that undergoes a chemical reaction producing gas bubbles throughout.", "correct": "false" },
+      { "sentence": "A heterogeneous mixture is a completely homogeneous compound in which no individual components can be identified.", "correct": "false" }
     ],
+    "image": "https://library.88guru.com/wp-content/uploads/2023/08/shutterstock_2263530573-2048x1145.webp",
     "explanation": [
       {
-        "english": "A heterogeneous mixture has visible different parts and is not uniform throughout.",
-        "chinese": "非均匀混合物各部分不同，可以明显区分。"
+        "english": "A heterogeneous mixture contains different substances that can usually be seen and separated physically.",
+        "chinese": "非均匀混合物包含可见的不同物质，通常可以通过物理方法分离。"
       }
     ]
   },
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
-      { "sentence": "Filtration is a process used to separate a solid from a liquid or gas using a filter.", "correct": "true" },
-      { "sentence": "Filtration is a thermal technique that separates components by continuously heating a mixture to vaporize selected materials.", "correct": "false" },
-      { "sentence": "Filtration describes a chemical reaction where solids dissolve into liquids and later precipitate as new compounds.", "correct": "false" },
-      { "sentence": "Filtration is the process of converting dissolved solutes into gases by applying high electrical voltages.", "correct": "false" },
-      { "sentence": "Filtration denotes the deliberate mixing of solids with liquids to achieve a homogeneous solution that cannot be separated.", "correct": "false" }
+      { "sentence": "Filtration is a process that separates solids from liquids using a filter that allows only the liquid to pass through.", "correct": "true" },
+      { "sentence": "Filtration is the chemical reaction of dissolving solids in a liquid until a new compound is formed.", "correct": "false" },
+      { "sentence": "Filtration is the process where liquids are heated until solids spontaneously vaporize.", "correct": "false" },
+      { "sentence": "Filtration refers to separating components of a gas mixture by using a selective membrane.", "correct": "false" },
+      { "sentence": "Filtration is the permanent chemical decomposition of liquids into solids by applying heat.", "correct": "false" }
     ],
+    "image": "https://cdn1.byjus.com/wp-content/uploads/2016/01/Filtration-Process-along-with-Example.png",
     "explanation": [
       {
-        "english": "Filtration separates solids from liquids or gases using a filter that only allows certain particles through.",
-        "chinese": "过滤利用过滤材料将固体与液体或气体分开，只允许特定粒子通过。"
+        "english": "Filtration separates solids from liquids by passing the mixture through a filter that traps solids.",
+        "chinese": "过滤通过让混合物通过过滤器来分离液体中的固体，固体被截留。"
       }
     ]
   },
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
-      { "sentence": "Distillation separates components of a mixture based on differences in their boiling points.", "correct": "true" },
-      { "sentence": "Distillation is a filtration method that relies on porous membranes to remove dissolved salts without phase change.", "correct": "false" },
-      { "sentence": "Distillation refers to the direct conversion of solids into solids with different crystalline forms by grinding.", "correct": "false" },
-      { "sentence": "Distillation is the mixing of liquids at constant temperature to create a uniform solution that cannot be separated.", "correct": "false" },
-      { "sentence": "Distillation is a separation technique that vaporizes the more volatile component and then condenses the vapor to collect it separately.", "correct": "false" }
+      { "sentence": "Distillation is a technique that uses controlled heating to vaporize a liquid and then condenses that vapor back to liquid to separate substances based on boiling points.", "correct": "true" },
+      { "sentence": "Distillation is the process of chemically breaking liquids into solids and gases under heat to form entirely new compounds.", "correct": "false" },
+      { "sentence": "Distillation is a method where liquids are mixed and chemically altered to produce a uniform compound without separation.", "correct": "false" },
+      { "sentence": "Distillation refers to the mechanical squeezing of liquids to remove solutes without phase change.", "correct": "false" },
+      { "sentence": "Distillation is the irreversible conversion of liquids to plasma at low temperature to produce new substances.", "correct": "false" }
     ],
+    "image": "https://images.twinkl.co.uk/tw1n/image/private/t_630/u/ux/distillation_ver_1.png",
     "explanation": [
       {
-        "english": "Distillation separates mixtures using differences in boiling points through heating and condensation.",
-        "chinese": "蒸馏通过加热和冷凝，利用沸点差异分离混合物中的成分。"
+        "english": "Distillation separates liquids based on differences in boiling points by vaporizing and then condensing them.",
+        "chinese": "蒸馏是通过加热蒸发再冷凝的方法，根据沸点差异分离液体。"
       }
     ]
   }
