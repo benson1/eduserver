@@ -127,6 +127,22 @@
       }
     ]
   },
+{
+  "question": "Which sentence is scientifically correct?",
+  "options": [
+    { "sentence": "A phylum is a major taxonomic group that classifies organisms based on their basic body plan or structure.", "correct": "true" },
+    { "sentence": "A phylum is the most specific taxonomic rank containing only one species.", "correct": "false" },
+    { "sentence": "A phylum is a type of kingdom found only in plants.", "correct": "false" },
+    { "sentence": "A phylum is a method of naming individual animals or plants.", "correct": "false" },
+    { "sentence": "A phylum is a group of families with identical genetic makeup.", "correct": "false" }
+  ],
+  "explanation": [
+    {
+      "english": "Phylum is a classification level above class and below kingdom. Organisms in the same phylum share key structural features, such as a backbone in Chordata or jointed legs in Arthropoda.",
+      "chinese": "门是纲之上的分类等级、界之下。属于同一门的生物具有关键的结构特征，例如脊索动物门具有脊椎，节肢动物门具有关节腿。"
+    }
+  ]
+},
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
