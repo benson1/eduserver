@@ -626,5 +626,11 @@
         "file": "b1_physical_changes_very_advanced",
         "type": "science",
         "level": "5"                
+    },
+{
+            "name":"b1_scientific_method_also_taxo",
+        "file": "b1_scientific_method_also_taxo",
+        "type": "science",
+        "level": "2"                
     }
 ]
