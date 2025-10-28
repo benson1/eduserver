@@ -1,0 +1,162 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The scientific method is a systematic approach used to investigate questions and solve problems based on evidence.", "correct": "true" },
+      { "sentence": "The scientific method is a set of random guesses without observation or testing.", "correct": "false" },
+      { "sentence": "The scientific method only applies to chemistry experiments and not to biology or physics.", "correct": "false" },
+      { "sentence": "The scientific method relies solely on intuition and opinions rather than evidence.", "correct": "false" },
+      { "sentence": "The scientific method is a way to memorize facts instead of testing ideas.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The scientific method is a structured approach for investigating phenomena, testing hypotheses, and analyzing results.",
+        "chinese": "科学方法是一种有系统的方法，用于研究现象、验证假设和分析结果。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A hypothesis is a testable prediction or explanation for a scientific question.", "correct": "true" },
+      { "sentence": "A hypothesis is an unchangeable fact that cannot be tested or questioned.", "correct": "false" },
+      { "sentence": "A hypothesis is a personal opinion that does not require evidence.", "correct": "false" },
+      { "sentence": "A hypothesis is the final conclusion of an experiment after data analysis.", "correct": "false" },
+      { "sentence": "A hypothesis is a random guess with no relation to observation or research.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A hypothesis is a statement that can be tested through experiments and observations.",
+        "chinese": "假设是一个可以通过实验和观察验证的陈述。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Data analysis involves examining the results of an experiment to find patterns or support conclusions.", "correct": "true" },
+      { "sentence": "Data analysis means ignoring all measurements and writing a guess as the result.", "correct": "false" },
+      { "sentence": "Data analysis is only needed if the experiment fails completely.", "correct": "false" },
+      { "sentence": "Data analysis is about repeating the experiment without recording results.", "correct": "false" },
+      { "sentence": "Data analysis is memorizing the steps of the experiment instead of looking at outcomes.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Data analysis helps scientists interpret experiment results and decide if their hypothesis is supported.",
+        "chinese": "数据分析帮助科学家解释实验结果，并判断假设是否成立。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A conclusion is a statement that summarizes the results of an experiment and explains whether the hypothesis was supported.", "correct": "true" },
+      { "sentence": "A conclusion is a random opinion not based on experiment results.", "correct": "false" },
+      { "sentence": "A conclusion is the first guess made before the experiment begins.", "correct": "false" },
+      { "sentence": "A conclusion is the set of tools used in an experiment.", "correct": "false" },
+      { "sentence": "A conclusion is the repetition of an experiment without comparing results.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The conclusion interprets data and states whether the hypothesis was supported or rejected.",
+        "chinese": "结论解释数据，并说明假设是否被支持或否定。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An experiment is a controlled procedure carried out to test a hypothesis.", "correct": "true" },
+      { "sentence": "An experiment is an imaginary story used to explain a concept.", "correct": "false" },
+      { "sentence": "An experiment is repeating a task for fun without recording results.", "correct": "false" },
+      { "sentence": "An experiment is a collection of random materials without a plan.", "correct": "false" },
+      { "sentence": "An experiment is memorizing facts from a textbook.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Experiments test hypotheses using observations and measurements under controlled conditions.",
+        "chinese": "实验是在可控条件下，通过观察和测量来验证假设。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A scientific approach uses observation, experimentation, and logical reasoning to understand the world.", "correct": "true" },
+      { "sentence": "A scientific approach is guessing answers without evidence.", "correct": "false" },
+      { "sentence": "A scientific approach is memorizing textbooks without testing ideas.", "correct": "false" },
+      { "sentence": "A scientific approach relies on beliefs instead of experiments.", "correct": "false" },
+      { "sentence": "A scientific approach is ignoring patterns in nature and making up stories.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The scientific approach emphasizes evidence-based reasoning to study natural phenomena.",
+        "chinese": "科学方法强调基于证据的推理来研究自然现象。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Taxonomy is the science of naming, describing, and classifying organisms into groups.", "correct": "true" },
+      { "sentence": "Taxonomy is a way to measure the age of rocks.", "correct": "false" },
+      { "sentence": "Taxonomy is memorizing all animal names without grouping them.", "correct": "false" },
+      { "sentence": "Taxonomy is creating random labels for plants and animals without rules.", "correct": "false" },
+      { "sentence": "Taxonomy is studying chemical reactions in the laboratory.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Taxonomy organizes living things based on shared characteristics and evolutionary relationships.",
+        "chinese": "分类学根据生物的共同特征和进化关系来组织生物。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A kingdom is a major group in taxonomy that contains related phyla, like Animalia or Plantae.", "correct": "true" },
+      { "sentence": "A kingdom is a small group containing only one species.", "correct": "false" },
+      { "sentence": "A kingdom refers to the genetic code inside a cell.", "correct": "false" },
+      { "sentence": "A kingdom is a type of chemical found in plants.", "correct": "false" },
+      { "sentence": "A kingdom is a category for classifying rocks and minerals.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Kingdoms are one of the largest categories in taxonomy, grouping together organisms with fundamental similarities.",
+        "chinese": "界是分类学中最大的类别之一，将具有基本相似性的生物归为一组。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Class is a taxonomic rank below phylum and above order, grouping similar organisms.", "correct": "true" },
+      { "sentence": "Class is the smallest category that contains only one individual.", "correct": "false" },
+      { "sentence": "Class is a way to measure the size of a species’ population.", "correct": "false" },
+      { "sentence": "Class is a type of chemical in animals used for digestion.", "correct": "false" },
+      { "sentence": "Class is the process of labeling plants with colors for identification.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Classes group together organisms in a phylum that share key characteristics, such as Mammalia within Chordata.",
+        "chinese": "纲将同门类中具有关键特征的生物归为一组，例如脊索动物门中的哺乳纲。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Species is the most specific taxonomic rank, referring to a group of organisms that can interbreed and produce fertile offspring.", "correct": "true" },
+      { "sentence": "Species is a rank that contains multiple kingdoms.", "correct": "false" },
+      { "sentence": "Species is a classification for non-living objects only.", "correct": "false" },
+      { "sentence": "Species is another name for a phylum.", "correct": "false" },
+      { "sentence": "Species is a way to organize chemicals in a laboratory.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Species are the basic unit of classification and evolution, defined by the ability to reproduce successfully.",
+        "chinese": "物种是分类和进化的基本单位，定义为能够成功繁殖的生物群体。"
+      }
+    ]
+  }
+]
