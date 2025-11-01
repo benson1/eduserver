@@ -1,0 +1,92 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A chemical reaction changes substances into new products by breaking and forming bonds.", "correct": "true" },
+      { "sentence": "A chemical reaction only changes the color of a substance without altering its composition.", "correct": "false" },
+      { "sentence": "A chemical reaction stops energy from being released or absorbed.", "correct": "false" },
+      { "sentence": "A chemical reaction does not involve any rearrangement of atoms.", "correct": "false" },
+      { "sentence": "A chemical reaction occurs only in living organisms.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Chemical reactions involve breaking and forming chemical bonds, resulting in new substances.",
+        "chinese": "化学反应涉及化学键的断裂和形成，生成新的物质。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A catalyst speeds up a chemical reaction without being consumed.", "correct": "true" },
+      { "sentence": "A catalyst is used up and cannot be reused in a chemical reaction.", "correct": "false" },
+      { "sentence": "A catalyst always slows down chemical reactions.", "correct": "false" },
+      { "sentence": "A catalyst changes the final products of a reaction.", "correct": "false" },
+      { "sentence": "A catalyst stores energy for a reaction instead of affecting the rate.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Catalysts lower activation energy and speed up reactions without being consumed.",
+        "chinese": "催化剂降低活化能，加快反应速度，而不会被消耗。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Enzymes are biological catalysts that speed up chemical reactions in cells.", "correct": "true" },
+      { "sentence": "Enzymes are permanently changed during every reaction they catalyze.", "correct": "false" },
+      { "sentence": "Enzymes can catalyze all chemical reactions regardless of substrate.", "correct": "false" },
+      { "sentence": "Enzymes provide energy for reactions instead of facilitating them.", "correct": "false" },
+      { "sentence": "Enzymes are inorganic molecules like metal ions.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Enzymes are proteins (or sometimes RNA) that act as biological catalysts.",
+        "chinese": "酶是蛋白质（有时是RNA），作为生物催化剂加速化学反应。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A substrate is the molecule that an enzyme binds and acts upon.", "correct": "true" },
+      { "sentence": "A substrate is the part of the enzyme that speeds up reactions.", "correct": "false" },
+      { "sentence": "A substrate is a catalyst that increases reaction rate.", "correct": "false" },
+      { "sentence": "A substrate is the product of a reaction after the enzyme acts.", "correct": "false" },
+      { "sentence": "A substrate is any inorganic molecule in the cell.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "The substrate is the specific molecule an enzyme binds and converts into a product.",
+        "chinese": "底物是酶结合并转化为产物的特定分子。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The active site of an enzyme is the region where the substrate binds.", "correct": "true" },
+      { "sentence": "The active site is a random area on the enzyme not related to the reaction.", "correct": "false" },
+      { "sentence": "The active site stores energy for the reaction instead of binding substrate.", "correct": "false" },
+      { "sentence": "The active site produces substrates from scratch.", "correct": "false" },
+      { "sentence": "The active site is found only in non-living catalysts.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "The active site is a specially shaped region of the enzyme that binds the substrate.",
+        "chinese": "活性位是酶中特殊形状的区域，用于结合底物。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "In the induced fit model, the enzyme changes shape slightly to better fit the substrate.", "correct": "true" },
+      { "sentence": "In the lock-and-key model, the substrate changes shape to fit the enzyme.", "correct": "false" },
+      { "sentence": "Enzymes cannot change shape in any model.", "correct": "false" },
+      { "sentence": "Active sites are unrelated to substrate binding in either model.", "correct": "false" },
+      { "sentence": "Enzymes produce substrates in the induced fit model.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Induced fit means the enzyme molds itself around the substrate to optimize catalysis.",
+        "chinese": "诱导契合模型指酶围绕底物略微改变形状以优化催化。"
+      }
+    ]
+  }
+]
