@@ -1,0 +1,80 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Mesopotamia was an ancient region located between the Tigris and Euphrates rivers, often called the cradle of civilization.", "correct": "true" },
+      { "sentence": "Mesopotamia was a prehistoric kingdom in South America known for building pyramids and advanced agriculture.", "correct": "false" },
+      { "sentence": "Mesopotamia refers to an island in the Mediterranean where the earliest Greek philosophers lived.", "correct": "false" },
+      { "sentence": "Mesopotamia was a period in European history marked by feudalism and castle construction.", "correct": "false" },
+      { "sentence": "Mesopotamia was a nomadic tribe in Central Asia that never developed written language or cities.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Mesopotamia, in present-day Iraq, is where early cities, writing, and complex societies first developed.", "chinese": "美索不达米亚位于今伊拉克地区，是最早形成城市、文字和复杂社会的文明发源地。" }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Uruk was one of the first major cities in Mesopotamia, known for its monumental architecture and early writing systems.", "correct": "true" },
+      { "sentence": "Uruk was a mountain range in Africa that contained early hominid fossils.", "correct": "false" },
+      { "sentence": "Uruk was an ancient river in Europe famous for trade in the Iron Age.", "correct": "false" },
+      { "sentence": "Uruk refers to a prehistoric cave where early humans painted murals.", "correct": "false" },
+      { "sentence": "Uruk was an island in the Pacific Ocean settled by Polynesian navigators.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Uruk was a central city in ancient Sumer, playing a key role in urbanization and cuneiform writing.", "chinese": "乌鲁克是古代苏美尔的重要城市，对城市化进程和楔形文字的发展起了关键作用。" }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Sumeria, or Sumer, was the first civilization in southern Mesopotamia, known for city-states, ziggurats, and writing.", "correct": "true" },
+      { "sentence": "Sumeria was a prehistoric culture in North America famous for building mounds and pyramids.", "correct": "false" },
+      { "sentence": "Sumeria refers to a nomadic tribe in Central Asia with no permanent settlements.", "correct": "false" },
+      { "sentence": "Sumeria was a Greek philosophical school that focused on mathematics and astronomy.", "correct": "false" },
+      { "sentence": "Sumeria was an ancient Egyptian province known for papyrus and pyramids.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Sumerians established the earliest cities, developed cuneiform writing, and built monumental religious structures.", "chinese": "苏美尔人在南美索不达米亚建立了最早的城市，发明了楔形文字，并建造了宏伟的宗教建筑。" }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Cuneiform is one of the earliest systems of writing, developed by the Sumerians using wedge-shaped marks on clay tablets.", "correct": "true" },
+      { "sentence": "Cuneiform was a type of ancient jewelry used by Egyptians in the Old Kingdom.", "correct": "false" },
+      { "sentence": "Cuneiform refers to a prehistoric musical instrument found in Mesopotamia.", "correct": "false" },
+      { "sentence": "Cuneiform was an ancient Roman method of building roads and aqueducts.", "correct": "false" },
+      { "sentence": "Cuneiform is a modern computer code used for digital encryption.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Cuneiform allowed early humans to record laws, trade, literature, and history in Mesopotamia.", "chinese": "楔形文字是苏美尔人发明的最早书写系统之一，用于在泥板上记录法律、贸易、文学和历史。" }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Mohenjo-daro was a major city of the Indus Valley Civilization, known for its urban planning, drainage systems, and standardized bricks.", "correct": "true" },
+      { "sentence": "Mohenjo-daro was an Egyptian city famous for pyramids and mummification practices.", "correct": "false" },
+      { "sentence": "Mohenjo-daro was a Greek settlement on the Mediterranean coast known for temples and philosophers.", "correct": "false" },
+      { "sentence": "Mohenjo-daro refers to an ancient Chinese dynasty known for the Great Wall.", "correct": "false" },
+      { "sentence": "Mohenjo-daro was a nomadic village in Central Asia with no permanent architecture.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Mohenjo-daro was a highly organized city of the Indus Valley Civilization, highlighting early urban engineering.", "chinese": "摩亨佐-达罗是印度河流域文明的重要城市，以城市规划、排水系统和标准化砖块著称。" }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Harappa was a key city of the Indus Valley Civilization, noted for its advanced urban layout and trade networks.", "correct": "true" },
+      { "sentence": "Harappa was a medieval European city famous for cathedrals and castles.", "correct": "false" },
+      { "sentence": "Harappa was an ancient African kingdom known for gold mining and pyramids.", "correct": "false" },
+      { "sentence": "Harappa was a prehistoric site in South America with large stone statues.", "correct": "false" },
+      { "sentence": "Harappa refers to an early Chinese village with simple wooden huts and no written language.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Harappa, like Mohenjo-daro, was part of a sophisticated civilization with standardized streets, drainage, and trade.", "chinese": "哈拉帕是印度河流域文明的重要城市之一，以规范的街道、排水系统和贸易网络著称。" }
+    ]
+  }
+]
