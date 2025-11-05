@@ -644,5 +644,11 @@
         "file": "history_mesopo",
         "type": "science",
         "level": "2" 
+    },
+    {
+        "name":"b2_higher_physical_chemical",
+        "file": "b2_higher_physical_chemical",
+        "type": "science",
+        "level": "2" 
     }
 ]
