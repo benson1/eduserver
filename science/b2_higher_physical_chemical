@@ -1,0 +1,210 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An element is a pure substance made of only one type of atom.", "correct": "true" },
+      { "sentence": "An element is a mixture of different atoms combined physically.", "correct": "false" },
+      { "sentence": "An element can be broken down into simpler substances by chemical means.", "correct": "false" },
+      { "sentence": "An element always contains molecules of different compounds.", "correct": "false" },
+      { "sentence": "An element is made by combining two or more compounds.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "An element is a substance that contains only one kind of atom and cannot be broken down chemically.",
+        "chinese": "元素是一种仅由一种原子组成、无法通过化学方法分解的纯物质。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An atom is the smallest particle of an element that retains its chemical properties.", "correct": "true" },
+      { "sentence": "An atom can be divided into smaller parts by chemical reactions.", "correct": "false" },
+      { "sentence": "An atom is larger than a molecule and contains several compounds.", "correct": "false" },
+      { "sentence": "An atom is a mixture of different elements combined physically.", "correct": "false" },
+      { "sentence": "An atom only exists in gases and not in solids or liquids.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Atoms are the smallest units of elements that still show the element’s properties.",
+        "chinese": "原子是保持元素化学性质的最小单位。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A physical change alters the form or appearance of a substance without forming a new one.", "correct": "true" },
+      { "sentence": "A physical change always produces new chemical substances.", "correct": "false" },
+      { "sentence": "A physical change permanently changes the chemical composition of matter.", "correct": "false" },
+      { "sentence": "A physical change occurs only in living organisms.", "correct": "false" },
+      { "sentence": "A physical change creates a completely new compound.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Physical changes affect the state or appearance of a substance but do not create new substances.",
+        "chinese": "物理变化会影响物质的状态或外观，但不会产生新的物质。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Condensation is the process where gas changes into liquid when cooled.", "correct": "true" },
+      { "sentence": "Condensation is the process of liquid turning into gas when heated.", "correct": "false" },
+      { "sentence": "Condensation only occurs in solids changing directly into gas.", "correct": "false" },
+      { "sentence": "Condensation produces energy through chemical reactions.", "correct": "false" },
+      { "sentence": "Condensation is a type of chemical change.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Condensation happens when a gas cools and changes into a liquid, such as water vapor forming droplets.",
+        "chinese": "凝结是气体冷却后变成液体的过程，例如水蒸气变成水滴。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A chemical reaction forms new substances with different properties from the originals.", "correct": "true" },
+      { "sentence": "A chemical reaction only changes the shape of substances.", "correct": "false" },
+      { "sentence": "A chemical reaction can easily be reversed by cooling.", "correct": "false" },
+      { "sentence": "A chemical reaction occurs only in living organisms.", "correct": "false" },
+      { "sentence": "A chemical reaction never involves energy changes.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Chemical reactions rearrange atoms to form new substances with new properties.",
+        "chinese": "化学反应通过重新排列原子形成具有新性质的新物质。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Rusting is a chemical reaction between iron, water, and oxygen forming iron oxide.", "correct": "true" },
+      { "sentence": "Rusting is a physical change where iron becomes softer.", "correct": "false" },
+      { "sentence": "Rusting happens only when iron is frozen.", "correct": "false" },
+      { "sentence": "Rusting is a reversible process that can be undone by heating.", "correct": "false" },
+      { "sentence": "Rusting produces no new substance.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Rusting occurs when iron reacts with oxygen and water to form a new compound called iron oxide.",
+        "chinese": "铁与氧气和水反应生成新的化合物——氧化铁，这个过程称为生锈。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A reversible change can be undone to return to the original substance.", "correct": "true" },
+      { "sentence": "A reversible change always forms new substances.", "correct": "false" },
+      { "sentence": "A reversible change cannot be reversed by any means.", "correct": "false" },
+      { "sentence": "A reversible change is the same as a chemical reaction.", "correct": "false" },
+      { "sentence": "A reversible change destroys the original material permanently.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Reversible changes, such as melting or freezing, can return to the original state.",
+        "chinese": "可逆变化（如融化或凝固）可以恢复到原来的状态。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An irreversible change produces new substances and cannot easily be reversed.", "correct": "true" },
+      { "sentence": "An irreversible change can always be undone by cooling or heating.", "correct": "false" },
+      { "sentence": "An irreversible change only affects the physical state.", "correct": "false" },
+      { "sentence": "An irreversible change keeps all original substances unchanged.", "correct": "false" },
+      { "sentence": "An irreversible change happens only in mixtures.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Irreversible changes, like burning or rusting, form new substances that cannot easily return to their original form.",
+        "chinese": "不可逆变化（如燃烧或生锈）会产生新的物质，无法轻易恢复原状。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A mixture contains two or more substances physically combined without chemical bonding.", "correct": "true" },
+      { "sentence": "A mixture forms new chemical compounds between substances.", "correct": "false" },
+      { "sentence": "A mixture cannot be separated by physical methods.", "correct": "false" },
+      { "sentence": "A mixture always has fixed proportions like a compound.", "correct": "false" },
+      { "sentence": "A mixture only contains gases.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Mixtures consist of substances combined physically, which can be separated by physical means.",
+        "chinese": "混合物由物质物理混合而成，可以通过物理方法分离。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "To dissolve means a solute mixes evenly with a solvent to form a solution.", "correct": "true" },
+      { "sentence": "To dissolve means breaking a substance into new chemical elements.", "correct": "false" },
+      { "sentence": "To dissolve is the same as melting a solid by heating.", "correct": "false" },
+      { "sentence": "To dissolve means physically mixing substances that remain separate.", "correct": "false" },
+      { "sentence": "To dissolve occurs only with gases in solids.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Dissolving happens when a solute spreads evenly throughout a solvent, forming a solution.",
+        "chinese": "溶解是指溶质均匀分布在溶剂中，形成溶液的过程。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A solution is a homogeneous mixture where a solute is dissolved in a solvent.", "correct": "true" },
+      { "sentence": "A solution is a chemical compound formed by bonding solute and solvent atoms.", "correct": "false" },
+      { "sentence": "A solution always separates into layers over time.", "correct": "false" },
+      { "sentence": "A solution only refers to solid mixtures.", "correct": "false" },
+      { "sentence": "A solution cannot be separated by any means.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A solution is a uniform mixture, such as salt dissolved in water.",
+        "chinese": "溶液是一种均匀混合物，例如盐溶解在水中。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Distillation separates substances based on differences in their boiling points.", "correct": "true" },
+      { "sentence": "Distillation separates mixtures by size of particles.", "correct": "false" },
+      { "sentence": "Distillation is a chemical reaction forming new compounds.", "correct": "false" },
+      { "sentence": "Distillation only works for separating solids from liquids.", "correct": "false" },
+      { "sentence": "Distillation involves freezing substances instead of heating.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Distillation separates liquids by heating them to evaporate and condense based on different boiling points.",
+        "chinese": "蒸馏通过加热蒸发和冷凝，根据不同的沸点分离液体。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Filtration separates insoluble solids from liquids using a filter.", "correct": "true" },
+      { "sentence": "Filtration separates dissolved substances from a solution.", "correct": "false" },
+      { "sentence": "Filtration combines substances into a single mixture.", "correct": "false" },
+      { "sentence": "Filtration uses evaporation to separate liquids.", "correct": "false" },
+      { "sentence": "Filtration only works for gases and not for liquids.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Filtration removes solid particles that do not dissolve in a liquid using a filter paper or mesh.",
+        "chinese": "过滤使用滤纸或网筛分离不溶于液体的固体颗粒。"
+      }
+    ]
+  }
+]
