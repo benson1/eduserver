@@ -656,5 +656,11 @@
         "file": "upper_b2_cells_advanced",
         "type": "science",
         "level": "2" 
+    },
+    {
+        "name":"upper_b1_atoms_forces",
+        "file": "upper_b1_atoms_forces",
+        "type": "science",
+        "level": "2"         
     }
 ]
