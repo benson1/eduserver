@@ -650,5 +650,11 @@
         "file": "b2_higher_physical_chemical",
         "type": "science",
         "level": "2" 
+    },
+    {
+            "name":"upper_b2_cells_advanced",
+        "file": "upper_b2_cells_advanced",
+        "type": "science",
+        "level": "2" 
     }
 ]
