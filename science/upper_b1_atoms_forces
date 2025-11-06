@@ -1,0 +1,242 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A particle is a very small piece of matter that makes up all substances in the universe.", "correct": "true" },
+      { "sentence": "A particle is a large object that can be seen easily without any tools.", "correct": "false" },
+      { "sentence": "A particle is an imaginary object that does not have any mass or size.", "correct": "false" },
+      { "sentence": "A particle is a type of wave that travels only through empty space.", "correct": "false" },
+      { "sentence": "A particle is a complete organism that performs all life functions.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Particles are the tiny building blocks of matter, including atoms and molecules.",
+        "chinese": "粒子是物质的微小组成部分，包括原子和分子。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An atom is the smallest unit of an element that retains the properties of that element.", "correct": "true" },
+      { "sentence": "An atom is the largest molecule that can be found in living things.", "correct": "false" },
+      { "sentence": "An atom is a visible particle that can be observed without a microscope.", "correct": "false" },
+      { "sentence": "An atom is made only of solid matter without any empty space.", "correct": "false" },
+      { "sentence": "An atom is a simple combination of cells and proteins together.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Atoms consist of protons, neutrons, and electrons, forming the basic structure of all elements.",
+        "chinese": "原子由质子、中子和电子组成，是所有元素的基本结构。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A proton is a positively charged particle found in the nucleus of an atom.", "correct": "true" },
+      { "sentence": "A proton is a negatively charged particle that orbits around the atom.", "correct": "false" },
+      { "sentence": "A proton is a neutral particle that carries no electric charge at all.", "correct": "false" },
+      { "sentence": "A proton is a type of molecule that reacts with oxygen in the air.", "correct": "false" },
+      { "sentence": "A proton is a form of energy rather than a material particle.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Protons are found in the atomic nucleus and determine the element’s identity through their number.",
+        "chinese": "质子位于原子核中，其数量决定元素的种类。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A neutron is a neutral particle located in the nucleus of an atom.", "correct": "true" },
+      { "sentence": "A neutron is a charged particle that moves rapidly around the nucleus.", "correct": "false" },
+      { "sentence": "A neutron is a type of atom that forms water molecules.", "correct": "false" },
+      { "sentence": "A neutron is a positive ion that bonds easily with other atoms.", "correct": "false" },
+      { "sentence": "A neutron is a form of energy that travels through electromagnetic waves.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Neutrons have no charge and help add mass and stability to the atomic nucleus.",
+        "chinese": "中子没有电荷，帮助增加原子核的质量和稳定性。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An electron is a negatively charged particle that orbits around the nucleus of an atom.", "correct": "true" },
+      { "sentence": "An electron is a positively charged particle found inside the nucleus.", "correct": "false" },
+      { "sentence": "An electron is a heavy particle that never moves around the atom.", "correct": "false" },
+      { "sentence": "An electron is a small molecule that can form new chemical bonds.", "correct": "false" },
+      { "sentence": "An electron is a neutral particle that carries no electric charge at all.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Electrons move around the nucleus in energy levels and play key roles in chemical bonding.",
+        "chinese": "电子在原子核周围的能级上运动，并在化学键中起重要作用。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A molecule is a group of two or more atoms bonded together chemically.", "correct": "true" },
+      { "sentence": "A molecule is a single atom that cannot bond with anything else.", "correct": "false" },
+      { "sentence": "A molecule is a particle made only of protons and electrons.", "correct": "false" },
+      { "sentence": "A molecule is a cell structure that controls an organism’s growth.", "correct": "false" },
+      { "sentence": "A molecule is a mixture of elements that are not chemically combined.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Molecules form when atoms share or transfer electrons through chemical bonds.",
+        "chinese": "当原子通过化学键共享或转移电子时，就形成了分子。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A compound is a substance made of two or more different elements chemically combined.", "correct": "true" },
+      { "sentence": "A compound is a mixture of elements that can be separated easily by hand.", "correct": "false" },
+      { "sentence": "A compound is a single element that exists alone in nature.", "correct": "false" },
+      { "sentence": "A compound is a solution that contains only one type of atom.", "correct": "false" },
+      { "sentence": "A compound is a gas that forms when molecules lose their electrons.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Compounds form when atoms of different elements bond in fixed ratios, like H₂O or CO₂.",
+        "chinese": "化合物由不同元素的原子按固定比例结合形成，如H₂O或CO₂。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A force is a push or pull that can change an object’s motion or shape.", "correct": "true" },
+      { "sentence": "A force is a form of energy that never affects moving objects.", "correct": "false" },
+      { "sentence": "A force is a type of material that makes up the mass of an object.", "correct": "false" },
+      { "sentence": "A force is the temperature difference between two moving bodies.", "correct": "false" },
+      { "sentence": "A force is a sound wave that moves through air or water.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Forces cause changes in motion, direction, or shape depending on their strength and direction.",
+        "chinese": "力可以根据其大小和方向改变物体的运动、方向或形状。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Gravity is the force that pulls all objects with mass toward one another.", "correct": "true" },
+      { "sentence": "Gravity is the energy that pushes objects away from the Earth’s surface.", "correct": "false" },
+      { "sentence": "Gravity is the magnetic attraction between metals and magnets.", "correct": "false" },
+      { "sentence": "Gravity is the pressure caused by air movement around objects.", "correct": "false" },
+      { "sentence": "Gravity is the flow of electricity through the atmosphere.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Gravity is a universal force of attraction between all masses, strongest near large bodies like Earth.",
+        "chinese": "重力是所有有质量物体之间的吸引力，在像地球这样的大体上最强。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Friction is a force that opposes motion between two surfaces in contact.", "correct": "true" },
+      { "sentence": "Friction is a force that helps objects move faster on smooth surfaces.", "correct": "false" },
+      { "sentence": "Friction is the magnetic pull that exists between charged particles.", "correct": "false" },
+      { "sentence": "Friction is the gravity that keeps the planets in orbit around the sun.", "correct": "false" },
+      { "sentence": "Friction is a form of sound energy that travels through materials.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Friction slows motion and generates heat when surfaces rub together.",
+        "chinese": "摩擦力在表面相互接触时会减慢运动并产生热量。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Motion is a change in position of an object over time relative to a reference point.", "correct": "true" },
+      { "sentence": "Motion is the temperature increase that occurs during chemical reactions.", "correct": "false" },
+      { "sentence": "Motion is a property of sound waves that makes them vibrate in air.", "correct": "false" },
+      { "sentence": "Motion is the pressure difference between two still objects.", "correct": "false" },
+      { "sentence": "Motion is a form of matter that stays completely still in space.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Motion occurs when an object changes its location over time.",
+        "chinese": "当物体随时间改变位置时，就发生了运动。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Isaac Newton was a scientist who formulated the three laws of motion and the law of universal gravitation.", "correct": "true" },
+      { "sentence": "Isaac Newton was the first to invent the modern telescope and discover electricity.", "correct": "false" },
+      { "sentence": "Isaac Newton developed the atomic theory explaining the structure of matter.", "correct": "false" },
+      { "sentence": "Isaac Newton was known mainly for creating the periodic table of elements.", "correct": "false" },
+      { "sentence": "Isaac Newton discovered radio waves and invented modern communication systems.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Isaac Newton described the relationship between force, motion, and gravity in classical physics.",
+        "chinese": "艾萨克·牛顿在经典物理学中描述了力、运动和重力之间的关系。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The law of inertia states that an object at rest stays at rest, and an object in motion stays in motion unless acted upon by an external force.", "correct": "true" },
+      { "sentence": "The law of inertia means that all moving objects must stop after a short time.", "correct": "false" },
+      { "sentence": "The law of inertia explains that motion is created only by internal energy.", "correct": "false" },
+      { "sentence": "The law of inertia says that objects move faster when no forces act on them.", "correct": "false" },
+      { "sentence": "The law of inertia describes how gravity always stops moving objects completely.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Newton’s first law describes how objects resist changes in motion unless a force acts on them.",
+        "chinese": "牛顿第一定律说明物体在没有外力作用下会保持静止或匀速直线运动。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The law Force = Mass × Acceleration means that the greater the mass, the more force is needed to move it.", "correct": "true" },
+      { "sentence": "The law Force = Mass × Acceleration states that lighter objects always move slower.", "correct": "false" },
+      { "sentence": "The law Force = Mass × Acceleration means mass and acceleration never affect motion.", "correct": "false" },
+      { "sentence": "The law Force = Mass × Acceleration describes how energy is created from nothing.", "correct": "false" },
+      { "sentence": "The law Force = Mass × Acceleration says that force and motion are completely unrelated.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Newton’s second law shows that acceleration depends on the net force and the object’s mass.",
+        "chinese": "牛顿第二定律表明，加速度取决于净外力和物体的质量。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The law of equal and opposite forces states that for every action, there is an equal and opposite reaction.", "correct": "true" },
+      { "sentence": "The law of equal and opposite forces means that forces always cancel and cause no movement.", "correct": "false" },
+      { "sentence": "The law of equal and opposite forces says that action and reaction occur only with gravity.", "correct": "false" },
+      { "sentence": "The law of equal and opposite forces states that moving objects do not create any reaction.", "correct": "false" },
+      { "sentence": "The law of equal and opposite forces explains that all objects attract each other magnetically.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Newton’s third law shows that forces always occur in pairs—action and reaction are equal in size and opposite in direction.",
+        "chinese": "牛顿第三定律说明力总是成对出现，作用力和反作用力大小相等、方向相反。"
+      }
+    ]
+  }
+]
