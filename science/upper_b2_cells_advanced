@@ -1,0 +1,274 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A cell is the basic structural and functional unit of all living organisms.", "correct": "true" },
+      { "sentence": "A cell is an inactive particle that does not take part in any life process.", "correct": "false" },
+      { "sentence": "A cell is a large organ that performs all functions for the whole body.", "correct": "false" },
+      { "sentence": "A cell is a solid object that does not contain any living material.", "correct": "false" },
+      { "sentence": "A cell is a simple chemical substance rather than a living structure.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Cells are the smallest units of life that carry out all necessary functions for an organism to live.",
+        "chinese": "细胞是生命的基本单位，能够执行生物生存所需的所有功能。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A plant cell contains a cell wall, chloroplasts, and a large central vacuole.", "correct": "true" },
+      { "sentence": "A plant cell has no nucleus and lacks both vacuoles and chloroplasts.", "correct": "false" },
+      { "sentence": "A plant cell moves freely because it does not have a cell wall at all.", "correct": "false" },
+      { "sentence": "A plant cell has only a soft membrane and no internal organelles.", "correct": "false" },
+      { "sentence": "A plant cell creates its food without using sunlight or any pigment.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Plant cells have a rigid cell wall, chloroplasts for photosynthesis, and a large vacuole for water storage.",
+        "chinese": "植物细胞具有坚硬的细胞壁、用于光合作用的叶绿体，以及用于储水的大液泡。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An animal cell lacks a cell wall and chloroplasts but has a flexible cell membrane.", "correct": "true" },
+      { "sentence": "An animal cell contains a thick cell wall made entirely of cellulose.", "correct": "false" },
+      { "sentence": "An animal cell performs photosynthesis using chlorophyll and sunlight.", "correct": "false" },
+      { "sentence": "An animal cell replaces mitochondria with chloroplasts to make energy.", "correct": "false" },
+      { "sentence": "An animal cell functions without a nucleus or any genetic material.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Animal cells do not have cell walls or chloroplasts; instead, they have flexible membranes and many mitochondria for energy.",
+        "chinese": "动物细胞没有细胞壁或叶绿体，而是具有柔软的细胞膜和大量的线粒体用于能量生产。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A vacuole is a membrane-bound organelle that stores water, nutrients, or waste.", "correct": "true" },
+      { "sentence": "A vacuole is a rigid structure that produces energy for cell growth.", "correct": "false" },
+      { "sentence": "A vacuole is a small part of DNA found inside the cell nucleus.", "correct": "false" },
+      { "sentence": "A vacuole is a pigment that captures sunlight for photosynthesis.", "correct": "false" },
+      { "sentence": "A vacuole is a protein complex that helps digest carbohydrates.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Vacuoles store materials and help maintain internal pressure in cells, especially in plants.",
+        "chinese": "液泡用于储存物质并帮助维持细胞内的压力，尤其在植物细胞中。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Chloroplasts are organelles that carry out photosynthesis in plant cells.", "correct": "true" },
+      { "sentence": "Chloroplasts in animal cells produce energy directly from proteins.", "correct": "false" },
+      { "sentence": "Chloroplasts are used only for respiration and never for photosynthesis.", "correct": "false" },
+      { "sentence": "Chloroplasts are storage vesicles that collect waste and water.", "correct": "false" },
+      { "sentence": "Chloroplasts are invisible bodies that contain no pigments or enzymes.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Chloroplasts use sunlight, carbon dioxide, and water to produce glucose and oxygen through photosynthesis.",
+        "chinese": "叶绿体利用阳光、二氧化碳和水通过光合作用产生葡萄糖和氧气。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Chlorophyll is the green pigment in plants that captures light energy for photosynthesis.", "correct": "true" },
+      { "sentence": "Chlorophyll is a stored carbohydrate that plants use as a food reserve.", "correct": "false" },
+      { "sentence": "Chlorophyll is a mineral substance that plants absorb from the soil.", "correct": "false" },
+      { "sentence": "Chlorophyll is a clear liquid that fills the inside of each cell.", "correct": "false" },
+      { "sentence": "Chlorophyll is a compound that occurs naturally only in animal tissue.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Chlorophyll absorbs sunlight, mainly blue and red light, and gives plants their green color.",
+        "chinese": "叶绿素吸收阳光，主要是蓝光和红光，使植物呈现绿色。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The cell wall provides structural support and protection for plant cells.", "correct": "true" },
+      { "sentence": "The cell wall allows all materials to enter and exit without restriction.", "correct": "false" },
+      { "sentence": "The cell wall is mostly made of proteins and fatty molecules.", "correct": "false" },
+      { "sentence": "The cell wall is found in all animal cells as an outer covering.", "correct": "false" },
+      { "sentence": "The cell wall functions as the main site for DNA replication.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The plant cell wall, mainly made of cellulose, gives shape and rigidity to the cell.",
+        "chinese": "植物细胞壁主要由纤维素组成，为细胞提供形状和支撑。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The cell membrane controls what enters and leaves the cell.", "correct": "true" },
+      { "sentence": "The cell membrane is a rigid wall that cannot bend or move at all.", "correct": "false" },
+      { "sentence": "The cell membrane allows only water molecules to pass through freely.", "correct": "false" },
+      { "sentence": "The cell membrane generates energy instead of controlling transport.", "correct": "false" },
+      { "sentence": "The cell membrane serves as a container for storing genetic material.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The cell membrane is selectively permeable, regulating the movement of materials into and out of the cell.",
+        "chinese": "细胞膜具有选择性通透性，调节物质进出细胞。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The cytoplasm is the jelly-like substance that holds organelles in place inside the cell.", "correct": "true" },
+      { "sentence": "The cytoplasm is a colored pigment that helps plants absorb sunlight.", "correct": "false" },
+      { "sentence": "The cytoplasm is a structure found only inside the nucleus of a cell.", "correct": "false" },
+      { "sentence": "The cytoplasm is a solid wall that protects the outer layer of the cell.", "correct": "false" },
+      { "sentence": "The cytoplasm is the main site where the cell stores its DNA and genes.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Cytoplasm provides a medium for chemical reactions and supports organelles.",
+        "chinese": "细胞质为化学反应提供介质，并支撑细胞器。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The nucleus contains the cell’s genetic material (DNA) and controls cell activities.", "correct": "true" },
+      { "sentence": "The nucleus is a structure found only in plant roots and leaves.", "correct": "false" },
+      { "sentence": "The nucleus provides energy for the cell through the process of respiration.", "correct": "false" },
+      { "sentence": "The nucleus stores extra nutrients instead of genetic material.", "correct": "false" },
+      { "sentence": "The nucleus lies outside the cell and connects different tissues together.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The nucleus acts as the control center of the cell, regulating growth, reproduction, and gene expression.",
+        "chinese": "细胞核是细胞的控制中心，调节生长、繁殖和基因表达。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Mitochondria are organelles that produce energy through cellular respiration.", "correct": "true" },
+      { "sentence": "Mitochondria store hereditary material instead of producing energy.", "correct": "false" },
+      { "sentence": "Mitochondria carry out photosynthesis inside animal tissue cells.", "correct": "false" },
+      { "sentence": "Mitochondria appear only in green plants and not in any animals.", "correct": "false" },
+      { "sentence": "Mitochondria contain pigments that give plants their green color.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Mitochondria convert glucose and oxygen into ATP, the cell’s main energy source.",
+        "chinese": "线粒体将葡萄糖和氧气转化为ATP，这是细胞的主要能量来源。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Osmosis is the movement of water across a selectively permeable membrane from low solute to high solute concentration.", "correct": "true" },
+      { "sentence": "Osmosis is the random movement of all substances in every direction.", "correct": "false" },
+      { "sentence": "Osmosis is an active process that requires energy from ATP molecules.", "correct": "false" },
+      { "sentence": "Osmosis takes place only in animal cells and not in plant tissues.", "correct": "false" },
+      { "sentence": "Osmosis is a method used by cells to transport proteins actively.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Osmosis is a passive process where water moves to balance concentrations across membranes.",
+        "chinese": "渗透是一种被动过程，水通过膜移动以平衡溶质浓度。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Cellular respiration is the process by which cells break down glucose to release energy as ATP.", "correct": "true" },
+      { "sentence": "Cellular respiration uses sunlight to build glucose molecules for plants.", "correct": "false" },
+      { "sentence": "Cellular respiration occurs only in green chloroplasts inside plant cells.", "correct": "false" },
+      { "sentence": "Cellular respiration stores oxygen instead of consuming it for energy.", "correct": "false" },
+      { "sentence": "Cellular respiration happens when the cell is completely inactive and resting.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Cellular respiration converts food energy into ATP, usually in the mitochondria, using oxygen.",
+        "chinese": "细胞呼吸在有氧条件下将食物能量转化为ATP，通常在线粒体中进行。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Glycolysis is the first stage of cellular respiration, breaking glucose into pyruvate and producing ATP.", "correct": "true" },
+      { "sentence": "Glycolysis occurs only in mitochondria and always needs oxygen to start.", "correct": "false" },
+      { "sentence": "Glycolysis changes carbon dioxide into glucose using sunlight energy.", "correct": "false" },
+      { "sentence": "Glycolysis is a photosynthetic step that takes place in green leaves.", "correct": "false" },
+      { "sentence": "Glycolysis happens after the cell completely runs out of glucose.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Glycolysis occurs in the cytoplasm and does not require oxygen, producing small amounts of ATP and pyruvate.",
+        "chinese": "糖酵解在细胞质中进行，不需要氧气，生成少量ATP和丙酮酸。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "ATP (adenosine triphosphate) is the main energy currency of the cell.", "correct": "true" },
+      { "sentence": "ATP is a green pigment that gives color to leaves and stems of plants.", "correct": "false" },
+      { "sentence": "ATP is a form of DNA that carries all of an organism’s genes.", "correct": "false" },
+      { "sentence": "ATP is a waste substance formed during the process of respiration.", "correct": "false" },
+      { "sentence": "ATP is stored only inside the nucleus and nowhere else in the cell.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "ATP stores and provides energy for cellular processes like movement, growth, and transport.",
+        "chinese": "ATP为细胞的运动、生长和运输等过程提供能量。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Lactic fermentation produces lactic acid and ATP when oxygen is not available.", "correct": "true" },
+      { "sentence": "Lactic fermentation forms alcohol and gas in the presence of oxygen.", "correct": "false" },
+      { "sentence": "Lactic fermentation requires sunlight and carbon dioxide to occur.", "correct": "false" },
+      { "sentence": "Lactic fermentation happens only in mitochondria during photosynthesis.", "correct": "false" },
+      { "sentence": "Lactic fermentation converts oxygen into glucose for storage in cells.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Lactic fermentation occurs in muscles and some bacteria during anaerobic conditions, producing lactic acid and energy.",
+        "chinese": "乳酸发酵在缺氧条件下发生于肌肉或某些细菌中，产生乳酸和能量。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Alcoholic fermentation produces ethanol and carbon dioxide from sugars without oxygen.", "correct": "true" },
+      { "sentence": "Alcoholic fermentation makes lactic acid and ATP inside muscle tissue.", "correct": "false" },
+      { "sentence": "Alcoholic fermentation needs oxygen to complete energy production.", "correct": "false" },
+      { "sentence": "Alcoholic fermentation takes place only in plant mitochondria.", "correct": "false" },
+      { "sentence": "Alcoholic fermentation forms glucose instead of releasing carbon dioxide.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Yeasts use alcoholic fermentation to produce ethanol and CO₂ in anaerobic conditions.",
+        "chinese": "酵母在无氧条件下通过酒精发酵产生乙醇和二氧化碳。"
+      }
+    ]
+  }
+]
