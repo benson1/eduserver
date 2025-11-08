@@ -123,6 +123,68 @@
             }
         ]
     },
+{
+    "question": "What is a colloid?",
+    "options": [
+        {
+            "sentence": "A colloid is a mixture where very small particles of one substance are evenly spread throughout another, without settling.",
+            "correct": "true"
+        },
+        {
+            "sentence": "A colloid is a type of metal that forms when different elements melt together completely.",
+            "correct": "false"
+        },
+        {
+            "sentence": "A colloid is a pure liquid that contains no particles or impurities at all.",
+            "correct": "false"
+        },
+        {
+            "sentence": "A colloid is a chemical reaction that creates new substances from gases and solids.",
+            "correct": "false"
+        },
+        {
+            "sentence": "A colloid is a kind of crystal that grows from water vapor under freezing conditions.",
+            "correct": "false"
+        }
+    ],
+    "explanation": [
+        {
+            "english": "Colloids have tiny particles that stay dispersed and do not settle, such as milk or fog.",
+            "chinese": "胶体的微小颗粒分散在另一种物质中，不会沉淀，例如牛奶或雾。"
+        }
+    ]
+},
+{
+    "question": "What is a suspension?",
+    "options": [
+        {
+            "sentence": "A suspension is a mixture where solid particles are spread throughout a liquid but eventually settle over time.",
+            "correct": "true"
+        },
+        {
+            "sentence": "A suspension is a mixture where gases dissolve completely into each other to form a uniform substance.",
+            "correct": "false"
+        },
+        {
+            "sentence": "A suspension is a type of chemical reaction that forms new compounds from two solids.",
+            "correct": "false"
+        },
+        {
+            "sentence": "A suspension is a liquid that never contains any solid particles or impurities.",
+            "correct": "false"
+        },
+        {
+            "sentence": "A suspension is a metal that can float on water due to its magnetic properties.",
+            "correct": "false"
+        }
+    ],
+    "explanation": [
+        {
+            "english": "In a suspension, particles are larger and can be seen; they settle when left undisturbed, like sand in water.",
+            "chinese": "悬浮液中颗粒较大，可以看到，静置后会沉淀，例如水中的沙子。"
+        }
+    ]
+},
     {
         "question": "What is filtration?",
         "options": [
