@@ -61,6 +61,68 @@
             }
         ]
     },
+{
+    "question": "What is a solute?",
+    "options": [
+        {
+            "sentence": "A solute is the substance that dissolves in a solvent to form a solution.",
+            "correct": "true"
+        },
+        {
+            "sentence": "A solute is the liquid that dissolves other substances to make a mixture.",
+            "correct": "false"
+        },
+        {
+            "sentence": "A solute is a type of solid that cannot mix or react with any liquid.",
+            "correct": "false"
+        },
+        {
+            "sentence": "A solute is the gas that forms when water evaporates from a surface.",
+            "correct": "false"
+        },
+        {
+            "sentence": "A solute is a chemical that filters solids from liquids using a barrier.",
+            "correct": "false"
+        }
+    ],
+    "explanation": [
+        {
+            "english": "The solute is the part of a solution that gets dissolved, like sugar in water.",
+            "chinese": "溶质是溶液中被溶解的物质，例如水中的糖。"
+        }
+    ]
+},
+{
+    "question": "What is a solvent?",
+    "options": [
+        {
+            "sentence": "A solvent is the substance that dissolves another substance (solute) to form a solution.",
+            "correct": "true"
+        },
+        {
+            "sentence": "A solvent is the solid that forms when a liquid cools and crystallizes.",
+            "correct": "false"
+        },
+        {
+            "sentence": "A solvent is the gas that reacts with solids to make new elements.",
+            "correct": "false"
+        },
+        {
+            "sentence": "A solvent is a type of metal that can melt other metals without heating.",
+            "correct": "false"
+        },
+        {
+            "sentence": "A solvent is a light source used in laboratories to measure temperature changes.",
+            "correct": "false"
+        }
+    ],
+    "explanation": [
+        {
+            "english": "The solvent is the part of a solution that dissolves the solute, like water in salt water.",
+            "chinese": "溶剂是溶液中用来溶解溶质的物质，例如盐水中的水。"
+        }
+    ]
+},
     {
         "question": "What is a homogeneous mixture?",
         "options": [
