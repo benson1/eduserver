@@ -1,0 +1,178 @@
+[
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "The committee has decided to postpone the meeting.", "correct": "true" },
+      { "sentence": "The committee have decided to postpone the meeting.", "correct": "false" },
+      { "sentence": "The committee have decides to postpone the meeting.", "correct": "false" },
+      { "sentence": "The committee has decide to postpone the meeting.", "correct": "false" },
+      { "sentence": "The committees has decided to postpone the meeting.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "In American English, collective nouns like 'committee' are treated as singular, so use 'has decided.'",
+        "chinese": "在美式英语中，像 'committee' 这样的集合名词视为单数，因此要用 'has decided'。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "If I had known about the party, I would have gone.", "correct": "true" },
+      { "sentence": "If I knew about the party, I would have gone.", "correct": "false" },
+      { "sentence": "If I had knew about the party, I would go.", "correct": "false" },
+      { "sentence": "If I know about the party, I would have gone.", "correct": "false" },
+      { "sentence": "If I would have known about the party, I would go.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "This is a third conditional: 'If + past perfect' and 'would have + past participle.'",
+        "chinese": "这是第三类虚拟条件句：'If + 过去完成时'，主句用 'would have + 过去分词'。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "Neither the teacher nor the students were late.", "correct": "true" },
+      { "sentence": "Neither the teacher nor the students was late.", "correct": "false" },
+      { "sentence": "Neither the teacher or the students were late.", "correct": "false" },
+      { "sentence": "Neither the teachers nor the student were late.", "correct": "false" },
+      { "sentence": "Neither teacher nor students was late.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "With 'neither...nor,' the verb agrees with the subject closest to it. 'Students' is plural, so use 'were.'",
+        "chinese": "在 'neither...nor' 结构中，动词与离它最近的主语保持一致。这里最近的是复数 'students'，所以用 'were'。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "The book that I bought yesterday is on the table.", "correct": "true" },
+      { "sentence": "The book, that I bought yesterday, is on the table.", "correct": "false" },
+      { "sentence": "The book which I bought yesterday, is on the table.", "correct": "false" },
+      { "sentence": "The book I bought yesterday, is on the table.", "correct": "false" },
+      { "sentence": "The book, which I bought yesterday is on the table.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A defining relative clause (‘that I bought yesterday’) should not be separated by commas.",
+        "chinese": "限定性定语从句 ('that I bought yesterday') 不可用逗号隔开。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "Had I known the truth, I would have acted differently.", "correct": "true" },
+      { "sentence": "If had I known the truth, I would have acted differently.", "correct": "false" },
+      { "sentence": "Had I knew the truth, I would act differently.", "correct": "false" },
+      { "sentence": "If I would knew the truth, I would have acted differently.", "correct": "false" },
+      { "sentence": "Had I known the truth, I would acted differently.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "This is an inverted conditional. 'Had I known...' replaces 'If I had known...' for formality.",
+        "chinese": "这是倒装虚拟条件句，'Had I known...' 等于 'If I had known...'，更正式。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "Each of the players is responsible for their own equipment.", "correct": "true" },
+      { "sentence": "Each of the players are responsible for their own equipment.", "correct": "false" },
+      { "sentence": "Each of the player are responsible for their own equipment.", "correct": "false" },
+      { "sentence": "Each players is responsible for their own equipment.", "correct": "false" },
+      { "sentence": "Each of players is responsible for their own equipment.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "‘Each’ is singular and takes ‘is,’ even though it refers to multiple players.",
+        "chinese": "‘Each’ 是单数形式，因此要用 ‘is’，即使它指多个个体。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "By the time we arrived, the movie had already started.", "correct": "true" },
+      { "sentence": "By the time we arrive, the movie had already started.", "correct": "false" },
+      { "sentence": "By the time we arrived, the movie already started.", "correct": "false" },
+      { "sentence": "By the time we arrive, the movie already starts.", "correct": "false" },
+      { "sentence": "By the time we had arrived, the movie already started.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "When two past actions occur, the earlier one uses past perfect ('had started').",
+        "chinese": "当两个动作都在过去发生，较早的那个要用过去完成时 ('had started')。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "No sooner had I sat down than the phone rang.", "correct": "true" },
+      { "sentence": "No sooner I had sat down than the phone rang.", "correct": "false" },
+      { "sentence": "No sooner had I sat down when the phone rang.", "correct": "false" },
+      { "sentence": "No sooner I sat down than the phone rang.", "correct": "false" },
+      { "sentence": "No sooner had I sat down that the phone rang.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'No sooner' requires inversion ('had I sat down') and is followed by 'than,' not 'when' or 'that.'",
+        "chinese": "‘No sooner’ 后要倒装 ('had I sat down')，并且后面接 ‘than’，不能用 ‘when’ 或 ‘that’。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "It is important that every student be on time.", "correct": "true" },
+      { "sentence": "It is important that every student is on time.", "correct": "false" },
+      { "sentence": "It is important every student be on time.", "correct": "false" },
+      { "sentence": "It important that every student be on time.", "correct": "false" },
+      { "sentence": "It is important that every students be on time.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "This uses the subjunctive mood after expressions like 'It is important that...'. The verb uses the base form ('be').",
+        "chinese": "这是虚拟语气，用于 'It is important that...' 之后，动词用原形 ('be')。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "Hardly had we reached the station when it started to rain.", "correct": "true" },
+      { "sentence": "Hardly we had reached the station when it started to rain.", "correct": "false" },
+      { "sentence": "Hardly had we reached the station than it started to rain.", "correct": "false" },
+      { "sentence": "Hardly had we reach the station when it started to rain.", "correct": "false" },
+      { "sentence": "Hardly we reached the station when it started to rain.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Hardly' triggers inversion ('had we reached') and is followed by 'when,' not 'than.'",
+        "chinese": "‘Hardly’ 引起倒装 ('had we reached')，后面要用 'when'，不能用 'than'。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "Between you and me, this plan might actually work.", "correct": "true" },
+      { "sentence": "Between you and I, this plan might actually work.", "correct": "false" },
+      { "sentence": "Between I and you, this plan might actually work.", "correct": "false" },
+      { "sentence": "Among you and me, this plan might actually work.", "correct": "false" },
+      { "sentence": "Between you with me, this plan might actually work.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "After prepositions like 'between,' use the object form of pronouns: 'me,' not 'I.'",
+        "chinese": "介词如 'between' 后要用宾格代词，所以用 'me' 而不是 'I'。"
+      }
+    ]
+  }
+]
