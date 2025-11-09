@@ -662,5 +662,11 @@
         "file": "upper_b1_atoms_forces",
         "type": "science",
         "level": "2"         
+    },
+    {
+        "higher_hard_grammar.json",
+        "file": "higher_hard_grammar.json",
+        "type": "english",
+        "level": "5"        
     }
 ]
