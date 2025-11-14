@@ -674,5 +674,11 @@
         "file": "basic_random_verbs",
         "type": "georgian",
         "level": "2"        
+    },   
+    {
+        "name":"b1_final_darren",
+        "file": "b1_final_darren",
+        "type": "science",
+        "level": "1"        
     }
 ]
