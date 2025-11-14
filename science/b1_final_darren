@@ -1,0 +1,353 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      {
+        "sentence": "Particles are tiny pieces of matter that make up all substances.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Particles are large objects that can be seen without a microscope.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Particles only exist in gases and not in solids or liquids.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Particles in matter never move at all.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Particles only form when chemicals react.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Particles are the tiny building blocks of matter and are found in solids, liquids, and gases.",
+        "chinese": "粒子是构成物质的微小基本单位，存在于固体、液体和气体中。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      {
+        "sentence": "An element is a pure substance made of only one type of atom.",
+        "correct": "true"
+      },
+      {
+        "sentence": "An element is a mixture of many different atoms.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Elements can be separated into simpler substances by ordinary physical means.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Elements are substances made only of molecules, not atoms.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Elements are created only in laboratories and do not occur naturally.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "An element contains only one kind of atom and cannot be broken down into simpler substances.",
+        "chinese": "元素由一种原子组成，不能再分解成更简单的物质。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      {
+        "sentence": "Fossil fuels are energy sources formed from ancient plants and animals over millions of years.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Fossil fuels form within a few months from decaying leaves.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Fossil fuels are unlimited and will never run out.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Fossil fuels are produced by volcanoes in real time.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Fossil fuels are types of minerals that grow like crystals.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Fossil fuels form very slowly from the remains of ancient plants and animals buried and compressed for millions of years.",
+        "chinese": "化石燃料由古代植物和动物的遗骸在数百万年中被埋藏并压缩形成。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      {
+        "sentence": "Pollution is the introduction of harmful substances into the environment.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Pollution only happens in cities and never in natural areas.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Pollution refers only to bad smells and nothing else.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Pollution is always harmless to plants and animals.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Pollution is the natural process of cleaning the environment.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Pollution occurs when harmful substances enter air, water, or soil, damaging living things and the environment.",
+        "chinese": "当有害物质进入空气、水或土壤并破坏生物和环境时，就会产生污染。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      {
+        "sentence": "A substance is flammable if it can burn easily when exposed to heat or flame.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A flammable substance cannot burn under any conditions.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Flammable means the same as nonflammable.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Flammable substances dissolve in water but never burn.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Only liquids can be flammable; solids and gases cannot.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "A flammable material burns easily when exposed to a flame or enough heat.",
+        "chinese": "可燃物在接触火焰或高温时很容易燃烧。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      {
+        "sentence": "Matter is anything that has mass and takes up space.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Matter is only made of solids and does not include liquids or gases.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Matter has no mass and does not occupy space.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Matter exists only on Earth and not in space.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Matter is another word for energy.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Matter includes solids, liquids, and gases and is defined by having mass and volume.",
+        "chinese": "物质包括固体、液体和气体，其特征是具有质量和体积。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      {
+        "sentence": "Energy is the ability to do work or cause change.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Energy can be created from nothing at any time.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Energy only exists in living things and not in objects.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Energy cannot be transferred or transformed.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Energy is the same as weight.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Energy allows things to move, change, or perform tasks, and it can be transformed from one form to another.",
+        "chinese": "能量使物体能够运动、变化或做功，并且可以从一种形式转化为另一种形式。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      {
+        "sentence": "Chemical energy is stored in the bonds between atoms and molecules, like in food and in batteries.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Chemical energy is only present in gases and liquids that are made from fossil fuels containing energy.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Chemical energy cannot be released during reactions, only during physical reactions between chemicals.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Chemical energy is the same as sound energy.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Chemical energy only exists inside batteries, and not in solids or liquids because of their form.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Chemical energy is stored in the bonds of molecules and is released during chemical reactions like burning or digestion.",
+        "chinese": "化学能储存在分子键中，在燃烧或消化等化学反应中释放。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      {
+        "sentence": "Kinetic energy is the energy an object has because it is moving.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Kinetic energy is stored energy in a motionless object.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Only living things can have kinetic energy.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Kinetic energy disappears completely when an object stops moving.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Kinetic energy is the same as chemical energy.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Any moving object has kinetic energy; faster or heavier objects have more of it.",
+        "chinese": "任何运动的物体都有动能，速度更快或质量更大的物体具有更多动能。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      {
+        "sentence": "Thermal energy is the energy related to the movement of particles in a substance.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Thermal energy is the energy stored only in frozen objects.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Thermal energy never transfers from warmer objects to cooler objects.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Thermal energy and light energy are the same thing.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Thermal energy only exists in gases and not in solids or liquids.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Thermal energy comes from the motion of particles; the faster they move, the more thermal energy the substance has.",
+        "chinese": "热能来自粒子的运动，粒子运动越快，物体的热能越多。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      {
+        "sentence": "Sound waves travel fastest through solids because particles in solids are tightly packed.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Sound waves travel fastest through gases because gas particles move the slowest.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Sound waves travel fastest through liquids because liquids have no particles.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Sound waves travel slowly through solids because particles never touch.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Sound cannot travel through solids at all.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Sound travels fastest in solids because particles are packed closely together, allowing vibrations to pass quickly.",
+        "chinese": "声音在固体中传播最快，因为固体中的粒子排列紧密，振动传递更迅速。"
+      }
+    ]
+  }
+]
