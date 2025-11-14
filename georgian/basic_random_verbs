@@ -1,0 +1,112 @@
+[
+  {
+    "georgian_sentence": "ვხედავ, ლამაზი ხარ.",
+    "english_sentence": "I see you are beautiful.",
+    "anglo_sentence": "vkhedav, lamazi khar.",
+    "georgian_main_verb": "ხარ",
+    "georgian_main_verb_anglo": "khar",
+    "person": "second",
+    "other_words_georgian": ["ვხედავ", "ლამაზი"],
+    "other_words_georgian_anglo": ["vkhedav", "lamazi"],
+    "other_words_english": ["I see", "beautiful"]
+  },
+  {
+    "georgian_sentence": "გესმის ჩემი ხმა.",
+    "english_sentence": "You hear my voice.",
+    "anglo_sentence": "gesmis chemi khma.",
+    "georgian_main_verb": "გესმის",
+    "georgian_main_verb_anglo": "gesmis",
+    "person": "second",
+    "other_words_georgian": ["ჩემი", "ხმა"],
+    "other_words_georgian_anglo": ["chemi", "khma"],
+    "other_words_english": ["my", "voice"]
+  },
+  {
+    "georgian_sentence": "გიყვარს მუსიკა.",
+    "english_sentence": "You love music.",
+    "anglo_sentence": "giqvars musika.",
+    "georgian_main_verb": "გიყვარს",
+    "georgian_main_verb_anglo": "giqvars",
+    "person": "second",
+    "other_words_georgian": ["მუსიკა"],
+    "other_words_georgian_anglo": ["musika"],
+    "other_words_english": ["music"]
+  },
+  {
+    "georgian_sentence": "გინდა წყალი?",
+    "english_sentence": "Do you want water?",
+    "anglo_sentence": "ginda tsqali?",
+    "georgian_main_verb": "გინდა",
+    "georgian_main_verb_anglo": "ginda",
+    "person": "second",
+    "other_words_georgian": ["წყალი"],
+    "other_words_georgian_anglo": ["tsqali"],
+    "other_words_english": ["water"]
+  },
+  {
+    "georgian_sentence": "მოდიხარ ახლავე?",
+    "english_sentence": "Are you coming right now?",
+    "anglo_sentence": "modikhar akhlave?",
+    "georgian_main_verb": "მოდიხარ",
+    "georgian_main_verb_anglo": "modikhar",
+    "person": "second",
+    "other_words_georgian": ["ახლავე"],
+    "other_words_georgian_anglo": ["akhlave"],
+    "other_words_english": ["right now"]
+  },
+  {
+    "georgian_sentence": "კითხულობ წიგნს.",
+    "english_sentence": "You are reading a book.",
+    "anglo_sentence": "kitkholob ts'igns.",
+    "georgian_main_verb": "კითხულობ",
+    "georgian_main_verb_anglo": "kitkholob",
+    "person": "second",
+    "other_words_georgian": ["წიგნს"],
+    "other_words_georgian_anglo": ["ts'igns"],
+    "other_words_english": ["a book"]
+  },
+  {
+    "georgian_sentence": "ცდილობ ისწავლო ქართული.",
+    "english_sentence": "You are trying to learn Georgian.",
+    "anglo_sentence": "ts'dilob ists'avlo kartuli.",
+    "georgian_main_verb": "ცდილობ",
+    "georgian_main_verb_anglo": "ts'dilob",
+    "person": "second",
+    "other_words_georgian": ["ისწავლო", "ქართული"],
+    "other_words_georgian_anglo": ["ists'avlo", "kartuli"],
+    "other_words_english": ["to learn", "Georgian"]
+  },
+  {
+    "georgian_sentence": "მოგწონს ეს ადგილი?",
+    "english_sentence": "Do you like this place?",
+    "anglo_sentence": "mogts'ons es adgili?",
+    "georgian_main_verb": "მოგწონს",
+    "georgian_main_verb_anglo": "mogts'ons",
+    "person": "second",
+    "other_words_georgian": ["ეს", "ადგილი"],
+    "other_words_georgian_anglo": ["es", "adgili"],
+    "other_words_english": ["this", "place"]
+  },
+  {
+    "georgian_sentence": "შეგიძლია მელაპარაკო.",
+    "english_sentence": "You can talk to me.",
+    "anglo_sentence": "shegidzlia melaparak'o.",
+    "georgian_main_verb": "შეგიძლია",
+    "georgian_main_verb_anglo": "shegidzlia",
+    "person": "second",
+    "other_words_georgian": ["მელაპარაკო"],
+    "other_words_georgian_anglo": ["melaparak'o"],
+    "other_words_english": ["talk to me"]
+  },
+  {
+    "georgian_sentence": "მოდიხარ ჩვენთან დღეს?",
+    "english_sentence": "Are you coming with us today?",
+    "anglo_sentence": "modikhar chventan dghes?",
+    "georgian_main_verb": "მოდიხარ",
+    "georgian_main_verb_anglo": "modikhar",
+    "person": "second",
+    "other_words_georgian": ["ჩვენთან", "დღეს"],
+    "other_words_georgian_anglo": ["chventan", "dghes"],
+    "other_words_english": ["with us", "today"]
+  }
+]
