@@ -680,5 +680,11 @@
         "file": "b1_final_darren",
         "type": "science",
         "level": "1"        
+    },
+    {
+         "name":"matter_chemical_reactions",
+        "file": "matter_chemical_reactions",
+        "type": "science",
+        "level": "3"  
     }
 ]
