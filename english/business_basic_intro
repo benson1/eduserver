@@ -1,0 +1,137 @@
+[
+  {
+    "question": "Which sentence uses the word 'customers' correctly?",
+    "options": [
+      { "sentence": "Customers are the people who buy things from a business.", "correct": "true" },
+      { "sentence": "Customers is the name of the store.", "correct": "false" },
+      { "sentence": "Customers means money a business keeps.", "correct": "false" },
+      { "sentence": "Customers are the people who sell things to a business.", "correct": "false" },
+      { "sentence": "Customers is when a business gets bigger.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Customers are the people who buy things from a business.",
+        "chinese": "顾客是从商店或公司购买东西的人。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence uses the word 'market' correctly?",
+    "options": [
+      { "sentence": "A market is a place where people buy and sell things.", "correct": "true" },
+      { "sentence": "A market is the money a business earns.", "correct": "false" },
+      { "sentence": "A market is a person who works at a store.", "correct": "false" },
+      { "sentence": "A market is a type of toy.", "correct": "false" },
+      { "sentence": "A market is when a business stops working.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A market is any place where people buy and sell items.",
+        "chinese": "市场是人们买卖东西的地方。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence uses the word 'profit' correctly?",
+    "options": [
+      { "sentence": "Profit is the extra money a business makes after paying for everything.", "correct": "true" },
+      { "sentence": "Profit is the stuff a business sells.", "correct": "false" },
+      { "sentence": "Profit is the same as customers.", "correct": "false" },
+      { "sentence": "Profit is when a business loses money.", "correct": "false" },
+      { "sentence": "Profit is another word for a toy.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Profit is the money a business has left after paying its costs.",
+        "chinese": "利润是商家付完所有费用后剩下的钱。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence uses the word 'competition' correctly?",
+    "options": [
+      { "sentence": "Competition is when businesses try to do better than each other.", "correct": "true" },
+      { "sentence": "Competition is when customers pay money.", "correct": "false" },
+      { "sentence": "Competition is another word for workers.", "correct": "false" },
+      { "sentence": "Competition means a business closes.", "correct": "false" },
+      { "sentence": "Competition is something you eat.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Competition means businesses try to attract more customers than others.",
+        "chinese": "竞争是指商家想比其他商家吸引更多顾客。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence uses 'business research' correctly?",
+    "options": [
+      { "sentence": "Business research is when a business learns what people want to buy.", "correct": "true" },
+      { "sentence": "Business research is when a store closes early.", "correct": "false" },
+      { "sentence": "Business research is the money a business gets.", "correct": "false" },
+      { "sentence": "Business research means selling toys.", "correct": "false" },
+      { "sentence": "Business research is a type of building.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Business research helps a business understand what customers like.",
+        "chinese": "商业调查帮助商家了解顾客喜欢什么。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence uses the word 'investment' correctly?",
+    "options": [
+      { "sentence": "An investment is when you put money into something hoping it will grow.", "correct": "true" },
+      { "sentence": "An investment is a type of food.", "correct": "false" },
+      { "sentence": "An investment means buying something for fun only.", "correct": "false" },
+      { "sentence": "Investment is another word for a customer.", "correct": "false" },
+      { "sentence": "Investment means throwing money away.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "An investment is spending money now so you might earn more later.",
+        "chinese": "投资是现在花钱，希望以后能赚更多的钱。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence uses the word 'growth' correctly?",
+    "options": [
+      { "sentence": "Growth is when a business gets bigger or better.", "correct": "true" },
+      { "sentence": "Growth is what customers buy.", "correct": "false" },
+      { "sentence": "Growth means a business disappears.", "correct": "false" },
+      { "sentence": "Growth is another word for money.", "correct": "false" },
+      { "sentence": "Growth means selling fewer things.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Growth is when a business improves, gets more customers, or makes more money.",
+        "chinese": "增长指商家变得更好、顾客更多或赚更多钱。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence uses 'unique selling point' correctly?",
+    "options": [
+      { "sentence": "A unique selling point is what makes a business special from others.", "correct": "true" },
+      { "sentence": "A unique selling point is how much money a business keeps.", "correct": "false" },
+      { "sentence": "A unique selling point means a store is closed.", "correct": "false" },
+      { "sentence": "A unique selling point is the people who buy things.", "correct": "false" },
+      { "sentence": "A unique selling point is a type of toy.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A unique selling point is the special thing that makes customers choose one business over another.",
+        "chinese": "独特卖点是让顾客选择这家店而不是别家店的特别之处。"
+      }
+    ]
+  }
+]
