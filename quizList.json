@@ -694,8 +694,8 @@
         "level": "1"  
     },
     {
-            "name":" ks3_cellular_mitosis",
-        "file": " ks3_cellular_mitosis",
+        "name":"ks3_cellular_mitosis",
+        "file": "ks3_cellular_mitosis",
         "type": "science",
         "level": "3"        
     }
