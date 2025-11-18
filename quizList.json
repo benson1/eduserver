@@ -692,5 +692,11 @@
         "file": "business_basic_intro",
         "type": "english",
         "level": "1"  
+    },
+    {
+            "name":" ks3_cellular_mitosis",
+        "file": " ks3_cellular_mitosis",
+        "type": "science",
+        "level": "3"        
     }
 ]
