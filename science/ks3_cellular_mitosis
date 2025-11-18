@@ -1,0 +1,222 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The nucleus stores genetic material (DNA) and controls cell activities.", "correct": "true" },
+      { "sentence": "The nucleus mainly stores water for cell hydration rather than DNA.", "correct": "false" },
+      { "sentence": "The nucleus is responsible for producing energy instead of mitochondria.", "correct": "false" },
+      { "sentence": "The nucleus is present only in plant cells, not animal cells.", "correct": "false" },
+      { "sentence": "The nucleus serves as a structural scaffold but has no role in gene expression.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The nucleus controls cell functions and stores genetic information in the form of DNA.",
+        "chinese": "细胞核控制细胞功能，并储存DNA形式的遗传信息。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Chromosomes are structures made of DNA that carry genetic information.", "correct": "true" },
+      { "sentence": "Chromosomes are made of proteins only and contain no genetic material.", "correct": "false" },
+      { "sentence": "Chromosomes are found only in animal cells and never in plant cells.", "correct": "false" },
+      { "sentence": "Chromosomes produce energy for the cell during respiration.", "correct": "false" },
+      { "sentence": "Chromosomes function as the cell membrane during cell division.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Chromosomes are long DNA molecules carrying genes that determine inherited traits.",
+        "chinese": "染色体是携带基因的长 DNA 分子，决定遗传性状。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A chromatid is one half of a duplicated chromosome.", "correct": "true" },
+      { "sentence": "A chromatid is the entire chromosome before replication.", "correct": "false" },
+      { "sentence": "A chromatid is a structure that only exists in haploid cells.", "correct": "false" },
+      { "sentence": "A chromatid contains no DNA and functions as a protein shell.", "correct": "false" },
+      { "sentence": "A chromatid is an organelle involved in energy production.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Chromatids are identical copies of a chromosome joined at the centromere until separated during cell division.",
+        "chinese": "染色单体是染色体复制后形成的两个相同结构，在着丝点连接，直到细胞分裂时分离。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A haploid cell contains one set of chromosomes.", "correct": "true" },
+      { "sentence": "A haploid cell contains two full sets of chromosomes.", "correct": "false" },
+      { "sentence": "A haploid cell has no genetic material at all.", "correct": "false" },
+      { "sentence": "A haploid cell is found only in somatic (body) tissue.", "correct": "false" },
+      { "sentence": "A haploid cell contains triple the number of chromosomes as a diploid cell.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Haploid cells, such as gametes, contain one complete set of chromosomes.",
+        "chinese": "单倍体细胞（如配子）含有一套完整的染色体。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A diploid cell contains two sets of chromosomes, one from each parent.", "correct": "true" },
+      { "sentence": "A diploid cell contains half the genetic material of a haploid cell.", "correct": "false" },
+      { "sentence": "A diploid cell is only found in reproductive organs.", "correct": "false" },
+      { "sentence": "A diploid cell has no nucleus and no chromosomes.", "correct": "false" },
+      { "sentence": "A diploid cell contains four sets of chromosomes.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Diploid cells have two chromosome sets, typical of most body cells in animals and plants.",
+        "chinese": "二倍体细胞具有两套染色体，是大多数动植物体细胞的典型状态。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Interphase is the stage where the cell grows and replicates its DNA.", "correct": "true" },
+      { "sentence": "Interphase is the stage where chromosomes separate into daughter cells.", "correct": "false" },
+      { "sentence": "Interphase is the shortest stage of the cell cycle during which nothing happens.", "correct": "false" },
+      { "sentence": "Interphase occurs only in haploid cells, not diploid cells.", "correct": "false" },
+      { "sentence": "Interphase is the stage where the cell breaks down organelles for division.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "During interphase, the cell grows, performs normal functions, and replicates DNA.",
+        "chinese": "在间期，细胞生长、执行正常功能，并复制 DNA。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Mitosis is the process in which a cell divides to produce two genetically identical daughter cells.", "correct": "true" },
+      { "sentence": "Mitosis produces gametes for sexual reproduction.", "correct": "false" },
+      { "sentence": "Mitosis occurs only in prokaryotic cells.", "correct": "false" },
+      { "sentence": "Mitosis reduces the chromosome number by half.", "correct": "false" },
+      { "sentence": "Mitosis is the stage where DNA is not involved in cell division.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Mitosis ensures each daughter cell receives an identical set of chromosomes.",
+        "chinese": "有丝分裂确保每个子细胞获得相同的染色体组。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "PMAT describes the four main stages of mitosis: prophase, metaphase, anaphase, and telophase.", "correct": "true" },
+      { "sentence": "PMAT refers to the stages of meiosis II only.", "correct": "false" },
+      { "sentence": "PMAT describes the phases of interphase.", "correct": "false" },
+      { "sentence": "PMAT stands for photosynthesis, metabolism, ATP production, and transpiration.", "correct": "false" },
+      { "sentence": "PMAT refers to cytoplasm movement during osmosis.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "PMAT is a memory tool for the steps of mitosis: prophase, metaphase, anaphase, telophase.",
+        "chinese": "PMAT 是记忆有丝分裂四个阶段的方式：前期、中期、后期和末期。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Prophase is the stage of mitosis where chromosomes condense and the nuclear membrane breaks down.", "correct": "true" },
+      { "sentence": "Prophase is the stage where chromosomes line up in the middle of the cell.", "correct": "false" },
+      { "sentence": "Prophase occurs after telophase in the mitotic sequence.", "correct": "false" },
+      { "sentence": "Prophase is the stage where sister chromatids separate to opposite poles.", "correct": "false" },
+      { "sentence": "Prophase is a stage only in prokaryotic cell division.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "During prophase, chromosomes condense, spindle fibers form, and the nuclear membrane dissolves.",
+        "chinese": "在前期，染色体浓缩，纺锤丝形成，核膜解体。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Metaphase is the stage where chromosomes line up along the cell's equator.", "correct": "true" },
+      { "sentence": "Metaphase is the final stage of mitosis where the nucleus reforms.", "correct": "false" },
+      { "sentence": "Metaphase occurs before prophase in the mitotic cycle.", "correct": "false" },
+      { "sentence": "Metaphase is the stage where chromatids are pulled apart.", "correct": "false" },
+      { "sentence": "Metaphase only occurs in plant cells and not in animal cells.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "In metaphase, chromosomes align in the center of the cell.",
+        "chinese": "在中期，染色体在细胞中央排列。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Anaphase is the stage where sister chromatids separate and move to opposite ends of the cell.", "correct": "true" },
+      { "sentence": "Anaphase is the stage where chromosomes first become visible.", "correct": "false" },
+      { "sentence": "Anaphase is the stage where the nuclear membrane reforms.", "correct": "false" },
+      { "sentence": "Anaphase occurs before metaphase in the mitotic sequence.", "correct": "false" },
+      { "sentence": "Anaphase is the process by which DNA is replicated in the nucleus.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "During anaphase, spindle fibers pull sister chromatids to opposite poles.",
+        "chinese": "在后期，纺锤丝将姐妹染色单体拉向细胞两极。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Telophase is the stage where nuclear membranes reform around separated chromosomes.", "correct": "true" },
+      { "sentence": "Telophase is the stage where chromosomes first condense.", "correct": "false" },
+      { "sentence": "Telophase is the stage where chromatids separate to opposite poles.", "correct": "false" },
+      { "sentence": "Telophase occurs before prophase in the cell cycle.", "correct": "false" },
+      { "sentence": "Telophase is a stage only present in meiosis, not mitosis.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "During telophase, two new nuclei form, each containing a full set of chromosomes.",
+        "chinese": "在末期，两个新的细胞核形成，每个细胞核含有完整的染色体组。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Cytokinesis is the division of the cytoplasm, forming two separate daughter cells.", "correct": "true" },
+      { "sentence": "Cytokinesis is the stage where chromosomes condense.", "correct": "false" },
+      { "sentence": "Cytokinesis occurs before mitosis begins.", "correct": "false" },
+      { "sentence": "Cytokinesis produces four genetically different cells.", "correct": "false" },
+      { "sentence": "Cytokinesis is another name for anaphase.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Cytokinesis is the final step of cell division where the cytoplasm separates to create two cells.",
+        "chinese": "胞质分裂是细胞分裂的最后一步，细胞质分开形成两个细胞。"
+      }
+    ]
+  }
+]
