@@ -15,6 +15,22 @@
       }
     ]
   },
+{
+  "question": "Which sentence is scientifically correct?",
+  "options": [
+    { "sentence": "The atmosphere is the layer of gases that surrounds Earth.", "correct": "true" },
+    { "sentence": "The atmosphere is a solid layer of rock around Earth.", "correct": "false" },
+    { "sentence": "Only animals create the atmosphere.", "correct": "false" },
+    { "sentence": "The atmosphere is found only underwater.", "correct": "false" },
+    { "sentence": "The atmosphere is the same as Earth's core.", "correct": "false" }
+  ],
+  "explanation": [
+    {
+      "english": "The atmosphere is the layer of gases that surrounds Earth and makes life possible.",
+      "chinese": "大气层是包围地球的气体层，使生命得以存在。"
+    }
+  ]
+},
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
