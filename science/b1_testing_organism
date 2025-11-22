@@ -1,0 +1,146 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An element is a pure substance made of only one type of atom.", "correct": "true" },
+      { "sentence": "An element is made of many different types of atoms mixed together.", "correct": "false" },
+      { "sentence": "Elements are always liquids.", "correct": "false" },
+      { "sentence": "All elements are created by living organisms.", "correct": "false" },
+      { "sentence": "An element is the same as a molecule.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "An element is a pure substance made of only one type of atom.",
+        "chinese": "元素是一种只由一种原子构成的纯净物。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An organism is any living thing that can grow, reproduce, and respond to the environment.", "correct": "true" },
+      { "sentence": "An organism must be large enough to see without a microscope.", "correct": "false" },
+      { "sentence": "Only animals are considered organisms.", "correct": "false" },
+      { "sentence": "Organisms cannot reproduce.", "correct": "false" },
+      { "sentence": "Organisms are nonliving things like machines.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "An organism is any living thing that can grow, reproduce, and respond to its environment.",
+        "chinese": "生物体是任何能够生长、繁殖并对环境作出反应的生命体。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A kingdom is a major classification group used to organize living organisms.", "correct": "true" },
+      { "sentence": "A kingdom is a place where animals live together.", "correct": "false" },
+      { "sentence": "Only plants belong to kingdoms.", "correct": "false" },
+      { "sentence": "Kingdoms are not used in science.", "correct": "false" },
+      { "sentence": "A kingdom refers to an organism’s habitat.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A kingdom is a major classification category used to group living organisms with similar characteristics.",
+        "chinese": "界是科学中用来分类具有相似特征的生物的重要类别。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Fungi are living organisms that often feed on decaying matter and do not make their own food.", "correct": "true" },
+      { "sentence": "Fungi are plants that use sunlight to make food.", "correct": "false" },
+      { "sentence": "All fungi are animals.", "correct": "false" },
+      { "sentence": "Fungi are nonliving things like rocks.", "correct": "false" },
+      { "sentence": "Fungi can perform photosynthesis.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Fungi are living organisms that absorb nutrients from other materials instead of making their own food.",
+        "chinese": "真菌是一类生物，它们通过吸收其他物质中的养分来生存，而不是自己制造食物。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A cell is the smallest unit of life that can function independently.", "correct": "true" },
+      { "sentence": "Only animals have cells.", "correct": "false" },
+      { "sentence": "Cells do not carry out life functions.", "correct": "false" },
+      { "sentence": "Cells are not part of living organisms.", "correct": "false" },
+      { "sentence": "All cells are exactly the same in every organism.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A cell is the smallest unit of life that can carry out all basic life functions.",
+        "chinese": "细胞是能够执行所有基本生命活动的最小生命单位。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The nucleus is the part of the cell that controls activities and contains genetic material.", "correct": "true" },
+      { "sentence": "The nucleus is only found in bacteria.", "correct": "false" },
+      { "sentence": "The nucleus is a part of plants but not animals.", "correct": "false" },
+      { "sentence": "The nucleus stores food for the cell.", "correct": "false" },
+      { "sentence": "The nucleus is outside the cell.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The nucleus is the control center of many cells and contains DNA, which guides cell activities.",
+        "chinese": "细胞核是许多细胞的控制中心，内含 DNA，用来指导细胞活动。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Oxygen is a gas that many organisms need to survive.", "correct": "true" },
+      { "sentence": "Oxygen is a solid that organisms eat for energy.", "correct": "false" },
+      { "sentence": "Oxygen is only used by plants, not animals.", "correct": "false" },
+      { "sentence": "Oxygen is not found in the air.", "correct": "false" },
+      { "sentence": "Living things do not need oxygen.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Oxygen is a gas that many living things need for respiration, the process of releasing energy.",
+        "chinese": "氧气是一种许多生物需要的气体，用于呼吸以释放能量。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Chlorophyll is the green pigment in plants that helps absorb sunlight for photosynthesis.", "correct": "true" },
+      { "sentence": "Chlorophyll is a type of plant seed.", "correct": "false" },
+      { "sentence": "Chlorophyll is found only in animals.", "correct": "false" },
+      { "sentence": "Chlorophyll does not help plants make food.", "correct": "false" },
+      { "sentence": "Chlorophyll is a mineral found in rocks.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Chlorophyll is the pigment that gives plants their green color and allows them to capture sunlight.",
+        "chinese": "叶绿素是植物中的绿色色素，使植物能够吸收阳光。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Photosynthesis is the process by which plants use sunlight, water, and carbon dioxide to make their own food.", "correct": "true" },
+      { "sentence": "Photosynthesis is how animals make food.", "correct": "false" },
+      { "sentence": "Photosynthesis happens in the roots only.", "correct": "false" },
+      { "sentence": "Photosynthesis does not require sunlight.", "correct": "false" },
+      { "sentence": "Photosynthesis is the process of plants eating insects.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Photosynthesis allows plants to create food using sunlight, water, and carbon dioxide, releasing oxygen as a byproduct.",
+        "chinese": "光合作用使植物能够利用阳光、水和二氧化碳制造食物，并释放出氧气作为副产物。"
+      }
+    ]
+  }
+]
