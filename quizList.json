@@ -704,5 +704,12 @@
         "file": "b1_testing_organism",
         "type": "science",
         "level": "1"  
+    },
+    {
+        "name":"b1_adaptations_basic",
+        "file": "b1_adaptations_basic",
+        "type": "science",
+        "level": "1"         
     }
+        
 ]
