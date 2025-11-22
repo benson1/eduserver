@@ -1,0 +1,130 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An organism is any living thing that can grow, reproduce, and respond to its environment.", "correct": "true" },
+      { "sentence": "An organism must be visible without a microscope.", "correct": "false" },
+      { "sentence": "Only animals are considered organisms.", "correct": "false" },
+      { "sentence": "Organisms cannot reproduce.", "correct": "false" },
+      { "sentence": "Organisms are nonliving things.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "An organism is a living being that can grow, reproduce, and respond to the environment.",
+        "chinese": "生物是能够生长、繁殖并对环境作出反应的生命体。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Warm-blooded animals can keep a stable body temperature regardless of the outside environment.", "correct": "true" },
+      { "sentence": "Warm-blooded animals change body temperature to match the weather.", "correct": "false" },
+      { "sentence": "Only reptiles are warm-blooded.", "correct": "false" },
+      { "sentence": "Warm-blooded animals cannot live in cold places.", "correct": "false" },
+      { "sentence": "Warm-blooded means an animal's blood is always hot to touch.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Warm-blooded animals maintain a constant internal body temperature.",
+        "chinese": "恒温动物能够保持稳定的体温。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Cold-blooded animals rely on the environment to regulate their body temperature.", "correct": "true" },
+      { "sentence": "Cold-blooded animals keep their body temperature constant all the time.", "correct": "false" },
+      { "sentence": "Only mammals are cold-blooded.", "correct": "false" },
+      { "sentence": "Cold-blooded means the animal's blood is literally cold.", "correct": "false" },
+      { "sentence": "Cold-blooded animals cannot survive in warm environments.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Cold-blooded animals depend on outside temperatures to warm up or cool down.",
+        "chinese": "变温动物依靠外界温度来调节体温。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An adaptation is a feature or behavior that helps an organism survive in its environment.", "correct": "true" },
+      { "sentence": "An adaptation is a random habit that does not help an organism.", "correct": "false" },
+      { "sentence": "Only animals can have adaptations.", "correct": "false" },
+      { "sentence": "Adaptations always happen instantly.", "correct": "false" },
+      { "sentence": "Adaptations are decorations organisms grow for appearance.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Adaptations are traits that help organisms survive and reproduce.",
+        "chinese": "适应性特征是帮助生物生存和繁殖的特征。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Migration is the seasonal movement of animals from one place to another.", "correct": "true" },
+      { "sentence": "Migration means an animal stays in one place forever.", "correct": "false" },
+      { "sentence": "Only fish can migrate.", "correct": "false" },
+      { "sentence": "Migration is when animals move randomly without purpose.", "correct": "false" },
+      { "sentence": "Migration means animals are searching for predators.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Migration is when animals travel to find better food, climate, or breeding conditions.",
+        "chinese": "迁徙是动物为了寻找更好的食物、气候或繁殖条件而移动。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Hibernation is a deep sleep that warm-blooded animals enter to save energy during cold seasons.", "correct": "true" },
+      { "sentence": "Hibernation is when animals migrate to warmer places.", "correct": "false" },
+      { "sentence": "Hibernation is only for reptiles.", "correct": "false" },
+      { "sentence": "Hibernation means an animal is dead.", "correct": "false" },
+      { "sentence": "Hibernation happens only in summer.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Hibernation helps warm-blooded animals survive winter by lowering their body activity.",
+        "chinese": "冬眠通过降低身体活动帮助恒温动物在冬季生存。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Brumation is a period of dormancy in cold-blooded animals, similar to hibernation but with lower activity changes.", "correct": "true" },
+      { "sentence": "Brumation is the same as migration.", "correct": "false" },
+      { "sentence": "Only mammals brumate.", "correct": "false" },
+      { "sentence": "Brumation means an animal stops breathing.", "correct": "false" },
+      { "sentence": "Brumation occurs only in birds.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Brumation is a low-energy state cold-blooded animals enter during cold weather.",
+        "chinese": "爬行动物等变温动物在寒冷季节进入的一种低能量休眠状态称为滞育或冬蛰。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Camouflage is when an organism blends into its surroundings to avoid predators or catch prey.", "correct": "true" },
+      { "sentence": "Camouflage is when animals glow brightly to show their location.", "correct": "false" },
+      { "sentence": "Camouflage only happens in plants.", "correct": "false" },
+      { "sentence": "Camouflage means the organism is invisible to all animals.", "correct": "false" },
+      { "sentence": "Camouflage is a type of migration.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Camouflage helps organisms hide by matching their environment.",
+        "chinese": "伪装帮助生物通过与环境相似来隐藏自己。"
+      }
+    ]
+  }
+]
