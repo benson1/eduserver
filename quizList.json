@@ -710,6 +710,11 @@
         "file": "b1_adaptations_basic",
         "type": "science",
         "level": "1"         
+    },
+            {
+        "name":"advanced_english_verbs",
+        "file": "advanced_english_verbs",
+        "type": "georgian",
+        "level": "8"         
     }
-        
 ]
