@@ -11,7 +11,8 @@
     "other_words_english": ["I see", "beautiful"],
     "false_verb_answers_georgian": ["შეტრიალდები", "დაფრინავ", "მღერი"],
     "false_verb_answers_georgian_anglo": ["shet'rialdebi", "daprinav", "mg'eri"],
-    "false_verb_answers_english": ["you turn around", "you fly", "you sing"]
+    "false_verb_answers_english": ["you turn around", "you fly", "you sing"],
+    "english_answer_explanation": "The verb 'ხარ' means 'you are,' describing a state of being."
   },
   {
     "georgian_sentence": "გესმის ჩემი ხმა.",
@@ -25,7 +26,8 @@
     "other_words_english": ["my", "voice"],
     "false_verb_answers_georgian": ["სუნთქავ", "იშინებ", "ცურავ"],
     "false_verb_answers_georgian_anglo": ["suntkhav", "ishineb", "tsurav"],
-    "false_verb_answers_english": ["you breathe", "you get scared", "you swim"]
+    "false_verb_answers_english": ["you breathe", "you get scared", "you swim"],
+    "english_answer_explanation": "'გესმის' means 'you hear,' indicating perception of sound."
   },
   {
     "georgian_sentence": "გიყვარს მუსიკა.",
@@ -39,7 +41,8 @@
     "other_words_english": ["music"],
     "false_verb_answers_georgian": ["თამაშობ", "გარბიხარ", "როხროხებ"],
     "false_verb_answers_georgian_anglo": ["tamashob", "garbikhar", "rokhrokheb"],
-    "false_verb_answers_english": ["you play", "you are running", "you rumble (make noise)"]
+    "false_verb_answers_english": ["you play", "you are running", "you rumble (make noise)"],
+    "english_answer_explanation": "'გიყვარს' expresses affection or liking toward something."
   },
   {
     "georgian_sentence": "გინდა წყალი?",
@@ -53,7 +56,8 @@
     "other_words_english": ["water"],
     "false_verb_answers_georgian": ["მოდიხარ", "გაქვს", "დაქროლავ"],
     "false_verb_answers_georgian_anglo": ["modikhar", "gakvs", "dakrolav"],
-    "false_verb_answers_english": ["you are coming", "you have", "you speed (run fast)"]
+    "false_verb_answers_english": ["you are coming", "you have", "you speed (run fast)"],
+    "english_answer_explanation": "'გინდა' indicates desire or wanting something."
   },
   {
     "georgian_sentence": "მოდიხარ ახლავე?",
@@ -67,7 +71,8 @@
     "other_words_english": ["right now"],
     "false_verb_answers_georgian": ["შეწყვეტ", "გიტირია", "სეირნობ"],
     "false_verb_answers_georgian_anglo": ["shetzqvet", "gitiria", "seirnob"],
-    "false_verb_answers_english": ["you stop", "you are crying", "you stroll"]
+    "false_verb_answers_english": ["you stop", "you are crying", "you stroll"],
+    "english_answer_explanation": "The verb 'მოდიხარ' means 'you are coming,' describing movement toward the speaker."
   },
   {
     "georgian_sentence": "კითხულობ წიგნს.",
@@ -81,7 +86,8 @@
     "other_words_english": ["a book"],
     "false_verb_answers_georgian": ["ზიხარ", "წერ", "წუწავ"],
     "false_verb_answers_georgian_anglo": ["zikhar", "tser", "tsutsav"],
-    "false_verb_answers_english": ["you sit", "you write", "you splash"]
+    "false_verb_answers_english": ["you sit", "you write", "you splash"],
+    "english_answer_explanation": "'კითხულობ' means 'you are reading,' describing the action of processing written text."
   },
   {
     "georgian_sentence": "ცდილობ ისწავლო ქართული.",
@@ -95,7 +101,8 @@
     "other_words_english": ["to learn", "Georgian"],
     "false_verb_answers_georgian": ["თარგმნი", "ალაგებ", "გშივდება"],
     "false_verb_answers_georgian_anglo": ["targmni", "alageb", "gshivdeba"],
-    "false_verb_answers_english": ["you translate", "you clean/tidy", "you become hungry"]
+    "false_verb_answers_english": ["you translate", "you clean/tidy", "you become hungry"],
+    "english_answer_explanation": "'ცდილობ' means 'you are trying,' showing effort toward an action."
   },
   {
     "georgian_sentence": "მოგწონს ეს ადგილი?",
@@ -109,7 +116,8 @@
     "other_words_english": ["this", "place"],
     "false_verb_answers_georgian": ["თამაშობ", "მოხტები", "აფარულებ"],
     "false_verb_answers_georgian_anglo": ["tamashob", "mokhtebi", "afarulob"],
-    "false_verb_answers_english": ["you play", "you jump", "you cover (something)"]
+    "false_verb_answers_english": ["you play", "you jump", "you cover (something)"],
+    "english_answer_explanation": "'მოგწონს' is used to express enjoyment or liking something."
   },
   {
     "georgian_sentence": "შეგიძლია მელაპარაკო.",
@@ -123,7 +131,8 @@
     "other_words_english": ["talk to me"],
     "false_verb_answers_georgian": ["მღერი", "გეხუმრება", "მირეკავ"],
     "false_verb_answers_georgian_anglo": ["mg'eri", "gek'humreba", "mirekav"],
-    "false_verb_answers_english": ["you sing", "you joke", "you call me"]
+    "false_verb_answers_english": ["you sing", "you joke", "you call me"],
+    "english_answer_explanation": "'შეგიძლია' means 'you can,' expressing ability or permission."
   },
   {
     "georgian_sentence": "მოდიხარ ჩვენთან დღეს?",
@@ -137,6 +146,7 @@
     "other_words_english": ["with us", "today"],
     "false_verb_answers_georgian": ["პოულობ", "კანკალებ", "აჩერებ"],
     "false_verb_answers_georgian_anglo": ["poulob", "kankaleb", "achereb"],
-    "false_verb_answers_english": ["you find", "you tremble", "you stop (something)"]
+    "false_verb_answers_english": ["you find", "you tremble", "you stop (something)"],
+    "english_answer_explanation": "Again, 'მოდიხარ' refers to movement toward the group or speaker."
   }
 ]
