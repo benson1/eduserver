@@ -1,0 +1,114 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A company is an organization that produces goods or services for customers.", "correct": "true" },
+      { "sentence": "A company is only a building with no workers or products.", "correct": "false" },
+      { "sentence": "A company cannot sell anything.", "correct": "false" },
+      { "sentence": "A company is the same as a charity that never earns money.", "correct": "false" },
+      { "sentence": "A company refers only to government offices.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A company is an organization that provides goods or services and often aims to make a profit.",
+        "chinese": "公司是提供商品或服务的组织，通常以盈利为目标。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Customers are people or businesses that buy goods or services from a company.", "correct": "true" },
+      { "sentence": "Customers are employees who work inside the company.", "correct": "false" },
+      { "sentence": "Only companies can be customers, not people.", "correct": "false" },
+      { "sentence": "Customers give products to businesses for free.", "correct": "false" },
+      { "sentence": "Customers are the owners of the company.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Customers are the people or businesses who purchase a company's products or services.",
+        "chinese": "顾客是购买公司商品或服务的人或企业。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Competitors are other businesses that sell similar goods or services to the same customers.", "correct": "true" },
+      { "sentence": "Competitors are companies that work together as one team.", "correct": "false" },
+      { "sentence": "Competitors only exist in sports, not in business.", "correct": "false" },
+      { "sentence": "Competitors are customers who buy from a company.", "correct": "false" },
+      { "sentence": "Competitors are employees inside the same company.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Competitors are businesses that try to attract the same customers by offering similar products or services.",
+        "chinese": "竞争对手是提供类似商品或服务并争夺相同顾客的企业。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Profits are the money a company earns after paying all its costs.", "correct": "true" },
+      { "sentence": "Profits are the total money a company spends.", "correct": "false" },
+      { "sentence": "Profits mean a company is losing money.", "correct": "false" },
+      { "sentence": "Profits only happen when a company works for free.", "correct": "false" },
+      { "sentence": "Profits are not important for businesses.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Profit is the money a company keeps after subtracting its expenses.",
+        "chinese": "利润是公司在支付所有成本后保留下来的钱。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Losses occur when a company spends more money than it earns.", "correct": "true" },
+      { "sentence": "Losses mean the company is earning extra profit.", "correct": "false" },
+      { "sentence": "Losses only happen when a company has no employees.", "correct": "false" },
+      { "sentence": "Losses are the same as profits.", "correct": "false" },
+      { "sentence": "Losses occur when customers give the company too much money.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A loss happens when a company’s expenses are greater than its income.",
+        "chinese": "亏损是指公司的支出大于收入。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A USP (Unique Selling Point) is what makes a company’s product special or different from others.", "correct": "true" },
+      { "sentence": "A USP is the price a company charges for its product.", "correct": "false" },
+      { "sentence": "A USP is the number of employees a company has.", "correct": "false" },
+      { "sentence": "A USP is the name of the company's owner.", "correct": "false" },
+      { "sentence": "A USP is the building where the company is located.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A USP explains what makes a product unique and why customers should choose it.",
+        "chinese": "独特卖点（USP）说明产品的独特之处以及顾客为什么应该选择它。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Market research is the process of collecting information about customers, competitors, and the market.", "correct": "true" },
+      { "sentence": "Market research is guessing what customers want without information.", "correct": "false" },
+      { "sentence": "Market research is only done after a company fails.", "correct": "false" },
+      { "sentence": "Market research means selling products in markets.", "correct": "false" },
+      { "sentence": "Market research is only for very large companies.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Market research helps businesses understand customer needs, competitor behavior, and market trends.",
+        "chinese": "市场调查帮助企业了解顾客需求、竞争对手行为以及市场趋势。"
+      }
+    ]
+  }
+]
