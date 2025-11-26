@@ -716,5 +716,11 @@
         "file": "advanced_english_verbs",
         "type": "georgian",
         "level": "8"         
+    },
+                {
+        "name":"b3_tectonic_extremophiles",
+        "file": "b3_tectonic_extremophiles",
+        "type": "science",
+        "level": "3"         
     }
 ]
