@@ -1,0 +1,210 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The Earth's inner core is a dense, solid sphere composed mainly of iron and nickel, whose rotation contributes to Earth's magnetic field.", "correct": "true" },
+      { "sentence": "The inner core is a semi-solid layer of rock beneath the mantle that slowly flows and produces minor magnetic variations.", "correct": "false" },
+      { "sentence": "The inner core is a molten metal layer forming the outer boundary of the mantle and occasionally erupting through volcanoes.", "correct": "false" },
+      { "sentence": "The inner core consists mostly of high-pressure ice that vibrates, causing deep-earth tremors.", "correct": "false" },
+      { "sentence": "The inner core is made of lightweight gases trapped below the mantle, circulating to create convection currents.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "The inner core is solid iron and nickel, extremely dense, and its properties help maintain Earth's magnetic field.", "chinese": "地球内核是由铁和镍组成的固体，非常密集，其特性有助于形成地球磁场。" }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The Earth's outer core is a liquid layer of iron and nickel surrounding the inner core, whose convection generates Earth's magnetic field.", "correct": "true" },
+      { "sentence": "The outer core is a solid rock layer that slowly circulates and supports tectonic plate motion without affecting magnetism.", "correct": "false" },
+      { "sentence": "The outer core is a semi-molten region with minimal movement, contributing only slightly to Earth's magnetic properties.", "correct": "false" },
+      { "sentence": "The outer core is composed of dense ice and water mixtures that insulate the inner core.", "correct": "false" },
+      { "sentence": "The outer core is a gaseous metallic layer that spins rapidly but does not create significant magnetic fields.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "The outer core is liquid iron and nickel, and its convection produces Earth's magnetic field.", "chinese": "地球外核是液态铁和镍，其对流产生地球磁场。" }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The Earth's mantle is a thick, semi-solid layer between the crust and outer core, where convection drives plate tectonics and volcanic activity.", "correct": "true" },
+      { "sentence": "The mantle is a solid layer above the crust that rarely moves and has minimal effect on surface geology.", "correct": "false" },
+      { "sentence": "The mantle is a slowly circulating layer of molten magma that does not influence earthquakes or mountain formation.", "correct": "false" },
+      { "sentence": "The mantle is a thin layer of partially frozen rock that separates the crust from the core but does not transfer heat.", "correct": "false" },
+      { "sentence": "The mantle is primarily rigid slabs that transmit pressure from the core without any convection currents.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "The mantle moves slowly as semi-solid rock, transferring heat and driving tectonic plates.", "chinese": "地幔以半固态岩石缓慢运动，传递热量并推动板块运动。" }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The Earth's crust is the thin, solid outer layer forming continents and ocean floors, where earthquakes and volcanic activity occur.", "correct": "true" },
+      { "sentence": "The crust is a thick molten layer above the mantle that solidifies only near the surface.", "correct": "false" },
+      { "sentence": "The crust is composed mainly of water and sediments rather than solid rock.", "correct": "false" },
+      { "sentence": "The crust extends continuously down to the mantle without variation between oceanic and continental regions.", "correct": "false" },
+      { "sentence": "The crust is part of the inner core that has cooled slightly and now forms a brittle shell.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "The crust is Earth's outer solid layer, forming continents and ocean floors, and is the site of most earthquakes and volcanoes.", "chinese": "地壳是地球的最外层固体岩石，形成大陆和海洋地壳，是大多数地震和火山活动发生的地方。" }
+    ]
+  },
+{
+  "question": "Which sentence is scientifically correct?",
+  "options": [
+    { "sentence": "Pangaea was a supercontinent that existed around 335 to 175 million years ago, when most of Earth's landmasses were joined together.", "correct": "true" },
+    { "sentence": "Pangaea is the current arrangement of continents we live on today.", "correct": "false" },
+    { "sentence": "Pangaea was a small island chain formed by volcanic activity in the Pacific Ocean.", "correct": "false" },
+    { "sentence": "Pangaea refers to the large ocean that surrounded early continents rather than a landmass.", "correct": "false" },
+    { "sentence": "Pangaea was a floating mass of ice during the Ice Age that split continents apart.", "correct": "false" }
+  ],
+  "explanation": [
+    { "english": "Pangaea was a supercontinent during the late Paleozoic and early Mesozoic eras, before the continents drifted to their current positions.", "chinese": "盘古大陆是晚古生代到早中生代时期的超级大陆，在大陆漂移到现在位置之前形成。" }
+  ]
+},
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A tectonic boundary is the edge where two tectonic plates meet, often causing earthquakes, volcanic activity, or mountain formation.", "correct": "true" },
+      { "sentence": "A tectonic boundary is a gentle slope in the crust where plates occasionally drift without creating significant geological events.", "correct": "false" },
+      { "sentence": "Tectonic boundaries are regions where sediment accumulates over time but plates remain mostly stationary.", "correct": "false" },
+      { "sentence": "Tectonic boundaries are areas in the mantle that conduct heat but never affect surface features.", "correct": "false" },
+      { "sentence": "A tectonic boundary is a zone where minor folding occurs but no earthquakes or volcanoes ever happen.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Tectonic boundaries are plate edges where interactions produce earthquakes, volcanoes, and mountains.", "chinese": "构造板块边界是板块相互作用的区域，会产生地震、火山和山脉。" }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A tectonic fault is a fracture in Earth's crust along which movement occurs, often causing earthquakes or forming mountains.", "correct": "true" },
+      { "sentence": "A tectonic fault is a slow bending of rock layers that rarely produces earthquakes or surface deformation.", "correct": "false" },
+      { "sentence": "A tectonic fault is a valley formed by erosion rather than by plate movement.", "correct": "false" },
+      { "sentence": "A tectonic fault is a vertical crack in the mantle that does not reach the crust and remains inactive.", "correct": "false" },
+      { "sentence": "A tectonic fault is a zone of compressed sediment layers that does not involve tectonic plates.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Faults are cracks in the crust where plates move, generating earthquakes and sometimes mountains.", "chinese": "断层是地壳中的裂缝，板块在此移动，会引发地震并形成山脉。" }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Divergence occurs when tectonic plates move apart, creating new crust, rift valleys, and mid-ocean ridges.", "correct": "true" },
+      { "sentence": "Divergence happens when plates slide past each other without creating new crust or rift formations.", "correct": "false" },
+      { "sentence": "Divergence is when continental plates collide and build mountains rather than forming new crust.", "correct": "false" },
+      { "sentence": "Divergence is a slow bending of sediment layers that rarely affects ocean floors.", "correct": "false" },
+      { "sentence": "Divergence refers to the sinking of oceanic plates beneath the mantle instead of separating.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Divergence is plate separation that forms new crust, rift valleys, and ocean ridges.", "chinese": "张裂是板块分开移动，形成新地壳、裂谷和海洋中脊。" }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Convergence occurs when tectonic plates move toward each other, forming mountains, trenches, and causing earthquakes.", "correct": "true" },
+      { "sentence": "Convergence is when plates slide horizontally past one another without colliding or producing major surface features.", "correct": "false" },
+      { "sentence": "Convergence happens when plates sink slowly into the mantle without affecting the crust or creating mountains.", "correct": "false" },
+      { "sentence": "Convergence is a gradual folding of sediment layers unrelated to plate interactions.", "correct": "false" },
+      { "sentence": "Convergence occurs when plates drift apart, creating rift valleys rather than colliding.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Convergence is plate collision, creating mountains, trenches, and earthquakes.", "chinese": "汇聚是板块碰撞，形成山脉、海沟和地震。" }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Subduction occurs when one tectonic plate slides beneath another into the mantle, recycling crust and often generating volcanoes.", "correct": "true" },
+      { "sentence": "Subduction is when plates drift apart to form new crust without descending into the mantle.", "correct": "false" },
+      { "sentence": "Subduction occurs when continental plates slowly sink into the mantle without triggering volcanic activity.", "correct": "false" },
+      { "sentence": "Subduction is the gradual erosion of coastlines due to tectonic pressure.", "correct": "false" },
+      { "sentence": "Subduction is a horizontal sliding of plates that causes only minor earthquakes.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Subduction is one plate moving under another, recycling crust and forming volcanoes.", "chinese": "俯冲是板块滑入另一板块之下，回收地壳并形成火山。" }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The Mariana Trench is the deepest part of Earth's oceans, formed at a convergent plate boundary where the Pacific plate subducts beneath the Philippine plate.", "correct": "true" },
+      { "sentence": "The Mariana Trench is a shallow underwater canyon formed by erosion from ocean currents rather than plate tectonics.", "correct": "false" },
+      { "sentence": "The Mariana Trench is a volcanic island chain, not an ocean trench.", "correct": "false" },
+      { "sentence": "The Mariana Trench is a deep-sea coral reef region at a mid-ocean ridge.", "correct": "false" },
+      { "sentence": "The Mariana Trench is a sediment-filled depression that has formed gradually without tectonic activity.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "The Mariana Trench is the deepest ocean trench, formed by subduction at a convergent plate boundary.", "chinese": "马里亚纳海沟是地球最深的海沟，由板块汇聚和俯冲形成。" }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Devil's Hole is a water-filled limestone cavern in Nevada that hosts a population of pupfish adapted to extreme conditions.", "correct": "true" },
+      { "sentence": "Devil's Hole is a volcanic hot spring inhabited by tropical fish species.", "correct": "false" },
+      { "sentence": "Devil's Hole is a glacial lake populated by cold-adapted migratory fish.", "correct": "false" },
+      { "sentence": "Devil's Hole is a coastal lagoon containing marine fish that survive in brackish water.", "correct": "false" },
+      { "sentence": "Devil's Hole is a dry desert sinkhole with no permanent aquatic life.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Devil's Hole is a unique cavern with water that supports pupfish, an extremophile species.", "chinese": "魔鬼洞是独特水穴，栖息着适应极端环境的泻湖鱼。" }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A tsunami is a series of massive ocean waves caused by underwater earthquakes, landslides, or volcanic eruptions.", "correct": "true" },
+      { "sentence": "A tsunami is a large ocean wave caused only by strong surface winds during storms.", "correct": "false" },
+      { "sentence": "Tsunamis are periodic waves caused solely by tides and the moon's gravity.", "correct": "false" },
+      { "sentence": "Tsunamis are generated exclusively by meteor impacts in the ocean.", "correct": "false" },
+      { "sentence": "Tsunamis are minor swell waves that occur in shallow coastal waters without flooding.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Tsunamis are enormous waves generated by sudden underwater disturbances, causing coastal flooding.", "chinese": "海啸是由海底突发事件产生的巨大海浪，会导致沿海洪水。" }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Seiches are oscillating waves in lakes, bays, or enclosed bodies of water, caused by wind, earthquakes, or atmospheric pressure changes.", "correct": "true" },
+      { "sentence": "Seiches are tidal waves generated by the moon in open oceans rather than enclosed water bodies.", "correct": "false" },
+      { "sentence": "Seiches occur only in fast-flowing rivers and are unrelated to wind or atmospheric forces.", "correct": "false" },
+      { "sentence": "Seiches are waves created by surface wind alone without the interaction of natural water oscillations.", "correct": "false" },
+      { "sentence": "Seiches are long-term water level changes caused by sediment deposition, not waves.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Seiches are standing waves in enclosed water caused by wind, seismic, or atmospheric forces.", "chinese": "水摆是封闭水域中由风、地震或大气作用产生的驻波。" }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Extremophiles are organisms that survive in extreme environments such as very high or low temperatures, high salinity, acidity, or radiation.", "correct": "true" },
+      { "sentence": "Extremophiles are organisms found only in mild environments like rivers or forests with no special adaptations.", "correct": "false" },
+      { "sentence": "Extremophiles are animals that migrate seasonally to avoid extreme temperatures rather than surviving them.", "correct": "false" },
+      { "sentence": "Extremophiles are genetically modified organisms created in laboratories to tolerate harsh conditions.", "correct": "false" },
+      { "sentence": "Extremophiles are extinct species that once lived in extreme conditions but cannot survive today.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Extremophiles thrive in environments hostile to most life, including extreme heat, cold, salinity, or radiation.", "chinese": "极端生物能够在大多数生物无法生存的极端环境中生存，包括高温、低温、高盐或高辐射环境。" }
+    ]
+  },
+  {
+    "question": "Which of the following are examples of extremophiles?",
+    "options": [
+      { "sentence": "Tardigrades and pupfish", "correct": "true" },
+      { "sentence": "Elephants and lions", "correct": "false" },
+      { "sentence": "Dandelions and roses", "correct": "false" },
+      { "sentence": "Humans and dogs", "correct": "false" },
+      { "sentence": "Sharks and penguins", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Tardigrades and pupfish can survive extreme conditions, making them examples of extremophiles.", "chinese": "缓步动物和泻湖鱼能够在极端环境中生存，是极端生物的例子。" }
+    ]
+  }
+]
