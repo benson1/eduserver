@@ -722,5 +722,11 @@
         "file": "b3_tectonic_extremophiles",
         "type": "science",
         "level": "3"         
+    },
+        {
+        "name":"higher_grammar_harder2.json",
+        "file": "higher_grammar_harder2.json",
+        "type": "english",
+        "level": "5"        
     }
 ]
