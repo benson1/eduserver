@@ -1,0 +1,146 @@
+[
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "You must finish your homework before you go out.", "correct": "true" },
+      { "sentence": "You must to finish your homework before you go out.", "correct": "false" },
+      { "sentence": "You must finishes your homework before you go out.", "correct": "false" },
+      { "sentence": "You must finishing your homework before you go out.", "correct": "false" },
+      { "sentence": "You must finished your homework before you go out.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Must' is a modal verb and is followed by the base form of the verb without 'to.'",
+        "chinese": "'Must' 是情态动词，后面接动词原形，不加 'to'。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "He is believed to be the best player on the team.", "correct": "true" },
+      { "sentence": "He believed to be the best player on the team.", "correct": "false" },
+      { "sentence": "He is believed be the best player on the team.", "correct": "false" },
+      { "sentence": "He is believing to be the best player on the team.", "correct": "false" },
+      { "sentence": "He is believed being the best player on the team.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "In passive constructions with 'believe,' use 'to + base verb': 'is believed to be.'",
+        "chinese": "被动语态与 'believe' 搭配时用 'to + 动词原形'：'is believed to be'。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "She suggested going to the museum on Sunday.", "correct": "true" },
+      { "sentence": "She suggested to go to the museum on Sunday.", "correct": "false" },
+      { "sentence": "She suggested goes to the museum on Sunday.", "correct": "false" },
+      { "sentence": "She suggested go to the museum on Sunday.", "correct": "false" },
+      { "sentence": "She suggested gone to the museum on Sunday.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "After verbs like 'suggest,' use the gerund (verb + -ing), not the infinitive.",
+        "chinese": "在像 'suggest' 这样的动词后要用动名词（-ing 形式），而不是不定式。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "If I were you, I would take the job.", "correct": "true" },
+      { "sentence": "If I was you, I would take the job.", "correct": "false" },
+      { "sentence": "If I am you, I would take the job.", "correct": "false" },
+      { "sentence": "If I were you, I will take the job.", "correct": "false" },
+      { "sentence": "If I were you, I would took the job.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "This is a second conditional: 'If + past subjunctive,' main clause 'would + base verb.'",
+        "chinese": "这是第二类虚拟条件句：'If + 过去虚拟式'，主句用 'would + 动词原形'。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "I wish I had studied harder for the exam.", "correct": "true" },
+      { "sentence": "I wish I studied harder for the exam.", "correct": "false" },
+      { "sentence": "I wish I have studied harder for the exam.", "correct": "false" },
+      { "sentence": "I wish I had study harder for the exam.", "correct": "false" },
+      { "sentence": "I wish I had studied harder for the exams.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Wish' + past perfect is used to express regret about the past.",
+        "chinese": "'Wish' + 过去完成时表示对过去的遗憾。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "He asked me if I could help him with the project.", "correct": "true" },
+      { "sentence": "He asked me can I help him with the project.", "correct": "false" },
+      { "sentence": "He asked me if I can help him with the project.", "correct": "false" },
+      { "sentence": "He asked me if I could helps him with the project.", "correct": "false" },
+      { "sentence": "He asked me if I could helped him with the project.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "In reported speech, 'can' becomes 'could' and the verb stays in base form after modal.",
+        "chinese": "在间接引语中，'can' 变为 'could'，动词仍用原形。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "I’m looking forward to meeting you next week.", "correct": "true" },
+      { "sentence": "I’m looking forward to meet you next week.", "correct": "false" },
+      { "sentence": "I look forward meeting you next week.", "correct": "false" },
+      { "sentence": "I look forward to meet you next week.", "correct": "false" },
+      { "sentence": "I’m looking forward meeting you next week.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "After 'look forward to,' the verb must be in gerund form (-ing).",
+        "chinese": "'Look forward to' 后面的动词要用动名词形式（-ing）。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "The cake was eaten by the children before dinner.", "correct": "true" },
+      { "sentence": "The cake eaten by the children before dinner.", "correct": "false" },
+      { "sentence": "The cake was eat by the children before dinner.", "correct": "false" },
+      { "sentence": "The cake were eaten by the children before dinner.", "correct": "false" },
+      { "sentence": "The cake had eaten by the children before dinner.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Passive voice: 'be' + past participle is required, so 'was eaten' is correct.",
+        "chinese": "被动语态用 'be + 过去分词'，所以 'was eaten' 正确。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "I prefer reading books to watching TV.", "correct": "true" },
+      { "sentence": "I prefer to reading books to watching TV.", "correct": "false" },
+      { "sentence": "I prefer read books than watching TV.", "correct": "false" },
+      { "sentence": "I prefer reading books than watching TV.", "correct": "false" },
+      { "sentence": "I prefer to read books than watching TV.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "After 'prefer...to,' use gerunds for both activities: 'reading...to watching.'",
+        "chinese": "'Prefer...to' 后两个动作都用动名词：'reading...to watching'。"
+      }
+    ]
+  }
+]
