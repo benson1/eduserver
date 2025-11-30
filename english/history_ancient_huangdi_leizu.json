@@ -118,5 +118,86 @@
     "explanation": [
       { "english": "Silk was used for clothing, as valuable gifts, and for trade along the Silk Road.", "chinese": "丝绸用于服装、珍贵礼品和丝绸之路贸易。" }
     ]
+  },
+
+  /* ---- NEW SHANG DYNASTY QUESTIONS ---- */
+
+  {
+    "question": "When did the Shang Dynasty rule China?",
+    "options": [
+      { "sentence": "Around 1600–1046 BCE", "correct": "true" },
+      { "sentence": "Around 200 BCE–200 CE", "correct": "false" },
+      { "sentence": "Around 600–900 CE", "correct": "false" },
+      { "sentence": "Around 1200–1600 CE", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "The Shang Dynasty ruled early China and was known for bronze work and oracle-bone writing.", "chinese": "商朝统治早期的中国，以青铜器和甲骨文而闻名。" }
+    ]
+  },
+  {
+    "question": "What is the Shang Dynasty famous for?",
+    "options": [
+      { "sentence": "Bronze tools and early writing on bones", "correct": "true" },
+      { "sentence": "Building the Great Wall", "correct": "false" },
+      { "sentence": "Inventing gunpowder", "correct": "false" },
+      { "sentence": "Trading on the Silk Road", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "The Shang Dynasty created strong bronze tools and used oracle bones for writing.", "chinese": "商朝制造强大的青铜器，并使用甲骨进行书写。" }
+    ]
+  },
+
+  /* ---- NEW TANG DYNASTY QUESTIONS ---- */
+
+  {
+    "question": "What is the Tang Dynasty known for?",
+    "options": [
+      { "sentence": "A golden age of art, poetry, and trade", "correct": "true" },
+      { "sentence": "Being the first dynasty in China", "correct": "false" },
+      { "sentence": "Building oracle bones", "correct": "false" },
+      { "sentence": "Discovering silk", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "The Tang Dynasty was a golden age of Chinese culture and international trade.", "chinese": "唐朝是中国文化和国际贸易的黄金时代。" }
+    ]
+  },
+  {
+    "question": "During which years did the Tang Dynasty rule?",
+    "options": [
+      { "sentence": "618–907 CE", "correct": "true" },
+      { "sentence": "1600–1046 BCE", "correct": "false" },
+      { "sentence": "221–206 BCE", "correct": "false" },
+      { "sentence": "1368–1644 CE", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "The Tang Dynasty ruled China from 618 to 907 CE.", "chinese": "唐朝在公元618年至907年间统治中国。" }
+    ]
+  },
+
+  /* ---- NEW ORACLE-BONE SCRIPT QUESTIONS ---- */
+
+  {
+    "question": "What were oracle bones used for in ancient China?",
+    "options": [
+      { "sentence": "To ask questions to the gods", "correct": "true" },
+      { "sentence": "To make houses stronger", "correct": "false" },
+      { "sentence": "To store food for winter", "correct": "false" },
+      { "sentence": "To decorate clothes", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Oracle bones were used by the Shang people to ask questions to the gods through divination.", "chinese": "商朝的人用甲骨占卜，通过它向神灵提问。" }
+    ]
+  },
+  {
+    "question": "What kind of writing was carved on oracle bones?",
+    "options": [
+      { "sentence": "Pictographic characters", "correct": "true" },
+      { "sentence": "Alphabet letters like English", "correct": "false" },
+      { "sentence": "Numbers only", "correct": "false" },
+      { "sentence": "Musical notes", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Oracle-bone script was made of early pictographs that later became Chinese characters.", "chinese": "甲骨文由早期象形文字组成，后来发展成汉字。" }
+    ]
   }
 ]
