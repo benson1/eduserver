@@ -734,5 +734,11 @@
         "file": "harder_english_advanced.json",
         "type": "english",
         "level": "5"  
+    },
+        {
+        "name":"history_ancient_huangdi_leizu.json",
+        "file": "history_ancient_huangdi_leizu.json",
+        "type": "english",
+        "level": "1"  
     }
 ]
