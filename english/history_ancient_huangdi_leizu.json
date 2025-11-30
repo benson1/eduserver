@@ -8,7 +8,10 @@
       { "sentence": "A farmer who taught people to plant rice", "correct": "false" }
     ],
     "explanation": [
-      { "english": "Huangdi, the Yellow Emperor, is a legendary ruler who helped develop Chinese civilization.", "chinese": "黄帝是传说中的皇帝，他帮助发展了中国文明。" }
+      {
+        "english": "Huangdi, the Yellow Emperor, is a legendary ruler who helped develop Chinese civilization.",
+        "chinese": "黄帝是传说中的皇帝，他帮助发展了中国文明。"
+      }
     ]
   },
   {
@@ -20,7 +23,10 @@
       { "sentence": "A storyteller who wrote poems about the Yellow Emperor", "correct": "false" }
     ],
     "explanation": [
-      { "english": "Lei Zu is famous for discovering silk production in Chinese legend.", "chinese": "嫘祖在传说中以发明养蚕制丝闻名。" }
+      {
+        "english": "Lei Zu is famous for discovering silk production in Chinese legend.",
+        "chinese": "嫘祖在传说中以发明养蚕制丝闻名。"
+      }
     ]
   },
   {
@@ -32,7 +38,10 @@
       { "sentence": "On an island in eastern China", "correct": "false" }
     ],
     "explanation": [
-      { "english": "Legends place them in the Yellow River valley, the cradle of Chinese civilization.", "chinese": "传说将他们置于黄河流域，中国文明的发源地。" }
+      {
+        "english": "Legends place them in the Yellow River valley, the cradle of Chinese civilization.",
+        "chinese": "传说将他们置于黄河流域，中国文明的发源地。"
+      }
     ]
   },
   {
@@ -44,7 +53,10 @@
       { "sentence": "How to weave cloth on a loom", "correct": "false" }
     ],
     "explanation": [
-      { "english": "Lei Zu is credited with discovering silk production using silkworms.", "chinese": "嫘祖被认为发现了用蚕制作丝绸的技术。" }
+      {
+        "english": "Lei Zu is credited with discovering silk production using silkworms.",
+        "chinese": "嫘祖被认为发现了用蚕制作丝绸的技术。"
+      }
     ]
   },
   {
@@ -56,7 +68,10 @@
       { "sentence": "Caterpillars that eat other leaves", "correct": "false" }
     ],
     "explanation": [
-      { "english": "Silkworms spin cocoons that can be unwound into silk threads.", "chinese": "蚕吐丝结茧，茧可以抽丝制成丝绸。" }
+      {
+        "english": "Silkworms spin cocoons that can be unwound into silk threads.",
+        "chinese": "蚕吐丝结茧，茧可以抽丝制成丝绸。"
+      }
     ]
   },
   {
@@ -68,7 +83,10 @@
       { "sentence": "A mountain pass where silkworms were kept", "correct": "false" }
     ],
     "explanation": [
-      { "english": "The Silk Road was a network of trade routes for silk and other goods.", "chinese": "丝绸之路是中国与其他国家进行丝绸和商品贸易的通道。" }
+      {
+        "english": "The Silk Road was a network of trade routes for silk and other goods.",
+        "chinese": "丝绸之路是中国与其他国家进行丝绸和商品贸易的通道。"
+      }
     ]
   },
   {
@@ -80,7 +98,10 @@
       { "sentence": "During the Qing Dynasty (1600s CE)", "correct": "false" }
     ],
     "explanation": [
-      { "english": "Large-scale silk trade began during the Han Dynasty with Central Asia and beyond.", "chinese": "大规模丝绸贸易始于汉代，与中亚及其他地区进行交流。" }
+      {
+        "english": "Large-scale silk trade began during the Han Dynasty with Central Asia and beyond.",
+        "chinese": "大规模丝绸贸易始于汉代，与中亚及其他地区进行交流。"
+      }
     ]
   },
   {
@@ -92,7 +113,10 @@
       { "sentence": "It could be found everywhere", "correct": "false" }
     ],
     "explanation": [
-      { "english": "Silk is a luxury material because it is soft, shiny, and labor-intensive to produce.", "chinese": "丝绸柔软、有光泽，制作费力，因此很珍贵。" }
+      {
+        "english": "Silk is a luxury material because it is soft, shiny, and labor-intensive to produce.",
+        "chinese": "丝绸柔软、有光泽，制作费力，因此很珍贵。"
+      }
     ]
   },
   {
@@ -104,7 +128,10 @@
       { "sentence": "Eastern China near Shanghai", "correct": "false" }
     ],
     "explanation": [
-      { "english": "Legends place them in the Yellow River valley, in areas of modern Shaanxi and Henan.", "chinese": "传说将他们置于黄河流域，现代陕西和河南地区。" }
+      {
+        "english": "Legends place them in the Yellow River valley, in areas of modern Shaanxi and Henan.",
+        "chinese": "传说将他们置于黄河流域，现代陕西和河南地区。"
+      }
     ]
   },
   {
@@ -116,12 +143,12 @@
       { "sentence": "Making weapons and armor", "correct": "false" }
     ],
     "explanation": [
-      { "english": "Silk was used for clothing, as valuable gifts, and for trade along the Silk Road.", "chinese": "丝绸用于服装、珍贵礼品和丝绸之路贸易。" }
+      {
+        "english": "Silk was used for clothing, as valuable gifts, and for trade along the Silk Road.",
+        "chinese": "丝绸用于服装、珍贵礼品和丝绸之路贸易。"
+      }
     ]
   },
-
-  /* ---- NEW SHANG DYNASTY QUESTIONS ---- */
-
   {
     "question": "When did the Shang Dynasty rule China?",
     "options": [
@@ -131,7 +158,10 @@
       { "sentence": "Around 1200–1600 CE", "correct": "false" }
     ],
     "explanation": [
-      { "english": "The Shang Dynasty ruled early China and was known for bronze work and oracle-bone writing.", "chinese": "商朝统治早期的中国，以青铜器和甲骨文而闻名。" }
+      {
+        "english": "The Shang Dynasty ruled early China and was known for bronze work and oracle-bone writing.",
+        "chinese": "商朝统治早期的中国，以青铜器和甲骨文而闻名。"
+      }
     ]
   },
   {
@@ -143,12 +173,12 @@
       { "sentence": "Trading on the Silk Road", "correct": "false" }
     ],
     "explanation": [
-      { "english": "The Shang Dynasty created strong bronze tools and used oracle bones for writing.", "chinese": "商朝制造强大的青铜器，并使用甲骨进行书写。" }
+      {
+        "english": "The Shang Dynasty created strong bronze tools and used oracle bones for writing.",
+        "chinese": "商朝制造强大的青铜器，并使用甲骨进行书写。"
+      }
     ]
   },
-
-  /* ---- NEW TANG DYNASTY QUESTIONS ---- */
-
   {
     "question": "What is the Tang Dynasty known for?",
     "options": [
@@ -158,7 +188,10 @@
       { "sentence": "Discovering silk", "correct": "false" }
     ],
     "explanation": [
-      { "english": "The Tang Dynasty was a golden age of Chinese culture and international trade.", "chinese": "唐朝是中国文化和国际贸易的黄金时代。" }
+      {
+        "english": "The Tang Dynasty was a golden age of Chinese culture and international trade.",
+        "chinese": "唐朝是中国文化和国际贸易的黄金时代。"
+      }
     ]
   },
   {
@@ -170,12 +203,12 @@
       { "sentence": "1368–1644 CE", "correct": "false" }
     ],
     "explanation": [
-      { "english": "The Tang Dynasty ruled China from 618 to 907 CE.", "chinese": "唐朝在公元618年至907年间统治中国。" }
+      {
+        "english": "The Tang Dynasty ruled China from 618 to 907 CE.",
+        "chinese": "唐朝在公元618年至907年间统治中国。"
+      }
     ]
   },
-
-  /* ---- NEW ORACLE-BONE SCRIPT QUESTIONS ---- */
-
   {
     "question": "What were oracle bones used for in ancient China?",
     "options": [
@@ -185,7 +218,10 @@
       { "sentence": "To decorate clothes", "correct": "false" }
     ],
     "explanation": [
-      { "english": "Oracle bones were used by the Shang people to ask questions to the gods through divination.", "chinese": "商朝的人用甲骨占卜，通过它向神灵提问。" }
+      {
+        "english": "Oracle bones were used by the Shang people to ask questions to the gods through divination.",
+        "chinese": "商朝的人用甲骨占卜，通过它向神灵提问。"
+      }
     ]
   },
   {
@@ -197,7 +233,10 @@
       { "sentence": "Musical notes", "correct": "false" }
     ],
     "explanation": [
-      { "english": "Oracle-bone script was made of early pictographs that later became Chinese characters.", "chinese": "甲骨文由早期象形文字组成，后来发展成汉字。" }
+      {
+        "english": "Oracle-bone script was made of early pictographs that later became Chinese characters.",
+        "chinese": "甲骨文由早期象形文字组成，后来发展成汉字。"
+      }
     ]
   }
 ]
