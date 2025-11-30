@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Who was Huangdi in Chinese legend?",
+    "options": [
+      { "sentence": "A famous emperor and cultural hero", "correct": "true" },
+      { "sentence": "A general who led the army to fight other countries", "correct": "false" },
+      { "sentence": "A great inventor of paper", "correct": "false" },
+      { "sentence": "A farmer who taught people to plant rice", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Huangdi, the Yellow Emperor, is a legendary ruler who helped develop Chinese civilization.", "chinese": "黄帝是传说中的皇帝，他帮助发展了中国文明。" }
+    ]
+  },
+  {
+    "question": "Who was Lei Zu in the legend?",
+    "options": [
+      { "sentence": "The wife of Huangdi who discovered silk", "correct": "true" },
+      { "sentence": "A famous teacher of medicine", "correct": "false" },
+      { "sentence": "A princess from another kingdom", "correct": "false" },
+      { "sentence": "A storyteller who wrote poems about the Yellow Emperor", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Lei Zu is famous for discovering silk production in Chinese legend.", "chinese": "嫘祖在传说中以发明养蚕制丝闻名。" }
+    ]
+  },
+  {
+    "question": "Where did Huangdi and Lei Zu live according to legend?",
+    "options": [
+      { "sentence": "Near the Yellow River in central China", "correct": "true" },
+      { "sentence": "Near the Yangtze River in southern China", "correct": "false" },
+      { "sentence": "In the mountains of western China", "correct": "false" },
+      { "sentence": "On an island in eastern China", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Legends place them in the Yellow River valley, the cradle of Chinese civilization.", "chinese": "传说将他们置于黄河流域，中国文明的发源地。" }
+    ]
+  },
+  {
+    "question": "What important thing did Lei Zu discover?",
+    "options": [
+      { "sentence": "How to make silk from silkworms", "correct": "true" },
+      { "sentence": "How to make cloth from plant fibers", "correct": "false" },
+      { "sentence": "How to dye silk fabrics different colors", "correct": "false" },
+      { "sentence": "How to weave cloth on a loom", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Lei Zu is credited with discovering silk production using silkworms.", "chinese": "嫘祖被认为发现了用蚕制作丝绸的技术。" }
+    ]
+  },
+  {
+    "question": "Which animal provides silk?",
+    "options": [
+      { "sentence": "Silkworms", "correct": "true" },
+      { "sentence": "Goats that produce wool", "correct": "false" },
+      { "sentence": "Sheep for making wool fabrics", "correct": "false" },
+      { "sentence": "Caterpillars that eat other leaves", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Silkworms spin cocoons that can be unwound into silk threads.", "chinese": "蚕吐丝结茧，茧可以抽丝制成丝绸。" }
+    ]
+  },
+  {
+    "question": "What is the Silk Road?",
+    "options": [
+      { "sentence": "A trade route connecting China with other countries", "correct": "true" },
+      { "sentence": "A road where people made silk only inside China", "correct": "false" },
+      { "sentence": "A river where silk was floated to towns", "correct": "false" },
+      { "sentence": "A mountain pass where silkworms were kept", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "The Silk Road was a network of trade routes for silk and other goods.", "chinese": "丝绸之路是中国与其他国家进行丝绸和商品贸易的通道。" }
+    ]
+  },
+  {
+    "question": "When did silk start being traded with other countries?",
+    "options": [
+      { "sentence": "During the Han Dynasty (about 200 BCE – 200 CE)", "correct": "true" },
+      { "sentence": "During Lei Zu’s time (about 2700 BCE)", "correct": "false" },
+      { "sentence": "During the Tang Dynasty (600 CE)", "correct": "false" },
+      { "sentence": "During the Qing Dynasty (1600s CE)", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Large-scale silk trade began during the Han Dynasty with Central Asia and beyond.", "chinese": "大规模丝绸贸易始于汉代，与中亚及其他地区进行交流。" }
+    ]
+  },
+  {
+    "question": "Why was silk valuable in ancient China?",
+    "options": [
+      { "sentence": "It is soft, shiny, and hard to make", "correct": "true" },
+      { "sentence": "It is easier to make than cotton", "correct": "false" },
+      { "sentence": "It grows on trees", "correct": "false" },
+      { "sentence": "It could be found everywhere", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Silk is a luxury material because it is soft, shiny, and labor-intensive to produce.", "chinese": "丝绸柔软、有光泽，制作费力，因此很珍贵。" }
+    ]
+  },
+  {
+    "question": "Which part of China is the legend of Huangdi and Lei Zu from?",
+    "options": [
+      { "sentence": "North-central China near the Yellow River", "correct": "true" },
+      { "sentence": "Southern China near the South China Sea", "correct": "false" },
+      { "sentence": "Western China near Tibet", "correct": "false" },
+      { "sentence": "Eastern China near Shanghai", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Legends place them in the Yellow River valley, in areas of modern Shaanxi and Henan.", "chinese": "传说将他们置于黄河流域，现代陕西和河南地区。" }
+    ]
+  },
+  {
+    "question": "What did people use silk for in ancient times?",
+    "options": [
+      { "sentence": "Clothes, gifts, and trade", "correct": "true" },
+      { "sentence": "Building houses and boats", "correct": "false" },
+      { "sentence": "Writing books and scrolls", "correct": "false" },
+      { "sentence": "Making weapons and armor", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Silk was used for clothing, as valuable gifts, and for trade along the Silk Road.", "chinese": "丝绸用于服装、珍贵礼品和丝绸之路贸易。" }
+    ]
+  }
+]
