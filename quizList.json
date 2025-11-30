@@ -736,8 +736,8 @@
         "level": "5"  
     },
         {
-        "name":"history_ancient_huangdi_leizu.json",
-        "file": "history_ancient_huangdi_leizu.json",
+        "name":"history_ancient_huangdi_leizu",
+        "file": "history_ancient_huangdi_leizu",
         "type": "english",
         "level": "1"  
     }
