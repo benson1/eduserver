@@ -1,0 +1,200 @@
+[
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "Hardly had the meeting begun when the director interrupted.", "correct": "true" },
+      { "sentence": "Hardly the meeting had begun when the director interrupted.", "correct": "false" },
+      { "sentence": "Hardly had begun the meeting when the director interrupted.", "correct": "false" },
+      { "sentence": "Hardly had the meeting began when the director interrupted.", "correct": "false" },
+      { "sentence": "Hardly the meeting began when the director interrupted.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Negative adverbials (hardly, scarcely, rarely) cause subject–auxiliary inversion.", "chinese": "否定副词开头（hardly 等）需倒装（助动词置前）。" }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "The committee, as well as the chairperson, has approved the proposal.", "correct": "true" },
+      { "sentence": "The committee, as well as the chairperson, have approved the proposal.", "correct": "false" },
+      { "sentence": "The committee as well as the chairperson have approved the proposal.", "correct": "false" },
+      { "sentence": "The committee as well as the chairperson has approve the proposal.", "correct": "false" },
+      { "sentence": "The committee as well as the chairperson have approves the proposal.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "'As well as' does not join subjects; the main verb agrees with the primary subject only.", "chinese": "'As well as' 不连接两个主语；动词只与主要主语一致。" }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "The book, the cover of which was torn, was still readable.", "correct": "true" },
+      { "sentence": "The book, the cover of whom was torn, was still readable.", "correct": "false" },
+      { "sentence": "The book, whose cover it was torn, was still readable.", "correct": "false" },
+      { "sentence": "The book, which its cover was torn, was still readable.", "correct": "false" },
+      { "sentence": "The book, of which its cover was torn, was still readable.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "In formal non-defining relative clauses, 'the cover of which' is the correct construction.", "chinese": "正式的非限定性定语从句中，用 'the cover of which' 结构。" }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "Had he known about the delay, he would have taken a later train.", "correct": "true" },
+      { "sentence": "Had he knew about the delay, he would have taken a later train.", "correct": "false" },
+      { "sentence": "Had he known about the delay, he would take a later train.", "correct": "false" },
+      { "sentence": "Had he known about the delay, he will have taken a later train.", "correct": "false" },
+      { "sentence": "Had he known about the delay, he would took a later train.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Conditional inversion uses 'had + past participle' with no 'if.'", "chinese": "虚拟条件句的倒装形式用 'had + 过去分词'，不加 if。" }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "It was her confidence that made the presentation so effective.", "correct": "true" },
+      { "sentence": "It was her confidence which made the presentation so effectively.", "correct": "false" },
+      { "sentence": "It were her confidence that made the presentation so effective.", "correct": "false" },
+      { "sentence": "It was her confidence made the presentation so effective.", "correct": "false" },
+      { "sentence": "It was her confidence that make the presentation so effective.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Cleft sentences use 'It is/was + noun phrase + that…' and maintain correct verb forms.", "chinese": "强调结构用 'It is/was + 名词短语 + that…' 并且动词形式要正确。" }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "Few of the students who attended the seminar found it useful.", "correct": "true" },
+      { "sentence": "Few of the students who attends the seminar found it useful.", "correct": "false" },
+      { "sentence": "Few of the students which attended the seminar found it useful.", "correct": "false" },
+      { "sentence": "Few of the students who attended the seminar finds it useful.", "correct": "false" },
+      { "sentence": "Few of the students who attending the seminar found it useful.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "The verb in the relative clause must agree with 'students,' and 'who' is required for people.", "chinese": "定语从句动词与先行词 'students' 一致，并且指人时要用 who。" }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "She promised to review the proposal and to provide feedback by Friday.", "correct": "true" },
+      { "sentence": "She promised reviewing the proposal and providing feedback by Friday.", "correct": "false" },
+      { "sentence": "She promised to review the proposal and providing feedback by Friday.", "correct": "false" },
+      { "sentence": "She promised review the proposal and to provide feedback by Friday.", "correct": "false" },
+      { "sentence": "She promised review the proposal and provide feedback by Friday.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Infinitives must be parallel: 'to review' and 'to provide.'", "chinese": "动词不定式要平行：'to review' 和 'to provide'。" }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "Not only did she finish the report, but she also submitted it early.", "correct": "true" },
+      { "sentence": "Not only she finished the report, but she also submitted it early.", "correct": "false" },
+      { "sentence": "Not only did she finish the report, but also submitted it early.", "correct": "false" },
+      { "sentence": "Not only did she finish the report, but she submitted early it.", "correct": "false" },
+      { "sentence": "Not only finished she the report, but she also submitted it early.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "'Not only' requires inversion in the first clause and parallel structure in the second.", "chinese": "'Not only' 开头的句子主句要倒装，并保持平行结构。" }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "He speaks as though he had never lived abroad.", "correct": "true" },
+      { "sentence": "He speaks as though he has never lived abroad.", "correct": "false" },
+      { "sentence": "He speaks as though he never lived abroad.", "correct": "false" },
+      { "sentence": "He speaks as though he would have never lived abroad.", "correct": "false" },
+      { "sentence": "He speaks as though he never has lived abroad.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "'As though/as if' expressing unreal situations use the past or past perfect.", "chinese": "表达与事实相反情况时，'as though/as if' 后用过去式或过去完成时。" }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "No sooner had we sat down than the lights went out.", "correct": "true" },
+      { "sentence": "No sooner we had sat down than the lights went out.", "correct": "false" },
+      { "sentence": "No sooner had we sat down when the lights went out.", "correct": "false" },
+      { "sentence": "No sooner had we sat down then the lights went out.", "correct": "false" },
+      { "sentence": "No sooner had sat down we than the lights went out.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "With 'no sooner,' inversion is required and it is followed by 'than,' not 'when/then.'", "chinese": "'No sooner' 结构中需倒装，且后接 than，而不是 when/then。" }
+    ]
+  },
+
+  /* --- NEW ITEMS BELOW (11–15) --- */
+
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "Seldom do the results contradict our initial hypothesis.", "correct": "true" },
+      { "sentence": "Seldom the results contradict our initial hypothesis.", "correct": "false" },
+      { "sentence": "Seldom do the results contradicts our initial hypothesis.", "correct": "false" },
+      { "sentence": "Seldom does the results contradict our initial hypothesis.", "correct": "false" },
+      { "sentence": "Seldom the results do contradict our initial hypothesis.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Adverbs like 'seldom' trigger inversion: 'Seldom do…'", "chinese": "像 'seldom' 这样的副词会触发倒装：'Seldom do…'。" }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "The manager recommended that he be appointed to the new position.", "correct": "true" },
+      { "sentence": "The manager recommended that he is appointed to the new position.", "correct": "false" },
+      { "sentence": "The manager recommended that he was appointed to the new position.", "correct": "false" },
+      { "sentence": "The manager recommended that he be appoint to the new position.", "correct": "false" },
+      { "sentence": "The manager recommended that he appointed to the new position.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "The mandative subjunctive uses 'be + past participle' with no tense change.", "chinese": "要求类动词后用虚拟语气：'be + 过去分词'。" }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "Neither the staff nor the manager was aware of the issue.", "correct": "true" },
+      { "sentence": "Neither the staff nor the manager were aware of the issue.", "correct": "false" },
+      { "sentence": "Neither the staff nor the manager are aware of the issue.", "correct": "false" },
+      { "sentence": "Neither the staff nor the manager were aware the issue.", "correct": "false" },
+      { "sentence": "Neither the staff nor the manager was aware about the issue.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "With 'neither…nor,' the verb agrees with the subject closest to it.", "chinese": "'Neither…nor' 结构中动词与离得最近的主语一致。" }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "What he suggested was that we revise the schedule immediately.", "correct": "true" },
+      { "sentence": "What he suggested is that we revised the schedule immediately.", "correct": "false" },
+      { "sentence": "What he suggested was we revise the schedule immediately.", "correct": "false" },
+      { "sentence": "What he suggested that we revise the schedule immediately.", "correct": "false" },
+      { "sentence": "What he suggested was that we revising the schedule immediately.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Cleft-like 'what'-clauses require a linking verb and parallel structure.", "chinese": "由 what 引导的名词性结构需系动词并保持结构平行。" }
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "Only after the investigation was completed did they release the report.", "correct": "true" },
+      { "sentence": "Only after the investigation was completed they released the report.", "correct": "false" },
+      { "sentence": "Only after the investigation completed did they release the report.", "correct": "false" },
+      { "sentence": "Only after the investigation was completed did they released the report.", "correct": "false" },
+      { "sentence": "Only after the investigation was completing did they release the report.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Fronted 'only'-phrases trigger inversion in the main clause.", "chinese": "句首的 only 短语会触发主句倒装。" }
+    ]
+  }
+]
