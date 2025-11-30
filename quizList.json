@@ -728,5 +728,11 @@
         "file": "higher_grammar_harder2.json",
         "type": "english",
         "level": "5"        
+    },
+    {
+        "name":"harder_english_advanced.json",
+        "file": "harder_english_advanced.json",
+        "type": "english",
+        "level": "5"  
     }
 ]
