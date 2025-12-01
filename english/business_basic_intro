@@ -3,10 +3,10 @@
     "question": "Which sentence uses the word 'customers' correctly?",
     "options": [
       { "sentence": "Customers are the people who buy things from a business.", "correct": "true" },
-      { "sentence": "Customers is the name of the store.", "correct": "false" },
-      { "sentence": "Customers means money a business keeps.", "correct": "false" },
-      { "sentence": "Customers are the people who sell things to a business.", "correct": "false" },
-      { "sentence": "Customers is when a business gets bigger.", "correct": "false" }
+      { "sentence": "Customers are the people who sell products to a business.", "correct": "false" },
+      { "sentence": "Customers are the people who pay for services provided by a business.", "correct": "false" },
+      { "sentence": "Customers are the individuals who visit a store or shop regularly.", "correct": "false" },
+      { "sentence": "Customers are the people who purchase goods or services from companies.", "correct": "false" }
     ],
     "explanation": [
       {
@@ -15,15 +15,14 @@
       }
     ]
   },
-
   {
     "question": "Which sentence uses the word 'market' correctly?",
     "options": [
       { "sentence": "A market is a place where people buy and sell things.", "correct": "true" },
-      { "sentence": "A market is the money a business earns.", "correct": "false" },
-      { "sentence": "A market is a person who works at a store.", "correct": "false" },
-      { "sentence": "A market is a type of toy.", "correct": "false" },
-      { "sentence": "A market is when a business stops working.", "correct": "false" }
+      { "sentence": "A market is a place where people trade goods and services.", "correct": "false" },
+      { "sentence": "A market is an area where different businesses sell products to customers.", "correct": "false" },
+      { "sentence": "A market is a location where customers and sellers exchange goods and services.", "correct": "false" },
+      { "sentence": "A market is a place where producers and consumers meet to trade items.", "correct": "false" }
     ],
     "explanation": [
       {
@@ -32,15 +31,14 @@
       }
     ]
   },
-
   {
     "question": "Which sentence uses the word 'profit' correctly?",
     "options": [
       { "sentence": "Profit is the extra money a business makes after paying for everything.", "correct": "true" },
-      { "sentence": "Profit is the stuff a business sells.", "correct": "false" },
-      { "sentence": "Profit is the same as customers.", "correct": "false" },
-      { "sentence": "Profit is when a business loses money.", "correct": "false" },
-      { "sentence": "Profit is another word for a toy.", "correct": "false" }
+      { "sentence": "Profit is the extra money a business earns after covering all its costs.", "correct": "false" },
+      { "sentence": "Profit is the amount remaining after all expenses are subtracted from total income.", "correct": "false" },
+      { "sentence": "Profit is the financial gain a company achieves after paying for operations and costs.", "correct": "false" },
+      { "sentence": "Profit is the money left over once a business has paid all necessary expenses.", "correct": "false" }
     ],
     "explanation": [
       {
@@ -49,15 +47,14 @@
       }
     ]
   },
-
   {
     "question": "Which sentence uses the word 'competition' correctly?",
     "options": [
       { "sentence": "Competition is when businesses try to do better than each other.", "correct": "true" },
-      { "sentence": "Competition is when customers pay money.", "correct": "false" },
-      { "sentence": "Competition is another word for workers.", "correct": "false" },
-      { "sentence": "Competition means a business closes.", "correct": "false" },
-      { "sentence": "Competition is something you eat.", "correct": "false" }
+      { "sentence": "Competition is when businesses attempt to attract more customers than others.", "correct": "false" },
+      { "sentence": "Competition is the effort companies make to outperform other companies in the market.", "correct": "false" },
+      { "sentence": "Competition is the rivalry between businesses to gain more customers or sales.", "correct": "false" },
+      { "sentence": "Competition is the situation where companies strive to improve their sales compared to others.", "correct": "false" }
     ],
     "explanation": [
       {
@@ -66,15 +63,14 @@
       }
     ]
   },
-
   {
     "question": "Which sentence uses 'business research' correctly?",
     "options": [
       { "sentence": "Business research is when a business learns what people want to buy.", "correct": "true" },
-      { "sentence": "Business research is when a store closes early.", "correct": "false" },
-      { "sentence": "Business research is the money a business gets.", "correct": "false" },
-      { "sentence": "Business research means selling toys.", "correct": "false" },
-      { "sentence": "Business research is a type of building.", "correct": "false" }
+      { "sentence": "Business research is when a company investigates the needs and preferences of its customers.", "correct": "false" },
+      { "sentence": "Business research is the process of analyzing what products customers are interested in buying.", "correct": "false" },
+      { "sentence": "Business research is the study a company does to understand market demand and customer preferences.", "correct": "false" },
+      { "sentence": "Business research is when a business gathers information to improve its products or services.", "correct": "false" }
     ],
     "explanation": [
       {
@@ -83,15 +79,14 @@
       }
     ]
   },
-
   {
     "question": "Which sentence uses the word 'investment' correctly?",
     "options": [
       { "sentence": "An investment is when you put money into something hoping it will grow.", "correct": "true" },
-      { "sentence": "An investment is a type of food.", "correct": "false" },
-      { "sentence": "An investment means buying something for fun only.", "correct": "false" },
-      { "sentence": "Investment is another word for a customer.", "correct": "false" },
-      { "sentence": "Investment means throwing money away.", "correct": "false" }
+      { "sentence": "An investment is money spent in a business expecting to gain more money later.", "correct": "false" },
+      { "sentence": "An investment is using funds to purchase assets that may increase in value over time.", "correct": "false" },
+      { "sentence": "An investment is the act of committing money to a project with the expectation of future returns.", "correct": "false" },
+      { "sentence": "An investment is spending money today with the hope of earning more money in the future.", "correct": "false" }
     ],
     "explanation": [
       {
@@ -100,15 +95,14 @@
       }
     ]
   },
-
   {
     "question": "Which sentence uses the word 'growth' correctly?",
     "options": [
       { "sentence": "Growth is when a business gets bigger or better.", "correct": "true" },
-      { "sentence": "Growth is what customers buy.", "correct": "false" },
-      { "sentence": "Growth means a business disappears.", "correct": "false" },
-      { "sentence": "Growth is another word for money.", "correct": "false" },
-      { "sentence": "Growth means selling fewer things.", "correct": "false" }
+      { "sentence": "Growth is the process of a business increasing its size, revenue, or customer base.", "correct": "false" },
+      { "sentence": "Growth is when a company improves its products or services over time.", "correct": "false" },
+      { "sentence": "Growth is the development of a business as it becomes more profitable or successful.", "correct": "false" },
+      { "sentence": "Growth is the increase in a business's operations, customer base, or profits.", "correct": "false" }
     ],
     "explanation": [
       {
@@ -117,20 +111,83 @@
       }
     ]
   },
-
   {
     "question": "Which sentence uses 'unique selling point' correctly?",
     "options": [
       { "sentence": "A unique selling point is what makes a business special from others.", "correct": "true" },
-      { "sentence": "A unique selling point is how much money a business keeps.", "correct": "false" },
-      { "sentence": "A unique selling point means a store is closed.", "correct": "false" },
-      { "sentence": "A unique selling point is the people who buy things.", "correct": "false" },
-      { "sentence": "A unique selling point is a type of toy.", "correct": "false" }
+      { "sentence": "A unique selling point is the feature that makes a company's product stand out in the market.", "correct": "false" },
+      { "sentence": "A unique selling point is the reason customers choose one business over its competitors.", "correct": "false" },
+      { "sentence": "A unique selling point is the characteristic that differentiates a business from others.", "correct": "false" },
+      { "sentence": "A unique selling point is the special aspect of a business that attracts customers.", "correct": "false" }
     ],
     "explanation": [
       {
         "english": "A unique selling point is the special thing that makes customers choose one business over another.",
         "chinese": "独特卖点是让顾客选择这家店而不是别家店的特别之处。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence uses 'gap in the market' correctly?",
+    "options": [
+      { "sentence": "A gap in the market is an opportunity to sell something that people need but cannot easily get.", "correct": "true" },
+      { "sentence": "A gap in the market is an area where customers need products but no businesses supply them.", "correct": "false" },
+      { "sentence": "A gap in the market is a situation where demand exists but supply is insufficient.", "correct": "false" },
+      { "sentence": "A gap in the market is a business opportunity created when products are missing from the market.", "correct": "false" },
+      { "sentence": "A gap in the market is when a company identifies a need that competitors have not met.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A gap in the market is a chance for a business to offer something that people want but can't easily find.",
+        "chinese": "市场空缺是指商家有机会提供人们想要但不容易买到的东西。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence uses 'loan' correctly?",
+    "options": [
+      { "sentence": "A loan is money you borrow and have to pay back, usually with extra money called interest.", "correct": "true" },
+      { "sentence": "A loan is money borrowed from a bank or lender that must be repaid with interest over time.", "correct": "false" },
+      { "sentence": "A loan is money provided by a bank to be repaid in the future with additional interest charges.", "correct": "false" },
+      { "sentence": "A loan is funds borrowed from a financial institution that must be paid back with interest.", "correct": "false" },
+      { "sentence": "A loan is money lent by banks or individuals that borrowers are required to return with interest.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A loan is money borrowed from a bank or person that must be paid back, usually with interest.",
+        "chinese": "贷款是从银行或个人借来的钱，通常需要连利息一起偿还。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence uses 'grant' correctly?",
+    "options": [
+      { "sentence": "A grant is money given to a business or person that usually does not have to be paid back.", "correct": "true" },
+      { "sentence": "A grant is funds given to an individual or business that do not require repayment.", "correct": "false" },
+      { "sentence": "A grant is money provided by governments or organizations that does not need to be repaid.", "correct": "false" },
+      { "sentence": "A grant is financial support given to a business without the obligation of repayment.", "correct": "false" },
+      { "sentence": "A grant is money awarded to businesses or individuals to fund projects without repayment.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A grant is money given, often by the government or organizations, that you don’t have to repay.",
+        "chinese": "拨款是政府或机构提供的钱，通常不需要偿还。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence uses 'interest' correctly?",
+    "options": [
+      { "sentence": "Interest is extra money you pay when you borrow money, or extra money you earn on savings.", "correct": "true" },
+      { "sentence": "Interest is the additional amount paid on borrowed money over the principal.", "correct": "false" },
+      { "sentence": "Interest is money earned from savings or charged for loans over time.", "correct": "false" },
+      { "sentence": "Interest is the cost of borrowing money or the return earned on deposits.", "correct": "false" },
+      { "sentence": "Interest is the payment made for using someone else's money or the gain on saved funds.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Interest is money paid by a borrower to a lender for using money, or money earned on savings.",
+        "chinese": "利息是借款人支付给贷款人的费用，或者储蓄所获得的额外钱。"
       }
     ]
   }
