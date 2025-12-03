@@ -1,0 +1,250 @@
+[
+  {
+    "question": "Which definition is correct about an organism?",
+    "options": [
+      {
+        "sentence": "An organism is any individual living entity that can carry out life processes independently.",
+        "correct": "true"
+      },
+      {
+        "sentence": "An organism is a non-living object that mimics biological functions.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An organism refers only to animals, excluding plants and microorganisms.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An organism is a chemical compound essential for life but not itself alive.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An organism is a fossilized structure with no biological activity.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Organisms are living entities that perform essential life processes such as metabolism, growth, and reproduction.",
+        "chinese": "有机体是能够进行新陈代谢、成长和繁殖等基本生命活动的生物个体。"
+      }
+    ]
+  },
+  {
+    "question": "Which statement accurately describes evolution?",
+    "options": [
+      {
+        "sentence": "Evolution is the gradual change in the characteristics of species over generations through natural selection and genetic variation.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Evolution happens within an individual organism's lifetime without any genetic change.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Evolution refers exclusively to sudden, large-scale changes in an ecosystem.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Evolution is the process of organisms intentionally changing to adapt to their environment.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Evolution is the movement of species from one geographic location to another.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Evolution explains how species change over long periods due to mutations, natural selection, and adaptation.",
+        "chinese": "进化解释了物种如何在漫长的时间内由于突变、自然选择和适应而发生变化。"
+      }
+    ]
+  },
+  {
+    "question": "What best defines a cell?",
+    "options": [
+      {
+        "sentence": "A cell is the basic structural and functional unit of all living organisms.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A cell is a small, non-living particle found in soil and water.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A cell is only present in animals but not in plants or microorganisms.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A cell refers to the empty space inside an organism that stores nutrients.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A cell is a type of chemical reaction that sustains life.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Cells are the smallest units of life, capable of carrying out all life processes.",
+        "chinese": "细胞是生命的最小单位，能够执行所有生命活动。"
+      }
+    ]
+  },
+  {
+    "question": "Which definition correctly describes the nucleus?",
+    "options": [
+      {
+        "sentence": "The nucleus is a membrane-bound structure within a cell that contains genetic material and controls cell activities.",
+        "correct": "true"
+      },
+      {
+        "sentence": "The nucleus is an organ that filters toxins from the bloodstream.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The nucleus is a type of bacteria found in soil.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The nucleus is a chemical compound responsible for photosynthesis.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The nucleus is the cytoplasm surrounding a cell's organelles.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "The nucleus acts as the control center of the cell, storing DNA and regulating growth and reproduction.",
+        "chinese": "细胞核是细胞的控制中心，储存DNA并调节细胞的生长和繁殖。"
+      }
+    ]
+  },
+  {
+    "question": "Which statement best defines taxonomy?",
+    "options": [
+      {
+        "sentence": "Taxonomy is the scientific system of classifying and naming living organisms based on shared characteristics.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Taxonomy is the study of an organism's behavior in its habitat.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Taxonomy refers to the genetic changes in populations over time.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Taxonomy is the study of chemical reactions inside cells.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Taxonomy is the measurement of a species' lifespan.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Taxonomy organizes living organisms into hierarchical groups such as kingdom, phylum, class, order, family, genus, and species.",
+        "chinese": "分类学将生物体按照等级体系分类，包括界、门、纲、目、科、属和种。"
+      }
+    ]
+  },
+  {
+    "question": "Which of the following best defines a species?",
+    "options": [
+      {
+        "sentence": "A species is a group of organisms that can interbreed and produce fertile offspring.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A species is any organism found in the same geographic area regardless of reproduction.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A species is defined by identical DNA in all individuals.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A species refers to all organisms of the same size and shape.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A species is a collection of organisms that live together but cannot reproduce.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Species are defined as organisms capable of reproducing successfully within the same group while remaining genetically distinct from other species.",
+        "chinese": "物种是指能够在同一群体内成功繁殖且在遗传上与其他物种不同的生物。"
+      }
+    ]
+  },
+  {
+  "question": "Which statement best defines natural selection?",
+  "options": [
+    {
+      "sentence": "Natural selection is the process by which organisms with traits better suited to their environment are more likely to survive, reproduce, and pass those advantageous traits to future generations.",
+      "correct": "true"
+    },
+    {
+      "sentence": "Natural selection occurs when traits in a population change over time due to random processes, without any direct influence from the environment or differential survival of individuals.",
+      "correct": "false"
+    },
+    {
+      "sentence": "Natural selection is the process in which humans selectively breed animals or plants for specific traits, influencing which individuals reproduce, rather than this occurring through environmental pressures in nature.",
+      "correct": "false"
+    },
+    {
+      "sentence": "Natural selection is the concept that individual organisms can consciously develop new traits during their lifetime in order to better survive and then pass those acquired traits to their offspring.",
+      "correct": "false"
+    },
+    {
+      "sentence": "Natural selection refers to the sudden emergence of entirely new species due to a single mutation in one generation, rather than the gradual accumulation of advantageous traits over many generations.",
+      "correct": "false"
+    }
+  ],
+  "explanation": [
+    {
+      "english": "Natural selection is a fundamental mechanism of evolution where individuals with beneficial traits are more likely to survive and reproduce, causing those traits to become more common in the population over time.",
+      "chinese": "自然选择是进化的基本机制，其中具有有利特征的个体更有可能生存和繁殖，从而导致这些特征在群体中随着时间变得更加普遍。"
+    }
+  ]
+},
+  {
+    "question": "Which definition is correct about a single-celled organism?",
+    "options": [
+      {
+        "sentence": "A single-celled organism consists of only one cell that carries out all the functions necessary for life.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A single-celled organism is always multicellular and lives in colonies.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A single-celled organism is a virus that cannot survive independently.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A single-celled organism refers to only plant cells in tissues.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A single-celled organism is an organ inside a multicellular organism.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Single-celled organisms, like bacteria and amoebae, perform all life processes within a single cell.",
+        "chinese": "单细胞生物如细菌和变形虫在单个细胞内执行所有生命活动。"
+      }
+    ]
+  }
+]
