@@ -246,5 +246,36 @@
         "chinese": "单细胞生物如细菌和变形虫在单个细胞内执行所有生命活动。"
       }
     ]
-  }
+  },
+{
+  "question": "Which statement best defines a mutation?",
+  "options": [
+    {
+      "sentence": "A mutation is a change in an organism’s DNA that can introduce new traits, some of which may be beneficial, harmful, or neutral depending on the environment.",
+      "correct": "true"
+    },
+    {
+      "sentence": "A mutation is a temporary alteration in an organism’s traits that disappears once environmental conditions change, leaving no genetic impact.",
+      "correct": "false"
+    },
+    {
+      "sentence": "A mutation is a deliberate adaptation made by organisms in response to challenges, allowing them to modify their DNA intentionally.",
+      "correct": "false"
+    },
+    {
+      "sentence": "A mutation is any physical injury to an organism that results in visible changes but does not affect its genetic material or offspring.",
+      "correct": "false"
+    },
+    {
+      "sentence": "A mutation is the process by which entire species transform into completely different species within a single generation due to large DNA changes.",
+      "correct": "false"
+    }
+  ],
+  "explanation": [
+    {
+      "english": "Mutations are permanent changes in DNA that can create new traits. These traits may increase, decrease, or have no effect on an organism’s survival, and they provide the raw material for natural selection to act upon.",
+      "chinese": "突变是DNA的永久性改变，可能产生新的特征。这些特征可能提高、生存能力降低或没有影响，并为自然选择提供原始材料。"
+    }
+  ]
+}
 ]
