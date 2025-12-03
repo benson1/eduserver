@@ -740,5 +740,11 @@
         "file": "history_ancient_huangdi_leizu",
         "type": "english",
         "level": "1"  
+    },
+                    {
+        "name":"b3_aldrich_organisms",
+        "file": "b3_aldrich_organisms",
+        "type": "science",
+        "level": "2"         
     }
 ]
