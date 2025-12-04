@@ -3,128 +3,80 @@
     "question": "Which sentence is scientifically correct?",
     "options": [
       { "sentence": "An acid is a substance that increases the concentration of H₃O⁺ ions in water.", "correct": "true" },
-      { "sentence": "An acid is a chemical that can give protons to water molecules.", "correct": "false" },
-      { "sentence": "An acid is a substance that makes solutions taste sour and can react with metals.", "correct": "false" },
-      { "sentence": "An acid is a type of liquid that sometimes increases H₃O⁺ ions in water.", "correct": "false" },
-      { "sentence": "An acid is a substance that changes pH by adding hydrogen ions.", "correct": "false" }
-    ],
-    "explanation": [
-      {
-        "english": "Acids increase the concentration of hydronium ions (H₃O⁺) in aqueous solutions.",
-        "chinese": "酸会增加水溶液中氢离子（H₃O⁺）的浓度。"
-      }
+      { "sentence": "An acid is a substance that reacts with metals to produce oxygen gas.", "correct": "false" },
+      { "sentence": "An acid is a particle that removes hydroxide ions from water.", "correct": "false" },
+      { "sentence": "An acid is a molecule that exists only in solid form and does not dissolve.", "correct": "false" },
+      { "sentence": "An acid is a chemical that generates OH⁻ ions in water.", "correct": "false" }
     ]
   },
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
       { "sentence": "A base (alkaline substance) increases the concentration of OH⁻ ions in water.", "correct": "true" },
-      { "sentence": "A base is a chemical that can make solutions feel slippery and produce OH⁻ ions.", "correct": "false" },
-      { "sentence": "A base is a substance that can accept hydrogen ions in water.", "correct": "false" },
-      { "sentence": "A base is a substance that reacts with acids to make water.", "correct": "false" },
-      { "sentence": "A base is a type of chemical that increases the amount of hydroxide ions in a solution.", "correct": "false" }
-    ],
-    "explanation": [
-      {
-        "english": "Bases (alkaline substances) increase the hydroxide ion concentration (OH⁻) in solution.",
-        "chinese": "碱（碱性物质）会增加溶液中氢氧根离子（OH⁻）的浓度。"
-      }
+      { "sentence": "A base is a chemical that releases H₃O⁺ ions when dissolved in water.", "correct": "false" },
+      { "sentence": "A base is a particle that forms when metals react with acids to produce water.", "correct": "false" },
+      { "sentence": "A base is a molecule that only exists in solid form and does not affect solutions.", "correct": "false" },
+      { "sentence": "A base is a chemical that turns acids into more acidic solutions.", "correct": "false" }
     ]
   },
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
       { "sentence": "Neutralization is a chemical reaction between an acid and a base producing water and a salt.", "correct": "true" },
-      { "sentence": "Neutralization is when an acid and a base react to cancel each other out and form water.", "correct": "false" },
-      { "sentence": "Neutralization is a reaction that makes a solution less acidic or less basic.", "correct": "false" },
-      { "sentence": "Neutralization is when an acid reacts with a base to produce water and a salt.", "correct": "false" },
-      { "sentence": "Neutralization happens when acids and bases combine to form neutral products.", "correct": "false" }
-    ],
-    "explanation": [
-      {
-        "english": "Neutralization reactions produce water and a salt when acids react with bases.",
-        "chinese": "中和反应是酸与碱反应生成水和盐。"
-      }
+      { "sentence": "Neutralization is a reaction where acids turn into bases without forming water.", "correct": "false" },
+      { "sentence": "Neutralization happens when bases react with metals to form hydrogen gas.", "correct": "false" },
+      { "sentence": "Neutralization is a process that changes acids into oxygen molecules.", "correct": "false" },
+      { "sentence": "Neutralization is when water molecules combine to form acids or bases.", "correct": "false" }
     ]
   },
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
       { "sentence": "Litmus is a dye used as an indicator to test whether a solution is acidic or basic.", "correct": "true" },
-      { "sentence": "Litmus is a chemical that changes color in acid or base.", "correct": "false" },
-      { "sentence": "Litmus is a natural substance that shows if a solution is an acid or base by changing color.", "correct": "false" },
-      { "sentence": "Litmus changes color when it touches solutions with different pH.", "correct": "false" },
-      { "sentence": "Litmus is used to test acidity or alkalinity by observing color changes.", "correct": "false" }
-    ],
-    "explanation": [
-      {
-        "english": "Litmus is a natural indicator that changes color depending on the pH of a solution.",
-        "chinese": "石蕊是一种天然指示剂，会根据溶液的pH值变色。"
-      }
+      { "sentence": "Litmus is a solid chemical that reacts chemically with acids to form salts.", "correct": "false" },
+      { "sentence": "Litmus is a molecule that produces hydroxide ions when mixed with water.", "correct": "false" },
+      { "sentence": "Litmus is a substance that generates H₃O⁺ ions in solutions to show acidity.", "correct": "false" },
+      { "sentence": "Litmus is a chemical that transforms acids into bases by reacting with them.", "correct": "false" }
     ]
   },
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
       { "sentence": "pH measures the acidity or alkalinity of a solution based on H₃O⁺ concentration.", "correct": "true" },
-      { "sentence": "pH tells us how acidic or basic a solution is.", "correct": "false" },
-      { "sentence": "pH is a number that shows the strength of an acid or a base in water.", "correct": "false" },
-      { "sentence": "pH measures the hydrogen ion concentration to indicate acidity or alkalinity.", "correct": "false" },
-      { "sentence": "pH is a scale from 0 to 14 used to show if a solution is acidic or basic.", "correct": "false" }
-    ],
-    "explanation": [
-      {
-        "english": "pH is the negative logarithm of hydronium ion concentration in a solution.",
-        "chinese": "pH是溶液中氢离子浓度的负对数。"
-      }
+      { "sentence": "pH is a number that shows how much OH⁻ a solution releases into the air.", "correct": "false" },
+      { "sentence": "pH is a value that tells how quickly a solution reacts with metals.", "correct": "false" },
+      { "sentence": "pH is a scale measuring the solid content of water rather than ions.", "correct": "false" },
+      { "sentence": "pH indicates the temperature at which a solution becomes acidic.", "correct": "false" }
     ]
   },
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
       { "sentence": "An indicator is a substance that changes color depending on the acidity or alkalinity of a solution.", "correct": "true" },
-      { "sentence": "An indicator changes color when it is in acid or base.", "correct": "false" },
-      { "sentence": "An indicator is a chemical that shows pH by color change.", "correct": "false" },
-      { "sentence": "An indicator is used to test if something is acidic or basic by looking at its color.", "correct": "false" },
-      { "sentence": "An indicator is a substance that reacts to the solution's pH and changes color.", "correct": "false" }
-    ],
-    "explanation": [
-      {
-        "english": "Indicators change color based on the solution's pH without significantly affecting it.",
-        "chinese": "指示剂会根据溶液的pH值改变颜色，但不会显著改变溶液的pH。"
-      }
+      { "sentence": "An indicator is a chemical that releases gas when acids or bases are present.", "correct": "false" },
+      { "sentence": "An indicator is a molecule that dissolves solids without changing color.", "correct": "false" },
+      { "sentence": "An indicator is a compound that reacts with metals instead of signaling pH.", "correct": "false" },
+      { "sentence": "An indicator is a substance that forms salts when placed in any solution.", "correct": "false" }
     ]
   },
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
       { "sentence": "Hydronium (H₃O⁺) is the form in which protons exist in aqueous solutions.", "correct": "true" },
-      { "sentence": "Hydronium is H⁺ combined with water to make H₃O⁺.", "correct": "false" },
-      { "sentence": "Hydronium forms when protons attach to water molecules.", "correct": "false" },
-      { "sentence": "Hydronium is a positively charged ion in water formed from hydrogen ions.", "correct": "false" },
-      { "sentence": "Hydronium appears in water when H⁺ ions bond with water molecules.", "correct": "false" }
-    ],
-    "explanation": [
-      {
-        "english": "In water, protons associate with water molecules to form H₃O⁺ ions, which are temporary but constantly present.",
-        "chinese": "在水中，质子与水分子结合形成H₃O⁺离子，它们是暂时的但持续存在。"
-      }
+      { "sentence": "Hydronium is a negatively charged ion that appears in bases.", "correct": "false" },
+      { "sentence": "Hydronium is a molecule that contains oxygen and hydrogen but no charge.", "correct": "false" },
+      { "sentence": "Hydronium is a solid particle formed when acids dry out.", "correct": "false" },
+      { "sentence": "Hydronium is a neutral gas that forms in water when pH is high.", "correct": "false" }
     ]
   },
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
       { "sentence": "Hydroxide (OH⁻) is a negatively charged ion that indicates basicity in water.", "correct": "true" },
-      { "sentence": "Hydroxide is OH⁻ and shows that a solution is a base.", "correct": "false" },
-      { "sentence": "Hydroxide ions appear in water and make the solution basic.", "correct": "false" },
-      { "sentence": "Hydroxide is a negatively charged ion in water formed when bases dissolve.", "correct": "false" },
-      { "sentence": "Hydroxide ions are responsible for making a solution alkaline.", "correct": "false" }
-    ],
-    "explanation": [
-      {
-        "english": "OH⁻ ions are responsible for the basicity of solutions and exist transiently in water through proton exchange.",
-        "chinese": "OH⁻离子使溶液呈碱性，在水中通过质子交换短暂存在。"
-      }
+      { "sentence": "Hydroxide is an ion that forms when oxygen atoms join together in solution.", "correct": "false" },
+      { "sentence": "Hydroxide is a particle commonly produced when acids dissolve in water.", "correct": "false" },
+      { "sentence": "Hydroxide is a neutral particle found in pure water without any charge.", "correct": "false" },
+      { "sentence": "Hydroxide is a molecule made from two hydrogen atoms bonded to one oxygen atom.", "correct": "false" }
     ]
   }
 ]
