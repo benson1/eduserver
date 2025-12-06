@@ -2,7 +2,7 @@
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
-      { "sentence": "A nucleus is the membrane-bound organelle in a cell that contains genetic material and controls cellular activities.", "correct": "true" },
+      { "sentence": "A nucleus is the membrane-bound organelle in a cell that contains genetic material (DNA) and controls cellular activities.", "correct": "true" },
       { "sentence": "A nucleus is a small vesicle in the cytoplasm that stores nutrients and helps transport them throughout the cell.", "correct": "false" },
       { "sentence": "A nucleus is a protein structure in the cell responsible for catalyzing all chemical reactions within the cytoplasm.", "correct": "false" },
       { "sentence": "A nucleus is a part of the cell membrane that regulates the entry and exit of all molecules from the cell.", "correct": "false" },
