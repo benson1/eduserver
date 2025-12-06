@@ -238,5 +238,21 @@
         "chinese": "卵细胞是大型的雌性配子，提供一半的遗传信息和早期发育所需的营养。"
       }
     ]
-  }
+  },
+{
+  "question": "Which sentence is scientifically correct?",
+  "options": [
+    { "sentence": "External fertilization is the process in which eggs and sperm meet outside the body of the parents, usually in water.", "correct": "true" },
+    { "sentence": "External fertilization is when a sperm cell fertilizes an egg cell inside the female's body.", "correct": "false" },
+    { "sentence": "External fertilization is the formation of seeds inside flowering plants.", "correct": "false" },
+    { "sentence": "External fertilization is a type of asexual reproduction in which offspring grow from a single parent.", "correct": "false" },
+    { "sentence": "External fertilization is the process animals use to produce energy from food within their cells.", "correct": "false" }
+  ],
+  "explanation": [
+    {
+      "english": "External fertilization occurs when eggs and sperm combine outside the organism's body, as seen in many fish and amphibians.",
+      "chinese": "体外受精是指卵子和精子在生物体外结合的过程，常见于许多鱼类和两栖动物。"
+    }
+  ]
+}
 ]
