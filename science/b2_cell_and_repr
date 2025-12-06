@@ -110,5 +110,133 @@
         "chinese": "细菌是原核微生物，根据种类可以是有益的、中性的或致病的。"
       }
     ]
+  },
+{
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Fertilization is the process in which a sperm cell and an egg cell combine to form a zygote.", "correct": "true" },
+      { "sentence": "Fertilization is the process by which plants absorb water and nutrients from the soil.", "correct": "false" },
+      { "sentence": "Fertilization is the division of a cell into two identical daughter cells.", "correct": "false" },
+      { "sentence": "Fertilization is the release of energy from food molecules inside cells.", "correct": "false" },
+      { "sentence": "Fertilization is when an embryo develops into a fully grown organism.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Fertilization joins male and female gametes to create a zygote with a complete set of genetic material.",
+        "chinese": "受精是将雄性和雌性配子结合，形成具有完整遗传物质的受精卵的过程。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Sexual reproduction is a process in which two parents contribute genetic material to produce offspring.", "correct": "true" },
+      { "sentence": "Sexual reproduction creates offspring that are always genetically identical to the parent.", "correct": "false" },
+      { "sentence": "Sexual reproduction involves only one parent and no gametes.", "correct": "false" },
+      { "sentence": "Sexual reproduction is the breakdown of food to release energy in cells.", "correct": "false" },
+      { "sentence": "Sexual reproduction is the transfer of pollen from roots to leaves.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Sexual reproduction combines genetic material from two parents, increasing genetic diversity.",
+        "chinese": "有性繁殖由两个亲本提供遗传物质，从而增加遗传多样性。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Asexual reproduction is a type of reproduction in which a single parent produces genetically identical offspring.", "correct": "true" },
+      { "sentence": "Asexual reproduction requires the fusion of sperm and egg cells.", "correct": "false" },
+      { "sentence": "Asexual reproduction always produces offspring with completely new genetic combinations.", "correct": "false" },
+      { "sentence": "Asexual reproduction occurs only in animals.", "correct": "false" },
+      { "sentence": "Asexual reproduction is a process plants use to absorb carbon dioxide.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Asexual reproduction produces clones because offspring inherit all their genetic material from one parent.",
+        "chinese": "无性繁殖产生克隆体，因为后代的全部遗传物质都来自单一亲本。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A zygote is the fertilized cell formed when a sperm cell and an egg cell combine.", "correct": "true" },
+      { "sentence": "A zygote is a specialized cell that carries oxygen in the bloodstream.", "correct": "false" },
+      { "sentence": "A zygote is a structure inside plants that stores water.", "correct": "false" },
+      { "sentence": "A zygote is an organ that pumps blood throughout the body.", "correct": "false" },
+      { "sentence": "A zygote is the final stage of development before birth.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A zygote contains a full set of chromosomes and is the first cell of a new organism.",
+        "chinese": "受精卵含有完整的染色体组，是新个体的第一个细胞。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An embryo is an early developmental stage of an organism after the zygote begins dividing.", "correct": "true" },
+      { "sentence": "An embryo is a gamete produced during sexual reproduction.", "correct": "false" },
+      { "sentence": "An embryo is the mature form of an organism before aging begins.", "correct": "false" },
+      { "sentence": "An embryo is a nutrient stored inside plant roots.", "correct": "false" },
+      { "sentence": "An embryo is the organ that carries blood throughout the body.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "An embryo forms after the zygote divides and continues to develop into a more complex organism.",
+        "chinese": "胚胎在受精卵开始分裂后形成，并继续发育成更复杂的生物体。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A gamete is a reproductive cell, such as a sperm or egg, that contains half the usual number of chromosomes.", "correct": "true" },
+      { "sentence": "A gamete is a fully developed embryo ready for birth.", "correct": "false" },
+      { "sentence": "A gamete is a cell that carries oxygen through the bloodstream.", "correct": "false" },
+      { "sentence": "A gamete is the structure in plants that performs photosynthesis.", "correct": "false" },
+      { "sentence": "A gamete is a type of tissue that forms muscles.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Gametes carry half the genetic material so that fertilization restores the full chromosome number.",
+        "chinese": "配子含有一半的遗传物质，以便受精后恢复完整的染色体数目。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A sperm cell is the male gamete that carries genetic material to fertilize an egg cell.", "correct": "true" },
+      { "sentence": "A sperm cell is the female reproductive cell found in ovaries.", "correct": "false" },
+      { "sentence": "A sperm cell is a blood cell that transports nutrients.", "correct": "false" },
+      { "sentence": "A sperm cell is the first stage of embryo development.", "correct": "false" },
+      { "sentence": "A sperm cell is a plant cell responsible for photosynthesis.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Sperm cells are specialized male gametes designed to reach and fertilize the egg.",
+        "chinese": "精子是专门用于接近并受精卵子的雄性配子。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An egg cell is the female gamete that contains genetic material and can be fertilized by a sperm cell.", "correct": "true" },
+      { "sentence": "An egg cell is a male reproductive cell found in testes.", "correct": "false" },
+      { "sentence": "An egg cell is a blood cell responsible for clotting.", "correct": "false" },
+      { "sentence": "An egg cell is a structure plants use to store food.", "correct": "false" },
+      { "sentence": "An egg cell is a bacterium that reproduces by binary fission.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Egg cells are large female gametes that provide half the genetic information and nutrients needed for early development.",
+        "chinese": "卵细胞是大型的雌性配子，提供一半的遗传信息和早期发育所需的营养。"
+      }
+    ]
   }
 ]
