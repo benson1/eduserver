@@ -752,5 +752,12 @@
         "file": "ks3_acids_alkalines",
         "type": "science",
         "level": "3" 
+    },
+    {
+        "name":"b2_darren_biology_easyish",
+        "file": "b2_darren_biology_easyish",
+        "type": "science",
+        "level": "2" 
     }
+    
 ]
