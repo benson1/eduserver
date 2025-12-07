@@ -1,0 +1,211 @@
+[
+  {
+    "term": "organism",
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An organism is a living thing that can grow, use energy, and stay alive on its own.", "correct": "true" },
+      { "sentence": "An organism is something that looks alive but cannot do any life activities by itself.", "correct": "false" },
+      { "sentence": "An organism is a group of parts that cannot live unless another creature controls it.", "correct": "false" },
+      { "sentence": "An organism is a thing that has cells but cannot grow or change in any way.", "correct": "false" },
+      { "sentence": "An organism is something in nature that helps other creatures live but is not alive itself.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Organisms are living things, like animals, plants, and tiny microbes.", "chinese": "生物是活着的东西，如动物、植物和微生物。" }
+    ]
+  },
+
+  {
+    "term": "cells",
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Cells are tiny building blocks that make up all living things.", "correct": "true" },
+      { "sentence": "Cells are little rocks inside animals that do not do anything.", "correct": "false" },
+      { "sentence": "Cells are the food animals eat to grow stronger.", "correct": "false" },
+      { "sentence": "Cells are tiny bits of air that float inside plants.", "correct": "false" },
+      { "sentence": "Cells are small pieces that living things use only when they are sick.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Cells are the small units that make bodies work.", "chinese": "细胞是构成生物体并让其运作的基本单位。" }
+    ]
+  },
+
+  {
+    "term": "mammal",
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A mammal is an animal that has hair or fur and feeds its babies with milk.", "correct": "true" },
+      { "sentence": "A mammal is an animal that lays eggs in the water.", "correct": "false" },
+      { "sentence": "A mammal is an animal that breathes underwater for its whole life.", "correct": "false" },
+      { "sentence": "A mammal is an animal that can only live in cold places because of its fur.", "correct": "false" },
+      { "sentence": "A mammal is an animal that never takes care of its young.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Humans, dogs, whales, and lions are mammals.", "chinese": "人类、狗、鲸鱼和狮子都是哺乳动物。" }
+    ]
+  },
+
+  {
+    "term": "life cycle",
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A life cycle is the set of stages a living thing goes through as it grows and changes.", "correct": "true" },
+      { "sentence": "A life cycle is the way a living thing acts each day.", "correct": "false" },
+      { "sentence": "A life cycle is how a living thing stays the same once it becomes an adult.", "correct": "false" },
+      { "sentence": "A life cycle is the pattern of things a creature does when the weather changes.", "correct": "false" },
+      { "sentence": "A life cycle is a list of things a living thing needs to survive.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Life cycles show how animals and plants grow, like egg to adult.", "chinese": "生命周期显示了动植物的成长过程，如从卵到成体。" }
+    ]
+  },
+
+  {
+    "term": "larva",
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A larva is a young form of an insect that looks very different from the adult.", "correct": "true" },
+      { "sentence": "A larva is a grown insect that has finished changing.", "correct": "false" },
+      { "sentence": "A larva is a kind of plant that insects like to eat.", "correct": "false" },
+      { "sentence": "A larva is an insect that cannot move or eat anything.", "correct": "false" },
+      { "sentence": "A larva is a baby insect that already has wings like the adult.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Caterpillars are larva before they become butterflies.", "chinese": "毛毛虫是蝴蝶变成之前的幼虫阶段。" }
+    ]
+  },
+
+  {
+    "term": "pupa",
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A pupa is the stage when an insect is changing inside a shell or case.", "correct": "true" },
+      { "sentence": "A pupa is the stage when an insect flies for the first time.", "correct": "false" },
+      { "sentence": "A pupa is a kind of insect that never grows wings.", "correct": "false" },
+      { "sentence": "A pupa is an insect that eats a lot to get bigger.", "correct": "false" },
+      { "sentence": "A pupa is a stage that insects skip if they grow fast enough.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "A chrysalis is a butterfly pupa.", "chinese": "蛹是蝴蝶成长过程中的一个阶段。" }
+    ]
+  },
+
+  {
+    "term": "metamorphosis",
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Metamorphosis is when an animal changes its body shape as it grows, like from larva to adult.", "correct": "true" },
+      { "sentence": "Metamorphosis is when an animal stays the same shape its whole life.", "correct": "false" },
+      { "sentence": "Metamorphosis is when animals change color only for fun.", "correct": "false" },
+      { "sentence": "Metamorphosis is when animals grow larger without any body changes.", "correct": "false" },
+      { "sentence": "Metamorphosis is when animals switch habitats every day.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Butterflies and frogs go through metamorphosis.", "chinese": "蝴蝶和青蛙都会经历变态发育。" }
+    ]
+  },
+
+  {
+    "term": "adaptation",
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An adaptation is a feature that helps a living thing survive in its environment.", "correct": "true" },
+      { "sentence": "An adaptation is a trick animals learn only when humans teach them.", "correct": "false" },
+      { "sentence": "An adaptation is something a creature uses only when tired.", "correct": "false" },
+      { "sentence": "An adaptation is a change animals make only when they want to play.", "correct": "false" },
+      { "sentence": "An adaptation is a skill an animal has that never helps it survive.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Adaptations help animals live, like thick fur for warmth.", "chinese": "适应性帮助动物生存，例如厚皮毛可以保暖。" }
+    ]
+  },
+
+  {
+    "term": "hibernation",
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Hibernation is when an animal sleeps for a long time during winter to save energy.", "correct": "true" },
+      { "sentence": "Hibernation is when animals stay awake all winter to look for food.", "correct": "false" },
+      { "sentence": "Hibernation is when animals fly south to find warmer places.", "correct": "false" },
+      { "sentence": "Hibernation is when animals stay underwater until spring.", "correct": "false" },
+      { "sentence": "Hibernation is when animals stop sleeping so they can eat more food.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Bears and bats hibernate.", "chinese": "熊和蝙蝠会冬眠。" }
+    ]
+  },
+
+  {
+    "term": "migration",
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Migration is when animals travel long distances to find food or warmer weather.", "correct": "true" },
+      { "sentence": "Migration is when animals swim in circles for exercise.", "correct": "false" },
+      { "sentence": "Migration is when animals hide underground all winter.", "correct": "false" },
+      { "sentence": "Migration is when animals change colors only in cold seasons.", "correct": "false" },
+      { "sentence": "Migration is when animals move to a new home every single day.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Birds and butterflies migrate.", "chinese": "鸟类和蝴蝶会迁徙。" }
+    ]
+  },
+
+  {
+    "term": "brumation",
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Brumation is when reptiles rest and slow down their bodies during cold weather.", "correct": "true" },
+      { "sentence": "Brumation is when reptiles sleep deeply like mammals do in winter.", "correct": "false" },
+      { "sentence": "Brumation is when reptiles grow new scales for the summer.", "correct": "false" },
+      { "sentence": "Brumation is when reptiles stay awake and eat more food than usual.", "correct": "false" },
+      { "sentence": "Brumation is when reptiles move to hot places every week.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Snakes and lizards brumate instead of hibernate.", "chinese": "蛇和蜥蜴会进入冷温滞育，而不是冬眠。" }
+    ]
+  },
+
+  {
+    "term": "camouflage",
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Camouflage helps an animal blend in with its surroundings so it is harder to see.", "correct": "true" },
+      { "sentence": "Camouflage helps an animal change color to stay warm in winter.", "correct": "false" },
+      { "sentence": "Camouflage lets an animal show bright colors to scare others away.", "correct": "false" },
+      { "sentence": "Camouflage makes an animal’s skin tougher to stop injuries.", "correct": "false" },
+      { "sentence": "Camouflage helps an animal look like others in its group even when it wants to stand out.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Camouflage helps animals hide from predators or sneak up on prey.", "chinese": "伪装帮助动物躲避捕食者或靠近猎物。" }
+    ]
+  },
+
+  {
+    "term": "taxonomy",
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Taxonomy is the science of naming and grouping living things.", "correct": "true" },
+      { "sentence": "Taxonomy is a kind of map that shows animals where to travel.", "correct": "false" },
+      { "sentence": "Taxonomy is when animals choose their own names.", "correct": "false" },
+      { "sentence": "Taxonomy is a list of animals that all look the same.", "correct": "false" },
+      { "sentence": "Taxonomy is when plants decide how tall to grow.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Taxonomy helps scientists organize all living things.", "chinese": "分类学帮助科学家整理所有生物的类别。" }
+    ]
+  },
+
+  {
+    "term": "origin of species",
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The origin of species is the idea that all living things changed over time from earlier forms.", "correct": "true" },
+      { "sentence": "The origin of species says all animals were always exactly the same as they are now.", "correct": "false" },
+      { "sentence": "The origin of species says new animals appear suddenly without any changes.", "correct": "false" },
+      { "sentence": "The origin of species says animals choose what to become when they grow up.", "correct": "false" },
+      { "sentence": "The origin of species says plants and animals never change or evolve.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Species change slowly over many generations.", "chinese": "物种会在许多世代中缓慢变化。" }
+    ]
+  }
+]
