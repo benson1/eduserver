@@ -174,5 +174,119 @@
         "chinese": "物种是分类和进化的基本单位，定义为能够成功繁殖的生物群体。"
       }
     ]
+  },
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A domain is the broadest taxonomic rank, separating organisms based on fundamental cellular and genetic differences.", "correct": "true" },
+      { "sentence": "A domain is a subdivision within a kingdom used to organize species with similar traits.", "correct": "false" },
+      { "sentence": "A domain groups organisms mainly by their ecological roles rather than cell structure.", "correct": "false" },
+      { "sentence": "A domain is a classification level used only in microbiology for bacteria.", "correct": "false" },
+      { "sentence": "A domain categorizes organisms based on how complex their organ systems are.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Domains represent the largest taxonomic groups—Bacteria, Archaea, and Eukarya—distinguished by major differences in cell type and genetics.",
+        "chinese": "域是最大的分类等级——细菌域、古菌域和真核域，由细胞类型和遗传上的重大差异区分。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Extremophiles are organisms that thrive in conditions such as high temperature, high salinity, or extreme acidity that are normally inhospitable to most life.", "correct": "true" },
+      { "sentence": "Extremophiles are organisms that can tolerate mild environmental changes but require moderate conditions to grow.", "correct": "false" },
+      { "sentence": "Extremophiles are organisms that survive extreme environments only when supported by other species.", "correct": "false" },
+      { "sentence": "Extremophiles are organisms that temporarily endure harsh conditions but cannot grow or reproduce in them.", "correct": "false" },
+      { "sentence": "Extremophiles are organisms that evolved in normal environments but occasionally migrate to extreme habitats.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Many extremophiles, especially Archaea, not only survive but grow optimally in extreme environments.",
+        "chinese": "许多极端生物，尤其是古菌，不仅能在极端环境中生存，还能在其中最佳生长。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Eukarya is a domain of organisms whose cells contain a nucleus and membrane-bound organelles.", "correct": "true" },
+      { "sentence": "Eukarya includes organisms that have a nucleus but lack any membrane-bound organelles.", "correct": "false" },
+      { "sentence": "Eukarya refers to multicellular organisms only, excluding single-celled species.", "correct": "false" },
+      { "sentence": "Eukarya is defined by organisms that reproduce sexually but not asexually.", "correct": "false" },
+      { "sentence": "Eukarya includes species with simple cell structures similar to prokaryotes.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Eukaryotic cells contain a nucleus and complex organelles, including those of animals, plants, fungi, and protists.",
+        "chinese": "真核细胞包含细胞核和复杂的细胞器，包括动物、植物、真菌和原生生物。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Bacteria are single-celled prokaryotes lacking a nucleus, known for their metabolic diversity and wide range of habitats.", "correct": "true" },
+      { "sentence": "Bacteria are single-celled organisms with a nucleus but no membrane-bound organelles.", "correct": "false" },
+      { "sentence": "Bacteria are primarily multicellular microorganisms found in aquatic environments only.", "correct": "false" },
+      { "sentence": "Bacteria are prokaryotes that rely solely on oxygen for survival.", "correct": "false" },
+      { "sentence": "Bacteria are organisms that can survive only through photosynthesis.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Bacteria are prokaryotes without a nucleus and display incredible metabolic variety, from photosynthesis to nitrogen fixation.",
+        "chinese": "细菌是没有细胞核的原核生物，具有从光合作用到固氮等多样的代谢方式。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Archaea are single-celled prokaryotes that differ from bacteria in genetics and cell membrane composition, with many adapted to extreme environments.", "correct": "true" },
+      { "sentence": "Archaea are prokaryotes similar to bacteria but distinguished mainly by their ability to cause disease.", "correct": "false" },
+      { "sentence": "Archaea are microorganisms that possess a nucleus but lack other eukaryotic organelles.", "correct": "false" },
+      { "sentence": "Archaea are a subgroup of bacteria that evolved recently through gene exchange.", "correct": "false" },
+      { "sentence": "Archaea are organisms that require moderate environments and cannot tolerate extreme conditions.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Archaea have unique genetic and biochemical features that separate them from bacteria, and many thrive in extreme environments.",
+        "chinese": "古菌在遗传和生化特性上与细菌不同，许多古菌适应极端环境。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An autotroph is an organism that produces its own food using energy from sunlight or chemical reactions.", "correct": "true" },
+      { "sentence": "An autotroph is an organism that obtains nutrients from other organisms but can photosynthesize in emergencies.", "correct": "false" },
+      { "sentence": "An autotroph is defined by its ability to store energy but not by how it obtains it.", "correct": "false" },
+      { "sentence": "An autotroph relies on consuming dead organic matter rather than producing its own food.", "correct": "false" },
+      { "sentence": "An autotroph requires direct consumption of minerals as its primary energy source.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Autotrophs make their own food through photosynthesis or chemosynthesis, forming the foundation of most ecosystems.",
+        "chinese": "自养生物通过光合作用或化能合成制造自己的食物，是大多数生态系统的基础。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A heterotroph is an organism that obtains energy by consuming other organisms or organic matter.", "correct": "true" },
+      { "sentence": "A heterotroph can produce its own food but prefers to feed on other organisms.", "correct": "false" },
+      { "sentence": "A heterotroph obtains energy exclusively from inorganic chemical reactions.", "correct": "false" },
+      { "sentence": "A heterotroph is an organism that uses sunlight for energy but cannot perform photosynthesis.", "correct": "false" },
+      { "sentence": "A heterotroph does not require organic matter and instead relies solely on mineral nutrients.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Heterotrophs must consume plants, animals, or decomposed organic material to obtain energy.",
+        "chinese": "异养生物必须通过摄取植物、动物或分解的有机物来获得能量。"
+      }
+    ]
   }
+]
 ]
