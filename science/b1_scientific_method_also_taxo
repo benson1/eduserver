@@ -15,6 +15,7 @@
       }
     ]
   },
+
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
@@ -31,6 +32,7 @@
       }
     ]
   },
+
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
@@ -47,6 +49,7 @@
       }
     ]
   },
+
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
@@ -63,6 +66,7 @@
       }
     ]
   },
+
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
@@ -79,6 +83,7 @@
       }
     ]
   },
+
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
@@ -95,6 +100,7 @@
       }
     ]
   },
+
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
@@ -111,6 +117,7 @@
       }
     ]
   },
+
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
@@ -127,22 +134,24 @@
       }
     ]
   },
-{
-  "question": "Which sentence is scientifically correct?",
-  "options": [
-    { "sentence": "A phylum is a major taxonomic group that classifies organisms based on their basic body plan or structure.", "correct": "true" },
-    { "sentence": "A phylum is the most specific taxonomic rank containing only one species.", "correct": "false" },
-    { "sentence": "A phylum is a type of kingdom found only in plants.", "correct": "false" },
-    { "sentence": "A phylum is a method of naming individual animals or plants.", "correct": "false" },
-    { "sentence": "A phylum is a group of families with identical genetic makeup.", "correct": "false" }
-  ],
-  "explanation": [
-    {
-      "english": "Phylum is a classification level above class and below kingdom. Organisms in the same phylum share key structural features, such as a backbone in Chordata or jointed legs in Arthropoda.",
-      "chinese": "门是纲之上的分类等级、界之下。属于同一门的生物具有关键的结构特征，例如脊索动物门具有脊椎，节肢动物门具有关节腿。"
-    }
-  ]
-},
+
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A phylum is a major taxonomic group that classifies organisms based on their basic body plan or structure.", "correct": "true" },
+      { "sentence": "A phylum is the most specific taxonomic rank containing only one species.", "correct": "false" },
+      { "sentence": "A phylum is a type of kingdom found only in plants.", "correct": "false" },
+      { "sentence": "A phylum is a method of naming individual animals or plants.", "correct": "false" },
+      { "sentence": "A phylum is a group of families with identical genetic makeup.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Phylum is a classification level above class and below kingdom. Organisms in the same phylum share key structural features.",
+        "chinese": "门是纲之上的分类等级、界之下。同一门的生物具有关键的结构特征。"
+      }
+    ]
+  },
+
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
@@ -154,11 +163,12 @@
     ],
     "explanation": [
       {
-        "english": "Classes group together organisms in a phylum that share key characteristics, such as Mammalia within Chordata.",
-        "chinese": "纲将同门类中具有关键特征的生物归为一组，例如脊索动物门中的哺乳纲。"
+        "english": "Classes group organisms in a phylum that share major characteristics.",
+        "chinese": "纲将同一门中具有关键特征的生物归为一组。"
       }
     ]
   },
+
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
@@ -170,12 +180,12 @@
     ],
     "explanation": [
       {
-        "english": "Species are the basic unit of classification and evolution, defined by the ability to reproduce successfully.",
-        "chinese": "物种是分类和进化的基本单位，定义为能够成功繁殖的生物群体。"
+        "english": "Species are the basic unit of classification and evolution.",
+        "chinese": "物种是分类和进化的基本单位。"
       }
     ]
   },
-[
+
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
@@ -187,106 +197,111 @@
     ],
     "explanation": [
       {
-        "english": "Domains represent the largest taxonomic groups—Bacteria, Archaea, and Eukarya—distinguished by major differences in cell type and genetics.",
-        "chinese": "域是最大的分类等级——细菌域、古菌域和真核域，由细胞类型和遗传上的重大差异区分。"
+        "english": "Domains represent the largest taxonomic groups—Bacteria, Archaea, and Eukarya.",
+        "chinese": "域是最大的分类等级——细菌域、古菌域和真核域。"
       }
     ]
   },
+
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
       { "sentence": "Extremophiles are organisms that thrive in conditions such as high temperature, high salinity, or extreme acidity that are normally inhospitable to most life.", "correct": "true" },
-      { "sentence": "Extremophiles are organisms that can tolerate mild environmental changes but require moderate conditions to grow.", "correct": "false" },
-      { "sentence": "Extremophiles are organisms that survive extreme environments only when supported by other species.", "correct": "false" },
-      { "sentence": "Extremophiles are organisms that temporarily endure harsh conditions but cannot grow or reproduce in them.", "correct": "false" },
-      { "sentence": "Extremophiles are organisms that evolved in normal environments but occasionally migrate to extreme habitats.", "correct": "false" }
+      { "sentence": "Extremophiles can tolerate mild stress but cannot grow in harsh environments.", "correct": "false" },
+      { "sentence": "Extremophiles survive extreme habitats only when supported by other species.", "correct": "false" },
+      { "sentence": "Extremophiles endure harsh environments temporarily but cannot reproduce there.", "correct": "false" },
+      { "sentence": "Extremophiles originated in normal environments and only migrate to extremes occasionally.", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "Many extremophiles, especially Archaea, not only survive but grow optimally in extreme environments.",
-        "chinese": "许多极端生物，尤其是古菌，不仅能在极端环境中生存，还能在其中最佳生长。"
+        "english": "Many extremophiles, especially Archaea, grow optimally in extreme environments.",
+        "chinese": "许多极端生物（尤其是古菌）在极端环境中最佳生长。"
       }
     ]
   },
+
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
       { "sentence": "Eukarya is a domain of organisms whose cells contain a nucleus and membrane-bound organelles.", "correct": "true" },
-      { "sentence": "Eukarya includes organisms that have a nucleus but lack any membrane-bound organelles.", "correct": "false" },
-      { "sentence": "Eukarya refers to multicellular organisms only, excluding single-celled species.", "correct": "false" },
-      { "sentence": "Eukarya is defined by organisms that reproduce sexually but not asexually.", "correct": "false" },
-      { "sentence": "Eukarya includes species with simple cell structures similar to prokaryotes.", "correct": "false" }
+      { "sentence": "Eukarya includes organisms with a nucleus but no membrane-bound organelles.", "correct": "false" },
+      { "sentence": "Eukarya refers only to multicellular species.", "correct": "false" },
+      { "sentence": "Eukarya includes organisms that reproduce sexually but not asexually.", "correct": "false" },
+      { "sentence": "Eukarya includes species with cell structures similar to prokaryotes.", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "Eukaryotic cells contain a nucleus and complex organelles, including those of animals, plants, fungi, and protists.",
-        "chinese": "真核细胞包含细胞核和复杂的细胞器，包括动物、植物、真菌和原生生物。"
+        "english": "Eukaryotic cells contain nuclei and complex organelles.",
+        "chinese": "真核细胞包含细胞核和复杂的细胞器。"
       }
     ]
   },
+
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
-      { "sentence": "Bacteria are single-celled prokaryotes lacking a nucleus, known for their metabolic diversity and wide range of habitats.", "correct": "true" },
+      { "sentence": "Bacteria are single-celled prokaryotes lacking a nucleus, known for metabolic diversity.", "correct": "true" },
       { "sentence": "Bacteria are single-celled organisms with a nucleus but no membrane-bound organelles.", "correct": "false" },
-      { "sentence": "Bacteria are primarily multicellular microorganisms found in aquatic environments only.", "correct": "false" },
-      { "sentence": "Bacteria are prokaryotes that rely solely on oxygen for survival.", "correct": "false" },
-      { "sentence": "Bacteria are organisms that can survive only through photosynthesis.", "correct": "false" }
+      { "sentence": "Bacteria are primarily multicellular organisms found only in water.", "correct": "false" },
+      { "sentence": "Bacteria rely only on oxygen for survival.", "correct": "false" },
+      { "sentence": "Bacteria can survive only through photosynthesis.", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "Bacteria are prokaryotes without a nucleus and display incredible metabolic variety, from photosynthesis to nitrogen fixation.",
-        "chinese": "细菌是没有细胞核的原核生物，具有从光合作用到固氮等多样的代谢方式。"
+        "english": "Bacteria are prokaryotes with diverse metabolic pathways.",
+        "chinese": "细菌是具有多样代谢方式的原核生物。"
       }
     ]
   },
+
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
-      { "sentence": "Archaea are single-celled prokaryotes that differ from bacteria in genetics and cell membrane composition, with many adapted to extreme environments.", "correct": "true" },
-      { "sentence": "Archaea are prokaryotes similar to bacteria but distinguished mainly by their ability to cause disease.", "correct": "false" },
-      { "sentence": "Archaea are microorganisms that possess a nucleus but lack other eukaryotic organelles.", "correct": "false" },
-      { "sentence": "Archaea are a subgroup of bacteria that evolved recently through gene exchange.", "correct": "false" },
-      { "sentence": "Archaea are organisms that require moderate environments and cannot tolerate extreme conditions.", "correct": "false" }
+      { "sentence": "Archaea are single-celled prokaryotes that differ from bacteria in genetics and membrane composition, with many adapted to extreme environments.", "correct": "true" },
+      { "sentence": "Archaea are bacteria that evolved recently through gene exchange.", "correct": "false" },
+      { "sentence": "Archaea are microorganisms that possess a nucleus.", "correct": "false" },
+      { "sentence": "Archaea are prokaryotes mainly distinguished by their ability to cause disease.", "correct": "false" },
+      { "sentence": "Archaea require moderate environments and cannot tolerate extremes.", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "Archaea have unique genetic and biochemical features that separate them from bacteria, and many thrive in extreme environments.",
-        "chinese": "古菌在遗传和生化特性上与细菌不同，许多古菌适应极端环境。"
+        "english": "Archaea have unique genetic and biochemical traits.",
+        "chinese": "古菌具有独特的遗传和生化特征。"
       }
     ]
   },
+
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
       { "sentence": "An autotroph is an organism that produces its own food using energy from sunlight or chemical reactions.", "correct": "true" },
-      { "sentence": "An autotroph is an organism that obtains nutrients from other organisms but can photosynthesize in emergencies.", "correct": "false" },
-      { "sentence": "An autotroph is defined by its ability to store energy but not by how it obtains it.", "correct": "false" },
-      { "sentence": "An autotroph relies on consuming dead organic matter rather than producing its own food.", "correct": "false" },
-      { "sentence": "An autotroph requires direct consumption of minerals as its primary energy source.", "correct": "false" }
+      { "sentence": "An autotroph obtains nutrients from other organisms but can photosynthesize in emergencies.", "correct": "false" },
+      { "sentence": "An autotroph is defined by energy storage, not energy production.", "correct": "false" },
+      { "sentence": "An autotroph relies on consuming dead organic matter.", "correct": "false" },
+      { "sentence": "An autotroph uses minerals as its primary energy source.", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "Autotrophs make their own food through photosynthesis or chemosynthesis, forming the foundation of most ecosystems.",
-        "chinese": "自养生物通过光合作用或化能合成制造自己的食物，是大多数生态系统的基础。"
+        "english": "Autotrophs produce their own food through photosynthesis or chemosynthesis.",
+        "chinese": "自养生物通过光合作用或化能合成自行制造食物。"
       }
     ]
   },
+
   {
-    "question": "Which sentence is scientifically correct?",
+    "question": "Which sentence is scientifically corrected?",
     "options": [
       { "sentence": "A heterotroph is an organism that obtains energy by consuming other organisms or organic matter.", "correct": "true" },
-      { "sentence": "A heterotroph can produce its own food but prefers to feed on other organisms.", "correct": "false" },
-      { "sentence": "A heterotroph obtains energy exclusively from inorganic chemical reactions.", "correct": "false" },
-      { "sentence": "A heterotroph is an organism that uses sunlight for energy but cannot perform photosynthesis.", "correct": "false" },
-      { "sentence": "A heterotroph does not require organic matter and instead relies solely on mineral nutrients.", "correct": "false" }
+      { "sentence": "A heterotroph can produce its own food but prefers to eat other organisms.", "correct": "false" },
+      { "sentence": "A heterotroph obtains energy exclusively from inorganic chemicals.", "correct": "false" },
+      { "sentence": "A heterotroph uses sunlight for energy but cannot perform photosynthesis.", "correct": "false" },
+      { "sentence": "A heterotroph relies solely on minerals, not organic matter.", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "Heterotrophs must consume plants, animals, or decomposed organic material to obtain energy.",
-        "chinese": "异养生物必须通过摄取植物、动物或分解的有机物来获得能量。"
+        "english": "Heterotrophs must consume organic material.",
+        "chinese": "异养生物必须摄取有机物。"
       }
     ]
   }
-]
 ]
