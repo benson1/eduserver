@@ -222,5 +222,101 @@
         "chinese": "细胞膜是柔性的屏障，控制物质进出细胞。"
       }
     ]
-  }
+  },
+{
+  "question": "Which sentence is scientifically correct?",
+  "options": [
+    { "sentence": "Homeostasis is the ability of an organism to maintain a stable internal environment.", "correct": "true" },
+    { "sentence": "Homeostasis means an organism constantly changes its internal conditions randomly.", "correct": "false" },
+    { "sentence": "Homeostasis refers only to external environmental conditions, not internal ones.", "correct": "false" },
+    { "sentence": "Homeostasis occurs only in plants and not in animals.", "correct": "false" },
+    { "sentence": "Homeostasis is the process of an organism producing energy from sunlight.", "correct": "false" }
+  ],
+  "explanation": [
+    {
+      "english": "Homeostasis keeps conditions like temperature, pH, and water balance stable in organisms.",
+      "chinese": "稳态是指生物体维持温度、pH值和水分等内部条件稳定的能力。"
+    }
+  ]
+},
+{
+  "question": "Which sentence is scientifically correct?",
+  "options": [
+    { "sentence": "Metabolism is the sum of all chemical reactions that occur in a living organism.", "correct": "true" },
+    { "sentence": "Metabolism is the process by which organisms move from one place to another.", "correct": "false" },
+    { "sentence": "Metabolism only occurs in plants and not in animals.", "correct": "false" },
+    { "sentence": "Metabolism refers to the way organisms reproduce.", "correct": "false" },
+    { "sentence": "Metabolism is the passive absorption of water without any chemical changes.", "correct": "false" }
+  ],
+  "explanation": [
+    {
+      "english": "Metabolism includes all energy-producing and energy-using chemical processes in cells.",
+      "chinese": "代谢是细胞内所有能量产生和利用的化学过程的总和。"
+    }
+  ]
+},
+{
+  "question": "Which sentence is scientifically correct?",
+  "options": [
+    { "sentence": "An autotroph is an organism that produces its own food from sunlight or chemicals.", "correct": "true" },
+    { "sentence": "An autotroph is an organism that must eat other organisms to survive.", "correct": "false" },
+    { "sentence": "Autotrophs are always animals that consume plants.", "correct": "false" },
+    { "sentence": "Autotrophs exist only in oceans and never on land.", "correct": "false" },
+    { "sentence": "Autotrophs reproduce without any energy or nutrients.", "correct": "false" }
+  ],
+  "explanation": [
+    {
+      "english": "Autotrophs, like plants and some bacteria, make their own food using light or chemical energy.",
+      "chinese": "自养生物如植物和一些细菌利用光能或化学能制造自己的食物。"
+    }
+  ]
+},
+{
+  "question": "Which sentence is scientifically correct?",
+  "options": [
+    { "sentence": "A heterotroph is an organism that obtains food by consuming other organisms.", "correct": "true" },
+    { "sentence": "A heterotroph produces its own food using sunlight.", "correct": "false" },
+    { "sentence": "Heterotrophs are always unicellular and never multicellular.", "correct": "false" },
+    { "sentence": "Heterotrophs are non-living molecules that store energy.", "correct": "false" },
+    { "sentence": "Heterotrophs exist only in deserts and not in other ecosystems.", "correct": "false" }
+  ],
+  "explanation": [
+    {
+      "english": "Heterotrophs, like animals and fungi, depend on other organisms for energy and nutrients.",
+      "chinese": "异养生物如动物和真菌依赖其他生物获取能量和营养。"
+    }
+  ]
+},
+{
+  "question": "Which sentence is scientifically correct?",
+  "options": [
+    { "sentence": "A unicellular organism is made up of a single cell that performs all life functions.", "correct": "true" },
+    { "sentence": "Unicellular organisms are made of many cells working together.", "correct": "false" },
+    { "sentence": "Unicellular organisms are always visible without a microscope.", "correct": "false" },
+    { "sentence": "Unicellular organisms cannot reproduce or respond to the environment.", "correct": "false" },
+    { "sentence": "Unicellular organisms are non-living particles.", "correct": "false" }
+  ],
+  "explanation": [
+    {
+      "english": "Unicellular organisms, like bacteria and protozoa, carry out all life processes in one cell.",
+      "chinese": "单细胞生物如细菌和原生动物在一个细胞内完成所有生命活动。"
+    }
+  ]
+},
+{
+  "question": "Which sentence is scientifically correct?",
+  "options": [
+    { "sentence": "A multicellular organism is made up of many cells that specialize for different functions.", "correct": "true" },
+    { "sentence": "Multicellular organisms are single cells that perform all functions alone.", "correct": "false" },
+    { "sentence": "Multicellular organisms are always microscopic and invisible to the naked eye.", "correct": "false" },
+    { "sentence": "Multicellular organisms cannot reproduce or maintain homeostasis.", "correct": "false" },
+    { "sentence": "Multicellular organisms are non-living structures made of chemicals.", "correct": "false" }
+  ],
+  "explanation": [
+    {
+      "english": "Multicellular organisms, like humans and plants, have specialized cells working together for survival.",
+      "chinese": "多细胞生物如人类和植物具有分化的细胞，共同协作以维持生存。"
+    }
+  ]
+}
 ]
