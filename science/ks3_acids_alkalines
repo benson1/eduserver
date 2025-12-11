@@ -7,6 +7,12 @@
       { "sentence": "An acid is a particle that removes hydroxide ions from water.", "correct": "false" },
       { "sentence": "An acid is a molecule that exists only in solid form and does not dissolve.", "correct": "false" },
       { "sentence": "An acid is a chemical that generates OH⁻ ions in water.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Acids donate protons or increase hydronium ions in aqueous solutions, which is the defining property of acids.",
+        "chinese": "酸会在水溶液中提供质子或增加水合氢离子，这就是酸的定义特性。"
+      }
     ]
   },
   {
@@ -17,6 +23,12 @@
       { "sentence": "A base is a particle that forms when metals react with acids to produce water.", "correct": "false" },
       { "sentence": "A base is a molecule that only exists in solid form and does not affect solutions.", "correct": "false" },
       { "sentence": "A base is a chemical that turns acids into more acidic solutions.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Bases produce hydroxide ions or accept protons, increasing the alkalinity of a solution.",
+        "chinese": "碱会产生氢氧根离子或接受质子，从而提高溶液的碱性。"
+      }
     ]
   },
   {
@@ -27,6 +39,12 @@
       { "sentence": "Neutralization happens when bases react with metals to form hydrogen gas.", "correct": "false" },
       { "sentence": "Neutralization is a process that changes acids into oxygen molecules.", "correct": "false" },
       { "sentence": "Neutralization is when water molecules combine to form acids or bases.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Neutralization occurs when an acid reacts with a base to produce water and a salt, canceling out the acidity and alkalinity.",
+        "chinese": "中和反应是酸与碱反应生成水和盐，从而抵消酸性和碱性。"
+      }
     ]
   },
   {
@@ -37,6 +55,12 @@
       { "sentence": "Litmus is a molecule that produces hydroxide ions when mixed with water.", "correct": "false" },
       { "sentence": "Litmus is a substance that generates H₃O⁺ ions in solutions to show acidity.", "correct": "false" },
       { "sentence": "Litmus is a chemical that transforms acids into bases by reacting with them.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Litmus changes color depending on the pH of a solution and is commonly used as a simple acid-base indicator.",
+        "chinese": "石蕊根据溶液的 pH 值改变颜色，通常用作简单的酸碱指示剂。"
+      }
     ]
   },
   {
@@ -47,6 +71,12 @@
       { "sentence": "pH is a value that tells how quickly a solution reacts with metals.", "correct": "false" },
       { "sentence": "pH is a scale measuring the solid content of water rather than ions.", "correct": "false" },
       { "sentence": "pH indicates the temperature at which a solution becomes acidic.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "pH indicates the concentration of hydronium ions in a solution, showing how acidic or basic it is.",
+        "chinese": "pH 指示溶液中水合氢离子的浓度，从而显示其酸碱性。"
+      }
     ]
   },
   {
@@ -57,6 +87,12 @@
       { "sentence": "An indicator is a molecule that dissolves solids without changing color.", "correct": "false" },
       { "sentence": "An indicator is a compound that reacts with metals instead of signaling pH.", "correct": "false" },
       { "sentence": "An indicator is a substance that forms salts when placed in any solution.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Indicators are substances that visually signal the pH of a solution by changing color.",
+        "chinese": "指示剂是通过变色来显示溶液 pH 值的物质。"
+      }
     ]
   },
   {
@@ -67,6 +103,12 @@
       { "sentence": "Hydronium is a molecule that contains oxygen and hydrogen but no charge.", "correct": "false" },
       { "sentence": "Hydronium is a solid particle formed when acids dry out.", "correct": "false" },
       { "sentence": "Hydronium is a neutral gas that forms in water when pH is high.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "In water, protons exist as H₃O⁺ ions, also called hydronium.",
+        "chinese": "在水中，质子以 H₃O⁺（水合氢离子）形式存在。"
+      }
     ]
   },
   {
@@ -77,6 +119,60 @@
       { "sentence": "Hydroxide is a particle commonly produced when acids dissolve in water.", "correct": "false" },
       { "sentence": "Hydroxide is a neutral particle found in pure water without any charge.", "correct": "false" },
       { "sentence": "Hydroxide is a molecule made from two hydrogen atoms bonded to one oxygen atom.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "OH⁻ ions indicate the basicity of a solution and are produced when bases accept protons or ionize in water.",
+        "chinese": "OH⁻ 离子表示溶液的碱性，由碱在水中接受质子或电离产生。"
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is an acid according to Brønsted–Lowry definition?",
+    "options": [
+      { "sentence": "HCl (in water)", "correct": "true" },
+      { "sentence": "H₂O (in reaction with NH₃)", "correct": "false" },
+      { "sentence": "NH₃ (in water)", "correct": "false" },
+      { "sentence": "OH⁻", "correct": "false" },
+      { "sentence": "Cl⁻", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "HCl donates a proton (H⁺) to water, making it a Brønsted–Lowry acid.",
+        "chinese": "HCl 向水提供质子 (H⁺)，因此是 Brønsted–Lowry 酸。"
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is a base according to Brønsted–Lowry definition?",
+    "options": [
+      { "sentence": "HCl (in water)", "correct": "false" },
+      { "sentence": "H₂O (in reaction with HCl)", "correct": "true" },
+      { "sentence": "H₃O⁺", "correct": "false" },
+      { "sentence": "Cl⁻", "correct": "false" },
+      { "sentence": "NH₄⁺", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Water accepts a proton from HCl, making it a Brønsted–Lowry base.",
+        "chinese": "水接受 HCl 的质子，因此是 Brønsted–Lowry 碱。"
+      }
+    ]
+  },
+  {
+    "question": "In the reaction NH₃ + H₂O → NH₄⁺ + OH⁻, which are the conjugate acid and conjugate base?",
+    "options": [
+      { "sentence": "Conjugate acid: NH₄⁺, Conjugate base: OH⁻", "correct": "true" },
+      { "sentence": "Conjugate acid: NH₃, Conjugate base: H₂O", "correct": "false" },
+      { "sentence": "Conjugate acid: H₂O, Conjugate base: NH₃", "correct": "false" },
+      { "sentence": "Conjugate acid: OH⁻, Conjugate base: NH₄⁺", "correct": "false" },
+      { "sentence": "Conjugate acid: H₃O⁺, Conjugate base: Cl⁻", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "NH₄⁺ is formed when NH₃ gains a proton, and OH⁻ is formed when H₂O loses a proton.",
+        "chinese": "NH₄⁺ 由 NH₃ 获得质子形成，OH⁻ 由 H₂O 失去质子形成。"
+      }
     ]
   }
 ]
