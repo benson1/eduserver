@@ -1,0 +1,274 @@
+[
+  {
+    "question": "Which sentence best describes characteristics of living things?",
+    "options": [
+      { "sentence": "Living things grow, react to changes around them, reproduce, and keep their bodies working in a steady way.", "correct": "true" },
+      { "sentence": "Living things have organized parts, but they do not need to react to anything in their environment.", "correct": "false" },
+      { "sentence": "Living things can move and change, but they do not need to grow or develop over time.", "correct": "false" },
+      { "sentence": "Living things interact with their surroundings, but they do not need to keep their bodies balanced.", "correct": "false" },
+      { "sentence": "Living things always stay the same and never need to adjust to their environment.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Living things share traits like growing, reacting to the world, reproducing, and keeping their bodies stable.",
+        "chinese": "生物有共同特征，如生长、对外界反应、繁殖以及保持身体稳定。"
+      }
+    ]
+  },
+  {
+    "question": "What does unicellular mean?",
+    "options": [
+      { "sentence": "A unicellular organism has only one cell that does all the jobs it needs to stay alive.", "correct": "true" },
+      { "sentence": "A unicellular organism has many cells, but they do not work together very well.", "correct": "false" },
+      { "sentence": "A unicellular organism has no real cells and depends on other organisms to stay alive.", "correct": "false" },
+      { "sentence": "A unicellular organism needs other organisms to provide the cells it cannot make.", "correct": "false" },
+      { "sentence": "A unicellular organism must gather groups of cells from the environment to survive.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Unicellular organisms are made of one cell that handles all life functions.",
+        "chinese": "单细胞生物由一个细胞组成，并独立完成所有生命活动。"
+      }
+    ]
+  },
+  {
+    "question": "What does multicellular mean?",
+    "options": [
+      { "sentence": "A multicellular organism has many cells that each do special jobs and work together.", "correct": "true" },
+      { "sentence": "A multicellular organism has many cells, but they all do the exact same job.", "correct": "false" },
+      { "sentence": "A multicellular organism starts with one cell but never grows any new cells.", "correct": "false" },
+      { "sentence": "A multicellular organism cannot grow or change because its cells never work together.", "correct": "false" },
+      { "sentence": "A multicellular organism depends on outside help because its cells cannot do life functions well.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Multicellular organisms have many cells that work together and have different roles.",
+        "chinese": "多细胞生物有许多细胞，这些细胞分工合作。"
+      }
+    ]
+  },
+  {
+    "question": "Which statement best defines a cell?",
+    "options": [
+      { "sentence": "A cell is the smallest part of a living thing that can do all the basic jobs needed for life.", "correct": "true" },
+      { "sentence": "A cell is a large structure made of many organs that control the whole body.", "correct": "false" },
+      { "sentence": "A cell is an outside layer that protects the organism from the environment.", "correct": "false" },
+      { "sentence": "A cell is something that appears only when an organism is young and then disappears.", "correct": "false" },
+      { "sentence": "A cell is mostly a storage space and does not help with life processes.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Cells are the smallest parts of life that do all the needed functions.",
+        "chinese": "细胞是执行所有生命活动的最小单位。"
+      }
+    ]
+  },
+  {
+    "question": "What is a tissue?",
+    "options": [
+      { "sentence": "A tissue is a group of similar cells that work together to do a certain job.", "correct": "true" },
+      { "sentence": "A tissue is a mix of different organs that help control the entire body.", "correct": "false" },
+      { "sentence": "A tissue is one cell that can change shape to do many different tasks.", "correct": "false" },
+      { "sentence": "A tissue forms when different organisms join their cells together.", "correct": "false" },
+      { "sentence": "A tissue is a thick layer inside the body that stores extra nutrients.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Tissues are made of similar cells working together.",
+        "chinese": "组织由结构相似的细胞组成，共同完成特定任务。"
+      }
+    ]
+  },
+  {
+    "question": "Which statement correctly describes an organ?",
+    "options": [
+      { "sentence": "An organ is made of different tissues that work together to do a special job in the body.", "correct": "true" },
+      { "sentence": "An organ is a single cell that runs all the body’s important systems.", "correct": "false" },
+      { "sentence": "An organ is a space inside the body where unused materials are kept.", "correct": "false" },
+      { "sentence": "An organ forms only when the environment changes suddenly.", "correct": "false" },
+      { "sentence": "An organ is made of tissues that join together but do not create any new job or function.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Organs are made of tissues that work together for a specific task.",
+        "chinese": "器官由多种组织组成，共同执行专门功能。"
+      }
+    ]
+  },
+  {
+    "question": "What is an organ system?",
+    "options": [
+      { "sentence": "An organ system is a group of organs that work together to do important jobs for the body.", "correct": "true" },
+      { "sentence": "An organ system is a group of cells that help each other but are not organized.", "correct": "false" },
+      { "sentence": "An organ system only appears during times when the body grows quickly.", "correct": "false" },
+      { "sentence": "An organ system is one organ that changes its job depending on the weather.", "correct": "false" },
+      { "sentence": "An organ system is a support structure that does not take part in life processes.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Organ systems are groups of organs working together.",
+        "chinese": "器官系统由多个器官协同工作组成。"
+      }
+    ]
+  },
+  {
+    "question": "What is homeostasis?",
+    "options": [
+      { "sentence": "Homeostasis is when an organism keeps its inside conditions steady even when the outside changes.", "correct": "true" },
+      { "sentence": "Homeostasis means the body changes wildly whenever the environment changes a little.", "correct": "false" },
+      { "sentence": "Homeostasis is when the body stores extra nutrients just in case it needs them later.", "correct": "false" },
+      { "sentence": "Homeostasis means the inside of the body matches the outside conditions exactly.", "correct": "false" },
+      { "sentence": "Homeostasis stops happening once the organism becomes an adult.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Homeostasis keeps the inside of the body stable.",
+        "chinese": "稳态帮助身体内部保持稳定。"
+      }
+    ]
+  },
+  {
+    "question": "What is metabolism?",
+    "options": [
+      { "sentence": "Metabolism is all the chemical processes that help an organism use energy, grow, and stay healthy.", "correct": "true" },
+      { "sentence": "Metabolism is the movement an organism makes when changing places often.", "correct": "false" },
+      { "sentence": "Metabolism happens only during reproduction and stops afterward.", "correct": "false" },
+      { "sentence": "Metabolism is when unused materials build up inside cells.", "correct": "false" },
+      { "sentence": "Metabolism means the body can stay still and never use any energy.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Metabolism includes all the chemical activities needed for life.",
+        "chinese": "代谢指维持生命所需的全部化学活动。"
+      }
+    ]
+  },
+  {
+    "question": "What is an autotroph?",
+    "options": [
+      { "sentence": "An autotroph makes its own food using sunlight or simple chemicals.", "correct": "true" },
+      { "sentence": "An autotroph gets all of its food from other organisms because it cannot make any on its own.", "correct": "false" },
+      { "sentence": "An autotroph uses only stored energy and never needs sunlight or chemicals.", "correct": "false" },
+      { "sentence": "An autotroph can make food only when other organisms give it special materials.", "correct": "false" },
+      { "sentence": "An autotroph must eat large amounts of living things since it cannot produce energy by itself.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Autotrophs make their own food.",
+        "chinese": "自养生物可以自己制造食物。"
+      }
+    ]
+  },
+  {
+    "question": "What is a heterotroph?",
+    "options": [
+      { "sentence": "A heterotroph gets energy by eating other organisms or organic matter.", "correct": "true" },
+      { "sentence": "A heterotroph makes all its own food from sunlight.", "correct": "false" },
+      { "sentence": "A heterotroph never needs food from outside because it can live on stored energy forever.", "correct": "false" },
+      { "sentence": "A heterotroph absorbs energy from the air without eating anything.", "correct": "false" },
+      { "sentence": "A heterotroph can survive without any food because its cells make unlimited energy.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Heterotrophs must eat to get energy.",
+        "chinese": "异养生物通过吃东西获取能量。"
+      }
+    ]
+  },
+  {
+    "question": "What is DNA?",
+    "options": [
+      { "sentence": "DNA is the molecule that holds the instructions for how a living thing grows and develops.", "correct": "true" },
+      { "sentence": "DNA forms only during cell division and does not affect traits.", "correct": "false" },
+      { "sentence": "DNA gives cells energy but does not pass on any information.", "correct": "false" },
+      { "sentence": "DNA is a protective coat that covers the outside of the organism.", "correct": "false" },
+      { "sentence": "DNA is found only in certain tissues and does not help with heredity.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "DNA contains genetic instructions.",
+        "chinese": "DNA 含有遗传信息。"
+      }
+    ]
+  },
+  {
+    "question": "What is the nucleus?",
+    "options": [
+      { "sentence": "The nucleus is the part of a cell that holds the DNA and helps control what the cell does.", "correct": "true" },
+      { "sentence": "The nucleus is a pocket that stores extra water and nutrients inside the cell.", "correct": "false" },
+      { "sentence": "The nucleus is outside the cell and builds proteins before sending them in.", "correct": "false" },
+      { "sentence": "The nucleus is a tough outer layer that protects the whole organism.", "correct": "false" },
+      { "sentence": "The nucleus is a hard mineral part that supports the cell like a skeleton.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The nucleus holds DNA and helps control the cell.",
+        "chinese": "细胞核保存 DNA 并调控细胞活动。"
+      }
+    ]
+  },
+  {
+    "question": "What are stimuli?",
+    "options": [
+      { "sentence": "Stimuli are things in the environment, like light or sound, that make an organism respond.", "correct": "true" },
+      { "sentence": "Stimuli are body parts that help organs talk to each other but do not affect behavior.", "correct": "false" },
+      { "sentence": "Stimuli are random actions that organisms make without sensing the environment.", "correct": "false" },
+      { "sentence": "Stimuli are waste materials made by cells that do not cause any reactions.", "correct": "false" },
+      { "sentence": "Stimuli are objects in the environment that organisms cannot detect or react to.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Stimuli are things that cause a response.",
+        "chinese": "刺激是引起反应的事物。"
+      }
+    ]
+  },
+  {
+    "question": "What is tropism?",
+    "options": [
+      { "sentence": "Tropism is when a plant grows toward or away from things like light or gravity.", "correct": "true" },
+      { "sentence": "Tropism is a random plant movement that happens without any outside cause.", "correct": "false" },
+      { "sentence": "Tropism is when a plant uses food to make energy during the daytime.", "correct": "false" },
+      { "sentence": "Tropism is when a plant grows the same way no matter what is around it.", "correct": "false" },
+      { "sentence": "Tropism is when a plant changes its temperature to protect itself.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Tropism is plant growth caused by a stimulus.",
+        "chinese": "向性是植物对刺激产生的生长反应。"
+      }
+    ]
+  },
+  {
+    "question": "What is an adaptation?",
+    "options": [
+      { "sentence": "An adaptation is a trait an organism is born with that helps it survive better in its environment.", "correct": "true" },
+      { "sentence": "An adaptation is a behavior that changes randomly and does not help the organism survive.", "correct": "false" },
+      { "sentence": "An adaptation is a change caused by harm that does not help future survival.", "correct": "false" },
+      { "sentence": "An adaptation forms during an organism’s life and is automatically passed to its children.", "correct": "false" },
+      { "sentence": "An adaptation is a trait that makes survival harder for the organism.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Adaptations help organisms survive and reproduce.",
+        "chinese": "适应性特征帮助生物生存和繁殖。"
+      }
+    ]
+  },
+  {
+    "question": "What is evolution?",
+    "options": [
+      { "sentence": "Evolution is the slow change of a species over many generations as traits are passed on and selected.", "correct": "true" },
+      { "sentence": "Evolution is a quick change in one organism during its lifetime without any genetic change.", "correct": "false" },
+      { "sentence": "Evolution happens when an individual decides to change its traits on purpose.", "correct": "false" },
+      { "sentence": "Evolution is a temporary change caused by the environment that disappears in the next generation.", "correct": "false" },
+      { "sentence": "Evolution means a species increases in number but does not change genetically over time.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Evolution is long-term change in a species caused by variation and natural selection.",
+        "chinese": "进化是由变异和自然选择造成的物种长期变化。"
+      }
+    ]
+  }
+]
