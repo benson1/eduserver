@@ -758,6 +758,11 @@
         "file": "b2_darren_biology_easyish",
         "type": "science",
         "level": "2" 
+    },
+        {
+        "name":"darren_b2_life_biology",
+        "file": "darren_b2_life_biology",
+        "type": "science",
+        "level": "2" 
     }
-    
 ]
