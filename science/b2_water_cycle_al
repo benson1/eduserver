@@ -1,0 +1,75 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Melting is the process in which a solid changes into a liquid by absorbing heat.", "correct": "true" },
+      { "sentence": "Melting occurs when a liquid turns into a gas.", "correct": "false" },
+      { "sentence": "Melting releases heat energy to the surroundings.", "correct": "false" },
+      { "sentence": "Melting can only happen at extremely high temperatures for all substances.", "correct": "false" },
+      { "sentence": "Melting is a chemical reaction that changes the substance’s identity.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Melting is a physical change where heat causes particles in a solid to move more freely.",
+        "chinese": "熔化是一种物理变化，热量使固体中的粒子运动更加自由。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Freezing is the process in which a liquid changes into a solid by losing heat.", "correct": "true" },
+      { "sentence": "Freezing occurs when a gas turns directly into a solid.", "correct": "false" },
+      { "sentence": "Freezing always happens at the same temperature for all liquids.", "correct": "false" },
+      { "sentence": "Freezing requires energy to be absorbed from the surroundings.", "correct": "false" },
+      { "sentence": "Freezing is a chemical change that forms a new substance.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "During freezing, particles lose energy and arrange into a fixed structure.",
+        "chinese": "在凝固过程中，粒子失去能量并排列成固定结构。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Condensation occurs when a gas changes into a liquid as it loses heat.", "correct": "true" },
+      { "sentence": "Condensation is the process of a solid turning into a gas.", "correct": "false" },
+      { "sentence": "Condensation requires heat to be absorbed from the environment.", "correct": "false" },
+      { "sentence": "Condensation only occurs in sealed laboratory equipment.", "correct": "false" },
+      { "sentence": "Condensation changes the chemical composition of a substance.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Condensation forms liquids like water droplets when gas particles lose energy.",
+        "chinese": "凝结是气体粒子失去能量形成液体，如水滴。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Sublimation is the process in which a solid changes directly into a gas.", "correct": "true" },
+      { "sentence": "Sublimation occurs when a liquid turns into a solid.", "correct": "false" },
+      { "sentence": "Sublimation only happens to metals at high pressure.", "correct": "false" },
+      { "sentence": "Sublimation releases energy to the surroundings.", "correct": "false" },
+      { "sentence": "Sublimation involves breaking chemical bonds in molecules.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Some solids, like dry ice and iodine, can sublimate under certain conditions.",
+        "chinese": "某些固体如干冰和碘在特定条件下可以直接升华。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Deposition is the process in which a gas changes directly into a solid.", "correct": "true" },
+      { "sentence": "Deposition occurs when a liquid turns into a gas.", "correct": "false" },
+      { "sentence": "Deposition requires heat to be absorbed by the substance.", "correct": "false" },
+      { "sentence": "Deposition can only occur in outer space.", "correct": "false" },
+      { "sentence": "Deposition forms new chemical substances.", "correct": "false" }
+    ],
+    "ex
