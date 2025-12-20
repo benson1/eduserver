@@ -72,4 +72,59 @@
       { "sentence": "Deposition can only occur in outer space.", "correct": "false" },
       { "sentence": "Deposition forms new chemical substances.", "correct": "false" }
     ],
-    "ex
+    "explanation": [
+      {
+        "english": "Deposition is the reverse of sublimation and releases energy to the surroundings.",
+        "chinese": "凝华是升华的逆过程，并向周围释放能量。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Precipitation is any form of water that falls from clouds to Earth’s surface.", "correct": "true" },
+      { "sentence": "Precipitation only refers to rain and excludes snow or hail.", "correct": "false" },
+      { "sentence": "Precipitation is the process of water evaporating into the air.", "correct": "false" },
+      { "sentence": "Precipitation happens only in tropical climates.", "correct": "false" },
+      { "sentence": "Precipitation is a chemical reaction in the atmosphere.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Rain, snow, sleet, and hail are all forms of precipitation.",
+        "chinese": "雨、雪、冰雹和雨夹雪都是降水形式。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Iodine is a solid element at room temperature that can sublime when heated.", "correct": "true" },
+      { "sentence": "Iodine is a colorless gas under normal conditions.", "correct": "false" },
+      { "sentence": "Iodine is a metal that conducts electricity very well.", "correct": "false" },
+      { "sentence": "Iodine exists only in liquid form in nature.", "correct": "false" },
+      { "sentence": "Iodine is a compound made of hydrogen and oxygen.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Iodine is a non-metal halogen known for its purple vapor during sublimation.",
+        "chinese": "碘是一种非金属卤素，在升华时会产生紫色蒸气。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Hydrogen is the lightest element and exists as a gas under normal conditions.", "correct": "true" },
+      { "sentence": "Hydrogen is a solid metal at room temperature.", "correct": "false" },
+      { "sentence": "Hydrogen molecules contain only one hydrogen atom.", "correct": "false" },
+      { "sentence": "Hydrogen cannot take part in chemical reactions.", "correct": "false" },
+      { "sentence": "Hydrogen is heavier than oxygen.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Hydrogen usually exists as H₂ gas and is highly reactive.",
+        "chinese": "氢通常以H₂气体形式存在，并且具有很高的反应性。"
+      }
+    ]
+  }
+]
