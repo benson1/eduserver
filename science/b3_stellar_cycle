@@ -1,0 +1,222 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A stellar nebula is a large cloud of gas and dust where new stars can begin to form.", "correct": "true" },
+      { "sentence": "A stellar nebula is a cloud that only appears after all nearby stars have finished their lives and disappeared.", "correct": "false" },
+      { "sentence": "A stellar nebula is the hard center of a star left behind after the star collapses.", "correct": "false" },
+      { "sentence": "A stellar nebula is a space region that stops stars from forming by spreading gas apart.", "correct": "false" },
+      { "sentence": "A stellar nebula is a group of planets and asteroids held together by weak gravity.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Stars are born inside nebulae when gravity pulls gas and dust together.",
+        "chinese": "恒星在星云中诞生，引力将气体和尘埃聚集在一起。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A protostar is a baby star that is still forming and has not started nuclear fusion yet.", "correct": "true" },
+      { "sentence": "A protostar is a fully grown star that is already burning hydrogen in its center.", "correct": "false" },
+      { "sentence": "A protostar forms only after a star has run out of fuel and begins to collapse.", "correct": "false" },
+      { "sentence": "A protostar gets most of its energy from nuclear reactions in its core.", "correct": "false" },
+      { "sentence": "A protostar is the leftover core of a star that has lost its outer layers.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Protostars shine because they are shrinking, not because they are fusing atoms yet.",
+        "chinese": "原恒星发光是因为收缩，而不是因为已经开始核聚变。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Stellar nuclear fusion is when small atoms join together inside a star and release energy.", "correct": "true" },
+      { "sentence": "Stellar nuclear fusion happens mainly on the surface of a star where gases collide.", "correct": "false" },
+      { "sentence": "Stellar nuclear fusion starts only after a star finishes its main life stage.", "correct": "false" },
+      { "sentence": "Stellar nuclear fusion turns heat energy directly into gravity energy.", "correct": "false" },
+      { "sentence": "Stellar nuclear fusion breaks large atoms into smaller ones inside stars.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Fusion is the process that powers stars like the Sun.",
+        "chinese": "核聚变是像太阳这样的恒星产生能量的过程。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A main sequence star makes energy by turning hydrogen into helium in its center.", "correct": "true" },
+      { "sentence": "A main sequence star is defined mostly by its color instead of what happens inside it.", "correct": "false" },
+      { "sentence": "A main sequence star has already used up all its hydrogen fuel.", "correct": "false" },
+      { "sentence": "A main sequence star no longer has nuclear reactions happening inside.", "correct": "false" },
+      { "sentence": "A main sequence star is a very short stage that lasts only a small part of a star’s life.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Stars spend most of their lives as main sequence stars.",
+        "chinese": "恒星一生中大部分时间处于主序星阶段。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Stellar collapse happens when gravity becomes stronger than the energy pushing outward.", "correct": "true" },
+      { "sentence": "Stellar collapse happens when stars make too much energy and grow forever.", "correct": "false" },
+      { "sentence": "Stellar collapse only affects the outside of a star, not its center.", "correct": "false" },
+      { "sentence": "Stellar collapse happens only in small stars and never in large ones.", "correct": "false" },
+      { "sentence": "Stellar collapse is caused by too much light pressure pushing a star apart.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "When fuel runs out, gravity can cause a star to collapse.",
+        "chinese": "当燃料耗尽时，引力会导致恒星坍缩。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A red giant is a star that grows much larger after it runs out of hydrogen in its center.", "correct": "true" },
+      { "sentence": "A red giant is a very young star that is still getting smaller.", "correct": "false" },
+      { "sentence": "A red giant forms when hydrogen burning becomes faster in the center.", "correct": "false" },
+      { "sentence": "A red giant is smaller and heavier than a normal star like the Sun.", "correct": "false" },
+      { "sentence": "A red giant is the final stage for every star, no matter its size.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Stars swell up into red giants when core hydrogen is gone.",
+        "chinese": "当核心氢耗尽时，恒星会膨胀成红巨星。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A white dwarf is the hot, dense center left after a small star loses its outer layers.", "correct": "true" },
+      { "sentence": "A white dwarf is a star that is still growing and making energy through fusion.", "correct": "false" },
+      { "sentence": "A white dwarf will always turn into a black hole as it cools.", "correct": "false" },
+      { "sentence": "A white dwarf forms only when a star explodes as a supernova.", "correct": "false" },
+      { "sentence": "A white dwarf is made mostly of loose gas spread out in space.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "White dwarfs slowly cool down and do not make new energy.",
+        "chinese": "白矮星会慢慢冷却，不再产生新能量。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A black dwarf is a possible future object made when a white dwarf cools completely.", "correct": "true" },
+      { "sentence": "A black dwarf forms right after a star explodes.", "correct": "false" },
+      { "sentence": "A black dwarf pulls in lots of matter and shines brightly.", "correct": "false" },
+      { "sentence": "A black dwarf is another name for a black hole.", "correct": "false" },
+      { "sentence": "A black dwarf is common in today’s universe.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The universe is not old enough for black dwarfs to exist yet.",
+        "chinese": "宇宙还不够古老，黑矮星尚未形成。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A red supergiant is a very large star near the end of its life.", "correct": "true" },
+      { "sentence": "A red supergiant is a small star that becomes tighter as it ages.", "correct": "false" },
+      { "sentence": "A red supergiant forms from a white dwarf after billions of years.", "correct": "false" },
+      { "sentence": "A red supergiant cannot make any energy in its core.", "correct": "false" },
+      { "sentence": "A red supergiant is the very first stage of star formation.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Only very large stars become red supergiants.",
+        "chinese": "只有非常大的恒星才会变成红超巨星。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A supernova is a huge explosion that happens when a massive star dies.", "correct": "true" },
+      { "sentence": "A supernova is a slow fading of a star with no explosion.", "correct": "false" },
+      { "sentence": "A supernova happens while a star is calmly burning hydrogen.", "correct": "false" },
+      { "sentence": "A supernova does not change the space around it very much.", "correct": "false" },
+      { "sentence": "A supernova leaves nothing behind after it happens.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Supernovae spread heavy elements through space.",
+        "chinese": "超新星会将重元素散布到太空中。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A neutron star is an extremely dense object made mostly of neutrons.", "correct": "true" },
+      { "sentence": "A neutron star is a large cloud of gas left floating after a supernova.", "correct": "false" },
+      { "sentence": "A neutron star forms before a star begins nuclear fusion.", "correct": "false" },
+      { "sentence": "A neutron star has weak gravity because it is very small.", "correct": "false" },
+      { "sentence": "A neutron star gives off no light or energy at all.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Neutron stars are some of the densest objects in the universe.",
+        "chinese": "中子星是宇宙中密度最高的天体之一。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A black hole forms when a very massive star collapses into a tiny, dense space.", "correct": "true" },
+      { "sentence": "A black hole is an empty hole where matter disappears forever.", "correct": "false" },
+      { "sentence": "A black hole pulls in everything around it instantly.", "correct": "false" },
+      { "sentence": "A black hole can form from stars of any size.", "correct": "false" },
+      { "sentence": "A black hole shines brightly with visible light from its center.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Black holes have gravity so strong that light cannot escape.",
+        "chinese": "黑洞的引力强到连光都无法逃脱。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A neutron star merger happens when two neutron stars crash into each other.", "correct": "true" },
+      { "sentence": "A neutron star merger is how neutron stars are first created.", "correct": "false" },
+      { "sentence": "A neutron star merger is caused by hydrogen fusion inside stars.", "correct": "false" },
+      { "sentence": "A neutron star merger only makes light and no heavy elements.", "correct": "false" },
+      { "sentence": "A neutron star merger stops all other stars from forming nearby.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Neutron star mergers create heavy elements and gravitational waves.",
+        "chinese": "中子星合并会产生重元素和引力波。"
+      }
+    ]
+  }
+]
