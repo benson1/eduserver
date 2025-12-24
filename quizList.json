@@ -771,5 +771,11 @@
         "type": "science",
         "level": "2"
         
+    },
+    {
+                "name":"b3_stellar_cycle",
+        "file": "b3_stellar_cycle",
+        "type": "science",
+        "level": "2"  
     }
 ]
