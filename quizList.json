@@ -777,5 +777,11 @@
         "file": "b3_stellar_cycle",
         "type": "science",
         "level": "2"  
+    },
+    {
+                   "name":"b2_quiz_basic_vocab.json",
+        "file": "b2_quiz_basic_vocab.json",
+        "type": "english",
+        "level": "2"  
     }
 ]
