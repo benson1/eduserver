@@ -1,0 +1,281 @@
+[
+  {
+    "question": "What is the correct definition of a dressing gown?",
+    "options": [
+      {
+        "sentence": "A loose robe worn over nightclothes, especially at home.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A type of formal evening suit.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A piece of sports equipment.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A kitchen appliance used for cooking.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A type of footwear.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "A dressing gown is a comfortable robe worn at home, usually over pajamas or nightclothes.",
+        "chinese": "睡袍是一种在家穿的宽松长袍，通常穿在睡衣外面。"
+      }
+    ]
+  },
+  {
+    "question": "What is the correct definition of sneezing?",
+    "options": [
+      {
+        "sentence": "A sudden involuntary release of air through the nose and mouth.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A type of coughing caused by smoke.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A way of speaking quietly.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A medical treatment.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A form of exercise.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Sneezing is a reflex action where air is forcefully expelled from the nose and mouth.",
+        "chinese": "打喷嚏是一种反射动作，空气会突然从鼻子和嘴巴中喷出。"
+      }
+    ]
+  },
+  {
+    "question": "What is the correct definition of makeup?",
+    "options": [
+      {
+        "sentence": "Cosmetic products used to improve or change a person's appearance.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Clothing worn for special occasions.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A type of skin disease.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Tools used for painting houses.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Jewelry made of precious metals.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Makeup refers to cosmetics such as lipstick, powder, or mascara used to enhance appearance.",
+        "chinese": "化妆品是指如口红、粉底或睫毛膏等用于美化外表的产品。"
+      }
+    ]
+  },
+  {
+    "question": "What is the correct definition of a refrigerator?",
+    "options": [
+      {
+        "sentence": "An appliance used to keep food cold and fresh.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A machine used for heating rooms.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A device for cooking food.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A type of cupboard.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A storage box for clothes.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "A refrigerator is a household appliance that keeps food and drinks cool.",
+        "chinese": "冰箱是一种家用电器，用来冷藏食物和饮料。"
+      }
+    ]
+  },
+  {
+    "question": "What is the correct definition of Lapland?",
+    "options": [
+      {
+        "sentence": "A region in northern Europe known for cold climates.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A large desert in Africa.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A city in southern Italy.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A tropical island.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A mountain range in Asia.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Lapland is a region in northern Europe, famous for snow, reindeer, and the Northern Lights.",
+        "chinese": "拉普兰是欧洲北部的一个地区，以寒冷的气候、驯鹿和极光而闻名。"
+      }
+    ]
+  },
+  {
+    "question": "What is the correct definition of unfortunate?",
+    "options": [
+      {
+        "sentence": "Having bad luck or an unlucky event.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Very lucky and successful.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Physically strong.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Extremely wealthy.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Highly educated.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Unfortunate describes someone or something affected by bad luck or an unhappy situation.",
+        "chinese": "不幸的用来形容遭遇坏运气或不愉快情况的人或事。"
+      }
+    ]
+  },
+  {
+    "question": "What is the correct definition of behaviour?",
+    "options": [
+      {
+        "sentence": "The way a person acts or conducts themselves.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A person's physical appearance.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The clothes someone wears.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A type of emotion.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A medical condition.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Behaviour refers to how a person acts, especially toward others.",
+        "chinese": "行为是指一个人的举止或对他人的表现方式。"
+      }
+    ]
+  },
+  {
+    "question": "What is the correct definition of a freezer?",
+    "options": [
+      {
+        "sentence": "A compartment or appliance used to keep food frozen.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A machine for baking food.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A box used to store dry food.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A cooling fan.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A kitchen sink.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "A freezer is used to store food at very low temperatures for long periods.",
+        "chinese": "冷冻室或冷冻柜用于在极低温度下长期保存食物。"
+      }
+    ]
+  },
+  {
+    "question": "What is the correct definition of perfume?",
+    "options": [
+      {
+        "sentence": "A liquid with a pleasant smell applied to the body.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A type of cleaning product.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A kind of medicine.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A scented candle.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A flower used in cooking.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Perfume is a scented liquid people wear to smell pleasant.",
+        "chinese": "香水是一种带有香味的液体，人们涂抹在身上以散发好闻的气味。"
+      }
+    ]
+  }
+]
