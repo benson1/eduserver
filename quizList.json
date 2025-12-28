@@ -783,5 +783,11 @@
         "file": "b2_quiz_basic_vocab.json",
         "type": "english",
         "level": "2"  
+    },
+    {
+        "name":"egypt_aldrich_new_kingdom",
+        "file": "egypt_aldrich_new_kingdom",
+        "type": "science",
+        "level": "2"  
     }
 ]
