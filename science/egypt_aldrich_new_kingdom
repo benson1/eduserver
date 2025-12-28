@@ -1,0 +1,157 @@
+[
+  {
+    "question": "Which definition best describes Amenemhet?",
+    "options": [
+      {
+        "sentence": "Amenemhet was a pharaoh of Egypt during the Middle Kingdom who strengthened central authority and stabilized the kingdom.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Amenemhet was a high-ranking priest responsible for religious ceremonies during the New Kingdom.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Amenemhet was a military general who led Egyptian forces during the Hyksos invasion.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Amenemhet was a Nubian king who ruled Egypt after the fall of the New Kingdom.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Amenemhet was a title given to Egyptian scribes who recorded royal history.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Amenemhet was a Middle Kingdom pharaoh known for restoring order and strengthening Egypt’s government after a period of instability.",
+        "chinese": "阿蒙涅姆赫特是埃及中王国时期的法老，在国家动荡后恢复秩序并加强了中央集权。"
+      }
+    ]
+  },
+  {
+    "question": "Which statement best defines Nubia?",
+    "options": [
+      {
+        "sentence": "Nubia was a region located south of Egypt that was rich in natural resources and often interacted through trade and warfare.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Nubia was a city built by Egyptians to serve as their capital during the Old Kingdom.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Nubia was an Egyptian religious belief focused on the worship of the sun god Ra.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Nubia was a dynasty that ruled Egypt for over 1,000 years without interruption.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Nubia was a system of writing used in Egyptian tombs.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Nubia was a powerful neighboring region south of Egypt, known for trade, gold, and at times ruling Egypt itself.",
+        "chinese": "努比亚是埃及南部的一个强大地区，以黄金、贸易和有时统治埃及而闻名。"
+      }
+    ]
+  },
+  {
+    "question": "Which definition correctly explains a dynasty?",
+    "options": [
+      {
+        "sentence": "A dynasty is a series of rulers from the same family who pass leadership down through generations.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A dynasty is a political alliance formed between different kingdoms.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A dynasty is a single ruler who governs for life without heirs.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A dynasty is a group of laws created to organize a society.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A dynasty is a military campaign meant to expand territory.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "A dynasty refers to multiple generations of rulers from the same family who maintain power over a region.",
+        "chinese": "王朝指同一家族世代统治国家的统治体系。"
+      }
+    ]
+  },
+  {
+    "question": "Which statement best describes the Hyksos?",
+    "options": [
+      {
+        "sentence": "The Hyksos were foreign rulers who took control of parts of Egypt and introduced new military technologies such as chariots.",
+        "correct": "true"
+      },
+      {
+        "sentence": "The Hyksos were Egyptian farmers who lived peacefully along the Nile Delta.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The Hyksos were religious leaders responsible for building major temples.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The Hyksos were traders who traveled between Egypt and Mesopotamia without settling.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The Hyksos were a royal family that ruled during the Old Kingdom.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "The Hyksos were foreign invaders who ruled parts of Egypt and introduced military innovations like horse-drawn chariots.",
+        "chinese": "喜克索斯人是入侵埃及并统治部分地区的外族，他们引入了马拉战车等军事技术。"
+      }
+    ]
+  },
+  {
+    "question": "Which statement best defines the New Kingdom of Egypt?",
+    "options": [
+      {
+        "sentence": "The New Kingdom was a period of Egyptian strength, expansion, and powerful pharaohs such as Hatshepsut and Ramses II.",
+        "correct": "true"
+      },
+      {
+        "sentence": "The New Kingdom was a time when Egypt was divided into small, independent villages.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The New Kingdom was the earliest stage of Egyptian civilization before writing existed.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The New Kingdom was a period when Egypt was ruled entirely by foreign empires.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The New Kingdom was a religious movement focused only on burial practices.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "The New Kingdom marked Egypt’s most powerful era, featuring military expansion, wealth, and influential rulers.",
+        "chinese": "新王国时期是埃及最强盛的时代，以军事扩张、财富和著名统治者闻名。"
+      }
+    ]
+  }
+]
