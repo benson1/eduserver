@@ -1,4 +1,68 @@
 [
+{
+  "question": "Which sentence is scientifically correct?",
+  "options": [
+    { "sentence": "An amino acid is a small molecule that contains an amino group, a carboxyl group, and a variable side chain.", "correct": "true" },
+    { "sentence": "An amino acid is a type of carbohydrate used for energy.", "correct": "false" },
+    { "sentence": "Amino acids are made only of carbon and hydrogen.", "correct": "false" },
+    { "sentence": "Amino acids cannot join together to form larger molecules.", "correct": "false" },
+    { "sentence": "Amino acids are found only in plants.", "correct": "false" }
+  ],
+  "explanation": [
+    {
+      "english": "Amino acids are small molecules with an amino group, a carboxyl group, and a unique side chain. They link together to form proteins.",
+      "chinese": "氨基酸是含有氨基、羧基和独特侧链的小分子，它们连接在一起形成蛋白质。"
+    }
+  ]
+},
+{
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Proteins are large molecules made of chains of amino acids.", "correct": "true" },
+      { "sentence": "Proteins are made only of lipids.", "correct": "false" },
+      { "sentence": "Proteins cannot have any structural or functional roles.", "correct": "false" },
+      { "sentence": "Proteins are the same as DNA.", "correct": "false" },
+      { "sentence": "Proteins are only used for energy storage.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Proteins are made from amino acids and perform many functions such as structure, transport, and catalysis.",
+        "chinese": "蛋白质由氨基酸组成，具有结构、运输和催化等多种功能。"
+      }
+    ]
+  },
+{
+  "question": "Which sentence is scientifically correct?",
+  "options": [
+    { "sentence": "An amino group is a group of atoms containing nitrogen and hydrogen, such as NH₂ or NH₄, found in amino acids.", "correct": "true" },
+    { "sentence": "An amino group is a type of sugar molecule.", "correct": "false" },
+    { "sentence": "An amino group contains only carbon atoms.", "correct": "false" },
+    { "sentence": "An amino group is found only in fats.", "correct": "false" },
+    { "sentence": "An amino group cannot take part in chemical reactions.", "correct": "false" }
+  ],
+  "explanation": [
+    {
+      "english": "An amino group (–NH₂ or –NH₄⁺) is made of nitrogen and hydrogen and is an important part of amino acids.",
+      "chinese": "氨基（–NH₂ 或 –NH₄⁺）由氮和氢组成，是氨基酸的重要组成部分。"
+    }
+  ]
+},
+{
+  "question": "Which sentence is scientifically correct?",
+  "options": [
+    { "sentence": "A carboxyl group is a group of atoms containing carbon, oxygen, and hydrogen, such as COOH, found in amino acids.", "correct": "true" },
+    { "sentence": "A carboxyl group is made only of hydrogen atoms.", "correct": "false" },
+    { "sentence": "A carboxyl group is a type of protein.", "correct": "false" },
+    { "sentence": "A carboxyl group cannot take part in chemical reactions.", "correct": "false" },
+    { "sentence": "A carboxyl group is only found in carbohydrates.", "correct": "false" }
+  ],
+  "explanation": [
+    {
+      "english": "A carboxyl group (–COOH) contains carbon, oxygen, and hydrogen and is part of amino acids.",
+      "chinese": "羧基（–COOH）由碳、氧和氢组成，是氨基酸的一部分。"
+    }
+  ]
+},
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
@@ -88,5 +152,21 @@
         "chinese": "诱导契合模型指酶围绕底物略微改变形状以优化催化。"
       }
     ]
-  }
+  },
+{
+  "question": "Which sentence is scientifically correct?",
+  "options": [
+    { "sentence": "Pepsin is an enzyme in the stomach that helps break down proteins.", "correct": "true" },
+    { "sentence": "Pepsin digests carbohydrates in the mouth.", "correct": "false" },
+    { "sentence": "Pepsin works best in neutral conditions.", "correct": "false" },
+    { "sentence": "Pepsin is found only in plants.", "correct": "false" },
+    { "sentence": "Pepsin breaks down fats instead of proteins.", "correct": "false" }
+  ],
+  "explanation": [
+    {
+      "english": "Pepsin is a digestive enzyme in the stomach that breaks proteins into smaller pieces and works best in acidic conditions.",
+      "chinese": "胃蛋白酶是胃中的一种消化酶，在酸性环境中将蛋白质分解成较小的部分。"
+    }
+  ]
+}
 ]
