@@ -1,4 +1,14 @@
 [
+{
+  "question": "Which sentence is scientifically correct?",
+  "options": [
+    { "sentence": "Indigenous refers to species or people that naturally originate and have lived in a particular region for a long time.", "correct": "true" },
+    { "sentence": "Indigenous refers to species or people that recently moved to an area and quickly adapted to it.", "correct": "false" },
+    { "sentence": "Indigenous describes species or people that can survive anywhere in the world without a specific region.", "correct": "false" },
+    { "sentence": "Indigenous means species or people that are kept in captivity or managed by humans in a region.", "correct": "false" },
+    { "sentence": "Indigenous refers to species or people that travel between regions seasonally rather than living in one place.", "correct": "false" }
+  ]
+},
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
