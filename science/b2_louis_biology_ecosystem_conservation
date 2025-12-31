@@ -1,14 +1,17 @@
 [
-{
-  "question": "Which sentence is scientifically correct?",
-  "options": [
-    { "sentence": "Indigenous refers to species or people that naturally originate and have lived in a particular region for a long time.", "correct": "true" },
-    { "sentence": "Indigenous refers to species or people that recently moved to an area and quickly adapted to it.", "correct": "false" },
-    { "sentence": "Indigenous describes species or people that can survive anywhere in the world without a specific region.", "correct": "false" },
-    { "sentence": "Indigenous means species or people that are kept in captivity or managed by humans in a region.", "correct": "false" },
-    { "sentence": "Indigenous refers to species or people that travel between regions seasonally rather than living in one place.", "correct": "false" }
-  ]
-},
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Indigenous refers to species or people that naturally originate and have lived in a particular region for a long time.", "correct": "true" },
+      { "sentence": "Indigenous refers to species or people that recently moved to an area and quickly adapted to it.", "correct": "false" },
+      { "sentence": "Indigenous describes species or people that can survive anywhere in the world without a specific region.", "correct": "false" },
+      { "sentence": "Indigenous means species or people that are kept in captivity or managed by humans in a region.", "correct": "false" },
+      { "sentence": "Indigenous refers to species or people that travel between regions seasonally rather than living in one place.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Indigenous species or people are native to a region and have long-established presence there.", "chinese": "土著物种或人是某一地区的原生物种或人群，在该地区长期存在。" }
+    ]
+  },
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
@@ -17,9 +20,11 @@
       { "sentence": "An ecosystem is a natural area where plants and animals live together mainly because they prefer the same climate.", "correct": "false" },
       { "sentence": "An ecosystem is a place where living things are grouped by size and shape to form balanced communities.", "correct": "false" },
       { "sentence": "An ecosystem is an area where living things exist together mainly because of similar movement and behavior patterns.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "An ecosystem is a community of interacting organisms and their physical environment.", "chinese": "生态系统是生物与其物理环境相互作用的群落。" }
     ]
   },
-
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
@@ -28,9 +33,11 @@
       { "sentence": "A habitat is an area chosen by animals based on comfort rather than survival needs.", "correct": "false" },
       { "sentence": "A habitat is a location that looks suitable for life, even if no organisms actually live there.", "correct": "false" },
       { "sentence": "A habitat is a region defined by weather patterns more than by living conditions.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "A habitat provides the necessary resources and conditions for organisms to survive.", "chinese": "栖息地为生物提供生存所需的资源和条件。" }
     ]
   },
-
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
@@ -39,9 +46,11 @@
       { "sentence": "A population is a group of organisms that live near each other but do not interact.", "correct": "false" },
       { "sentence": "A population is the total number of animals observed during a short period of time.", "correct": "false" },
       { "sentence": "A population is a collection of species that share food sources in the same environment.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "A population is a group of individuals of the same species in a defined area.", "chinese": "种群是在特定区域内的同种生物个体群体。" }
     ]
   },
-
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
@@ -50,9 +59,11 @@
       { "sentence": "An extinct species is one that is rarely seen but still lives in small groups.", "correct": "false" },
       { "sentence": "An extinct species is one that has stopped reproducing in the wild but still survives elsewhere.", "correct": "false" },
       { "sentence": "An extinct species is a species that lives in very limited locations around the world.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "An extinct species has no living members anywhere on the planet.", "chinese": "灭绝物种在地球上已无生存个体。" }
     ]
   },
-
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
@@ -61,9 +72,11 @@
       { "sentence": "An endangered species is one that is difficult for humans to find in the wild.", "correct": "false" },
       { "sentence": "An endangered species is one that survives only in certain seasons of the year.", "correct": "false" },
       { "sentence": "An endangered species is one that has moved to new habitats recently.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Endangered species have populations at risk of extinction if threats are not mitigated.", "chinese": "濒危物种的种群数量若不减轻威胁，可能会灭绝。" }
     ]
   },
-
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
@@ -72,9 +85,11 @@
       { "sentence": "Conservation is the process of keeping animals in safe places away from nature.", "correct": "false" },
       { "sentence": "Conservation is focused on observing ecosystems rather than helping them stay healthy.", "correct": "false" },
       { "sentence": "Conservation is the natural way ecosystems change over long periods of time.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Conservation aims to maintain biodiversity and ecosystem health through responsible management.", "chinese": "保护旨在通过负责任的管理维护生物多样性和生态系统健康。" }
     ]
   },
-
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
@@ -83,9 +98,11 @@
       { "sentence": "Captivity is a natural lifestyle for animals that prefer human environments.", "correct": "false" },
       { "sentence": "Captivity is when animals stay in one place because food is easy to find nearby.", "correct": "false" },
       { "sentence": "Captivity is a condition where animals live in groups for protection from predators.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Captivity refers to animals living under human supervision rather than in the wild.", "chinese": "圈养是指动物在人工管理下生活，而非在野外。" }
     ]
   },
-
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
@@ -94,9 +111,11 @@
       { "sentence": "An invasive species is a species that lives in many environments around the world.", "correct": "false" },
       { "sentence": "An invasive species is a species that grows quickly when conditions are good.", "correct": "false" },
       { "sentence": "An invasive species is a species that travels long distances during migration.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Invasive species disrupt ecosystems where they are introduced, often outcompeting native species.", "chinese": "入侵物种会破坏被引入的生态系统，通常会胜过本地物种。" }
     ]
   },
-
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
@@ -105,9 +124,11 @@
       { "sentence": "Reintroduction is the movement of animals between nearby habitats during seasonal changes.", "correct": "false" },
       { "sentence": "Reintroduction is keeping animals in protected areas so they can be studied.", "correct": "false" },
       { "sentence": "Reintroduction is allowing animals to spread naturally without human involvement.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Reintroduction helps restore species to areas where they have declined or disappeared.", "chinese": "重新引入有助于将物种恢复到数量减少或消失的区域。" }
     ]
   },
-
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
@@ -116,16 +137,22 @@
       { "sentence": "Symbiosis is a temporary interaction between animals during feeding time.", "correct": "false" },
       { "sentence": "Symbiosis is a relationship where species compete for the same resources.", "correct": "false" },
       { "sentence": "Symbiosis is a short-term partnership formed only during breeding seasons.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Symbiosis involves interactions where at least one species gains benefit from the relationship.", "chinese": "共生关系中至少有一个物种从关系中获益。" }
     ]
   },
-{
-  "question": "Which sentence is scientifically correct?",
-  "options": [
-    { "sentence": "Taxonomy is the science of naming, describing, and classifying living things into groups based on shared characteristics.", "correct": "true" },
-    { "sentence": "Taxonomy is the study of how animals move and behave in their habitats.", "correct": "false" },
-    { "sentence": "Taxonomy is the process of counting how many species live in a particular area.", "correct": "false" },
-    { "sentence": "Taxonomy is the study of the life cycle of plants and animals in the wild.", "correct": "false" },
-    { "sentence": "Taxonomy is a system used to track individual animals in zoos or protected areas.", "correct": "false" }
-  ]
-}
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Taxonomy is the science of naming, describing, and classifying living things into groups based on shared characteristics.", "correct": "true" },
+      { "sentence": "Taxonomy is the study of how animals move and behave in their habitats.", "correct": "false" },
+      { "sentence": "Taxonomy is the process of counting how many species live in a particular area.", "correct": "false" },
+      { "sentence": "Taxonomy is the study of the life cycle of plants and animals in the wild.", "correct": "false" },
+      { "sentence": "Taxonomy is a system used to track individual animals in zoos or protected areas.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Taxonomy classifies and names organisms based on shared traits to organize biodiversity.", "chinese": "分类学根据共同特征对生物进行命名和分类，以组织生物多样性。" }
+    ]
+  }
 ]
