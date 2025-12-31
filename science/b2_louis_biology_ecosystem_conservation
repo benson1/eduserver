@@ -2,101 +2,120 @@
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
-      { "sentence": "An ecosystem is a system where plants, animals, and other living things interact with each other and with their environment, sharing energy and cycling nutrients.", "correct": "true" },
-      { "sentence": "An ecosystem is a system where some animals and plants control most of the energy, and other living things have very little effect on how the system works.", "correct": "false" },
-      { "sentence": "An ecosystem is a group of living things arranged in a pattern where all changes happen at set times, making the system very predictable.", "correct": "false" },
-      { "sentence": "An ecosystem is a place where the kinds of animals and plants change mainly because of seasons, and these changes decide how many live there.", "correct": "false" },
-      { "sentence": "An ecosystem is a collection of living things where the most interesting or unusual species make the system special.", "correct": "false" }
+      { "sentence": "An ecosystem is a system where plants, animals, and other living things interact with each other and with their environment, sharing energy and nutrients.", "correct": "true" },
+      { "sentence": "An ecosystem is a group of living things that share the same space but live mostly separate lives without depending on each other.", "correct": "false" },
+      { "sentence": "An ecosystem is a natural area where plants and animals live together mainly because they prefer the same climate.", "correct": "false" },
+      { "sentence": "An ecosystem is a place where living things are grouped by size and shape to form balanced communities.", "correct": "false" },
+      { "sentence": "An ecosystem is an area where living things exist together mainly because of similar movement and behavior patterns.", "correct": "false" }
     ]
   },
+
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
-      { "sentence": "A habitat is the natural place where a plant or animal lives and can get the food, water, and shelter it needs to survive.", "correct": "true" },
-      { "sentence": "A habitat is any place where an animal is seen, even if it cannot survive there for very long.", "correct": "false" },
-      { "sentence": "A habitat is defined only by the plants in an area, and the animals living there are not considered part of it.", "correct": "false" },
-      { "sentence": "A habitat is the part of the environment that looks suitable to humans, without checking if the species actually thrive there.", "correct": "false" },
-      { "sentence": "A habitat is a place where the most visible animals live, which is what makes it special.", "correct": "false" }
+      { "sentence": "A habitat is the natural place where a plant or animal lives and gets what it needs to survive.", "correct": "true" },
+      { "sentence": "A habitat is any place an animal visits during its life, even if it stays only a short time.", "correct": "false" },
+      { "sentence": "A habitat is an area chosen by animals based on comfort rather than survival needs.", "correct": "false" },
+      { "sentence": "A habitat is a location that looks suitable for life, even if no organisms actually live there.", "correct": "false" },
+      { "sentence": "A habitat is a region defined by weather patterns more than by living conditions.", "correct": "false" }
     ]
   },
+
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
-      { "sentence": "A population is a group of individuals of the same species living in one area and interacting with each other, including reproducing to make new members of the group.", "correct": "true" },
-      { "sentence": "A population is all the animals or plants seen in a place, without caring if they are the same kind or connected.", "correct": "false" },
-      { "sentence": "A population is counted by looking at the area they occupy, even if they do not reproduce or interact with each other.", "correct": "false" },
-      { "sentence": "A population is made of the animals that are easiest to see, while the others are not counted.", "correct": "false" },
-      { "sentence": "A population is a number of species grouped together, even if they are completely different types of living things.", "correct": "false" }
+      { "sentence": "A population is a group of the same species living in the same area and able to reproduce with each other.", "correct": "true" },
+      { "sentence": "A population is all the living things found in one place, even if they are different species.", "correct": "false" },
+      { "sentence": "A population is a group of organisms that live near each other but do not interact.", "correct": "false" },
+      { "sentence": "A population is the total number of animals observed during a short period of time.", "correct": "false" },
+      { "sentence": "A population is a collection of species that share food sources in the same environment.", "correct": "false" }
     ]
   },
+
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
-      { "sentence": "An extinct species is one that has completely disappeared and no longer exists anywhere on Earth.", "correct": "true" },
-      { "sentence": "An extinct species is one that can still be found in a few remote places.", "correct": "false" },
-      { "sentence": "An extinct species is a group of animals kept only in zoos or protected areas.", "correct": "false" },
-      { "sentence": "An extinct species is one that people rarely see, but it still lives in the wild.", "correct": "false" },
-      { "sentence": "An extinct species is considered gone even if a few individuals survive in small areas.", "correct": "false" }
+      { "sentence": "An extinct species is one that no longer exists anywhere on Earth.", "correct": "true" },
+      { "sentence": "An extinct species is one that exists only in protected areas and zoos.", "correct": "false" },
+      { "sentence": "An extinct species is one that is rarely seen but still lives in small groups.", "correct": "false" },
+      { "sentence": "An extinct species is one that has stopped reproducing in the wild but still survives elsewhere.", "correct": "false" },
+      { "sentence": "An extinct species is a species that lives in very limited locations around the world.", "correct": "false" }
     ]
   },
+
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
-      { "sentence": "An endangered species is one that is at risk of disappearing from Earth because its numbers are very low.", "correct": "true" },
-      { "sentence": "An endangered species is any species that is uncommon or hard to find, even if it has many living individuals.", "correct": "false" },
-      { "sentence": "An endangered species is one that lives only in zoos or wildlife parks.", "correct": "false" },
-      { "sentence": "An endangered species is a species whose population changes naturally, but it is not in danger of disappearing.", "correct": "false" },
-      { "sentence": "An endangered species is any plant or animal that is rare in one place but common in another.", "correct": "false" }
+      { "sentence": "An endangered species is one that has a very small population and may disappear in the future.", "correct": "true" },
+      { "sentence": "An endangered species is one that lives in dangerous environments with many predators.", "correct": "false" },
+      { "sentence": "An endangered species is one that is difficult for humans to find in the wild.", "correct": "false" },
+      { "sentence": "An endangered species is one that survives only in certain seasons of the year.", "correct": "false" },
+      { "sentence": "An endangered species is one that has moved to new habitats recently.", "correct": "false" }
     ]
   },
+
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
-      { "sentence": "Conservation is the practice of protecting and taking care of plants, animals, and their habitats so that ecosystems stay healthy.", "correct": "true" },
-      { "sentence": "Conservation is studying animals and plants without trying to keep them safe or restore their homes.", "correct": "false" },
-      { "sentence": "Conservation is saving only the rarest species and leaving the rest to live freely.", "correct": "false" },
-      { "sentence": "Conservation is focused on making humans happy, rather than helping ecosystems or species survive.", "correct": "false" },
-      { "sentence": "Conservation is mainly about watching animals and plants in nature, without taking action to protect them.", "correct": "false" }
+      { "sentence": "Conservation is the protection and careful management of plants, animals, and their environments.", "correct": "true" },
+      { "sentence": "Conservation is the study of animals in nature without changing how humans affect them.", "correct": "false" },
+      { "sentence": "Conservation is the process of keeping animals in safe places away from nature.", "correct": "false" },
+      { "sentence": "Conservation is focused on observing ecosystems rather than helping them stay healthy.", "correct": "false" },
+      { "sentence": "Conservation is the natural way ecosystems change over long periods of time.", "correct": "false" }
     ]
   },
+
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
-      { "sentence": "Captivity is when animals are kept by humans in enclosures, like zoos or sanctuaries, for care, research, or protection.", "correct": "true" },
-      { "sentence": "Captivity is when animals are near humans but can still roam freely in the wild.", "correct": "false" },
-      { "sentence": "Captivity is a natural state that happens to animals when their habitats shrink.", "correct": "false" },
-      { "sentence": "Captivity is having small populations of animals anywhere, even in the wild.", "correct": "false" },
-      { "sentence": "Captivity is keeping animals in controlled places, but they spend most of their time alone without human attention.", "correct": "false" }
+      { "sentence": "Captivity is when animals live under human care in places like zoos, aquariums, or wildlife centers.", "correct": "true" },
+      { "sentence": "Captivity is when animals choose to live near people in cities or farms.", "correct": "false" },
+      { "sentence": "Captivity is a natural lifestyle for animals that prefer human environments.", "correct": "false" },
+      { "sentence": "Captivity is when animals stay in one place because food is easy to find nearby.", "correct": "false" },
+      { "sentence": "Captivity is a condition where animals live in groups for protection from predators.", "correct": "false" }
     ]
   },
+
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
-      { "sentence": "An invasive species is a living thing that comes from another place and spreads in a new area, often changing how ecosystems work.", "correct": "true" },
-      { "sentence": "An invasive species is any species that moves to new areas naturally over time.", "correct": "false" },
-      { "sentence": "An invasive species is a native species that grows stronger in its own home environment.", "correct": "false" },
-      { "sentence": "An invasive species is a rare species that is unusual in its original habitat.", "correct": "false" },
-      { "sentence": "An invasive species is one that moves around in its normal range without affecting other species.", "correct": "false" }
+      { "sentence": "An invasive species is a species introduced to a new area that spreads and causes changes in the ecosystem.", "correct": "true" },
+      { "sentence": "An invasive species is a species that moves naturally to nearby areas over time.", "correct": "false" },
+      { "sentence": "An invasive species is a species that lives in many environments around the world.", "correct": "false" },
+      { "sentence": "An invasive species is a species that grows quickly when conditions are good.", "correct": "false" },
+      { "sentence": "An invasive species is a species that travels long distances during migration.", "correct": "false" }
     ]
   },
+
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
-      { "sentence": "Reintroduction is when humans release a species back into an area where it used to live to help populations recover.", "correct": "true" },
-      { "sentence": "Reintroduction is moving a species to a completely new area where it has never lived before.", "correct": "false" },
-      { "sentence": "Reintroduction happens naturally when animals move back to places they used to live on their own.", "correct": "false" },
-      { "sentence": "Reintroduction is increasing numbers of animals in captivity without releasing them into the wild.", "correct": "false" },
-      { "sentence": "Reintroduction is moving animals a short distance to study them, without changing population numbers.", "correct": "false" }
+      { "sentence": "Reintroduction is when a species is returned to an area where it once lived to help rebuild its population.", "correct": "true" },
+      { "sentence": "Reintroduction is moving a species to a new place where it has never lived before.", "correct": "false" },
+      { "sentence": "Reintroduction is the movement of animals between nearby habitats during seasonal changes.", "correct": "false" },
+      { "sentence": "Reintroduction is keeping animals in protected areas so they can be studied.", "correct": "false" },
+      { "sentence": "Reintroduction is allowing animals to spread naturally without human involvement.", "correct": "false" }
     ]
   },
+
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
-      { "sentence": "Symbiosis is a close relationship between two species in which at least one benefits, including mutualism, commensalism, or parasitism.", "correct": "true" },
-      { "sentence": "Symbiosis is any relationship between species, even if it does not help either of them.", "correct": "false" },
-      { "sentence": "Symbiosis happens only between plants and never involves animals or microbes.", "correct": "false" },
-      { "sentence": "Symbiosis is when species live in the same area but do not interact at all.", "correct": "false" },
-      { "sentence": "Symbiosis is a relationship where both species always benefit in exactly the same way.", "correct": "false" }
+      { "sentence": "Symbiosis is a close relationship between two different species in which at least one benefits.", "correct": "true" },
+      { "sentence": "Symbiosis is when two species live near each other without affecting one another.", "correct": "false" },
+      { "sentence": "Symbiosis is a temporary interaction between animals during feeding time.", "correct": "false" },
+      { "sentence": "Symbiosis is a relationship where species compete for the same resources.", "correct": "false" },
+      { "sentence": "Symbiosis is a short-term partnership formed only during breeding seasons.", "correct": "false" }
     ]
-  }
+  },
+{
+  "question": "Which sentence is scientifically correct?",
+  "options": [
+    { "sentence": "Taxonomy is the science of naming, describing, and classifying living things into groups based on shared characteristics.", "correct": "true" },
+    { "sentence": "Taxonomy is the study of how animals move and behave in their habitats.", "correct": "false" },
+    { "sentence": "Taxonomy is the process of counting how many species live in a particular area.", "correct": "false" },
+    { "sentence": "Taxonomy is the study of the life cycle of plants and animals in the wild.", "correct": "false" },
+    { "sentence": "Taxonomy is a system used to track individual animals in zoos or protected areas.", "correct": "false" }
+  ]
+}
 ]
