@@ -795,5 +795,11 @@
         "file": "b2_louis_biology_ecosystem_conservation",
         "type": "science",
         "level": "2"
+    },
+    {
+             "name":"b2_scientific_method",
+        "file": "b2_scientific_method",
+        "type": "science",
+        "level": "2"
     }
 ]
