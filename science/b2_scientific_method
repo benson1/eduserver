@@ -1,0 +1,201 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The scientific method is an organized process scientists use to ask questions, test ideas, and use evidence to learn about the world.", "correct": "true" },
+      { "sentence": "The scientific method is a fixed list of steps that must always be followed in the same order to get correct answers.", "correct": "false" },
+      { "sentence": "The scientific method is mainly used to prove ideas scientists already believe are correct.", "correct": "false" },
+      { "sentence": "The scientific method focuses more on drawing conclusions than on collecting careful observations and data.", "correct": "false" },
+      { "sentence": "The scientific method works best when scientists know what results they expect before beginning an investigation.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The scientific method helps scientists investigate questions by testing ideas and using evidence, not by following rigid rules or proving beliefs.",
+        "chinese": "科学方法帮助科学家通过测试想法和使用证据来研究问题，而不是遵循死板的规则或证明已有信念。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A hypothesis is a testable explanation or prediction based on observations and what is already known.", "correct": "true" },
+      { "sentence": "A hypothesis is a detailed explanation that becomes a fact once it sounds reasonable to scientists.", "correct": "false" },
+      { "sentence": "A hypothesis is written after an experiment to explain why the results turned out the way they did.", "correct": "false" },
+      { "sentence": "A hypothesis must be proven correct in order for an experiment to be considered successful.", "correct": "false" },
+      { "sentence": "A hypothesis is a personal belief that does not need to be tested if evidence seems obvious.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Hypotheses guide experiments and can be supported or not supported by evidence.",
+        "chinese": "假设用于指导实验，结果可能被证据支持，也可能不被支持。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An experiment is a planned investigation designed to test a hypothesis by controlling variables and collecting data.", "correct": "true" },
+      { "sentence": "An experiment is successful only if the results support the original hypothesis.", "correct": "false" },
+      { "sentence": "An experiment mainly confirms information that scientists already know to be true.", "correct": "false" },
+      { "sentence": "An experiment does not require controls as long as careful measurements are taken.", "correct": "false" },
+      { "sentence": "An experiment replaces the need for careful observation and repeated testing.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Experiments test ideas fairly by controlling conditions and carefully measuring results.",
+        "chinese": "实验通过控制条件和仔细测量结果来公平地测试想法。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "To investigate means to carefully observe, gather information, and look for evidence to answer a question.", "correct": "true" },
+      { "sentence": "To investigate means to focus only on one possible explanation and ignore other evidence.", "correct": "false" },
+      { "sentence": "To investigate means to reach a conclusion as quickly as possible without repeated testing.", "correct": "false" },
+      { "sentence": "To investigate means to trust previous answers instead of collecting new observations.", "correct": "false" },
+      { "sentence": "To investigate means to change results so they match the expected outcome.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Investigations require careful observation, evidence gathering, and open-minded thinking.",
+        "chinese": "调查研究需要仔细观察、收集证据和开放的思维。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "To predict means to use patterns, data, or past observations to suggest what might happen next.", "correct": "true" },
+      { "sentence": "To predict means to be completely certain about future results before testing begins.", "correct": "false" },
+      { "sentence": "To predict means to choose the most likely outcome without using evidence.", "correct": "false" },
+      { "sentence": "To predict replaces the need to test ideas through experiments.", "correct": "false" },
+      { "sentence": "To predict means to explain results after an experiment has already finished.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Predictions are based on evidence and can be tested through investigation.",
+        "chinese": "预测基于证据，并且可以通过研究进行检验。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A variable is any factor in an experiment that can be changed, measured, or kept the same.", "correct": "true" },
+      { "sentence": "A variable must always change in order for an experiment to produce useful results.", "correct": "false" },
+      { "sentence": "A variable only affects results if the scientist notices it during the experiment.", "correct": "false" },
+      { "sentence": "A variable has the same role and importance in every type of experiment.", "correct": "false" },
+      { "sentence": "A variable is simply another word for the final answer or conclusion.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Understanding variables helps scientists design fair and reliable experiments.",
+        "chinese": "理解变量有助于科学家设计公平且可靠的实验。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Data are the observations and measurements collected during an investigation or experiment.", "correct": "true" },
+      { "sentence": "Data are only useful when they support the hypothesis being tested.", "correct": "false" },
+      { "sentence": "Data must always be numbers in order to be considered scientific.", "correct": "false" },
+      { "sentence": "Data become less important once a conclusion has been written.", "correct": "false" },
+      { "sentence": "Data and opinions play the same role when explaining scientific results.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Data provide the evidence scientists analyze to understand what happened.",
+        "chinese": "数据为科学家分析和理解发生的事情提供证据。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Analysis is the process of examining data to find patterns, relationships, and meaning.", "correct": "true" },
+      { "sentence": "Analysis means deciding on an answer before carefully reviewing the data.", "correct": "false" },
+      { "sentence": "Analysis is only needed when results are surprising or unexpected.", "correct": "false" },
+      { "sentence": "Analysis turns data directly into opinions instead of evidence-based explanations.", "correct": "false" },
+      { "sentence": "Analysis happens automatically without careful thinking or discussion.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Through analysis, scientists interpret data to understand results.",
+        "chinese": "通过分析，科学家解释数据以理解结果。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A conclusion explains what the data shows and how it relates to the original hypothesis.", "correct": "true" },
+      { "sentence": "A conclusion proves that an idea is permanently true or false.", "correct": "false" },
+      { "sentence": "A conclusion is stronger when confusing or unexpected data are ignored.", "correct": "false" },
+      { "sentence": "A conclusion replaces the need for future questions or investigations.", "correct": "false" },
+      { "sentence": "A conclusion is based mainly on predictions rather than collected evidence.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Conclusions are based on evidence and often lead to new questions.",
+        "chinese": "结论基于证据，并且常常引出新的问题。"
+      }
+    ]
+  },
+{
+  "question": "Which of the following is the correct order of steps in conducting scientific research?",
+  "options": [
+    {
+      "sentence": "Ask a question or investigate → form a hypothesis → conduct an experiment and collect data → analyze the data → draw a conclusion.",
+      "correct": "true"
+    },
+    {
+      "sentence": "Form a hypothesis → analyze the data → conduct an experiment → ask a question → draw a conclusion.",
+      "correct": "false"
+    },
+    {
+      "sentence": "Ask a question or investigate → conduct an experiment → draw a conclusion → analyze the data → revise the hypothesis.",
+      "correct": "false"
+    },
+    {
+      "sentence": "Form a hypothesis → ask a question or investigate → analyze the data → conduct an experiment → draw a conclusion.",
+      "correct": "false"
+    },
+    {
+      "sentence": "Ask a question or investigate → form a hypothesis → analyze the data → conduct an experiment → draw a conclusion.",
+      "correct": "false"
+    }
+  ],
+  "explanation": [
+    {
+      "english": "Scientific research begins with a question, then a hypothesis is tested through experiments. Data are analyzed before drawing a conclusion.",
+      "chinese": "科学研究从提出问题开始，然后通过实验检验假设。在得出结论之前，需要对数据进行分析。"
+    }
+  ]
+},
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A scientific approach uses evidence, careful reasoning, and testing to understand the natural world.", "correct": "true" },
+      { "sentence": "A scientific approach focuses on finding answers as quickly as possible.", "correct": "false" },
+      { "sentence": "A scientific approach values opinions more than carefully collected evidence.", "correct": "false" },
+      { "sentence": "A scientific approach avoids uncertainty by accepting the first set of results.", "correct": "false" },
+      { "sentence": "A scientific approach works best when questions are limited and rarely challenged.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The scientific approach encourages curiosity, careful thinking, and openness to new evidence.",
+        "chinese": "科学方法鼓励好奇心、仔细思考以及对新证据保持开放。"
+      }
+    ]
+  }
+]
