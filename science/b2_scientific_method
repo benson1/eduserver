@@ -15,7 +15,37 @@
       }
     ]
   },
-
+{
+  "question": "Which sentence is scientifically correct?",
+  "options": [
+    { 
+      "sentence": "Research is the process of gathering information from observations, experiments, books, and reliable sources to better understand a question or problem.", 
+      "correct": "true" 
+    },
+    { 
+      "sentence": "Research is done only after experiments are finished to help explain results scientists do not understand.", 
+      "correct": "false" 
+    },
+    { 
+      "sentence": "Research means collecting as many facts as possible without checking if the sources are accurate or trustworthy.", 
+      "correct": "false" 
+    },
+    { 
+      "sentence": "Research replaces the need for experiments by providing answers before any testing is done.", 
+      "correct": "false" 
+    },
+    { 
+      "sentence": "Research is mainly used to confirm ideas scientists already believe rather than to explore new questions.", 
+      "correct": "false" 
+    }
+  ],
+  "explanation": [
+    {
+      "english": "Research helps scientists learn what is already known, plan investigations, and make sense of new evidence.",
+      "chinese": "研究帮助科学家了解已有的知识、规划调查，并理解新的证据。"
+    }
+  ]
+},
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
