@@ -18,6 +18,22 @@
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
+      { "sentence": "Pangaea was a supercontinent that included most of Earth's landmasses.", "correct": "true" },
+      { "sentence": "Pangaea is a continent that exists today.", "correct": "false" },
+      { "sentence": "Pangaea formed after modern continents.", "correct": "false" },
+      { "sentence": "Pangaea was made of ocean water.", "correct": "false" },
+      { "sentence": "Pangaea is a theory about weather.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Pangaea was a supercontinent that existed millions of years ago, when most of Earth's continents were joined together.",
+        "chinese": "盘古大陆是存在于数百万年前的超级大陆，当时地球上的大多数大陆连在一起。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
       { "sentence": "Tectonic plates are large pieces of Earth's crust that move slowly.", "correct": "true" },
       { "sentence": "Tectonic plates are made of clouds.", "correct": "false" },
       { "sentence": "Tectonic plates never move.", "correct": "false" },
