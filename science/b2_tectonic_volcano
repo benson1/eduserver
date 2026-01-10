@@ -1,0 +1,210 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Seismology is the study of earthquakes and seismic waves.", "correct": "true" },
+      { "sentence": "Seismology studies weather patterns.", "correct": "false" },
+      { "sentence": "Seismology focuses only on volcanoes.", "correct": "false" },
+      { "sentence": "Seismology is the study of oceans.", "correct": "false" },
+      { "sentence": "Seismology studies plant growth.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Seismology is the scientific study of earthquakes and the movement of seismic waves through the Earth.",
+        "chinese": "地震学是研究地震以及地震波在地球中传播的科学。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Tectonic plates are large pieces of Earth's crust that move slowly.", "correct": "true" },
+      { "sentence": "Tectonic plates are made of clouds.", "correct": "false" },
+      { "sentence": "Tectonic plates never move.", "correct": "false" },
+      { "sentence": "Tectonic plates only exist underwater.", "correct": "false" },
+      { "sentence": "Tectonic plates are layers of air.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Tectonic plates are massive sections of Earth's lithosphere that slowly move and interact.",
+        "chinese": "构造板块是地球岩石圈中的巨大板块，会缓慢移动并相互作用。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Landforms are natural features on Earth's surface.", "correct": "true" },
+      { "sentence": "Landforms are man-made machines.", "correct": "false" },
+      { "sentence": "Landforms only exist underwater.", "correct": "false" },
+      { "sentence": "Landforms never change.", "correct": "false" },
+      { "sentence": "Landforms are made of air.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Landforms include mountains, valleys, plains, and other natural features of the Earth's surface.",
+        "chinese": "地形是地球表面的自然特征，如山脉、山谷和平原。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The Earth's crust is the outermost layer.", "correct": "true" },
+      { "sentence": "The Earth's crust is the hottest layer.", "correct": "false" },
+      { "sentence": "The Earth's crust is liquid metal.", "correct": "false" },
+      { "sentence": "The Earth's crust is the core.", "correct": "false" },
+      { "sentence": "The Earth's crust is made of water.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The crust is the thin, outermost layer of the Earth where continents and oceans are located.",
+        "chinese": "地壳是地球最外层的薄层，大陆和海洋位于其上。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The mantle lies beneath the crust.", "correct": "true" },
+      { "sentence": "The mantle is the Earth's surface.", "correct": "false" },
+      { "sentence": "The mantle is made of ice.", "correct": "false" },
+      { "sentence": "The mantle is the same as the core.", "correct": "false" },
+      { "sentence": "The mantle contains no heat.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The mantle is a thick layer beneath the crust and is responsible for tectonic movement.",
+        "chinese": "地幔位于地壳之下，是驱动板块运动的重要层。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The core is the innermost layer of the Earth.", "correct": "true" },
+      { "sentence": "The core is made of soil.", "correct": "false" },
+      { "sentence": "The core is cold.", "correct": "false" },
+      { "sentence": "The core is above the crust.", "correct": "false" },
+      { "sentence": "The core is filled with air.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The Earth's core is extremely hot and made mostly of iron and nickel.",
+        "chinese": "地核是地球最内部的层，温度极高，主要由铁和镍组成。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A volcano releases lava, ash, and gases.", "correct": "true" },
+      { "sentence": "A volcano is always underwater.", "correct": "false" },
+      { "sentence": "A volcano never erupts.", "correct": "false" },
+      { "sentence": "A volcano is a type of river.", "correct": "false" },
+      { "sentence": "A volcano forms instantly.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Volcanoes form when molten rock rises to the surface through the crust.",
+        "chinese": "火山是熔融岩浆通过地壳上升到地表形成的。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Subduction occurs when one tectonic plate sinks beneath another.", "correct": "true" },
+      { "sentence": "Subduction only happens in the air.", "correct": "false" },
+      { "sentence": "Subduction creates plains instantly.", "correct": "false" },
+      { "sentence": "Subduction stops plate movement.", "correct": "false" },
+      { "sentence": "Subduction happens only at rivers.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Subduction zones are areas where one tectonic plate moves beneath another into the mantle.",
+        "chinese": "俯冲带是一个构造板块进入另一个板块下方并进入地幔的区域。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A lava plume is a rising column of hot molten material.", "correct": "true" },
+      { "sentence": "A lava plume is frozen rock.", "correct": "false" },
+      { "sentence": "A lava plume forms in oceans only.", "correct": "false" },
+      { "sentence": "A lava plume is cold air.", "correct": "false" },
+      { "sentence": "A lava plume is a type of earthquake.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Lava plumes rise from deep within the mantle and can create volcanoes.",
+        "chinese": "岩浆柱从地幔深处上升，可能形成火山。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An earthquake is caused by sudden movement of tectonic plates.", "correct": "true" },
+      { "sentence": "An earthquake is a type of storm.", "correct": "false" },
+      { "sentence": "Earthquakes happen only in oceans.", "correct": "false" },
+      { "sentence": "Earthquakes are predictable exactly.", "correct": "false" },
+      { "sentence": "Earthquakes stop plate movement.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Earthquakes occur when stress builds up and is suddenly released along faults.",
+        "chinese": "地震发生在断层处应力突然释放时。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Divergent plates move away from each other.", "correct": "true" },
+      { "sentence": "Divergent plates collide.", "correct": "false" },
+      { "sentence": "Divergent plates never create land.", "correct": "false" },
+      { "sentence": "Divergent plates stop earthquakes.", "correct": "false" },
+      { "sentence": "Divergent plates move sideways.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Divergent plate boundaries form where plates separate and magma rises to create new crust.",
+        "chinese": "离散板块边界是板块相互分离并形成新地壳的地方。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Convergent plates move toward each other.", "correct": "true" },
+      { "sentence": "Convergent plates never cause mountains.", "correct": "false" },
+      { "sentence": "Convergent plates move apart.", "correct": "false" },
+      { "sentence": "Convergent plates only exist in oceans.", "correct": "false" },
+      { "sentence": "Convergent plates stop erosion.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Convergent boundaries can create mountains, volcanoes, or subduction zones.",
+        "chinese": "汇聚板块边界可形成山脉、火山或俯冲带。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A strike-slip fault involves plates sliding past each other.", "correct": "true" },
+      { "sentence": "A strike-slip fault forms volcanoes.", "correct": "false" },
+      { "sentence": "A strike-slip fault moves vertically only.", "correct": "false" },
+      { "sentence": "A strike-slip fault stops earthquakes.", "correct": "false" },
+      { "sentence": "A strike-slip fault occurs only underground rivers.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Strike-slip faults occur when tectonic plates slide horizontally past one another.",
+        "chinese": "走滑断层是构造板块彼此水平滑动形成的断层。"
+      }
+    ]
+  }
+]
