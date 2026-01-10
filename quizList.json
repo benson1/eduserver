@@ -801,5 +801,11 @@
         "file": "b2_scientific_method",
         "type": "science",
         "level": "2"
+    },
+        {
+             "name":"b2_tectonic_volcano",
+        "file": "b2_tectonic_volcano",
+        "type": "science",
+        "level": "2"
     }
 ]
