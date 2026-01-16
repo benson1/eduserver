@@ -807,5 +807,11 @@
         "file": "b2_tectonic_volcano",
         "type": "science",
         "level": "2"
+    },
+    {
+                 "name":"b4_volcanic_tectonic_comprehensive",
+        "file": "b4_volcanic_tectonic_comprehensive",
+        "type": "science",
+        "level": "4"
     }
 ]
