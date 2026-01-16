@@ -1,0 +1,405 @@
+[
+  {
+    "question": "Which statement best describes a convergent tectonic plate boundary?",
+    "options": [
+      {
+        "sentence": "Two tectonic plates move toward each other, often resulting in subduction or the formation of mountain ranges.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Two tectonic plates slide past each other horizontally, producing earthquakes along long fault lines without forming mountains.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Two tectonic plates move away from each other, allowing magma to rise and create new oceanic crust along mid-ocean ridges.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A single tectonic plate bends and fractures internally, forming rift valleys and shallow depressions rather than large mountain ranges.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Two tectonic plates rotate relative to each other, producing local faulting and tilting of crustal blocks without vertical uplift.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Convergent boundaries occur where plates collide, producing subduction zones, mountains, earthquakes, and volcanic activity.",
+        "chinese": "汇聚型板块边界发生在板块相互碰撞时，可形成俯冲带、山脉、地震和火山活动。"
+      }
+    ]
+  },
+  {
+    "question": "Which statement best describes a divergent tectonic plate boundary?",
+    "options": [
+      {
+        "sentence": "Two tectonic plates move away from each other, allowing magma to rise and form new crust at the boundary.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Two tectonic plates collide, forcing one plate downward into the mantle without producing new crust at the surface.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Two plates slide horizontally past one another along a transform fault, generating earthquakes but no new crust.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A single tectonic plate fractures internally, producing small valleys and fissures without significant magma upwelling.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Two plates rotate relative to each other, generating local uplift and faulting but no seafloor spreading or new crust formation.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Divergent boundaries form where plates separate, commonly producing mid-ocean ridges and volcanic activity.",
+        "chinese": "发散型板块边界形成于板块分离处，通常伴随洋中脊和火山活动。"
+      }
+    ]
+  },
+  {
+    "question": "Which statement correctly describes a strike-slip fault?",
+    "options": [
+      {
+        "sentence": "Tectonic plates slide horizontally past one another along a fault, commonly producing earthquakes.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Two tectonic plates move toward each other, producing mountain ranges and subduction zones along the collision front.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Two plates move apart, generating new oceanic crust and forming mid-ocean ridges rather than horizontal faulting.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A single plate fractures internally, producing small depressions and rift valleys without lateral motion of crustal blocks.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Tectonic plates rotate relative to one another, producing tilting and minor vertical displacement without horizontal earthquakes.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Strike-slip faults involve horizontal motion and do not create or destroy crust.",
+        "chinese": "走滑断层以水平运动为主，不会产生或消耗地壳。"
+      }
+    ]
+  },
+  {
+    "question": "Which statement best represents Alfred Wegener’s continental drift theory?",
+    "options": [
+      {
+        "sentence": "Earth’s continents were once joined together as a single landmass and later drifted apart over time.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Continents slowly move due to mantle plumes rising beneath them, which was not part of Wegener’s original proposal.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Continents remain stationary while ocean basins expand and contract independently, contrary to the drift hypothesis.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Large-scale volcanic eruptions force continents to shift positions, an idea not supported by Wegener’s evidence.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Tidal forces from the Moon or Sun drive the slow movement of continents, which was never part of Wegener’s theory.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Wegener proposed continental drift based on fossil and geological evidence but lacked a driving mechanism.",
+        "chinese": "魏格纳根据化石和地质证据提出大陆漂移学说，但未能解释其动力来源。"
+      }
+    ]
+  },
+  {
+    "question": "What was the key contribution of McKenzie and Parker (1967) to plate tectonic theory?",
+    "options": [
+      {
+        "sentence": "They used mathematical models and geophysical data to describe rigid plate motion on a spherical Earth.",
+        "correct": "true"
+      },
+      {
+        "sentence": "They proposed that mantle plumes alone caused all plate movement, without considering rigid plate kinematics.",
+        "correct": "false"
+      },
+      {
+        "sentence": "They suggested that erosion and sediment transport were responsible for tectonic plate motion, contrary to geophysical evidence.",
+        "correct": "false"
+      },
+      {
+        "sentence": "They focused on determining Earth’s age using radiometric dating rather than describing plate motion.",
+        "correct": "false"
+      },
+      {
+        "sentence": "They argued that continental drift alone explained all tectonic activity, ignoring plate rigidity and spherical Earth geometry.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "McKenzie and Parker helped establish plate tectonics by formally describing plate motion.",
+        "chinese": "麦肯齐和帕克通过正式描述板块运动，为板块构造理论奠定了基础。"
+      }
+    ]
+  },
+  {
+    "question": "Which statement best describes Pangaea?",
+    "options": [
+      {
+        "sentence": "A supercontinent that once included most of Earth’s continental landmasses.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A single modern continent located primarily in the Southern Hemisphere, unrelated to ancient supercontinents.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A large volcanic plateau formed by repeated basaltic eruptions rather than a unified landmass.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A region dominated by oceanic subduction zones instead of being a continuous continental assembly.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A recently formed landmass from the collision of modern continents, not an ancient supercontinent.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Pangaea existed hundreds of millions of years ago before breaking apart into modern continents.",
+        "chinese": "盘古大陆存在于数亿年前，随后分裂形成现代大陆。"
+      }
+    ]
+  },
+  {
+    "question": "Which statement correctly describes a subduction zone?",
+    "options": [
+      {
+        "sentence": "One tectonic plate sinks beneath another due to differences in density and composition.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Two tectonic plates slide horizontally past one another, producing earthquakes but no vertical sinking.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Two plates move away from each other, producing mid-ocean ridges and new crust rather than sinking.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A single plate fractures internally, producing valleys without interacting with another plate.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Two tectonic plates rotate relative to each other, tilting blocks without subduction into the mantle.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Subduction zones are associated with deep earthquakes, volcanoes, and ocean trenches.",
+        "chinese": "俯冲带通常与深源地震、火山和海沟有关。"
+      }
+    ]
+  },
+  {
+    "question": "Which statement best describes the Ring of Fire?",
+    "options": [
+      {
+        "sentence": "A region surrounding the Pacific Ocean characterized by frequent earthquakes and volcanic eruptions.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A chain of volcanoes along a mid-ocean ridge that produces new oceanic crust but few earthquakes.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A tectonically stable continental interior with minimal volcanic activity or seismic events.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A hotspot volcanic system in the central Pacific with limited connection to subduction zones.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A ring-shaped landmass formed from the breakup of Pangaea, without frequent earthquakes or volcanism.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "The Ring of Fire is primarily caused by subduction zones around the Pacific Plate.",
+        "chinese": "火环主要由太平洋板块周围的俯冲带形成。"
+      }
+    ]
+  },
+  {
+    "question": "Which statement correctly describes pumice?",
+    "options": [
+      {
+        "sentence": "A lightweight, highly porous volcanic rock formed from gas-rich lava during explosive eruptions.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A dense igneous rock that solidifies slowly beneath Earth’s surface, lacking porosity and trapped gas bubbles.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A sedimentary rock created from compacted volcanic ash rather than erupted lava.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A metamorphic rock altered under heat and pressure deep within the crust, not formed by explosive lava.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A volcanic rock formed exclusively during submarine eruptions, unlike pumice which forms in multiple settings.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Pumice forms when lava cools rapidly, trapping gas bubbles and producing a porous texture.",
+        "chinese": "浮石在熔岩快速冷却并困住气泡时形成，因此质地多孔。"
+      }
+    ]
+  },
+  {
+    "question": "Which statement best describes an aerosol in a volcanic context?",
+    "options": [
+      {
+        "sentence": "Tiny solid or liquid particles suspended in the atmosphere following a volcanic eruption.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Molten lava flows across the ground during an eruption, which does not produce airborne aerosols.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Large rock fragments ejected ballistically that fall quickly to the ground rather than remaining suspended.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Gases trapped beneath the crust before an eruption, which are not yet suspended in the atmosphere as aerosols.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Thick ash deposits that settle on the ground, rather than remaining airborne in the atmosphere.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Volcanic aerosols can affect climate by reflecting sunlight and altering atmospheric chemistry.",
+        "chinese": "火山气溶胶可通过反射阳光和改变大气化学成分影响气候。"
+      }
+    ]
+  },
+  {
+    "question": "Which statement correctly describes a caldera?",
+    "options": [
+      {
+        "sentence": "A large volcanic depression formed when a magma chamber empties and the ground collapses.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A steep volcanic cone built from alternating layers of lava and ash rather than from collapse of a chamber.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A narrow vent through which lava erupts continuously without forming a large depression.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A broad volcanic plateau formed by repeated lava flows instead of collapse of a magma chamber.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A fracture formed where plates slide past each other horizontally, not associated with caldera formation.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Calderas form after major eruptions cause the collapse of the surface above a magma chamber.",
+        "chinese": "破火山口是在大型喷发后岩浆房上方地表塌陷形成的。"
+      }
+    ]
+  },
+  {
+    "question": "Which statement best describes a lava plume?",
+    "options": [
+      {
+        "sentence": "An upwelling of hot molten material rising from deep within Earth’s mantle.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A surface lava flow spreading outward from a volcanic vent without connection to mantle upwelling.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A cloud of volcanic ash and gases expelled during an eruption, not originating from deep mantle material.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A fracture zone formed by horizontal movement of tectonic plates, unrelated to deep molten material.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A solidified magma layer trapped beneath the crust, which is intrusive rock rather than an actively rising plume.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Mantle plumes are believed to supply magma to hotspot volcanoes such as Hawaii.",
+        "chinese": "地幔柱被认为是夏威夷等热点火山的岩浆来源。"
+      }
+    ]
+  },
+  {
+    "question": "Which statement best describes the Kunlun Volcanic Group?",
+    "options": [
+      {
+        "sentence": "A volcanic region on the Tibetan Plateau associated with continental tectonic activity.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A chain of volcanoes along a mid-ocean ridge, unrelated to continental tectonics.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A hotspot volcanic system located in the central Pacific Ocean, far from the Tibetan Plateau.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A volcanic arc produced by subduction of an oceanic plate, unlike the intraplate Kunlun volcanism.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A single stratovolcano formed during a recent tectonic collision, not a broad volcanic group across the plateau.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "The Kunlun Volcanic Group is linked to tectonic processes within the Tibetan Plateau.",
+        "chinese": "昆仑火山群与青藏高原内部的构造过程有关。"
+      }
+    ]
+  }
+]
