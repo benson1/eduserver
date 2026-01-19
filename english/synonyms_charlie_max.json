@@ -1,113 +1,129 @@
 [
   {
-    "question": "Which is a correct synonym for 'clinging'? e.g. The wet shirt was clinging to his skin.",
+    "question": "Which is a correct synonym for 'queue'? e.g. We had to stand in a queue for tickets.",
     "options": [
-      { "sentence": "sticking", "correct": "true" },
-      { "sentence": "flying", "correct": "false" },
-      { "sentence": "folding", "correct": "false" },
-      { "sentence": "slipping", "correct": "false" },
-      { "sentence": "rolling", "correct": "false" }
+      { "sentence": "line", "correct": "true" },
+      { "sentence": "circle", "correct": "false" },
+      { "sentence": "group", "correct": "false" },
+      { "sentence": "crowd", "correct": "false" },
+      { "sentence": "room", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Clinging' means holding tightly or sticking closely, like 'sticking'.",
-        "chinese": "'Clinging' \u6307\u7d27\u8d34\u6216\u9ecf\u4f4f\uFF0C\u6bd4\u5982 'sticking'(\u7c98\u7740\u3002)"
+        "english": "'Queue' means a line of people waiting, like 'line'.",
+        "chinese": "'Queue' 指排队等候的人群，比如 'line'（队伍）。"
       }
     ]
   },
   {
-    "question": "Which is a correct synonym for 'tamper'? e.g. Don't tamper with the evidence.",
+    "question": "Which is a correct synonym for 'patient'? e.g. She was patient with the children.",
     "options": [
-      { "sentence": "interfere", "correct": "true" },
-      { "sentence": "clean", "correct": "false" },
-      { "sentence": "support", "correct": "false" },
-      { "sentence": "organize", "correct": "false" },
-      { "sentence": "hide", "correct": "false" }
+      { "sentence": "calm", "correct": "true" },
+      { "sentence": "angry", "correct": "false" },
+      { "sentence": "rushed", "correct": "false" },
+      { "sentence": "noisy", "correct": "false" },
+      { "sentence": "nervous", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Tamper' means to interfere with something in a harmful way, like 'interfere'.",
-        "chinese": "'Tamper' \u6307\u4ee5\u6709\u5bb3\u65b9\u5f0f\u5e72\u6d89\u67d0\u4e9b\u4e8b\u60c5\uFF0C\u6bd4\u5982 'interfere'(\u5e72\u6270\u3002)"
+        "english": "'Patient' means able to wait calmly without getting angry, like 'calm'.",
+        "chinese": "'Patient' 指有耐心、不容易生气，比如 'calm'（冷静的）。"
       }
     ]
   },
   {
-    "question": "Which is a correct synonym for 'polishing'? e.g. She was polishing the silverware.",
+    "question": "Which is a correct synonym for 'culture'? e.g. The city is known for its rich culture.",
     "options": [
-      { "sentence": "shining", "correct": "true" },
-      { "sentence": "scratching", "correct": "false" },
-      { "sentence": "painting", "correct": "false" },
-      { "sentence": "cutting", "correct": "false" },
-      { "sentence": "bending", "correct": "false" }
+      { "sentence": "traditions", "correct": "true" },
+      { "sentence": "buildings", "correct": "false" },
+      { "sentence": "weather", "correct": "false" },
+      { "sentence": "traffic", "correct": "false" },
+      { "sentence": "money", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Polishing' means making something shine by rubbing, like 'shining'.",
-        "chinese": "'Polishing' \u6307\u901a\u8fc7\u6469\u64e6\u4f7f\u7269\u4f53\u53d8\u4eae\uFF0C\u6bd4\u5982 'shining'(\u62ed\u4eae\u3002)"
+        "english": "'Culture' refers to traditions, customs, and ways of life, like 'traditions'.",
+        "chinese": "'Culture' 指传统、习俗和生活方式，比如 'traditions'（传统）。"
       }
     ]
   },
   {
-    "question": "Which is a correct synonym for 'interrupting'? e.g. He kept interrupting the teacher.",
+    "question": "Which is a correct synonym for 'careful'? e.g. Be careful when crossing the road.",
     "options": [
-      { "sentence": "disturbing", "correct": "true" },
-      { "sentence": "listening", "correct": "false" },
-      { "sentence": "drawing", "correct": "false" },
-      { "sentence": "answering", "correct": "false" },
-      { "sentence": "humming", "correct": "false" }
+      { "sentence": "cautious", "correct": "true" },
+      { "sentence": "careless", "correct": "false" },
+      { "sentence": "fast", "correct": "false" },
+      { "sentence": "lazy", "correct": "false" },
+      { "sentence": "loud", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Interrupting' means stopping or disturbing something in progress, like 'disturbing'.",
-        "chinese": "'Interrupting' \u6307\u6254\u65ad\u6216\u6253\u6270\u6b63\u5728\u8fdb\u884c\u7684\u4e8b\u60c5\uFF0C\u6bd4\u5982 'disturbing'(\u6253\u6270\u3002)"
+        "english": "'Careful' means paying attention to avoid danger or mistakes, like 'cautious'.",
+        "chinese": "'Careful' 指小心谨慎，避免危险或错误，比如 'cautious'（谨慎的）。"
       }
     ]
   },
   {
-    "question": "Which is a correct synonym for 'jigsaw puzzle'? e.g. He spent the afternoon doing a jigsaw puzzle.",
+    "question": "Which is a correct synonym for 'explain'? e.g. The teacher will explain the problem.",
     "options": [
-      { "sentence": "puzzle", "correct": "true" },
-      { "sentence": "map", "correct": "false" },
-      { "sentence": "book", "correct": "false" },
-      { "sentence": "board", "correct": "false" },
-      { "sentence": "clock", "correct": "false" }
+      { "sentence": "describe", "correct": "true" },
+      { "sentence": "hide", "correct": "false" },
+      { "sentence": "forget", "correct": "false" },
+      { "sentence": "refuse", "correct": "false" },
+      { "sentence": "break", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Jigsaw puzzle' is a kind of puzzle made of pieces that fit together, so 'puzzle' is correct.",
-        "chinese": "'Jigsaw puzzle' \u662f\u4e00\u79cd\u7531\u5408\u4e00\u7684\u7247\u6bb5\u7ec4\u6210\u7684\u62fc\u56fe\u6e38\u620f\uFF0C\u56e0\u6b64 'puzzle'(\u8c1c\u9898)\u662f\u6b63\u786e\u7684\u540c\u4e49\u8bcd\u3002"
+        "english": "'Explain' means to make something clear by describing it, like 'describe'.",
+        "chinese": "'Explain' 指通过描述让事情更清楚，比如 'describe'（描述）。"
       }
     ]
   },
   {
-    "question": "Which is a correct synonym for 'mattress'? e.g. She lay down on the soft mattress.",
+    "question": "Which is a correct synonym for 'accident'? e.g. He was hurt in a car accident.",
     "options": [
-      { "sentence": "bedpad", "correct": "true" },
-      { "sentence": "cupboard", "correct": "false" },
-      { "sentence": "blanket", "correct": "false" },
-      { "sentence": "curtain", "correct": "false" },
-      { "sentence": "radio", "correct": "false" }
+      { "sentence": "incident", "correct": "true" },
+      { "sentence": "plan", "correct": "false" },
+      { "sentence": "decision", "correct": "false" },
+      { "sentence": "success", "correct": "false" },
+      { "sentence": "routine", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Mattress' refers to the soft part of a bed you lie on, like a 'bedpad'.",
-        "chinese": "'Mattress' \u6307\u4f60\u8eba\u5728\u5e8a\u4e0a\u7684\u90a3\u5c42\u8f6f\u57ab\uFF0C\u6bd4\u5982 'bedpad'(\u5e8a\u57ab)\u3002"
+        "english": "'Accident' means an unexpected event, often causing harm, like 'incident'.",
+        "chinese": "'Accident' 指意外发生的事情，通常造成伤害，比如 'incident'（事件）。"
       }
     ]
   },
   {
-    "question": "Which is a correct synonym for 'ordinary'? e.g. It was just an ordinary day.",
+    "question": "Which is a correct synonym for 'ingredients'? e.g. The soup needs fresh ingredients.",
     "options": [
-      { "sentence": "normal", "correct": "true" },
-      { "sentence": "rare", "correct": "false" },
-      { "sentence": "special", "correct": "false" },
-      { "sentence": "amazing", "correct": "false" },
-      { "sentence": "dangerous", "correct": "false" }
+      { "sentence": "components", "correct": "true" },
+      { "sentence": "dishes", "correct": "false" },
+      { "sentence": "tools", "correct": "false" },
+      { "sentence": "plates", "correct": "false" },
+      { "sentence": "prices", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Ordinary' means usual or not special, like 'normal'.",
-        "chinese": "'Ordinary' \u6307\u5e38\u89c4\u6216\u4e0d\u7279\u522b\u7684\uFF0C\u6bd4\u5982 'normal'(\u666e\u901a\u7684)\u3002"
+        "english": "'Ingredients' are the parts used to make food, like 'components'.",
+        "chinese": "'Ingredients' 指制作食物所需的材料，比如 'components'（组成部分）。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'recipe'? e.g. This recipe is easy to follow.",
+    "options": [
+      { "sentence": "instructions", "correct": "true" },
+      { "sentence": "meal", "correct": "false" },
+      { "sentence": "kitchen", "correct": "false" },
+      { "sentence": "ingredient", "correct": "false" },
+      { "sentence": "taste", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Recipe' means instructions for making food, like 'instructions'.",
+        "chinese": "'Recipe' 指做菜的步骤说明，比如 'instructions'（说明）。"
       }
     ]
   }
