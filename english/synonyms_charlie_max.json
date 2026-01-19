@@ -1,129 +1,129 @@
 [
   {
-    "question": "Which is a correct synonym for 'queue'? e.g. We had to stand in a queue for tickets.",
+    "question": "Which is the correct use of the word 'queue'?",
     "options": [
-      { "sentence": "line", "correct": "true" },
-      { "sentence": "circle", "correct": "false" },
-      { "sentence": "group", "correct": "false" },
-      { "sentence": "crowd", "correct": "false" },
-      { "sentence": "room", "correct": "false" }
+      { "sentence": "We waited in a long queue outside the cinema.", "correct": "true" },
+      { "sentence": "She queued her homework on the table.", "correct": "false" },
+      { "sentence": "The dog queue loudly all night.", "correct": "false" },
+      { "sentence": "He queue the window open.", "correct": "false" },
+      { "sentence": "They queue happy today.", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Queue' means a line of people waiting, like 'line'.",
-        "chinese": "'Queue' 指排队等候的人群，比如 'line'（队伍）。"
+        "english": "'Queue' is correctly used to mean a line of people waiting.",
+        "chinese": "'Queue' 正确用来表示排队等候的人群。"
       }
     ]
   },
   {
-    "question": "Which is a correct synonym for 'patient'? e.g. She was patient with the children.",
+    "question": "Which is a correct synonym for 'patient'? e.g. The nurse was very patient.",
     "options": [
-      { "sentence": "calm", "correct": "true" },
+      { "sentence": "tolerant", "correct": "true" },
       { "sentence": "angry", "correct": "false" },
       { "sentence": "rushed", "correct": "false" },
-      { "sentence": "noisy", "correct": "false" },
-      { "sentence": "nervous", "correct": "false" }
+      { "sentence": "careless", "correct": "false" },
+      { "sentence": "wild", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Patient' means able to wait calmly without getting angry, like 'calm'.",
-        "chinese": "'Patient' 指有耐心、不容易生气，比如 'calm'（冷静的）。"
+        "english": "'Patient' means able to wait calmly, like 'tolerant'.",
+        "chinese": "'Patient' 指能冷静等待，比如 'tolerant'（有耐心的）。"
       }
     ]
   },
   {
-    "question": "Which is a correct synonym for 'culture'? e.g. The city is known for its rich culture.",
+    "question": "Which is the correct use of the word 'culture'?",
     "options": [
-      { "sentence": "traditions", "correct": "true" },
-      { "sentence": "buildings", "correct": "false" },
-      { "sentence": "weather", "correct": "false" },
-      { "sentence": "traffic", "correct": "false" },
-      { "sentence": "money", "correct": "false" }
+      { "sentence": "The museum teaches us about local culture.", "correct": "true" },
+      { "sentence": "She cultured her shoes before school.", "correct": "false" },
+      { "sentence": "Culture is eating breakfast quickly.", "correct": "false" },
+      { "sentence": "He culture very fast today.", "correct": "false" },
+      { "sentence": "The culture ran across the street.", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Culture' refers to traditions, customs, and ways of life, like 'traditions'.",
-        "chinese": "'Culture' 指传统、习俗和生活方式，比如 'traditions'（传统）。"
+        "english": "'Culture' refers to traditions, customs, and ways of life.",
+        "chinese": "'Culture' 指传统、习俗和生活方式。"
       }
     ]
   },
   {
-    "question": "Which is a correct synonym for 'careful'? e.g. Be careful when crossing the road.",
+    "question": "Which is a correct synonym for 'careful'? e.g. Be careful with the glass.",
     "options": [
       { "sentence": "cautious", "correct": "true" },
       { "sentence": "careless", "correct": "false" },
       { "sentence": "fast", "correct": "false" },
-      { "sentence": "lazy", "correct": "false" },
-      { "sentence": "loud", "correct": "false" }
+      { "sentence": "noisy", "correct": "false" },
+      { "sentence": "rude", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Careful' means paying attention to avoid danger or mistakes, like 'cautious'.",
-        "chinese": "'Careful' 指小心谨慎，避免危险或错误，比如 'cautious'（谨慎的）。"
+        "english": "'Careful' means taking care to avoid mistakes or danger.",
+        "chinese": "'Careful' 指小心谨慎，避免错误或危险。"
       }
     ]
   },
   {
-    "question": "Which is a correct synonym for 'explain'? e.g. The teacher will explain the problem.",
+    "question": "Which is the correct use of the word 'explain'?",
     "options": [
-      { "sentence": "describe", "correct": "true" },
-      { "sentence": "hide", "correct": "false" },
-      { "sentence": "forget", "correct": "false" },
-      { "sentence": "refuse", "correct": "false" },
-      { "sentence": "break", "correct": "false" }
+      { "sentence": "The teacher explained the answer clearly.", "correct": "true" },
+      { "sentence": "She explain very happy today.", "correct": "false" },
+      { "sentence": "He explained the door open.", "correct": "false" },
+      { "sentence": "Explain is on the table.", "correct": "false" },
+      { "sentence": "They explain fast running.", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Explain' means to make something clear by describing it, like 'describe'.",
-        "chinese": "'Explain' 指通过描述让事情更清楚，比如 'describe'（描述）。"
+        "english": "'Explain' means to make something clear by giving details.",
+        "chinese": "'Explain' 指通过说明让事情变清楚。"
       }
     ]
   },
   {
-    "question": "Which is a correct synonym for 'accident'? e.g. He was hurt in a car accident.",
+    "question": "Which is a correct synonym for 'accident'? e.g. It was a serious accident.",
     "options": [
-      { "sentence": "incident", "correct": "true" },
+      { "sentence": "mishap", "correct": "true" },
       { "sentence": "plan", "correct": "false" },
-      { "sentence": "decision", "correct": "false" },
-      { "sentence": "success", "correct": "false" },
-      { "sentence": "routine", "correct": "false" }
+      { "sentence": "choice", "correct": "false" },
+      { "sentence": "habit", "correct": "false" },
+      { "sentence": "schedule", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Accident' means an unexpected event, often causing harm, like 'incident'.",
-        "chinese": "'Accident' 指意外发生的事情，通常造成伤害，比如 'incident'（事件）。"
+        "english": "'Accident' means something unexpected that goes wrong.",
+        "chinese": "'Accident' 指意外发生的不好的事情。"
       }
     ]
   },
   {
-    "question": "Which is a correct synonym for 'ingredients'? e.g. The soup needs fresh ingredients.",
+    "question": "Which is the correct use of the word 'ingredients'?",
     "options": [
-      { "sentence": "components", "correct": "true" },
-      { "sentence": "dishes", "correct": "false" },
-      { "sentence": "tools", "correct": "false" },
-      { "sentence": "plates", "correct": "false" },
-      { "sentence": "prices", "correct": "false" }
+      { "sentence": "Flour and eggs are ingredients for the cake.", "correct": "true" },
+      { "sentence": "She ingredient the soup quickly.", "correct": "false" },
+      { "sentence": "Ingredients is sleeping on the bed.", "correct": "false" },
+      { "sentence": "The ingredients ran to school.", "correct": "false" },
+      { "sentence": "He ingredients very carefully.", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Ingredients' are the parts used to make food, like 'components'.",
-        "chinese": "'Ingredients' 指制作食物所需的材料，比如 'components'（组成部分）。"
+        "english": "'Ingredients' are the foods used to make a dish.",
+        "chinese": "'Ingredients' 指制作一道菜所用的材料。"
       }
     ]
   },
   {
-    "question": "Which is a correct synonym for 'recipe'? e.g. This recipe is easy to follow.",
+    "question": "Which is a correct synonym for 'recipe'? e.g. This recipe is simple.",
     "options": [
       { "sentence": "instructions", "correct": "true" },
-      { "sentence": "meal", "correct": "false" },
       { "sentence": "kitchen", "correct": "false" },
-      { "sentence": "ingredient", "correct": "false" },
-      { "sentence": "taste", "correct": "false" }
+      { "sentence": "plate", "correct": "false" },
+      { "sentence": "taste", "correct": "false" },
+      { "sentence": "chef", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Recipe' means instructions for making food, like 'instructions'.",
-        "chinese": "'Recipe' 指做菜的步骤说明，比如 'instructions'（说明）。"
+        "english": "'Recipe' means instructions for cooking food.",
+        "chinese": "'Recipe' 指烹饪食物的步骤说明。"
       }
     ]
   }
