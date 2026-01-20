@@ -816,13 +816,13 @@
     },
             {
              "name":"newton_laws_hooke_easier",
-        "file": "    newton_laws_hooke_easier",
+        "file": "newton_laws_hooke_easier",
         "type": "science",
         "level": "2"
     },
                 {
              "name":"newton_laws_hooke",
-        "file": "    newton_laws_hooke",
+        "file": "newton_laws_hooke",
         "type": "science",
         "level": "4"
     }
