@@ -1,0 +1,250 @@
+[
+  {
+    "question": "What is a newton (N)?",
+    "options": [
+      {
+        "sentence": "A unit used to measure how strong a push or pull is on an object.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A unit used to measure how fast an object is moving through space.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A unit used to measure how much space an object takes up.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A unit used to measure how much energy an object has stored.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A unit used to measure how hot or cold an object feels.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "A newton tells us how strong a force is, like how hard you push or pull something.",
+        "chinese": "牛顿用来表示力的大小，比如推或拉物体的力度。"
+      }
+    ]
+  },
+  {
+    "question": "What does elasticity mean?",
+    "options": [
+      {
+        "sentence": "The ability of an object to stretch or bend and then return to its original shape.",
+        "correct": "true"
+      },
+      {
+        "sentence": "The amount of force needed to make an object start moving.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The speed an object moves when a force is applied to it.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The weight of an object caused by gravity pulling on it.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The energy an object has because it is moving.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Elastic objects can change shape and then go back to how they were before.",
+        "chinese": "有弹性的物体在变形后可以恢复原来的形状。"
+      }
+    ]
+  },
+  {
+    "question": "What does Hooke’s Law describe?",
+    "options": [
+      {
+        "sentence": "A spring pulls harder the more it is stretched or squeezed.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Objects move faster when they have more mass.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Objects keep moving unless something stops them.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Forces always happen in pairs between two objects.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Energy cannot be created or destroyed.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Hooke’s Law explains how springs push or pull based on how much they are stretched.",
+        "chinese": "胡克定律解释了弹簧被拉伸或压缩时产生的力。"
+      }
+    ]
+  },
+  {
+    "question": "What is inertia?",
+    "options": [
+      {
+        "sentence": "The tendency of an object to keep doing what it is already doing.",
+        "correct": "true"
+      },
+      {
+        "sentence": "The force that makes objects fall toward the ground.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The energy stored inside a stretched object.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The speed of an object while it is moving.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The force created when two objects collide.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Inertia explains why objects do not change motion easily.",
+        "chinese": "惯性解释了物体为什么不容易改变运动状态。"
+      }
+    ]
+  },
+  {
+    "question": "What does Newton’s First Law say?",
+    "options": [
+      {
+        "sentence": "An object keeps resting or moving the same way unless a force acts on it.",
+        "correct": "true"
+      },
+      {
+        "sentence": "An object moves faster when more force is used.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Forces between objects always come in equal pairs.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Springs push back harder when stretched more.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Energy stays the same in a closed system.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Newton’s First Law is about motion staying the same unless a force changes it.",
+        "chinese": "牛顿第一定律说明物体的运动状态只有在受到力时才会改变。"
+      }
+    ]
+  },
+  {
+    "question": "What does Newton’s Second Law explain?",
+    "options": [
+      {
+        "sentence": "A bigger force or a lighter object causes greater speeding up.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Objects keep moving unless something stops them.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Every force has a matching force in the opposite direction.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Elastic objects return to their original shape.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Moving objects have energy because they are moving.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Newton’s Second Law connects force, mass, and speeding up.",
+        "chinese": "牛顿第二定律把力、质量和加速度联系在一起。"
+      }
+    ]
+  },
+  {
+    "question": "A force of 10 newtons pushes a 2-kilogram object. How fast does it speed up?",
+    "options": [
+      {
+        "sentence": "The object speeds up by 5 meters per second every second.",
+        "correct": "true"
+      },
+      {
+        "sentence": "The object speeds up by 20 meters per second every second.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The object speeds up by 2 meters per second every second.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The object speeds up by 10 meters per second every second.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The object speeds up by 0.2 meters per second every second.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Using force equals mass times speeding up, 10 divided by 2 equals 5.",
+        "chinese": "根据公式力等于质量乘以加速度，10 ÷ 2 = 5。"
+      }
+    ]
+  },
+  {
+    "question": "What does Newton’s Third Law describe?",
+    "options": [
+      {
+        "sentence": "When one object pushes another, the second object pushes back equally.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Objects resist changes in motion because of their mass.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Objects move faster when more force is applied.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Springs create force when they are stretched.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Objects stay still unless a force acts on them.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Newton’s Third Law explains that forces always come in pairs.",
+        "chinese": "牛顿第三定律说明力总是成对出现的。"
+      }
+    ]
+  }
+]
