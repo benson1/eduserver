@@ -1,0 +1,188 @@
+[
+  {
+    "question": "What happens at a convergent tectonic plate boundary?",
+    "options": [
+      {
+        "sentence": "Two tectonic plates move toward each other and push together, which can create mountains, volcanoes, or earthquakes.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Two tectonic plates slide past each other sideways, moving next to one another instead of pushing together to form mountains.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Two tectonic plates move away from each other over time, opening space between them rather than colliding.",
+        "correct": "false"
+      },
+      {
+        "sentence": "One tectonic plate cracks or breaks by itself without touching or interacting with another plate nearby.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Two tectonic plates slowly spin or rotate around each other instead of moving directly toward one another.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Convergent boundaries happen when plates push together, often forming mountains, volcanoes, and earthquakes.",
+        "chinese": "汇聚型板块边界是板块相互挤压形成的，常会产生山脉、火山和地震。"
+      }
+    ]
+  },
+  {
+    "question": "What happens at a divergent tectonic plate boundary?",
+    "options": [
+      {
+        "sentence": "Two tectonic plates slowly move away from each other, and hot melted rock can rise up to form new land.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Two tectonic plates crash into each other with strong force, building tall mountain ranges instead of pulling apart.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Two tectonic plates slide sideways past one another, moving horizontally rather than separating.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A single plate breaks in the middle on its own, without actually moving away from another plate.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Two tectonic plates twist around each other slowly, rather than moving apart in opposite directions.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Divergent boundaries form when plates pull apart and magma rises to create new crust.",
+        "chinese": "发散型板块边界是在板块分开时形成的，新地壳会从地下形成。"
+      }
+    ]
+  },
+  {
+    "question": "What is a strike-slip fault?",
+    "options": [
+      {
+        "sentence": "A strike-slip fault is where two plates slide past each other sideways, often causing earthquakes.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A strike-slip fault is where two plates push together over time and form mountains along their edges.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A strike-slip fault is where plates move away from each other and create new land between them.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A strike-slip fault is where one plate sinks down beneath another plate deep into the Earth.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A strike-slip fault is a type of volcano that explodes and leaves behind a large hole in the ground.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Strike-slip faults move sideways and usually cause earthquakes, but they do not make or destroy land.",
+        "chinese": "走滑断层以水平移动为主，通常会引发地震，但不会形成或破坏地壳。"
+      }
+    ]
+  },
+  {
+    "question": "What did Alfred Wegener believe about Earth’s continents?",
+    "options": [
+      {
+        "sentence": "Alfred Wegener believed that all the continents were once joined together and slowly drifted apart over time.",
+        "correct": "true"
+      },
+      {
+        "sentence": "He believed that continents have always stayed in the same places and never moved at all.",
+        "correct": "false"
+      },
+      {
+        "sentence": "He believed volcanoes pushed continents around the Earth as the main reason they changed position.",
+        "correct": "false"
+      },
+      {
+        "sentence": "He believed the Moon pulled continents across the planet using strong tidal forces.",
+        "correct": "false"
+      },
+      {
+        "sentence": "He believed only oceans moved while continents stayed fixed in place.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Wegener used fossils and rock evidence to suggest that continents once fit together.",
+        "chinese": "魏格纳通过化石和岩石证据提出大陆曾经连在一起。"
+      }
+    ]
+  },
+  {
+    "question": "What was important about the work of McKenzie and Parker?",
+    "options": [
+      {
+        "sentence": "They used math and Earth science to explain how hard tectonic plates move across the surface of a round Earth.",
+        "correct": "true"
+      },
+      {
+        "sentence": "They said volcanoes alone were the reason tectonic plates move, without using math or plate motion models.",
+        "correct": "false"
+      },
+      {
+        "sentence": "They studied plants and animals instead of focusing on Earth’s tectonic plates.",
+        "correct": "false"
+      },
+      {
+        "sentence": "They worked on finding the age of dinosaurs rather than studying plate movement.",
+        "correct": "false"
+      },
+      {
+        "sentence": "They believed tectonic plates were soft and stretchy instead of hard and rigid.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Their work helped scientists understand plate tectonics in a clear and scientific way.",
+        "chinese": "他们的研究帮助科学家更清楚地理解板块构造理论。"
+      }
+    ]
+  },
+  {
+    "question": "What was Pangaea?",
+    "options": [
+      {
+        "sentence": "Pangaea was one huge land where all of Earth’s continents were once connected together.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Pangaea is a new continent that is still forming in the modern world today.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Pangaea was a giant volcano located in the middle of the ocean.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Pangaea was a place made only of oceans, with no land at all.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Pangaea is the name of a modern country on Earth.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Pangaea existed long ago before it slowly broke apart into today’s continents.",
+        "chinese": "盘古大陆存在于很久以前，后来逐渐分裂成今天的大陆。"
+      }
+    ]
+  }
+]
