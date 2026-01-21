@@ -825,5 +825,11 @@
         "file": "newton_laws_hooke",
         "type": "science",
         "level": "4"
+    },
+    {
+         "name":"b2_tectonics_volcanos",
+        "file":"b2_tectonics_volcanos",
+        "type": "science",
+        "level": "2"
     }
 ]
