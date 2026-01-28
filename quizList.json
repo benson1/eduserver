@@ -831,5 +831,11 @@
         "file":"b2_tectonics_volcanos",
         "type": "science",
         "level": "2"
+    },
+    {
+               "name":"b2_sound_sonar",
+        "file":"b2_sound_sonar",
+        "type": "science",
+        "level": "2"
     }
 ]
