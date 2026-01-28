@@ -1,0 +1,312 @@
+[
+  {
+    "question": "Through which material does sound travel the fastest?",
+    "options": [
+      {
+        "sentence": "Sound travels fastest through solids because the particles are very close together and can pass vibrations along quickly.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Sound travels fastest through liquids because the particles can move around and carry sound easily through the water.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Sound travels fastest through gases because the particles have lots of space to move freely.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Sound travels fastest through soft materials because they gently carry vibrations.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Sound travels at the same speed through all materials because sound always moves.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Sound moves fastest in solids because their particles are packed closely and pass vibrations quickly.",
+        "chinese": "声音在固体中传播最快，因为粒子排列紧密，振动传递得更快。"
+      }
+    ]
+  },
+  {
+    "question": "What is a transverse wave?",
+    "options": [
+      {
+        "sentence": "A transverse wave is a wave where the movement goes up and down while the wave moves forward.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A transverse wave is a wave where the movement goes back and forth in the same direction the wave is travelling.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A transverse wave is a wave that only moves once and then stops.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A transverse wave is a wave that can only be made by sound.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A transverse wave is a wave that only travels through water.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "In transverse waves, movement is sideways compared to the direction the wave travels.",
+        "chinese": "横波中，振动方向与波的传播方向是侧向的。"
+      }
+    ]
+  },
+  {
+    "question": "What is a longitudinal wave?",
+    "options": [
+      {
+        "sentence": "A longitudinal wave is a wave where the movement goes back and forth in the same direction the wave travels.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A longitudinal wave is a wave where the movement goes up and down while the wave moves forward.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A longitudinal wave is a wave where nothing moves and only energy travels.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A longitudinal wave is a wave that only happens in the ocean.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A longitudinal wave is a wave that stops when it touches an object.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Sound waves are longitudinal waves where particles move back and forth.",
+        "chinese": "声波是纵波，粒子会前后振动。"
+      }
+    ]
+  },
+  {
+    "question": "What is hertz (Hz)?",
+    "options": [
+      {
+        "sentence": "Hertz is a way to measure how many times something vibrates in one second.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Hertz is a way to measure how loud a sound is by how strong it feels.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Hertz is a tool used to hear sounds that are very quiet.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Hertz is a number that shows how far sound can travel.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Hertz is a unit used to measure how heavy an object is.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Hertz tells us how fast something is vibrating.",
+        "chinese": "赫兹表示振动发生得有多快。"
+      }
+    ]
+  },
+  {
+    "question": "What is sound energy?",
+    "options": [
+      {
+        "sentence": "Sound energy is energy made when objects vibrate and send sound waves through air, water, or solids.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Sound energy is energy stored inside food that helps living things grow.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Sound energy is energy that only comes from electricity and batteries.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Sound energy is energy that can be seen but not heard.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Sound energy is energy that stays still and does not travel.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Sound energy comes from vibrations that move through materials.",
+        "chinese": "声音能量来自通过介质传播的振动。"
+      }
+    ]
+  },
+  {
+    "question": "What are vibrations?",
+    "options": [
+      {
+        "sentence": "Vibrations are fast back-and-forth movements that make sound.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Vibrations are slow movements that only go in one direction.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Vibrations are movements that only happen with light.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Vibrations are movements that only happen in water.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Vibrations are movements that stop sound from travelling.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Vibrations are quick movements that create sound waves.",
+        "chinese": "振动是产生声波的快速运动。"
+      }
+    ]
+  },
+  {
+    "question": "What does pitch tell us about a sound?",
+    "options": [
+      {
+        "sentence": "Pitch tells us how high or low a sound is, based on how fast it vibrates.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Pitch tells us how loud or quiet a sound is, based on how strong the vibration is.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Pitch tells us how far a sound can travel before it fades away.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Pitch tells us how fast sound moves through the air.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Pitch tells us what colour a sound would be if we could see it.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Fast vibrations make high pitch sounds, and slow vibrations make low pitch sounds.",
+        "chinese": "振动快的声音音调高，振动慢的声音音调低。"
+      }
+    ]
+  },
+  {
+    "question": "What is frequency?",
+    "options": [
+      {
+        "sentence": "Frequency is how many times something vibrates in one second.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Frequency is how strong the vibration feels when you hear a sound.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Frequency is how tall a wave looks when it is drawn.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Frequency is how far sound travels from where it was made.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Frequency is how long a sound lasts after it starts.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Frequency tells us how fast something is vibrating.",
+        "chinese": "频率表示振动的快慢。"
+      }
+    ]
+  },
+  {
+    "question": "What does amplitude tell us about a sound?",
+    "options": [
+      {
+        "sentence": "Amplitude tells us how loud or quiet a sound is by showing how strong the vibrations are.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Amplitude tells us how high or low the sound is.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Amplitude tells us how fast sound waves travel.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Amplitude tells us how many times a sound vibrates each second.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Amplitude tells us how far away the sound was made.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Stronger vibrations make louder sounds.",
+        "chinese": "振动越强，声音越响。"
+      }
+    ]
+  },
+  {
+    "question": "What is SONAR?",
+    "options": [
+      {
+        "sentence": "SONAR is a system that uses sound to find objects underwater by sending sound waves and listening for the echoes that bounce back.",
+        "correct": "true"
+      },
+      {
+        "sentence": "SONAR is a system that uses light to find objects underwater by shining bright light and measuring reflections.",
+        "correct": "false"
+      },
+      {
+        "sentence": "SONAR is a system that uses water movement to push objects toward the surface.",
+        "correct": "false"
+      },
+      {
+        "sentence": "SONAR is a machine that makes loud sounds to scare sea animals away.",
+        "correct": "false"
+      },
+      {
+        "sentence": "SONAR is a tool that helps sound travel faster through water.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "SONAR works by sending sound waves and listening for echoes to locate objects underwater.",
+        "chinese": "声呐通过发出声波并接收回声来定位水下物体。"
+      }
+    ]
+  }
+]
