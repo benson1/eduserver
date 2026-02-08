@@ -837,5 +837,11 @@
         "file":"b2_sound_sonar",
         "type": "science",
         "level": "2"
+    },
+    {
+        "name":"synonyms_challenging_10_years_old.json",
+        "file": "synonyms_challenging_10_years_old.json",
+        "type": "english",
+        "level": "6"  
     }
 ]
