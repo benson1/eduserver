@@ -1,0 +1,307 @@
+[
+  {
+    "question": "Which is a correct synonym for 'enthusiast'? e.g. He is a car enthusiast who collects vintage vehicles.",
+    "options": [
+      { "sentence": "fan", "correct": "true" },
+      { "sentence": "critic", "correct": "false" },
+      { "sentence": "enemy", "correct": "false" },
+      { "sentence": "stranger", "correct": "false" },
+      { "sentence": "leader", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Enthusiast' means a person who is very interested in a particular activity or subject, like a 'fan'.",
+        "chinese": "'Enthusiast' 是对某个活动或主题非常感兴趣的人，比如 'fan'（粉丝）。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'assist'? e.g. She assisted her friend with homework.",
+    "options": [
+      { "sentence": "help", "correct": "true" },
+      { "sentence": "ignore", "correct": "false" },
+      { "sentence": "delay", "correct": "false" },
+      { "sentence": "refuse", "correct": "false" },
+      { "sentence": "confuse", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Assist' means to help someone do something.",
+        "chinese": "'Assist' 的意思是帮助某人做某事。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'purchase'? e.g. He purchased a new laptop.",
+    "options": [
+      { "sentence": "buy", "correct": "true" },
+      { "sentence": "borrow", "correct": "false" },
+      { "sentence": "steal", "correct": "false" },
+      { "sentence": "sell", "correct": "false" },
+      { "sentence": "lose", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Purchase' means to buy something.",
+        "chinese": "'Purchase' 的意思是购买。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'rapid'? e.g. The rapid growth surprised everyone.",
+    "options": [
+      { "sentence": "fast", "correct": "true" },
+      { "sentence": "slow", "correct": "false" },
+      { "sentence": "weak", "correct": "false" },
+      { "sentence": "late", "correct": "false" },
+      { "sentence": "quiet", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Rapid' describes something that happens very quickly.",
+        "chinese": "'Rapid' 形容事情发生得非常快。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'select'? e.g. Please select the correct answer.",
+    "options": [
+      { "sentence": "choose", "correct": "true" },
+      { "sentence": "reject", "correct": "false" },
+      { "sentence": "hide", "correct": "false" },
+      { "sentence": "lose", "correct": "false" },
+      { "sentence": "mix", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Select' means to choose from several options.",
+        "chinese": "'Select' 的意思是从多个选项中选择。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'fortunate'? e.g. She was fortunate to find a good job.",
+    "options": [
+      { "sentence": "lucky", "correct": "true" },
+      { "sentence": "careless", "correct": "false" },
+      { "sentence": "poor", "correct": "false" },
+      { "sentence": "angry", "correct": "false" },
+      { "sentence": "tired", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Fortunate' means having good luck.",
+        "chinese": "'Fortunate' 的意思是幸运的。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'observe'? e.g. The scientist observed the experiment closely.",
+    "options": [
+      { "sentence": "watch", "correct": "true" },
+      { "sentence": "break", "correct": "false" },
+      { "sentence": "build", "correct": "false" },
+      { "sentence": "forget", "correct": "false" },
+      { "sentence": "avoid", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Observe' means to watch carefully.",
+        "chinese": "'Observe' 的意思是仔细观察。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'confident'? e.g. He felt confident about the exam.",
+    "options": [
+      { "sentence": "sure", "correct": "true" },
+      { "sentence": "nervous", "correct": "false" },
+      { "sentence": "silent", "correct": "false" },
+      { "sentence": "weak", "correct": "false" },
+      { "sentence": "uncertain", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Confident' means feeling sure about yourself or something.",
+        "chinese": "'Confident' 的意思是有信心的。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'essential'? e.g. Water is essential for life.",
+    "options": [
+      { "sentence": "necessary", "correct": "true" },
+      { "sentence": "optional", "correct": "false" },
+      { "sentence": "dangerous", "correct": "false" },
+      { "sentence": "expensive", "correct": "false" },
+      { "sentence": "rare", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Essential' means extremely important or necessary.",
+        "chinese": "'Essential' 的意思是非常重要或必需的。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'decline'? e.g. He declined the invitation.",
+    "options": [
+      { "sentence": "refuse", "correct": "true" },
+      { "sentence": "accept", "correct": "false" },
+      { "sentence": "delay", "correct": "false" },
+      { "sentence": "explain", "correct": "false" },
+      { "sentence": "improve", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Decline' means to politely refuse something.",
+        "chinese": "'Decline' 的意思是礼貌地拒绝。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which is a correct synonym for 'maintain'? e.g. She maintains a healthy lifestyle.",
+    "options": [
+      { "sentence": "keep", "correct": "true" },
+      { "sentence": "destroy", "correct": "false" },
+      { "sentence": "forget", "correct": "false" },
+      { "sentence": "create", "correct": "false" },
+      { "sentence": "remove", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Maintain' means to keep something in the same condition.",
+        "chinese": "'Maintain' 的意思是保持某种状态。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'reluctant'? e.g. He was reluctant to share his opinion.",
+    "options": [
+      { "sentence": "unwilling", "correct": "true" },
+      { "sentence": "excited", "correct": "false" },
+      { "sentence": "ready", "correct": "false" },
+      { "sentence": "careful", "correct": "false" },
+      { "sentence": "curious", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Reluctant' means not willing or hesitant to do something.",
+        "chinese": "'Reluctant' 的意思是不情愿的。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'significant'? e.g. There was a significant change in temperature.",
+    "options": [
+      { "sentence": "important", "correct": "true" },
+      { "sentence": "tiny", "correct": "false" },
+      { "sentence": "ordinary", "correct": "false" },
+      { "sentence": "brief", "correct": "false" },
+      { "sentence": "unclear", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Significant' means important or noticeable.",
+        "chinese": "'Significant' 的意思是重要的或显著的。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'demonstrate'? e.g. The teacher demonstrated the experiment.",
+    "options": [
+      { "sentence": "show", "correct": "true" },
+      { "sentence": "hide", "correct": "false" },
+      { "sentence": "guess", "correct": "false" },
+      { "sentence": "cancel", "correct": "false" },
+      { "sentence": "question", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Demonstrate' means to show how something works.",
+        "chinese": "'Demonstrate' 的意思是展示或示范。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'efficient'? e.g. This machine is very efficient.",
+    "options": [
+      { "sentence": "effective", "correct": "true" },
+      { "sentence": "wasteful", "correct": "false" },
+      { "sentence": "slow", "correct": "false" },
+      { "sentence": "confusing", "correct": "false" },
+      { "sentence": "careless", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Efficient' means working well without wasting time or resources.",
+        "chinese": "'Efficient' 的意思是高效的。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'expand'? e.g. The company plans to expand its business.",
+    "options": [
+      { "sentence": "grow", "correct": "true" },
+      { "sentence": "shrink", "correct": "false" },
+      { "sentence": "end", "correct": "false" },
+      { "sentence": "limit", "correct": "false" },
+      { "sentence": "pause", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Expand' means to grow or become larger.",
+        "chinese": "'Expand' 的意思是扩大或增长。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'consequence'? e.g. Every action has a consequence.",
+    "options": [
+      { "sentence": "result", "correct": "true" },
+      { "sentence": "cause", "correct": "false" },
+      { "sentence": "choice", "correct": "false" },
+      { "sentence": "effort", "correct": "false" },
+      { "sentence": "method", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Consequence' means the result of an action.",
+        "chinese": "'Consequence' 的意思是结果或后果。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'prioritize'? e.g. She prioritized her health.",
+    "options": [
+      { "sentence": "focus on", "correct": "true" },
+      { "sentence": "ignore", "correct": "false" },
+      { "sentence": "delay", "correct": "false" },
+      { "sentence": "remove", "correct": "false" },
+      { "sentence": "exchange", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Prioritize' means to treat something as more important.",
+        "chinese": "'Prioritize' 的意思是优先考虑。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'justify'? e.g. He tried to justify his decision.",
+    "options": [
+      { "sentence": "explain", "correct": "true" },
+      { "sentence": "hide", "correct": "false" },
+      { "sentence": "regret", "correct": "false" },
+      { "sentence": "change", "correct": "false" },
+      { "sentence": "punish", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Justify' means to explain or give a reason for something.",
+        "chinese": "'Justify' 的意思是解释或证明是合理的。"
+      }
+    ]
+  }
+]
