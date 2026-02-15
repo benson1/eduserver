@@ -1,306 +1,305 @@
 [
   {
-    "question": "Which is a correct synonym for 'enthusiast'? e.g. He is a car enthusiast who collects vintage vehicles.",
+    "question": "Which is a correct synonym for 'allocate'? e.g. The manager allocated tasks to the team.",
     "options": [
-      { "sentence": "fan", "correct": "true" },
-      { "sentence": "critic", "correct": "false" },
-      { "sentence": "enemy", "correct": "false" },
-      { "sentence": "stranger", "correct": "false" },
-      { "sentence": "leader", "correct": "false" }
-    ],
-    "explanation": [
-      {
-        "english": "'Enthusiast' means a person who is very interested in a particular activity or subject, like a 'fan'.",
-        "chinese": "'Enthusiast' 是对某个活动或主题非常感兴趣的人，比如 'fan'（粉丝）。"
-      }
-    ]
-  },
-  {
-    "question": "Which is a correct synonym for 'assist'? e.g. She assisted her friend with homework.",
-    "options": [
-      { "sentence": "help", "correct": "true" },
+      { "sentence": "assign", "correct": "true" },
       { "sentence": "ignore", "correct": "false" },
+      { "sentence": "collect", "correct": "false" },
       { "sentence": "delay", "correct": "false" },
-      { "sentence": "refuse", "correct": "false" },
-      { "sentence": "confuse", "correct": "false" }
-    ],
-    "explanation": [
-      {
-        "english": "'Assist' means to help someone do something.",
-        "chinese": "'Assist' 的意思是帮助某人做某事。"
-      }
-    ]
-  },
-  {
-    "question": "Which is a correct synonym for 'purchase'? e.g. He purchased a new laptop.",
-    "options": [
-      { "sentence": "buy", "correct": "true" },
-      { "sentence": "borrow", "correct": "false" },
-      { "sentence": "steal", "correct": "false" },
-      { "sentence": "sell", "correct": "false" },
-      { "sentence": "lose", "correct": "false" }
-    ],
-    "explanation": [
-      {
-        "english": "'Purchase' means to buy something.",
-        "chinese": "'Purchase' 的意思是购买。"
-      }
-    ]
-  },
-  {
-    "question": "Which is a correct synonym for 'rapid'? e.g. The rapid growth surprised everyone.",
-    "options": [
-      { "sentence": "fast", "correct": "true" },
-      { "sentence": "slow", "correct": "false" },
-      { "sentence": "weak", "correct": "false" },
-      { "sentence": "late", "correct": "false" },
-      { "sentence": "quiet", "correct": "false" }
-    ],
-    "explanation": [
-      {
-        "english": "'Rapid' describes something that happens very quickly.",
-        "chinese": "'Rapid' 形容事情发生得非常快。"
-      }
-    ]
-  },
-  {
-    "question": "Which is a correct synonym for 'select'? e.g. Please select the correct answer.",
-    "options": [
-      { "sentence": "choose", "correct": "true" },
-      { "sentence": "reject", "correct": "false" },
-      { "sentence": "hide", "correct": "false" },
-      { "sentence": "lose", "correct": "false" },
-      { "sentence": "mix", "correct": "false" }
-    ],
-    "explanation": [
-      {
-        "english": "'Select' means to choose from several options.",
-        "chinese": "'Select' 的意思是从多个选项中选择。"
-      }
-    ]
-  },
-  {
-    "question": "Which is a correct synonym for 'fortunate'? e.g. She was fortunate to find a good job.",
-    "options": [
-      { "sentence": "lucky", "correct": "true" },
-      { "sentence": "careless", "correct": "false" },
-      { "sentence": "poor", "correct": "false" },
-      { "sentence": "angry", "correct": "false" },
-      { "sentence": "tired", "correct": "false" }
-    ],
-    "explanation": [
-      {
-        "english": "'Fortunate' means having good luck.",
-        "chinese": "'Fortunate' 的意思是幸运的。"
-      }
-    ]
-  },
-  {
-    "question": "Which is a correct synonym for 'observe'? e.g. The scientist observed the experiment closely.",
-    "options": [
-      { "sentence": "watch", "correct": "true" },
-      { "sentence": "break", "correct": "false" },
-      { "sentence": "build", "correct": "false" },
-      { "sentence": "forget", "correct": "false" },
-      { "sentence": "avoid", "correct": "false" }
-    ],
-    "explanation": [
-      {
-        "english": "'Observe' means to watch carefully.",
-        "chinese": "'Observe' 的意思是仔细观察。"
-      }
-    ]
-  },
-  {
-    "question": "Which is a correct synonym for 'confident'? e.g. He felt confident about the exam.",
-    "options": [
-      { "sentence": "sure", "correct": "true" },
-      { "sentence": "nervous", "correct": "false" },
-      { "sentence": "silent", "correct": "false" },
-      { "sentence": "weak", "correct": "false" },
-      { "sentence": "uncertain", "correct": "false" }
-    ],
-    "explanation": [
-      {
-        "english": "'Confident' means feeling sure about yourself or something.",
-        "chinese": "'Confident' 的意思是有信心的。"
-      }
-    ]
-  },
-  {
-    "question": "Which is a correct synonym for 'essential'? e.g. Water is essential for life.",
-    "options": [
-      { "sentence": "necessary", "correct": "true" },
-      { "sentence": "optional", "correct": "false" },
-      { "sentence": "dangerous", "correct": "false" },
-      { "sentence": "expensive", "correct": "false" },
-      { "sentence": "rare", "correct": "false" }
-    ],
-    "explanation": [
-      {
-        "english": "'Essential' means extremely important or necessary.",
-        "chinese": "'Essential' 的意思是非常重要或必需的。"
-      }
-    ]
-  },
-  {
-    "question": "Which is a correct synonym for 'decline'? e.g. He declined the invitation.",
-    "options": [
-      { "sentence": "refuse", "correct": "true" },
-      { "sentence": "accept", "correct": "false" },
-      { "sentence": "delay", "correct": "false" },
-      { "sentence": "explain", "correct": "false" },
-      { "sentence": "improve", "correct": "false" }
-    ],
-    "explanation": [
-      {
-        "english": "'Decline' means to politely refuse something.",
-        "chinese": "'Decline' 的意思是礼貌地拒绝。"
-      }
-    ]
-  },
-
-  {
-    "question": "Which is a correct synonym for 'maintain'? e.g. She maintains a healthy lifestyle.",
-    "options": [
-      { "sentence": "keep", "correct": "true" },
-      { "sentence": "destroy", "correct": "false" },
-      { "sentence": "forget", "correct": "false" },
-      { "sentence": "create", "correct": "false" },
       { "sentence": "remove", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Maintain' means to keep something in the same condition.",
-        "chinese": "'Maintain' 的意思是保持某种状态。"
+        "english": "'Allocate' means to distribute or assign something for a specific purpose.",
+        "chinese": "'Allocate' 的意思是分配或指派。"
       }
     ]
   },
   {
-    "question": "Which is a correct synonym for 'reluctant'? e.g. He was reluctant to share his opinion.",
+    "question": "Which is a correct synonym for 'ambiguous'? e.g. His answer was ambiguous and unclear.",
     "options": [
-      { "sentence": "unwilling", "correct": "true" },
-      { "sentence": "excited", "correct": "false" },
-      { "sentence": "ready", "correct": "false" },
-      { "sentence": "careful", "correct": "false" },
-      { "sentence": "curious", "correct": "false" }
+      { "sentence": "vague", "correct": "true" },
+      { "sentence": "clear", "correct": "false" },
+      { "sentence": "precise", "correct": "false" },
+      { "sentence": "honest", "correct": "false" },
+      { "sentence": "detailed", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Reluctant' means not willing or hesitant to do something.",
-        "chinese": "'Reluctant' 的意思是不情愿的。"
+        "english": "'Ambiguous' means open to more than one interpretation; not clear.",
+        "chinese": "'Ambiguous' 的意思是模糊不清的。"
       }
     ]
   },
   {
-    "question": "Which is a correct synonym for 'significant'? e.g. There was a significant change in temperature.",
+    "question": "Which is a correct synonym for 'coherent'? e.g. She gave a coherent presentation.",
     "options": [
-      { "sentence": "important", "correct": "true" },
-      { "sentence": "tiny", "correct": "false" },
-      { "sentence": "ordinary", "correct": "false" },
+      { "sentence": "logical", "correct": "true" },
+      { "sentence": "random", "correct": "false" },
+      { "sentence": "silent", "correct": "false" },
       { "sentence": "brief", "correct": "false" },
-      { "sentence": "unclear", "correct": "false" }
+      { "sentence": "emotional", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Significant' means important or noticeable.",
-        "chinese": "'Significant' 的意思是重要的或显著的。"
+        "english": "'Coherent' means logical and well organized.",
+        "chinese": "'Coherent' 的意思是连贯的、有条理的。"
       }
     ]
   },
   {
-    "question": "Which is a correct synonym for 'demonstrate'? e.g. The teacher demonstrated the experiment.",
+    "question": "Which is a correct synonym for 'compile'? e.g. He compiled a list of references.",
     "options": [
-      { "sentence": "show", "correct": "true" },
+      { "sentence": "assemble", "correct": "true" },
+      { "sentence": "destroy", "correct": "false" },
+      { "sentence": "forget", "correct": "false" },
+      { "sentence": "separate", "correct": "false" },
+      { "sentence": "predict", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Compile' means to collect information together in one place.",
+        "chinese": "'Compile' 的意思是汇编或整理。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'comprehensive'? e.g. The report is comprehensive and detailed.",
+    "options": [
+      { "sentence": "thorough", "correct": "true" },
+      { "sentence": "brief", "correct": "false" },
+      { "sentence": "narrow", "correct": "false" },
+      { "sentence": "simple", "correct": "false" },
+      { "sentence": "casual", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Comprehensive' means complete and covering many details.",
+        "chinese": "'Comprehensive' 的意思是全面的。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'convey'? e.g. The message was conveyed clearly.",
+    "options": [
+      { "sentence": "communicate", "correct": "true" },
       { "sentence": "hide", "correct": "false" },
-      { "sentence": "guess", "correct": "false" },
-      { "sentence": "cancel", "correct": "false" },
-      { "sentence": "question", "correct": "false" }
-    ],
-    "explanation": [
-      {
-        "english": "'Demonstrate' means to show how something works.",
-        "chinese": "'Demonstrate' 的意思是展示或示范。"
-      }
-    ]
-  },
-  {
-    "question": "Which is a correct synonym for 'efficient'? e.g. This machine is very efficient.",
-    "options": [
-      { "sentence": "effective", "correct": "true" },
-      { "sentence": "wasteful", "correct": "false" },
-      { "sentence": "slow", "correct": "false" },
-      { "sentence": "confusing", "correct": "false" },
-      { "sentence": "careless", "correct": "false" }
-    ],
-    "explanation": [
-      {
-        "english": "'Efficient' means working well without wasting time or resources.",
-        "chinese": "'Efficient' 的意思是高效的。"
-      }
-    ]
-  },
-  {
-    "question": "Which is a correct synonym for 'expand'? e.g. The company plans to expand its business.",
-    "options": [
-      { "sentence": "grow", "correct": "true" },
-      { "sentence": "shrink", "correct": "false" },
-      { "sentence": "end", "correct": "false" },
-      { "sentence": "limit", "correct": "false" },
-      { "sentence": "pause", "correct": "false" }
-    ],
-    "explanation": [
-      {
-        "english": "'Expand' means to grow or become larger.",
-        "chinese": "'Expand' 的意思是扩大或增长。"
-      }
-    ]
-  },
-  {
-    "question": "Which is a correct synonym for 'consequence'? e.g. Every action has a consequence.",
-    "options": [
-      { "sentence": "result", "correct": "true" },
-      { "sentence": "cause", "correct": "false" },
-      { "sentence": "choice", "correct": "false" },
-      { "sentence": "effort", "correct": "false" },
-      { "sentence": "method", "correct": "false" }
-    ],
-    "explanation": [
-      {
-        "english": "'Consequence' means the result of an action.",
-        "chinese": "'Consequence' 的意思是结果或后果。"
-      }
-    ]
-  },
-  {
-    "question": "Which is a correct synonym for 'prioritize'? e.g. She prioritized her health.",
-    "options": [
-      { "sentence": "focus on", "correct": "true" },
-      { "sentence": "ignore", "correct": "false" },
       { "sentence": "delay", "correct": "false" },
-      { "sentence": "remove", "correct": "false" },
-      { "sentence": "exchange", "correct": "false" }
+      { "sentence": "purchase", "correct": "false" },
+      { "sentence": "translate", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Prioritize' means to treat something as more important.",
-        "chinese": "'Prioritize' 的意思是优先考虑。"
+        "english": "'Convey' means to communicate or make something known.",
+        "chinese": "'Convey' 的意思是传达。"
       }
     ]
   },
   {
-    "question": "Which is a correct synonym for 'justify'? e.g. He tried to justify his decision.",
+    "question": "Which is a correct synonym for 'crucial'? e.g. It is crucial to follow the instructions.",
     "options": [
-      { "sentence": "explain", "correct": "true" },
-      { "sentence": "hide", "correct": "false" },
-      { "sentence": "regret", "correct": "false" },
-      { "sentence": "change", "correct": "false" },
-      { "sentence": "punish", "correct": "false" }
+      { "sentence": "vital", "correct": "true" },
+      { "sentence": "optional", "correct": "false" },
+      { "sentence": "minor", "correct": "false" },
+      { "sentence": "flexible", "correct": "false" },
+      { "sentence": "ordinary", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "'Justify' means to explain or give a reason for something.",
-        "chinese": "'Justify' 的意思是解释或证明是合理的。"
+        "english": "'Crucial' means extremely important.",
+        "chinese": "'Crucial' 的意思是至关重要的。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'derive'? e.g. Many words derive from Latin.",
+    "options": [
+      { "sentence": "originate", "correct": "true" },
+      { "sentence": "ignore", "correct": "false" },
+      { "sentence": "improve", "correct": "false" },
+      { "sentence": "repeat", "correct": "false" },
+      { "sentence": "borrow", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Derive' means to come from a source.",
+        "chinese": "'Derive' 的意思是源自。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'feasible'? e.g. The plan is feasible within a year.",
+    "options": [
+      { "sentence": "possible", "correct": "true" },
+      { "sentence": "impossible", "correct": "false" },
+      { "sentence": "illegal", "correct": "false" },
+      { "sentence": "unusual", "correct": "false" },
+      { "sentence": "complex", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Feasible' means possible and practical to do.",
+        "chinese": "'Feasible' 的意思是可行的。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'fluctuate'? e.g. Prices fluctuate throughout the year.",
+    "options": [
+      { "sentence": "vary", "correct": "true" },
+      { "sentence": "stabilize", "correct": "false" },
+      { "sentence": "freeze", "correct": "false" },
+      { "sentence": "decline", "correct": "false" },
+      { "sentence": "double", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Fluctuate' means to change frequently and irregularly.",
+        "chinese": "'Fluctuate' 的意思是波动。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'inevitable'? e.g. Change is inevitable.",
+    "options": [
+      { "sentence": "unavoidable", "correct": "true" },
+      { "sentence": "unlikely", "correct": "false" },
+      { "sentence": "optional", "correct": "false" },
+      { "sentence": "temporary", "correct": "false" },
+      { "sentence": "flexible", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Inevitable' means certain to happen.",
+        "chinese": "'Inevitable' 的意思是不可避免的。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'notion'? e.g. She had a strange notion about the event.",
+    "options": [
+      { "sentence": "idea", "correct": "true" },
+      { "sentence": "evidence", "correct": "false" },
+      { "sentence": "rule", "correct": "false" },
+      { "sentence": "habit", "correct": "false" },
+      { "sentence": "proof", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Notion' means an idea or belief.",
+        "chinese": "'Notion' 的意思是想法或观念。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'omit'? e.g. He omitted an important detail.",
+    "options": [
+      { "sentence": "exclude", "correct": "true" },
+      { "sentence": "include", "correct": "false" },
+      { "sentence": "repeat", "correct": "false" },
+      { "sentence": "emphasize", "correct": "false" },
+      { "sentence": "discover", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Omit' means to leave something out.",
+        "chinese": "'Omit' 的意思是省略。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'perceive'? e.g. She perceived a change in his tone.",
+    "options": [
+      { "sentence": "detect", "correct": "true" },
+      { "sentence": "ignore", "correct": "false" },
+      { "sentence": "invent", "correct": "false" },
+      { "sentence": "forget", "correct": "false" },
+      { "sentence": "replace", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Perceive' means to become aware of something through the senses.",
+        "chinese": "'Perceive' 的意思是察觉。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'persistent'? e.g. She made a persistent effort to succeed.",
+    "options": [
+      { "sentence": "determined", "correct": "true" },
+      { "sentence": "careless", "correct": "false" },
+      { "sentence": "temporary", "correct": "false" },
+      { "sentence": "uncertain", "correct": "false" },
+      { "sentence": "reluctant", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Persistent' means continuing firmly despite difficulty.",
+        "chinese": "'Persistent' 的意思是坚持不懈的。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'reliable'? e.g. She is a reliable employee.",
+    "options": [
+      { "sentence": "dependable", "correct": "true" },
+      { "sentence": "unpredictable", "correct": "false" },
+      { "sentence": "careless", "correct": "false" },
+      { "sentence": "temporary", "correct": "false" },
+      { "sentence": "flexible", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Reliable' means able to be trusted.",
+        "chinese": "'Reliable' 的意思是可靠的。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'sufficient'? e.g. We have sufficient time to finish.",
+    "options": [
+      { "sentence": "adequate", "correct": "true" },
+      { "sentence": "scarce", "correct": "false" },
+      { "sentence": "excessive", "correct": "false" },
+      { "sentence": "minimal", "correct": "false" },
+      { "sentence": "urgent", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Sufficient' means enough for a particular purpose.",
+        "chinese": "'Sufficient' 的意思是足够的。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'tolerate'? e.g. She cannot tolerate loud noise.",
+    "options": [
+      { "sentence": "endure", "correct": "true" },
+      { "sentence": "encourage", "correct": "false" },
+      { "sentence": "create", "correct": "false" },
+      { "sentence": "prefer", "correct": "false" },
+      { "sentence": "increase", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Tolerate' means to endure something unpleasant.",
+        "chinese": "'Tolerate' 的意思是忍受。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'transform'? e.g. The experience transformed his life.",
+    "options": [
+      { "sentence": "alter", "correct": "true" },
+      { "sentence": "preserve", "correct": "false" },
+      { "sentence": "freeze", "correct": "false" },
+      { "sentence": "measure", "correct": "false" },
+      { "sentence": "deliver", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Transform' means to change completely.",
+        "chinese": "'Transform' 的意思是改变或转变。"
       }
     ]
   }
