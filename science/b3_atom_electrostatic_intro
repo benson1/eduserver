@@ -1,0 +1,188 @@
+[
+  {
+    "question": "What is an atom?",
+    "options": [
+      {
+        "sentence": "The smallest unit of matter that still keeps the properties of an element.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A tiny solid ball that cannot be divided into smaller particles.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A particle made only of protons and electrons.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The central part of a molecule.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A form of pure energy that has no mass.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "An atom is the smallest unit of an element that still behaves like that element.",
+        "chinese": "原子是仍然保留元素性质的最小单位。"
+      }
+    ]
+  },
+  {
+    "question": "What is the nucleus?",
+    "options": [
+      {
+        "sentence": "The dense center of an atom that contains protons and neutrons.",
+        "correct": "true"
+      },
+      {
+        "sentence": "The path electrons travel around the atom.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The outermost energy level of an atom.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The region where electric fields are strongest.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A cloud made entirely of electrons.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "The nucleus is small but contains most of the atom’s mass.",
+        "chinese": "原子核很小，但包含了原子的大部分质量。"
+      }
+    ]
+  },
+  {
+    "question": "What is a proton?",
+    "options": [
+      {
+        "sentence": "A positively charged particle found in the nucleus.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A neutral particle that balances electric charge.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A negatively charged particle orbiting the nucleus.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A particle that determines how heavy an atom feels but has no charge.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A moving electric field around an atom.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Protons have a positive charge and help define the element.",
+        "chinese": "质子带正电，并决定元素的种类。"
+      }
+    ]
+  },
+  {
+    "question": "What is an electron?",
+    "options": [
+      {
+        "sentence": "A negatively charged particle found outside the nucleus.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A positively charged particle inside the nucleus.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A neutral particle that gives atoms mass.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A tiny atom that orbits larger atoms.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A type of energy stored in electric fields.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Electrons carry negative charge and exist outside the nucleus.",
+        "chinese": "电子带负电，存在于原子核外。"
+      }
+    ]
+  },
+  {
+    "question": "What is electrostatic force?",
+    "options": [
+      {
+        "sentence": "The force of attraction or repulsion between electric charges.",
+        "correct": "true"
+      },
+      {
+        "sentence": "The force that holds protons and neutrons together in the nucleus.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The force that keeps planets orbiting the Sun.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The force created when two objects collide.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The energy released when electrons move through a wire.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Electrostatic force acts between objects because of electric charge.",
+        "chinese": "静电力是由电荷之间的相互作用产生的力。"
+      }
+    ]
+  },
+  {
+    "question": "What is an electric field?",
+    "options": [
+      {
+        "sentence": "The region around a charged object where it can exert force on other charges.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A stream of electrons moving through a wire.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The space inside the nucleus where protons are located.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The total amount of electric charge in an object.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A magnetic force caused by moving charges only.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "An electric field describes how a charge influences space around it.",
+        "chinese": "电场描述电荷如何影响周围空间。"
+      }
+    ]
+  }
+]
