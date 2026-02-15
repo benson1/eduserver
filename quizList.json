@@ -843,5 +843,11 @@
         "file": "synonyms_challenging_10_years_old.json",
         "type": "english",
         "level": "6"  
+    },
+    {
+         "name":"b3_atom_electrostatic_intro",
+        "file":"b3_atom_electrostatic_intro",
+        "type": "science",
+        "level": "3"
     }
 ]
