@@ -7,26 +7,26 @@
         "correct": "true"
       },
       {
-        "sentence": "A tiny solid ball that cannot be divided into smaller particles.",
+        "sentence": "A uniform mixture of multiple elements combined physically.",
         "correct": "false"
       },
       {
-        "sentence": "A particle made only of protons and electrons.",
+        "sentence": "A particle composed solely of protons and neutrons, ignoring electrons.",
         "correct": "false"
       },
       {
-        "sentence": "The central part of a molecule.",
+        "sentence": "The smallest division of a compound without changing its chemical properties.",
         "correct": "false"
       },
       {
-        "sentence": "A form of pure energy that has no mass.",
+        "sentence": "A form of energy that can convert matter into light.",
         "correct": "false"
       }
     ],
     "explanation": [
       {
-        "english": "An atom is the smallest unit of an element that still behaves like that element.",
-        "chinese": "原子是仍然保留元素性质的最小单位。"
+        "english": "An atom is the smallest unit of an element that still behaves like that element. Example: A single gold atom is still gold.",
+        "chinese": "原子是仍然保留元素性质的最小单位。例子：一个金原子仍然是金。"
       }
     ]
   },
@@ -38,26 +38,26 @@
         "correct": "true"
       },
       {
-        "sentence": "The path electrons travel around the atom.",
+        "sentence": "The region surrounding the atom where electrons move in energy levels.",
         "correct": "false"
       },
       {
-        "sentence": "The outermost energy level of an atom.",
+        "sentence": "A diffuse area of positive and negative charges canceling each other.",
         "correct": "false"
       },
       {
-        "sentence": "The region where electric fields are strongest.",
+        "sentence": "A particle responsible for magnetic properties of an atom.",
         "correct": "false"
       },
       {
-        "sentence": "A cloud made entirely of electrons.",
+        "sentence": "A field of energy concentrated at the atomic surface.",
         "correct": "false"
       }
     ],
     "explanation": [
       {
-        "english": "The nucleus is small but contains most of the atom’s mass.",
-        "chinese": "原子核很小，但包含了原子的大部分质量。"
+        "english": "The nucleus is small but contains most of the atom’s mass. Example: In a carbon atom, the nucleus contains 6 protons.",
+        "chinese": "原子核很小，但包含了原子的大部分质量。例子：在碳原子中，原子核含有6个质子。"
       }
     ]
   },
@@ -69,26 +69,26 @@
         "correct": "true"
       },
       {
-        "sentence": "A neutral particle that balances electric charge.",
+        "sentence": "A neutral particle that contributes only to the atom’s mass.",
         "correct": "false"
       },
       {
-        "sentence": "A negatively charged particle orbiting the nucleus.",
+        "sentence": "A negatively charged particle moving in electron clouds.",
         "correct": "false"
       },
       {
-        "sentence": "A particle that determines how heavy an atom feels but has no charge.",
+        "sentence": "A virtual particle representing an electric field.",
         "correct": "false"
       },
       {
-        "sentence": "A moving electric field around an atom.",
+        "sentence": "An unstable particle emitted during radioactive decay.",
         "correct": "false"
       }
     ],
     "explanation": [
       {
-        "english": "Protons have a positive charge and help define the element.",
-        "chinese": "质子带正电，并决定元素的种类。"
+        "english": "Protons have a positive charge and help define the element. Example: Hydrogen has 1 proton in its nucleus.",
+        "chinese": "质子带正电，并决定元素的种类。例子：氢原子的原子核中有1个质子。"
       }
     ]
   },
@@ -100,26 +100,243 @@
         "correct": "true"
       },
       {
-        "sentence": "A positively charged particle inside the nucleus.",
+        "sentence": "A positively charged particle that determines an element’s identity.",
         "correct": "false"
       },
       {
-        "sentence": "A neutral particle that gives atoms mass.",
+        "sentence": "A neutral particle located within the nucleus.",
         "correct": "false"
       },
       {
-        "sentence": "A tiny atom that orbits larger atoms.",
+        "sentence": "A tiny particle that can fuse with the nucleus to form energy.",
         "correct": "false"
       },
       {
-        "sentence": "A type of energy stored in electric fields.",
+        "sentence": "A hypothetical particle that carries only magnetic force.",
         "correct": "false"
       }
     ],
     "explanation": [
       {
-        "english": "Electrons carry negative charge and exist outside the nucleus.",
-        "chinese": "电子带负电，存在于原子核外。"
+        "english": "Electrons carry negative charge and exist outside the nucleus. Example: A neutral hydrogen atom has 1 electron moving around its nucleus.",
+        "chinese": "电子带负电，存在于原子核外。例子：一个中性的氢原子有1个电子围绕原子核运动。"
+      }
+    ]
+  },
+  {
+    "question": "What is a force?",
+    "options": [
+      {
+        "sentence": "A push or pull that can change an object’s motion or shape.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A measure of an object's mass relative to gravity.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An energy form stored in chemical bonds.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A natural tendency of objects to stay at rest unless disturbed.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The effect of friction on moving bodies only.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "A force is a push or pull that can change an object’s motion or shape. Example: Pushing a door open or pulling a rope.",
+        "chinese": "力是能够改变物体运动状态或形状的推或拉。例子：推开门或拉绳子。"
+      }
+    ]
+  },
+  {
+    "question": "What is a contact force?",
+    "options": [
+      {
+        "sentence": "A force that acts only when two objects are touching each other.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A force that acts at a distance without physical contact.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A force arising from magnetic fields exclusively.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A reaction force that cancels gravity.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A pseudo-force observed in rotating frames of reference.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Contact force acts only when objects touch each other. Example: Friction between your shoes and the ground.",
+        "chinese": "接触力只有当两个物体接触时才产生。例子：鞋子与地面之间的摩擦力。"
+      }
+    ]
+  },
+  {
+    "question": "What is a non-contact force?",
+    "options": [
+      {
+        "sentence": "A force that acts between objects without them touching.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A force requiring direct mechanical interaction.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A reaction force equal and opposite to applied force.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A frictional force experienced only when sliding occurs.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A force measured only inside the nucleus of an atom.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Non-contact forces act even when objects are not touching. Example: Gravity pulling a book toward the Earth.",
+        "chinese": "非接触力即使物体不接触也能产生。例子：地球对书本的重力。"
+      }
+    ]
+  },
+  {
+    "question": "What is attraction?",
+    "options": [
+      {
+        "sentence": "A force that pulls two objects toward each other.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A force that pushes objects apart due to similar charges.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A force that increases an object’s kinetic energy without contact.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A hypothetical force in antimatter interactions.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A reaction force opposing gravitational pull.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Attraction pulls objects together. Example: A magnet pulling a paperclip.",
+        "chinese": "吸引力使物体相互靠近。例子：磁铁吸引回形针。"
+      }
+    ]
+  },
+  {
+    "question": "What is repulsion?",
+    "options": [
+      {
+        "sentence": "A force that pushes two objects away from each other.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A force that pulls two objects closer due to gravity.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A force that stabilizes atoms in a molecule.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A type of nuclear binding energy.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A frictional force acting against motion.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Repulsion pushes objects apart. Example: Two magnets pushing apart when like poles face each other.",
+        "chinese": "排斥力使物体彼此远离。例子：当两个磁铁的相同磁极相对时会相互排斥。"
+      }
+    ]
+  },
+  {
+    "question": "What is a positive charge?",
+    "options": [
+      {
+        "sentence": "A type of electric charge that attracts negative charges and repels positive charges.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A property of neutral objects that do not interact electrically.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A type of charge that only appears in magnetic fields.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A negative particle with equal but opposite effect to an electron.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A temporary charge generated only by friction.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Positive charge attracts negative and repels positive charges. Example: A positively charged rod attracts negatively charged particles.",
+        "chinese": "正电荷吸引负电荷、排斥正电荷。例子：带正电的棒会吸引带负电的粒子。"
+      }
+    ]
+  },
+  {
+    "question": "What is a negative charge?",
+    "options": [
+      {
+        "sentence": "A type of electric charge that attracts positive charges and repels negative charges.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A charge that neutralizes all forces in an electric field.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A hypothetical particle predicted by classical physics.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A type of nuclear energy released in fission.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A frictional effect in conductive materials.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Negative charge attracts positive and repels negative charges. Example: An electron has a negative charge.",
+        "chinese": "负电荷吸引正电荷、排斥负电荷。例子：电子带负电。"
       }
     ]
   },
@@ -127,30 +344,30 @@
     "question": "What is electrostatic force?",
     "options": [
       {
-        "sentence": "The force of attraction or repulsion between electric charges.",
+        "sentence": "The force of attraction or repulsion between objects because of their electric charges.",
         "correct": "true"
       },
       {
-        "sentence": "The force that holds protons and neutrons together in the nucleus.",
+        "sentence": "The force holding the nucleus together between protons and neutrons.",
         "correct": "false"
       },
       {
-        "sentence": "The force that keeps planets orbiting the Sun.",
+        "sentence": "The magnetic effect produced by moving electrons.",
         "correct": "false"
       },
       {
-        "sentence": "The force created when two objects collide.",
+        "sentence": "The force acting only during collisions between charged objects.",
         "correct": "false"
       },
       {
-        "sentence": "The energy released when electrons move through a wire.",
+        "sentence": "The energy lost by electrons when resistance is present.",
         "correct": "false"
       }
     ],
     "explanation": [
       {
-        "english": "Electrostatic force acts between objects because of electric charge.",
-        "chinese": "静电力是由电荷之间的相互作用产生的力。"
+        "english": "Electrostatic force acts between objects because of electric charge. Example: A rubbed balloon sticking to a wall.",
+        "chinese": "静电力是由电荷之间的相互作用产生的力。例子：摩擦后的气球吸附在墙上。"
       }
     ]
   },
@@ -162,26 +379,26 @@
         "correct": "true"
       },
       {
-        "sentence": "A stream of electrons moving through a wire.",
+        "sentence": "The actual flow of electrons along a wire or conductor.",
         "correct": "false"
       },
       {
-        "sentence": "The space inside the nucleus where protons are located.",
+        "sentence": "The concentrated area of protons inside the nucleus.",
         "correct": "false"
       },
       {
-        "sentence": "The total amount of electric charge in an object.",
+        "sentence": "A region where magnetic forces dominate over electric forces.",
         "correct": "false"
       },
       {
-        "sentence": "A magnetic force caused by moving charges only.",
+        "sentence": "A space in which all objects are electrically neutral.",
         "correct": "false"
       }
     ],
     "explanation": [
       {
-        "english": "An electric field describes how a charge influences space around it.",
-        "chinese": "电场描述电荷如何影响周围空间。"
+        "english": "An electric field describes how a charge influences space around it. Example: A charged balloon creates a field that can pull small pieces of paper toward it.",
+        "chinese": "电场描述电荷如何影响周围空间。例子：带电气球产生的电场可以吸引小纸片。"
       }
     ]
   }
