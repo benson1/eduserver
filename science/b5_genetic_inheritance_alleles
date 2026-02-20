@@ -1,0 +1,343 @@
+[
+  {
+    "question": "What is a genome?",
+    "options": [
+      {
+        "sentence": "The complete set of DNA in an organism, including all its genes.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A single gene that controls a specific trait in an organism.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Only the chromosomes that are visible during cell division.",
+        "correct": "false"
+      },
+      {
+        "sentence": "All proteins produced by an organism.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The RNA sequences that direct protein production.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "A genome is the entire DNA content of an organism. Example: The human genome contains about 20,000–25,000 genes.",
+        "chinese": "基因组是一个生物体的全部DNA。例子：人类基因组包含约2万到2.5万个基因。"
+      }
+    ]
+  },
+  {
+    "question": "What is an allele?",
+    "options": [
+      {
+        "sentence": "A version of a gene that can produce different traits.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A type of chromosome that carries many genes.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A protein made by the expression of a gene.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A DNA segment that never changes or mutates.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A special cell that carries inherited traits.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "An allele is one form of a gene. Example: The eye color gene can have a brown allele or a blue allele.",
+        "chinese": "等位基因是基因的一种形式。例子：控制眼睛颜色的基因可以有棕色或蓝色等位基因。"
+      }
+    ]
+  },
+  {
+    "question": "What is a recessive allele?",
+    "options": [
+      {
+        "sentence": "An allele whose trait is only visible when both copies are the same.",
+        "correct": "true"
+      },
+      {
+        "sentence": "An allele that always shows its trait even if another allele is present.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An allele that appears only in hybrids of two different organisms.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An allele that cannot be inherited or passed to offspring.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A mutation that always causes disease regardless of other alleles.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Recessive alleles show their trait only when two copies are present. Example: Blue eyes are recessive to brown eyes.",
+        "chinese": "隐性等位基因只有在两个拷贝相同才表现性状。例子：蓝眼睛是对棕色眼睛的隐性。"
+      }
+    ]
+  },
+  {
+    "question": "Which of the following represents the expression of a condition or disease?",
+    "options": [
+      {
+        "sentence": "...C T G [G/G] C T A... (G = dominant unaffected, A = recessive disease)",
+        "correct": "false"
+      },
+      {
+        "sentence": "...C T G [G/A] C T A... (heterozygous, usually unaffected carrier)",
+        "correct": "false"
+      },
+      {
+        "sentence": "...C T G [A/A] C T A... (homozygous recessive disease expressed)",
+        "correct": "true"
+      },
+      {
+        "sentence": "...C T G [A/G] C T A... (heterozygous, usually unaffected)",
+        "correct": "false"
+      },
+      {
+        "sentence": "Only listing the letters of a genotype without context can show disease expression.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "The DNA snippet shows the SNP in brackets. Using the key (G = dominant unaffected, A = recessive disease), only A/A expresses the disease; G/A is usually unaffected, and G/G is healthy.",
+        "chinese": "DNA片段显示SNP位点，用括号表示。根据G =显性未受影响，A =隐性疾病，只有A/A会表现疾病；G/A通常未受影响，G/G健康。"
+      }
+    ]
+  },
+  {
+    "question": "What is Mendelian inheritance?",
+    "options": [
+      {
+        "sentence": "Inheritance following dominant and recessive allele patterns, as described by Gregor Mendel.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Traits inherited through multiple genes and environmental influence.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The transfer of DNA between species without reproduction.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Traits acquired during life and passed to offspring.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Inheritance patterns that only occur in mitochondria.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Mendelian inheritance is based on dominant and recessive alleles. Example: Mendel’s pea plant flower colors.",
+        "chinese": "孟德尔遗传基于显性与隐性等位基因。例子：孟德尔研究的豌豆花颜色。"
+      }
+    ]
+  },
+  {
+    "question": "What is homozygosity?",
+    "options": [
+      {
+        "sentence": "Having two identical alleles for the same gene.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Having two different alleles for a gene.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A condition in which a gene is missing entirely.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Mutations in both alleles always causing disease.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Only inheriting dominant alleles from parents.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Homozygous means both alleles are the same. Example: AA or aa.",
+        "chinese": "纯合子表示两个等位基因相同。例子：AA或aa。"
+      }
+    ]
+  },
+  {
+    "question": "What is heterozygosity?",
+    "options": [
+      {
+        "sentence": "Having two different alleles for the same gene.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Having two identical alleles for a gene.",
+        "correct": "false"
+      },
+      {
+        "sentence": "When a gene is completely inactive or turned off.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Inheriting only recessive traits from both parents.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Producing gametes that always contain the same allele.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Heterozygous means the two alleles are different. Example: Aa.",
+        "chinese": "杂合子表示两个等位基因不同。例子：Aa。"
+      }
+    ]
+  },
+  {
+    "question": "What is a Punnett square?",
+    "options": [
+      {
+        "sentence": "A diagram used to predict possible genotypes and phenotypes of offspring from parental crosses.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A tool used to edit DNA sequences in a laboratory.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A structure inside the nucleus that stores chromosomes.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A chart that shows interactions between different proteins.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A graph used to track mutation rates over generations.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Punnett squares help visualize inheritance patterns. Example: Crossing Aa × Aa yields 1 AA, 2 Aa, 1 aa.",
+        "chinese": "潘奈特方格可视化遗传模式。例子：Aa × Aa 交配产生1 AA, 2 Aa, 1 aa。"
+      }
+    ]
+  },
+  {
+    "question": "What is selective breeding?",
+    "options": [
+      {
+        "sentence": "The process of breeding organisms with desired traits to produce offspring that share those traits.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Allowing only the strongest animals in the wild to survive naturally.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Moving genes artificially between unrelated species.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Creating exact clones of an organism in a laboratory.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Turning off specific genes using RNA interference techniques.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Selective breeding enhances traits chosen by humans. Example: Cows bred for higher milk production.",
+        "chinese": "选择性育种增强人类选定的性状。例子：培育高产奶牛。"
+      }
+    ]
+  },
+  {
+    "question": "What is a GMO?",
+    "options": [
+      {
+        "sentence": "An organism whose genetic material has been changed using biotechnology to give it new traits.",
+        "correct": "true"
+      },
+      {
+        "sentence": "An organism that is naturally selected in the wild without human intervention.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An organism cloned to be genetically identical to its parent.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An organism whose traits are determined only by the environment, not genes.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A hybrid organism that forms naturally between two species.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "GMO stands for genetically modified organism. Example: Bt corn has been engineered to resist pests.",
+        "chinese": "GMO指转基因生物。例子：Bt玉米经过基因改造抗虫害。"
+      }
+    ]
+  },
+  {
+    "question": "What is Agrobacterium tumefaciens?",
+    "options": [
+      {
+        "sentence": "A soil bacterium that can transfer DNA into plants and is used to create genetically modified crops.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A soil bacterium that helps plants absorb nutrients by breaking down organic matter.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A bacterium that fixes nitrogen in the soil to help plants grow.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A bacterium that produces natural antibiotics to protect plants from infections.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A bacterium that forms partnerships with fungi to help plants take up water from the soil.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Agrobacterium tumefaciens is unique because it can transfer DNA into plant genomes, a property used to make genetically modified crops.",
+        "chinese": "土壤农杆菌独特之处在于它可以将DNA转入植物基因组，这一特性用于制造转基因作物。"
+      }
+    ]
+  }
+]
