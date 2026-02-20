@@ -849,5 +849,11 @@
         "file":"b3_atom_electrostatic_intro",
         "type": "science",
         "level": "3"
+    },
+    {
+                "name":"b5_genetic_inheritance_alleles",
+        "file":"b5_genetic_inheritance_alleles",
+        "type": "science",
+        "level": "5"
     }
 ]
