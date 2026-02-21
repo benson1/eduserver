@@ -1,0 +1,343 @@
+[
+  {
+    "question": "Who was Charles Darwin?",
+    "options": [
+      {
+        "sentence": "A scientist who explained how living things change over time through natural selection.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A scientist who created a system for naming living things using two names.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A scientist who showed that tiny germs can cause disease.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A scientist who studied how traits pass from parents to offspring using pea plants.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A scientist who built a classification system based on shared body features.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Charles Darwin explained evolution by natural selection after studying plants and animals during his travels.",
+        "chinese": "达尔文在旅行中研究动植物后提出自然选择进化理论。"
+      }
+    ]
+  },
+  {
+    "question": "Who was Carl Linnaeus?",
+    "options": [
+      {
+        "sentence": "A scientist who created a way to name and group living things.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A scientist who explained how species change over generations.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A scientist who studied inheritance using breeding experiments.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A scientist who explored fossils to understand ancient life.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A scientist who discovered that cells are the basic unit of life.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Carl Linnaeus developed taxonomy and the two-name system used to name species.",
+        "chinese": "林奈建立了分类学和双名命名系统。"
+      }
+    ]
+  },
+  {
+    "question": "What is taxonomy?",
+    "options": [
+      {
+        "sentence": "A way scientists group and name living things based on shared features.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A way scientists study how traits pass from parents to offspring.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A way scientists compare how body systems function.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A way scientists measure population size in nature.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A way scientists study how animals behave in their environment.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Taxonomy organizes living things into groups so scientists can study relationships and differences.",
+        "chinese": "分类学将生物分组，帮助研究关系与差异。"
+      }
+    ]
+  },
+  {
+    "question": "Which sequence shows the main classification levels?",
+    "options": [
+      {
+        "sentence": "Kingdom, Phylum, Class, Order, Genus, Species.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Species, Kingdom, Genus, Class, Order, Phylum.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Class, Kingdom, Species, Phylum, Genus, Order.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Kingdom, Class, Phylum, Genus, Order, Species.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Genus, Species, Kingdom, Order, Class, Phylum.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Scientists classify life from big groups to small groups: Kingdom → Phylum → Class → Order → Genus → Species.",
+        "chinese": "科学家从大到小分类：界 → 门 → 纲 → 目 → 属 → 种。"
+      }
+    ]
+  },
+  {
+    "question": "What is a vertebrate?",
+    "options": [
+      {
+        "sentence": "An animal with a backbone.",
+        "correct": "true"
+      },
+      {
+        "sentence": "An animal with a hard outer covering that supports its body.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An animal whose body is supported by fluid pressure.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An animal with a segmented body and jointed legs.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An animal that protects its body with a shell made of chitin.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Vertebrates have a backbone. Examples include fish, birds, reptiles, mammals, and amphibians.",
+        "chinese": "脊椎动物有脊柱，例如鱼、鸟、爬行动物、哺乳动物和两栖动物。"
+      }
+    ]
+  },
+  {
+    "question": "What is an invertebrate?",
+    "options": [
+      {
+        "sentence": "An animal without a backbone.",
+        "correct": "true"
+      },
+      {
+        "sentence": "An animal that supports its body with internal bones.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An animal whose body includes a skull and spine.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An animal that develops from embryos with a vertebral column.",
+        "correct": "false"
+      },
+      {
+        "sentence": "An animal whose body structure is built around an internal skeleton.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Invertebrates include insects, worms, mollusks, and many other groups without backbones.",
+        "chinese": "无脊椎动物包括昆虫、蠕虫、软体动物等。"
+      }
+    ]
+  },
+  {
+    "question": "What is an exoskeleton?",
+    "options": [
+      {
+        "sentence": "A hard outer covering that protects and supports an animal’s body.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A framework of bones inside the body that supports movement.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A flexible skin layer that grows continuously with the body.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A protective covering made from mineral bone tissue.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A body structure formed from cartilage that later becomes bone.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Exoskeletons are common in arthropods like insects and crabs and must be shed as the animal grows.",
+        "chinese": "外骨骼常见于节肢动物，如昆虫和螃蟹，生长时需要蜕皮。"
+      }
+    ]
+  },
+  {
+    "question": "What is evolution?",
+    "options": [
+      {
+        "sentence": "Changes in populations of living things across many generations.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Body changes that happen as a single organism grows and develops.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Learning new behaviors that improve survival.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Seasonal changes in body features such as thicker fur in winter.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Movement of animals into new habitats over time.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Evolution explains how species change across generations due to inherited variation.",
+        "chinese": "进化解释物种如何因遗传变异在多代中发生变化。"
+      }
+    ]
+  },
+  {
+    "question": "How does evolution work?",
+    "options": [
+      {
+        "sentence": "Traits are passed from parents to offspring through DNA, and helpful traits can become more common over many generations.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Parents choose which traits their babies will have before they are born.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Animals grow new useful body parts during life and their babies are born with those new parts.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Every baby in a species receives exactly the same set of traits from its parents.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Evolution happens when environments change and all individuals in the next generation share the same new traits.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Evolution works through inheritance. DNA passes traits from parents to offspring, and differences affect survival and reproduction.",
+        "chinese": "进化通过遗传发生。DNA将性状从父母传给后代，差异影响生存和繁殖。"
+      }
+    ]
+  },
+  {
+    "question": "What is a species?",
+    "options": [
+      {
+        "sentence": "A group of living things that can reproduce together and have babies.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Living things that share the same habitat.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Organisms that look similar in body shape.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Animals that eat similar food sources.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Organisms that belong to the same large classification group.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Members of the same species can reproduce together and pass traits to offspring.",
+        "chinese": "同一物种的成员可以繁殖并将性状传给后代。"
+      }
+    ]
+  },
+  {
+    "question": "What is a cell?",
+    "options": [
+      {
+        "sentence": "The smallest unit of a living thing that can carry out life processes.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A structure made from many organs working together.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A tiny part of the body responsible for pumping blood.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A building block found in rocks and nonliving materials.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A microscopic structure that forms from groups of tissues.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Cells are the basic building blocks of all living organisms.",
+        "chinese": "细胞是所有生物的基本单位。"
+      }
+    ]
+  }
+]
