@@ -855,5 +855,11 @@
         "file":"b5_genetic_inheritance_alleles",
         "type": "science",
         "level": "5"
+    },
+    {
+        "name":"b3_biology_taxonomy",
+        "file":"b3_biology_taxonomy",
+        "type": "science",
+        "level": "3"
     }
 ]
