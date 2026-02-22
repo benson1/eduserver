@@ -1,0 +1,322 @@
+[
+  {
+    "question": "Which is a correct synonym for 'acquire'? e.g. She acquired new skills at work.",
+    "options": [
+      { "sentence": "obtain", "correct": "true" },
+      { "sentence": "lose", "correct": "false" },
+      { "sentence": "avoid", "correct": "false" },
+      { "sentence": "reject", "correct": "false" },
+      { "sentence": "delay", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Acquire' means to get or gain something.",
+        "chinese": "'Acquire' 的意思是获得。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'accurate'? e.g. The data is accurate.",
+    "options": [
+      { "sentence": "precise", "correct": "true" },
+      { "sentence": "wrong", "correct": "false" },
+      { "sentence": "rough", "correct": "false" },
+      { "sentence": "unclear", "correct": "false" },
+      { "sentence": "random", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Accurate' means correct and exact.",
+        "chinese": "'Accurate' 的意思是准确的。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'adjust'? e.g. He adjusted the settings.",
+    "options": [
+      { "sentence": "modify", "correct": "true" },
+      { "sentence": "destroy", "correct": "false" },
+      { "sentence": "ignore", "correct": "false" },
+      { "sentence": "freeze", "correct": "false" },
+      { "sentence": "copy", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Adjust' means to change something slightly to improve it.",
+        "chinese": "'Adjust' 的意思是调整。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'approach'? e.g. We need a new approach to the problem.",
+    "options": [
+      { "sentence": "method", "correct": "true" },
+      { "sentence": "mistake", "correct": "false" },
+      { "sentence": "result", "correct": "false" },
+      { "sentence": "distance", "correct": "false" },
+      { "sentence": "accident", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Approach' means a way of dealing with something.",
+        "chinese": "'Approach' 的意思是方法。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'beneficial'? e.g. Exercise is beneficial for health.",
+    "options": [
+      { "sentence": "helpful", "correct": "true" },
+      { "sentence": "harmful", "correct": "false" },
+      { "sentence": "useless", "correct": "false" },
+      { "sentence": "expensive", "correct": "false" },
+      { "sentence": "rare", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Beneficial' means producing a good result.",
+        "chinese": "'Beneficial' 的意思是有益的。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'clarify'? e.g. The teacher clarified the rule.",
+    "options": [
+      { "sentence": "explain", "correct": "true" },
+      { "sentence": "confuse", "correct": "false" },
+      { "sentence": "hide", "correct": "false" },
+      { "sentence": "remove", "correct": "false" },
+      { "sentence": "skip", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Clarify' means to make something clear.",
+        "chinese": "'Clarify' 的意思是澄清。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'decline'? e.g. Sales declined last month.",
+    "options": [
+      { "sentence": "decrease", "correct": "true" },
+      { "sentence": "increase", "correct": "false" },
+      { "sentence": "improve", "correct": "false" },
+      { "sentence": "expand", "correct": "false" },
+      { "sentence": "double", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Decline' means to become less.",
+        "chinese": "'Decline' 的意思是下降。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'emerge'? e.g. New problems emerged.",
+    "options": [
+      { "sentence": "appear", "correct": "true" },
+      { "sentence": "disappear", "correct": "false" },
+      { "sentence": "hide", "correct": "false" },
+      { "sentence": "delay", "correct": "false" },
+      { "sentence": "reject", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Emerge' means to become visible or known.",
+        "chinese": "'Emerge' 的意思是出现。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'enhance'? e.g. This tool enhances productivity.",
+    "options": [
+      { "sentence": "improve", "correct": "true" },
+      { "sentence": "reduce", "correct": "false" },
+      { "sentence": "damage", "correct": "false" },
+      { "sentence": "ignore", "correct": "false" },
+      { "sentence": "delay", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Enhance' means to improve quality or value.",
+        "chinese": "'Enhance' 的意思是提升。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'estimate'? e.g. We estimated the cost.",
+    "options": [
+      { "sentence": "approximate", "correct": "true" },
+      { "sentence": "measure exactly", "correct": "false" },
+      { "sentence": "ignore", "correct": "false" },
+      { "sentence": "confirm", "correct": "false" },
+      { "sentence": "prove", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Estimate' means to roughly calculate.",
+        "chinese": "'Estimate' 的意思是估计。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'focus'? e.g. She focused on the task.",
+    "options": [
+      { "sentence": "concentrate", "correct": "true" },
+      { "sentence": "wander", "correct": "false" },
+      { "sentence": "forget", "correct": "false" },
+      { "sentence": "separate", "correct": "false" },
+      { "sentence": "divide", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Focus' means to give attention to something.",
+        "chinese": "'Focus' 的意思是专注。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'generate'? e.g. The system generates reports.",
+    "options": [
+      { "sentence": "produce", "correct": "true" },
+      { "sentence": "destroy", "correct": "false" },
+      { "sentence": "forget", "correct": "false" },
+      { "sentence": "block", "correct": "false" },
+      { "sentence": "remove", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Generate' means to create or produce.",
+        "chinese": "'Generate' 的意思是生成。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'impact'? e.g. The decision had a big impact.",
+    "options": [
+      { "sentence": "effect", "correct": "true" },
+      { "sentence": "cause", "correct": "false" },
+      { "sentence": "plan", "correct": "false" },
+      { "sentence": "method", "correct": "false" },
+      { "sentence": "process", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Impact' means a strong effect.",
+        "chinese": "'Impact' 的意思是影响。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'maintain'? e.g. It is hard to maintain quality.",
+    "options": [
+      { "sentence": "preserve", "correct": "true" },
+      { "sentence": "lose", "correct": "false" },
+      { "sentence": "break", "correct": "false" },
+      { "sentence": "reduce", "correct": "false" },
+      { "sentence": "ignore", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Maintain' means to keep something at the same level.",
+        "chinese": "'Maintain' 的意思是保持。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'occur'? e.g. The error occurred yesterday.",
+    "options": [
+      { "sentence": "happen", "correct": "true" },
+      { "sentence": "prevent", "correct": "false" },
+      { "sentence": "avoid", "correct": "false" },
+      { "sentence": "stop", "correct": "false" },
+      { "sentence": "delay", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Occur' means to happen.",
+        "chinese": "'Occur' 的意思是发生。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'option'? e.g. We have several options.",
+    "options": [
+      { "sentence": "choice", "correct": "true" },
+      { "sentence": "result", "correct": "false" },
+      { "sentence": "problem", "correct": "false" },
+      { "sentence": "rule", "correct": "false" },
+      { "sentence": "limit", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Option' means a choice.",
+        "chinese": "'Option' 的意思是选择。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'require'? e.g. This job requires experience.",
+    "options": [
+      { "sentence": "need", "correct": "true" },
+      { "sentence": "offer", "correct": "false" },
+      { "sentence": "allow", "correct": "false" },
+      { "sentence": "avoid", "correct": "false" },
+      { "sentence": "refuse", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Require' means to need something.",
+        "chinese": "'Require' 的意思是需要。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'select'? e.g. She selected the best candidate.",
+    "options": [
+      { "sentence": "choose", "correct": "true" },
+      { "sentence": "ignore", "correct": "false" },
+      { "sentence": "drop", "correct": "false" },
+      { "sentence": "hide", "correct": "false" },
+      { "sentence": "remove", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Select' means to choose.",
+        "chinese": "'Select' 的意思是选择。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'strategy'? e.g. They created a strategy to grow.",
+    "options": [
+      { "sentence": "plan", "correct": "true" },
+      { "sentence": "mistake", "correct": "false" },
+      { "sentence": "accident", "correct": "false" },
+      { "sentence": "result", "correct": "false" },
+      { "sentence": "detail", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Strategy' means a plan designed to achieve a goal.",
+        "chinese": "'Strategy' 的意思是策略。"
+      }
+    ]
+  },
+  {
+    "question": "Which is a correct synonym for 'verify'? e.g. Please verify the information.",
+    "options": [
+      { "sentence": "confirm", "correct": "true" },
+      { "sentence": "guess", "correct": "false" },
+      { "sentence": "invent", "correct": "false" },
+      { "sentence": "ignore", "correct": "false" },
+      { "sentence": "hide", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Verify' means to check that something is true.",
+        "chinese": "'Verify' 的意思是核实。"
+      }
+    ]
+  }
+]
