@@ -861,5 +861,11 @@
         "file":"b3_biology_taxonomy",
         "type": "science",
         "level": "3"
+    },
+    {
+        "name":"synonyms_challenging_10_ii.json",
+        "file": "synonyms_challenging_10_ii.json",
+        "type": "english",
+        "level": "6" 
     }
 ]
