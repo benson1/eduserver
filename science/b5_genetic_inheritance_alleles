@@ -339,5 +339,98 @@
         "chinese": "土壤农杆菌独特之处在于它可以将DNA转入植物基因组，这一特性用于制造转基因作物。"
       }
     ]
+  },
+  {
+    "question": "What is a gene?",
+    "options": [
+      {
+        "sentence": "A segment of DNA that contains instructions for a specific trait or protein.",
+        "correct": "true"
+      },
+      {
+        "sentence": "The entire DNA content of an organism.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A structure that carries chromosomes inside the nucleus.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A protein that controls chemical reactions in cells.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A type of cell responsible for reproduction.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "A gene is a section of DNA that codes for a protein or trait. Example: A gene can determine eye color.",
+        "chinese": "基因是DNA的一段，编码蛋白质或性状。例子：基因可以决定眼睛颜色。"
+      }
+    ]
+  },
+  {
+    "question": "What is a genotype?",
+    "options": [
+      {
+        "sentence": "The genetic makeup of an organism represented by its combination of alleles.",
+        "correct": "true"
+      },
+      {
+        "sentence": "The physical appearance of an organism.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The traits expressed when a dominant allele is present.",
+        "correct": "false"
+      },
+      {
+        "sentence": "All proteins produced by an organism.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A diagram used to predict offspring traits.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Genotype refers to the combination of alleles an organism carries. Example: AA, Aa, or aa.",
+        "chinese": "基因型指个体拥有的等位基因组合。例子：AA、Aa或aa。"
+      }
+    ]
+  },
+  {
+    "question": "What is a phenotype?",
+    "options": [
+      {
+        "sentence": "The observable traits or characteristics of an organism.",
+        "correct": "true"
+      },
+      {
+        "sentence": "The DNA sequence of an organism.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The allele combination inherited from parents.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A mutation that changes a gene permanently.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A structure inside the nucleus that stores genes.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Phenotype is what you can observe, influenced by genotype and environment. Example: Brown eyes or tall height.",
+        "chinese": "表型是可以观察到的性状，受基因型和环境影响。例子：棕色眼睛或身高较高。"
+      }
+    ]
   }
 ]
