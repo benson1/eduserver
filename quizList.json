@@ -867,5 +867,11 @@
         "file": "synonyms_challenging_10_ii.json",
         "type": "english",
         "level": "6" 
+    },
+    {
+       "name":"b1_advanced_science_intro_biology",
+        "file":"b1_advanced_science_intro_biology",
+        "type": "science",
+        "level": "1"
     }
 ]
