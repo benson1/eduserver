@@ -1,0 +1,162 @@
+[
+  {
+    "question": "What is biology?",
+    "options": [
+      { "sentence": "The scientific study of living organisms and life processes.", "correct": "true" },
+      { "sentence": "The study of only plants and not animals.", "correct": "false" },
+      { "sentence": "A branch of science that studies rocks and minerals.", "correct": "false" },
+      { "sentence": "The process of chemical reactions in machines.", "correct": "false" },
+      { "sentence": "The study of space and planets.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Biology is the study of life and living organisms. Example: studying how cells function.",
+        "chinese": "生物学是研究生命和生物体的科学。例如：研究细胞如何运作。"
+      }
+    ]
+  },
+  {
+    "question": "What are bacteria?",
+    "options": [
+      { "sentence": "Microscopic single-celled organisms that live in many environments.", "correct": "true" },
+      { "sentence": "Large multicellular animals living in oceans.", "correct": "false" },
+      { "sentence": "Viruses that cannot reproduce independently.", "correct": "false" },
+      { "sentence": "Plant cells that produce oxygen only.", "correct": "false" },
+      { "sentence": "Chemicals used to kill infections.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Bacteria are single-celled microorganisms found almost everywhere. Example: bacteria in the human gut.",
+        "chinese": "细菌是单细胞微生物，几乎无处不在。例如：人体肠道中的细菌。"
+      }
+    ]
+  },
+  {
+    "question": "What are cells?",
+    "options": [
+      { "sentence": "The basic structural and functional units of living organisms.", "correct": "true" },
+      { "sentence": "Only structures found in animals.", "correct": "false" },
+      { "sentence": "Chemical elements that form molecules.", "correct": "false" },
+      { "sentence": "Tissues that exist only in plants.", "correct": "false" },
+      { "sentence": "Organs that control body systems.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Cells are the smallest units of life. Example: muscle cells or plant cells.",
+        "chinese": "细胞是生命的最小单位。例如：肌肉细胞或植物细胞。"
+      }
+    ]
+  },
+  {
+    "question": "What are elements?",
+    "options": [
+      { "sentence": "Pure substances made of one type of atom.", "correct": "true" },
+      { "sentence": "Mixtures of different chemicals.", "correct": "false" },
+      { "sentence": "Living organisms made of cells.", "correct": "false" },
+      { "sentence": "Only gases found in the atmosphere.", "correct": "false" },
+      { "sentence": "Compounds that can be broken into simpler substances easily.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Elements consist of one kind of atom. Example: oxygen or carbon.",
+        "chinese": "元素由一种原子组成。例如：氧或碳。"
+      }
+    ]
+  },
+  {
+    "question": "What is reproduction?",
+    "options": [
+      { "sentence": "The process by which living organisms produce new offspring.", "correct": "true" },
+      { "sentence": "The growth of an organism during its lifetime.", "correct": "false" },
+      { "sentence": "The process of digestion in animals.", "correct": "false" },
+      { "sentence": "The movement of organisms from one place to another.", "correct": "false" },
+      { "sentence": "Only cell division in bacteria.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Reproduction allows species to continue. Example: plants producing seeds.",
+        "chinese": "繁殖使物种得以延续。例如：植物产生种子。"
+      }
+    ]
+  },
+  {
+    "question": "What is pollination?",
+    "options": [
+      { "sentence": "The transfer of pollen from the male part of a flower to the female part.", "correct": "true" },
+      { "sentence": "The growth of a seed into a plant.", "correct": "false" },
+      { "sentence": "The process of photosynthesis in leaves.", "correct": "false" },
+      { "sentence": "The absorption of water by roots.", "correct": "false" },
+      { "sentence": "The formation of fruit after fertilization only.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Pollination enables fertilization in plants. Example: bees carrying pollen between flowers.",
+        "chinese": "传粉使植物受精成为可能。例如：蜜蜂在花之间传播花粉。"
+      }
+    ]
+  },
+  {
+    "question": "What is germination?",
+    "options": [
+      { "sentence": "The process by which a seed begins to grow into a new plant.", "correct": "true" },
+      { "sentence": "The transfer of pollen between flowers.", "correct": "false" },
+      { "sentence": "The formation of seeds after fertilization.", "correct": "false" },
+      { "sentence": "The death of a plant in winter.", "correct": "false" },
+      { "sentence": "The process of plant reproduction without seeds.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Germination happens when a seed sprouts. Example: a bean seed growing roots and shoots.",
+        "chinese": "萌发是种子开始发芽的过程。例如：豆子长出根和芽。"
+      }
+    ]
+  },
+  {
+    "question": "What is a mammal?",
+    "options": [
+      { "sentence": "A warm-blooded animal with hair or fur that feeds its young with milk.", "correct": "true" },
+      { "sentence": "An animal that lives only in water and breathes through gills.", "correct": "false" },
+      { "sentence": "A cold-blooded animal that lays soft eggs in water.", "correct": "false" },
+      { "sentence": "An animal covered with scales that cannot regulate body temperature.", "correct": "false" },
+      { "sentence": "A type of bird that cannot fly.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Mammals produce milk for their young. Example: humans, dogs, whales.",
+        "chinese": "哺乳动物用乳汁喂养幼崽。例如：人类、狗、鲸鱼。"
+      }
+    ]
+  },
+  {
+    "question": "What is an amphibian?",
+    "options": [
+      { "sentence": "A cold-blooded animal that can live both in water and on land.", "correct": "true" },
+      { "sentence": "A warm-blooded animal covered with fur.", "correct": "false" },
+      { "sentence": "An animal that only lives in the ocean.", "correct": "false" },
+      { "sentence": "A reptile that lays hard-shelled eggs.", "correct": "false" },
+      { "sentence": "An insect that undergoes metamorphosis only.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Amphibians usually start life in water and later live on land. Example: frogs.",
+        "chinese": "两栖动物通常幼体在水中，成体在陆地生活。例如：青蛙。"
+      }
+    ]
+  },
+  {
+    "question": "What is a reptile?",
+    "options": [
+      { "sentence": "A cold-blooded animal with dry scaly skin that usually lays eggs.", "correct": "true" },
+      { "sentence": "A warm-blooded animal that produces milk.", "correct": "false" },
+      { "sentence": "An animal that lives both in water and land with moist skin.", "correct": "false" },
+      { "sentence": "A bird with feathers and wings.", "correct": "false" },
+      { "sentence": "A fish that breathes using gills only.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Reptiles have scales and are ectothermic. Example: snakes, lizards, turtles.",
+        "chinese": "爬行动物具有鳞片并属于变温动物。例如：蛇、蜥蜴、乌龟。"
+      }
+    ]
+  }
+]
