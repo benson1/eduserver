@@ -1,0 +1,178 @@
+[
+  {
+    "question": "What are nutrients?",
+    "options": [
+      { "sentence": "Chemical substances in food that provide energy, structural components, and regulatory functions for the body.", "correct": "true" },
+      { "sentence": "Organic compounds that primarily provide energy but are not involved in body structure.", "correct": "false" },
+      { "sentence": "Molecules absorbed from food that function mainly as metabolic regulators.", "correct": "false" },
+      { "sentence": "Substances produced during digestion that are later converted into body tissues.", "correct": "false" },
+      { "sentence": "Compounds required for growth and development during early life stages.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Nutrients include carbohydrates, proteins, fats, vitamins, minerals, and water. They provide energy, structural support, and regulation of body processes.",
+        "chinese": "营养素包括碳水化合物、蛋白质、脂肪、维生素、矿物质和水。它们提供能量、结构支持和调节功能。"
+      }
+    ]
+  },
+  {
+    "question": "What is malnutrition?",
+    "options": [
+      { "sentence": "A condition resulting from insufficient, excessive, or imbalanced nutrient intake.", "correct": "true" },
+      { "sentence": "A disorder caused by inadequate calorie intake despite sufficient micronutrients.", "correct": "false" },
+      { "sentence": "A condition that develops when the digestive system cannot absorb carbohydrates.", "correct": "false" },
+      { "sentence": "A metabolic disorder caused by excessive fat storage.", "correct": "false" },
+      { "sentence": "A deficiency that occurs when protein intake is lower than carbohydrate intake.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Malnutrition includes undernutrition, overnutrition, and micronutrient deficiencies.",
+        "chinese": "营养不良包括营养不足、营养过剩和微量营养素缺乏。"
+      }
+    ]
+  },
+  {
+    "question": "Who was James Lancaster?",
+    "options": [
+      { "sentence": "An English sea captain who demonstrated that citrus fruits could prevent scurvy among sailors.", "correct": "true" },
+      { "sentence": "A naval physician who chemically identified vitamin C as the cause of scurvy prevention.", "correct": "false" },
+      { "sentence": "A chemist who synthesized vitamin supplements for long sea voyages.", "correct": "false" },
+      { "sentence": "A biologist who classified vitamins into fat-soluble and water-soluble groups.", "correct": "false" },
+      { "sentence": "A nutrition researcher who established modern dietary reference intakes.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "James Lancaster showed in the 1600s that lemon juice helped prevent scurvy, long before vitamin C was chemically identified.",
+        "chinese": "17世纪，詹姆斯·兰开斯特发现柠檬汁可以预防坏血病，这一发现早于维生素C的化学鉴定。"
+      }
+    ]
+  },
+  {
+    "question": "What is vitamin C?",
+    "options": [
+      { "sentence": "A water-soluble vitamin required for collagen synthesis and prevention of scurvy.", "correct": "true" },
+      { "sentence": "A micronutrient involved in oxygen transport within red blood cells.", "correct": "false" },
+      { "sentence": "A fat-soluble vitamin stored in liver tissue for long-term availability.", "correct": "false" },
+      { "sentence": "A coenzyme that directly provides energy during cellular respiration.", "correct": "false" },
+      { "sentence": "A structural protein found in connective tissue.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Vitamin C supports collagen production and immune function. Deficiency results in scurvy.",
+        "chinese": "维生素C支持胶原蛋白合成和免疫功能，缺乏会导致坏血病。"
+      }
+    ]
+  },
+  {
+    "question": "What is a catalyst?",
+    "options": [
+      { "sentence": "A substance that increases the rate of a chemical reaction by lowering activation energy without being consumed.", "correct": "true" },
+      { "sentence": "A reactant that initiates a reaction and is converted into product.", "correct": "false" },
+      { "sentence": "A compound that changes the equilibrium position of a reaction.", "correct": "false" },
+      { "sentence": "A molecule that supplies additional energy to drive a reaction forward.", "correct": "false" },
+      { "sentence": "A substance that increases molecular motion by raising temperature.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Catalysts speed up reactions by lowering activation energy and are not permanently altered.",
+        "chinese": "催化剂通过降低活化能来加快反应速度，并且不会被永久改变。"
+      }
+    ]
+  },
+  {
+    "question": "What is an enzyme?",
+    "options": [
+      { "sentence": "A biological catalyst, typically a protein, that accelerates chemical reactions in cells.", "correct": "true" },
+      { "sentence": "A regulatory molecule that alters gene transcription.", "correct": "false" },
+      { "sentence": "A carbohydrate involved in cellular respiration.", "correct": "false" },
+      { "sentence": "A lipid-based signaling compound in membranes.", "correct": "false" },
+      { "sentence": "A mineral cofactor required for metabolic pathways.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Most enzymes are proteins that lower activation energy in biochemical reactions.",
+        "chinese": "大多数酶是蛋白质，通过降低活化能来加快生化反应。"
+      }
+    ]
+  },
+  {
+    "question": "What is a carbohydrate?",
+    "options": [
+      { "sentence": "An organic molecule composed of carbon, hydrogen, and oxygen that serves as a primary energy source.", "correct": "true" },
+      { "sentence": "A macromolecule made of amino acids linked by peptide bonds.", "correct": "false" },
+      { "sentence": "A hydrophobic molecule that forms the core of cell membranes.", "correct": "false" },
+      { "sentence": "A micronutrient required in trace amounts for metabolism.", "correct": "false" },
+      { "sentence": "A polymer responsible for storing genetic information.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Carbohydrates include sugars and starches that provide energy.",
+        "chinese": "碳水化合物包括糖类和淀粉，是人体的重要能量来源。"
+      }
+    ]
+  },
+  {
+    "question": "What are lipids?",
+    "options": [
+      { "sentence": "Hydrophobic biological molecules involved in energy storage and membrane structure.", "correct": "true" },
+      { "sentence": "Water-soluble macromolecules that catalyze metabolic reactions.", "correct": "false" },
+      { "sentence": "Polymers of glucose that provide rapid energy release.", "correct": "false" },
+      { "sentence": "Nitrogen-containing compounds that form amino acids.", "correct": "false" },
+      { "sentence": "Structural carbohydrates found in plant cell walls.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Lipids include fats, oils, and phospholipids used for energy storage and cell membranes.",
+        "chinese": "脂类包括脂肪、油类和磷脂，用于能量储存和构成细胞膜。"
+      }
+    ]
+  },
+  {
+    "question": "What is fiber?",
+    "options": [
+      { "sentence": "A type of carbohydrate that resists digestion and supports gastrointestinal function.", "correct": "true" },
+      { "sentence": "A protein that strengthens connective tissue in the digestive tract.", "correct": "false" },
+      { "sentence": "A lipid that lubricates the intestinal lining.", "correct": "false" },
+      { "sentence": "A micronutrient that stimulates digestive enzyme secretion.", "correct": "false" },
+      { "sentence": "A simple sugar absorbed slowly into the bloodstream.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Dietary fiber promotes digestive health and regulates bowel movements.",
+        "chinese": "膳食纤维促进消化健康并调节肠道蠕动。"
+      }
+    ]
+  },
+  {
+    "question": "What is protein?",
+    "options": [
+      { "sentence": "A macromolecule composed of amino acids that functions in structure, transport, signaling, and catalysis.", "correct": "true" },
+      { "sentence": "A macronutrient primarily oxidized to provide immediate cellular energy.", "correct": "false" },
+      { "sentence": "A lipid-derived compound used for insulation and long-term energy storage.", "correct": "false" },
+      { "sentence": "A micronutrient required in small quantities to regulate metabolism.", "correct": "false" },
+      { "sentence": "A carbohydrate polymer stored as glycogen in animal cells.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Proteins are versatile molecules built from amino acids and perform many cellular roles.",
+        "chinese": "蛋白质由氨基酸组成，在细胞中执行多种功能。"
+      }
+    ]
+  },
+  {
+    "question": "What is iron?",
+    "options": [
+      { "sentence": "A mineral required for hemoglobin formation and oxygen transport in blood.", "correct": "true" },
+      { "sentence": "A vitamin involved in immune system signaling.", "correct": "false" },
+      { "sentence": "A trace element primarily stored in adipose tissue.", "correct": "false" },
+      { "sentence": "A structural component of carbohydrate molecules.", "correct": "false" },
+      { "sentence": "A coenzyme synthesized from amino acids during digestion.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Iron is essential for oxygen transport in red blood cells. Deficiency can cause anemia.",
+        "chinese": "铁是红细胞运输氧气所必需的矿物质，缺乏会导致贫血。"
+      }
+    ]
+  }
+]
