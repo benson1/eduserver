@@ -873,5 +873,11 @@
         "file":"b1_advanced_science_intro_biology",
         "type": "science",
         "level": "1"
-    }
+    },
+    (
+        "name":"ks3_2_nutrition",
+        "file": "ks3_2_nutrition",
+        "type": "science",
+        "level": "4"
+    )
 ]
