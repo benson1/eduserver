@@ -1,0 +1,162 @@
+[
+  {
+    "question": "What are eukaryotes?",
+    "options": [
+      { "sentence": "Cells that have a true nucleus and membrane-bound organelles.", "correct": "true" },
+      { "sentence": "Cells without a nucleus or membrane-bound organelles.", "correct": "false" },
+      { "sentence": "Organisms that are always unicellular.", "correct": "false" },
+      { "sentence": "Cells that lack DNA.", "correct": "false" },
+      { "sentence": "Cells that can survive only in extreme environments.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Eukaryotic cells, such as plant and animal cells, have a nucleus and organelles like mitochondria and chloroplasts.",
+        "chinese": "真核细胞，如植物细胞和动物细胞，具有细胞核和线粒体、叶绿体等细胞器。"
+      }
+    ]
+  },
+  {
+    "question": "What are prokaryotes?",
+    "options": [
+      { "sentence": "Cells that lack a nucleus and membrane-bound organelles.", "correct": "true" },
+      { "sentence": "Cells with a nucleus and organelles.", "correct": "false" },
+      { "sentence": "Multicellular organisms only.", "correct": "false" },
+      { "sentence": "Cells that can perform photosynthesis but not respiration.", "correct": "false" },
+      { "sentence": "Cells that do not contain DNA.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Prokaryotic cells, such as bacteria, have DNA but no nucleus or organelles.",
+        "chinese": "原核细胞，如细菌，含有DNA，但没有细胞核或细胞器。"
+      }
+    ]
+  },
+  {
+    "question": "What are chromosomes?",
+    "options": [
+      { "sentence": "Structures of DNA and protein that carry genetic information.", "correct": "true" },
+      { "sentence": "Organelles that generate energy for the cell.", "correct": "false" },
+      { "sentence": "Membrane-bound compartments storing nutrients.", "correct": "false" },
+      { "sentence": "Proteins that catalyze chemical reactions.", "correct": "false" },
+      { "sentence": "Carbohydrates that store energy.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Chromosomes organize and protect DNA, allowing proper inheritance during cell division.",
+        "chinese": "染色体组织和保护DNA，使其在细胞分裂过程中能够正确遗传。"
+      }
+    ]
+  },
+  {
+    "question": "What are chloroplasts?",
+    "options": [
+      { "sentence": "Organelles in plant cells where photosynthesis occurs.", "correct": "true" },
+      { "sentence": "Organelles that generate ATP via respiration.", "correct": "false" },
+      { "sentence": "Structures that store water and nutrients.", "correct": "false" },
+      { "sentence": "Membranes that package proteins for transport.", "correct": "false" },
+      { "sentence": "Enzymes that digest macromolecules.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Chloroplasts contain chlorophyll and convert sunlight into chemical energy.",
+        "chinese": "叶绿体含有叶绿素，将阳光转化为化学能。"
+      }
+    ]
+  },
+  {
+    "question": "What are mitochondria?",
+    "options": [
+      { "sentence": "Organelles that generate energy (ATP) for the cell.", "correct": "true" },
+      { "sentence": "Organelles that store genetic material.", "correct": "false" },
+      { "sentence": "Organelles that carry out photosynthesis.", "correct": "false" },
+      { "sentence": "Vacuoles that store water and nutrients.", "correct": "false" },
+      { "sentence": "Ribosomes that synthesize proteins.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Mitochondria perform cellular respiration to convert glucose into ATP.",
+        "chinese": "线粒体通过细胞呼吸将葡萄糖转化为ATP。"
+      }
+    ]
+  },
+  {
+    "question": "What is a plant cell?",
+    "options": [
+      { "sentence": "A eukaryotic cell with a cell wall, chloroplasts, and a large central vacuole.", "correct": "true" },
+      { "sentence": "A prokaryotic cell without a nucleus.", "correct": "false" },
+      { "sentence": "A cell lacking a plasma membrane.", "correct": "false" },
+      { "sentence": "A cell that cannot perform photosynthesis.", "correct": "false" },
+      { "sentence": "A cell that only stores genetic material but produces no energy.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Plant cells have unique structures for photosynthesis and maintaining shape.",
+        "chinese": "植物细胞具有进行光合作用和维持形状所需的独特结构。"
+      }
+    ]
+  },
+  {
+    "question": "What is an animal cell?",
+    "options": [
+      { "sentence": "A eukaryotic cell without a cell wall or chloroplasts.", "correct": "true" },
+      { "sentence": "A prokaryotic cell that performs photosynthesis.", "correct": "false" },
+      { "sentence": "A cell that contains chloroplasts and a large vacuole.", "correct": "false" },
+      { "sentence": "A cell that stores DNA but cannot generate energy.", "correct": "false" },
+      { "sentence": "A cell that is always multicellular.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Animal cells have flexible membranes and mitochondria but lack chloroplasts and cell walls.",
+        "chinese": "动物细胞具有柔软的细胞膜和线粒体，但没有叶绿体和细胞壁。"
+      }
+    ]
+  },
+  {
+    "question": "What is cytoplasm?",
+    "options": [
+      { "sentence": "The jelly-like substance that fills the cell and surrounds organelles.", "correct": "true" },
+      { "sentence": "The organelle that stores energy in the form of ATP.", "correct": "false" },
+      { "sentence": "A structure that controls what enters and leaves the cell.", "correct": "false" },
+      { "sentence": "The DNA-containing structure in the nucleus.", "correct": "false" },
+      { "sentence": "Membrane-bound vesicles used for transporting proteins.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Cytoplasm provides a medium for chemical reactions and supports organelles.",
+        "chinese": "细胞质为化学反应提供介质，并支撑细胞器。"
+      }
+    ]
+  },
+  {
+    "question": "What is aerobic respiration?",
+    "options": [
+      { "sentence": "Respiration that requires oxygen to produce ATP from glucose.", "correct": "true" },
+      { "sentence": "Respiration that occurs without oxygen and produces minimal ATP.", "correct": "false" },
+      { "sentence": "Photosynthesis occurring in the presence of sunlight.", "correct": "false" },
+      { "sentence": "Decomposition of glucose by bacteria only.", "correct": "false" },
+      { "sentence": "Respiration that occurs only in plant cells.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Aerobic respiration efficiently produces energy by breaking down glucose with oxygen.",
+        "chinese": "有氧呼吸通过氧气分解葡萄糖高效地产生能量。"
+      }
+    ]
+  },
+  {
+    "question": "What is anaerobic respiration?",
+    "options": [
+      { "sentence": "Respiration that occurs without oxygen, producing less ATP and often producing lactic acid or ethanol.", "correct": "true" },
+      { "sentence": "Respiration that uses oxygen to produce maximum ATP.", "correct": "false" },
+      { "sentence": "Photosynthesis in the absence of sunlight.", "correct": "false" },
+      { "sentence": "The breakdown of proteins for energy.", "correct": "false" },
+      { "sentence": "Respiration that occurs only in mitochondria.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Anaerobic respiration produces energy without oxygen, often as lactic acid in muscles or ethanol in yeast.",
+        "chinese": "无氧呼吸在缺氧情况下产生能量，通常在肌肉中产生乳酸，或在酵母中产生乙醇。"
+      }
+    ]
+  }
+]
