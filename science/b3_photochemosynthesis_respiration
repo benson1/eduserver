@@ -1,0 +1,178 @@
+[
+  {
+    "question": "What is a chemical reaction?",
+    "options": [
+      { "sentence": "A process in which substances are transformed into new substances with different chemical properties.", "correct": "true" },
+      { "sentence": "A physical change in matter that does not produce new substances.", "correct": "false" },
+      { "sentence": "The absorption of light energy by pigments in a substance.", "correct": "false" },
+      { "sentence": "The movement of molecules from high concentration to low concentration.", "correct": "false" },
+      { "sentence": "A reversible change in state, such as melting or freezing.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Chemical reactions involve breaking and forming chemical bonds, resulting in new substances.",
+        "chinese": "化学反应涉及化学键的断裂和形成，产生新的物质。"
+      }
+    ]
+  },
+  {
+    "question": "What is photosynthesis?",
+    "options": [
+      { "sentence": "A process in which green plants and some other organisms convert light energy into chemical energy stored in glucose.", "correct": "true" },
+      { "sentence": "A process where animals break down glucose to release energy.", "correct": "false" },
+      { "sentence": "The absorption of oxygen by cells for respiration.", "correct": "false" },
+      { "sentence": "The decomposition of organic matter by bacteria and fungi.", "correct": "false" },
+      { "sentence": "A process in which water evaporates from plant leaves.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Photosynthesis converts carbon dioxide and water into glucose and oxygen using sunlight.",
+        "chinese": "光合作用利用阳光将二氧化碳和水转化为葡萄糖和氧气。"
+      }
+    ]
+  },
+  {
+    "question": "What is the chemical formula for photosynthesis?",
+    "options": [
+      { "sentence": "6CO2 + 6H2O + light energy → C6H12O6 + 6O2", "correct": "true" },
+      { "sentence": "C6H12O6 + 6O2 → 6CO2 + 6H2O + energy", "correct": "false" },
+      { "sentence": "H2O + CO2 → H2CO3", "correct": "false" },
+      { "sentence": "6O2 + C6H12O6 → 6CO2 + 6H2O + light energy", "correct": "false" },
+      { "sentence": "CO2 + H2O → CH4 + O2", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Photosynthesis formula shows carbon dioxide and water forming glucose and oxygen using sunlight.",
+        "chinese": "光合作用的化学方程式表示二氧化碳和水在阳光作用下生成葡萄糖和氧气。"
+      }
+    ]
+  },
+  {
+    "question": "What is a food chain?",
+    "options": [
+      { "sentence": "A sequence of organisms where each one is eaten by the next, showing the flow of energy.", "correct": "true" },
+      { "sentence": "All the different organisms living in a particular habitat.", "correct": "false" },
+      { "sentence": "A diagram showing interactions among many food chains.", "correct": "false" },
+      { "sentence": "A network of decomposers breaking down organic matter.", "correct": "false" },
+      { "sentence": "A chain of chemical reactions in a metabolic pathway.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A food chain shows who eats whom and how energy moves from producers to consumers.",
+        "chinese": "食物链显示了谁吃谁以及能量如何从生产者传递到消费者。"
+      }
+    ]
+  },
+  {
+    "question": "What is a food web?",
+    "options": [
+      { "sentence": "A complex network of interconnected food chains in an ecosystem.", "correct": "true" },
+      { "sentence": "A linear sequence of energy transfer from one organism to another.", "correct": "false" },
+      { "sentence": "A group of producers providing energy to consumers.", "correct": "false" },
+      { "sentence": "The cycle of matter involving decomposers and nutrients.", "correct": "false" },
+      { "sentence": "A diagram showing the chemical reactions in photosynthesis.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Food webs illustrate how multiple food chains are interconnected in an ecosystem.",
+        "chinese": "食物网说明了生态系统中多个食物链是如何相互连接的。"
+      }
+    ]
+  },
+  {
+    "question": "Who are producers?",
+    "options": [
+      { "sentence": "Organisms that make their own food through photosynthesis or chemosynthesis.", "correct": "true" },
+      { "sentence": "Organisms that consume other organisms for energy.", "correct": "false" },
+      { "sentence": "Organisms that break down dead matter and recycle nutrients.", "correct": "false" },
+      { "sentence": "Organisms that are parasites on other species.", "correct": "false" },
+      { "sentence": "Organisms that feed exclusively on detritus.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Producers, like plants and algae, create energy-rich compounds from sunlight or chemicals.",
+        "chinese": "生产者，如植物和藻类，通过阳光或化学物质合成富含能量的化合物。"
+      }
+    ]
+  },
+  {
+    "question": "Who are consumers?",
+    "options": [
+      { "sentence": "Organisms that obtain energy by eating other organisms.", "correct": "true" },
+      { "sentence": "Organisms that produce energy through photosynthesis.", "correct": "false" },
+      { "sentence": "Organisms that decompose dead matter.", "correct": "false" },
+      { "sentence": "Organisms that absorb sunlight for energy.", "correct": "false" },
+      { "sentence": "Organisms that produce chemical energy from inorganic compounds.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Consumers include herbivores, carnivores, and omnivores that feed on other organisms.",
+        "chinese": "消费者包括草食性、肉食性和杂食性动物，它们以其他生物为食。"
+      }
+    ]
+  },
+  {
+    "question": "Who are decomposers?",
+    "options": [
+      { "sentence": "Organisms that break down dead organisms and recycle nutrients back into the ecosystem.", "correct": "true" },
+      { "sentence": "Organisms that make their own food using sunlight.", "correct": "false" },
+      { "sentence": "Organisms that consume living plants or animals directly.", "correct": "false" },
+      { "sentence": "Organisms that store energy in chemical compounds without breaking down matter.", "correct": "false" },
+      { "sentence": "Organisms that compete for light in dense forests.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Decomposers, such as fungi and bacteria, recycle nutrients and maintain ecosystem health.",
+        "chinese": "分解者，如真菌和细菌，循环养分，维持生态系统健康。"
+      }
+    ]
+  },
+  {
+    "question": "Which of the following are chemical reactions?",
+    "options": [
+      { "sentence": "Burning, rotting, rusting, cooking, ripening, fermenting", "correct": "true" },
+      { "sentence": "Evaporation, melting, freezing, sublimation", "correct": "false" },
+      { "sentence": "Mixing water and salt without heating", "correct": "false" },
+      { "sentence": "Dissolving sugar in water", "correct": "false" },
+      { "sentence": "Crushing rocks into smaller pieces", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Chemical reactions produce new substances, while physical changes like melting or evaporation do not.",
+        "chinese": "化学反应会产生新物质，而熔化或蒸发等物理变化不会产生新物质。"
+      }
+    ]
+  },
+  {
+    "question": "What is respiration?",
+    "options": [
+      { "sentence": "A process by which cells break down glucose to release energy in the form of ATP.", "correct": "true" },
+      { "sentence": "The absorption of sunlight by plants to make food.", "correct": "false" },
+      { "sentence": "The decomposition of dead organisms by fungi and bacteria.", "correct": "false" },
+      { "sentence": "The movement of gases like oxygen and carbon dioxide across membranes.", "correct": "false" },
+      { "sentence": "The process of water evaporation from plant leaves.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Cellular respiration converts glucose and oxygen into energy (ATP), carbon dioxide, and water.",
+        "chinese": "细胞呼吸将葡萄糖和氧气转化为能量（ATP）、二氧化碳和水。"
+      }
+    ]
+  },
+  {
+    "question": "What is chemosynthesis?",
+    "options": [
+      { "sentence": "A process by which some organisms produce food using chemical energy instead of sunlight.", "correct": "true" },
+      { "sentence": "The breakdown of food molecules to release energy in animals.", "correct": "false" },
+      { "sentence": "The production of glucose in plants using sunlight.", "correct": "false" },
+      { "sentence": "A process where decomposers recycle nutrients in ecosystems.", "correct": "false" },
+      { "sentence": "The transfer of energy from one trophic level to another in a food chain.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Chemosynthetic organisms, like deep-sea bacteria, use chemical reactions with substances like hydrogen sulfide to make food.",
+        "chinese": "化学合成生物，如深海细菌，通过与硫化氢等物质发生化学反应来制造食物，而不依赖阳光。"
+      }
+    ]
+  }
+]
