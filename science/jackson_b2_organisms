@@ -1,0 +1,114 @@
+[
+  {
+    "question": "What is an ecosystem?",
+    "options": [
+      { "sentence": "A community of living organisms interacting with their physical environment.", "correct": "true" },
+      { "sentence": "All the living organisms in an area without considering non-living factors.", "correct": "false" },
+      { "sentence": "A specific habitat where only plants live.", "correct": "false" },
+      { "sentence": "The climate conditions of a region only.", "correct": "false" },
+      { "sentence": "A group of organisms of the same species living together.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "An ecosystem includes both living (biotic) and non-living (abiotic) components and their interactions.",
+        "chinese": "生态系统包括生物和非生物因素以及它们之间的相互作用。"
+      }
+    ]
+  },
+  {
+    "question": "What is a food chain?",
+    "options": [
+      { "sentence": "A linear sequence showing how energy is transferred from one organism to another.", "correct": "true" },
+      { "sentence": "A network of feeding relationships within an ecosystem.", "correct": "false" },
+      { "sentence": "The movement of nutrients through soil only.", "correct": "false" },
+      { "sentence": "A cycle that shows how energy is reused indefinitely.", "correct": "false" },
+      { "sentence": "A system that only includes producers and decomposers.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "A food chain shows a simple, direct pathway of energy transfer between organisms.",
+        "chinese": "食物链展示能量在生物之间的简单传递路径。"
+      }
+    ]
+  },
+  {
+    "question": "What is a food web?",
+    "options": [
+      { "sentence": "A network of interconnected food chains showing multiple feeding relationships.", "correct": "true" },
+      { "sentence": "A single pathway of energy transfer between organisms.", "correct": "false" },
+      { "sentence": "A diagram showing only predator-prey relationships.", "correct": "false" },
+      { "sentence": "The flow of energy from the sun to plants only.", "correct": "false" },
+      { "sentence": "A system that excludes decomposers.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Food webs are more complex than food chains and show how organisms are interconnected.",
+        "chinese": "食物网比食物链更复杂，展示生物之间的相互联系。"
+      }
+    ]
+  },
+  {
+    "question": "What are consumers?",
+    "options": [
+      { "sentence": "Organisms that obtain energy by eating other organisms.", "correct": "true" },
+      { "sentence": "Organisms that produce their own food using sunlight.", "correct": "false" },
+      { "sentence": "Organisms that break down dead organic matter only.", "correct": "false" },
+      { "sentence": "Organisms that rely only on inorganic substances for energy.", "correct": "false" },
+      { "sentence": "Organisms that do not require energy input.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Consumers depend on other organisms for energy and include herbivores, carnivores, and omnivores.",
+        "chinese": "消费者依赖其他生物获取能量，包括草食动物、肉食动物和杂食动物。"
+      }
+    ]
+  },
+  {
+    "question": "What are producers?",
+    "options": [
+      { "sentence": "Organisms that make their own food, usually through photosynthesis.", "correct": "true" },
+      { "sentence": "Organisms that obtain energy by consuming other organisms.", "correct": "false" },
+      { "sentence": "Organisms that only decompose dead material.", "correct": "false" },
+      { "sentence": "Organisms that rely on chemical digestion of food.", "correct": "false" },
+      { "sentence": "Organisms that cannot convert energy forms.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Producers convert light energy into chemical energy and form the base of ecosystems.",
+        "chinese": "生产者将光能转化为化学能，是生态系统的基础。"
+      }
+    ]
+  },
+  {
+    "question": "What is photosynthesis?",
+    "options": [
+      { "sentence": "The process by which plants use sunlight, carbon dioxide, and water to produce glucose and oxygen.", "correct": "true" },
+      { "sentence": "The process by which organisms break down glucose using oxygen to release energy.", "correct": "false" },
+      { "sentence": "The conversion of chemical energy into light energy.", "correct": "false" },
+      { "sentence": "The absorption of nutrients from soil by roots.", "correct": "false" },
+      { "sentence": "The process of gas exchange in leaves only.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Photosynthesis converts light energy into chemical energy stored in glucose.",
+        "chinese": "光合作用将光能转化为储存在葡萄糖中的化学能。"
+      }
+    ]
+  },
+  {
+    "question": "What is a microorganism?",
+    "options": [
+      { "sentence": "A very small living organism that can only be seen with a microscope.", "correct": "true" },
+      { "sentence": "A multicellular organism visible to the naked eye.", "correct": "false" },
+      { "sentence": "A non-living particle that causes disease.", "correct": "false" },
+      { "sentence": "An organism that only lives in extreme environments.", "correct": "false" },
+      { "sentence": "A microscopic structure found only inside cells.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Microorganisms include bacteria, fungi, and some protists and are essential for many ecological processes.",
+        "chinese": "微生物包括细菌、真菌和一些原生生物，在生态过程中非常重要。"
+      }
+    ]
+  }
+]
