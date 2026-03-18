@@ -891,5 +891,11 @@
         "file": "b4_higher_cells_respiration",
         "type": "science",
         "level": "6"
+    },
+    {
+        "name":"jackson_b2_organisms",
+        "file": "jackson_b2_organisms",
+        "type": "science",
+        "level": "2"
     }
 ]
