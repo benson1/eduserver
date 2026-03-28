@@ -1,0 +1,158 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A species is a group of organisms that can interbreed and produce fertile offspring.", "correct": "true" },
+      { "sentence": "A species is a group of organisms that share a habitat and compete for resources.", "correct": "false" },
+      { "sentence": "A species is a collection of organisms that display similar physical traits and behaviors across generations, regardless of reproductive compatibility.", "correct": "false" },
+      { "sentence": "A species is a set of organisms found within a single geographic region.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "A species is defined by the ability to interbreed and produce fertile offspring.", "chinese": "物种是由能够交配并产生可育后代的生物群体定义。" }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Kingdom is one of the highest taxonomic ranks used to classify living organisms.", "correct": "true" },
+      { "sentence": "Kingdom is a grouping based solely on the organism's habitat type.", "correct": "false" },
+      { "sentence": "Kingdom is a major classification that organizes all life forms into broad groups according to structure and evolutionary relationships.", "correct": "false" },
+      { "sentence": "Kingdom is a classification applied only to animals.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Kingdom is a high-level classification grouping related phyla together.", "chinese": "界是分类学中较高的等级，用于将相关的门分组。" }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Taxonomy is the science of classifying and naming organisms.", "correct": "true" },
+      { "sentence": "Taxonomy studies only the physical appearance of organisms without grouping them scientifically.", "correct": "false" },
+      { "sentence": "Taxonomy is the systematic practice of assigning organisms to hierarchical categories based on characteristics and evolutionary history, but may ignore reproduction methods.", "correct": "false" },
+      { "sentence": "Taxonomy is the classification of plants only.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Taxonomy organizes organisms into hierarchical categories like kingdom, phylum, class, order, family, genus, and species.", "chinese": "分类学将生物按等级分类，如界、门、纲、目、科、属、种。" }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Amphibians are cold-blooded vertebrates that live both in water and on land.", "correct": "true" },
+      { "sentence": "Amphibians are cold-blooded vertebrates that breathe entirely through lungs throughout their life.", "correct": "false" },
+      { "sentence": "Amphibians are vertebrates that undergo metamorphosis but rely solely on terrestrial habitats for all stages of life.", "correct": "false" },
+      { "sentence": "Amphibians are cold-blooded animals that inhabit freshwater environments.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Amphibians include frogs, salamanders, and caecilians, often requiring water for reproduction.", "chinese": "两栖动物包括青蛙、蝾螈和蚓螈，繁殖通常需要水环境。" }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Reptiles are cold-blooded vertebrates with scales that lay shelled eggs on land.", "correct": "true" },
+      { "sentence": "Reptiles are vertebrates with scales that rely on water for egg development.", "correct": "false" },
+      { "sentence": "Reptiles are cold-blooded vertebrates with scales that reproduce exclusively in aquatic environments.", "correct": "false" },
+      { "sentence": "Reptiles are cold-blooded animals that primarily live near water.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Reptiles include snakes, lizards, turtles, and crocodiles.", "chinese": "爬行动物包括蛇、蜥蜴、龟和鳄鱼。" }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Mammals are warm-blooded vertebrates that have hair or fur and produce milk.", "correct": "true" },
+      { "sentence": "Mammals are warm-blooded vertebrates that lay eggs and have fur.", "correct": "false" },
+      { "sentence": "Mammals are warm-blooded vertebrates that may lay eggs or have fur, but do not produce milk.", "correct": "false" },
+      { "sentence": "Mammals are warm-blooded animals that live in forests.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Mammals include humans, whales, and tigers; females produce milk to feed young.", "chinese": "哺乳动物包括人类、鲸鱼和老虎；雌性分泌乳汁喂养幼崽。" }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Osteichthyes are bony fish with skeletons made primarily of bone.", "correct": "true" },
+      { "sentence": "Osteichthyes are fish whose skeletons are made of cartilage instead of bone.", "correct": "false" },
+      { "sentence": "Osteichthyes are bony fish that use cartilage for support while their bones remain underdeveloped.", "correct": "false" },
+      { "sentence": "Osteichthyes are fish that live only in freshwater.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Osteichthyes include salmon, tuna, and goldfish; they have a bony skeleton.", "chinese": "硬骨鱼包括鲑鱼、金枪鱼和金鱼，它们有骨骼。" }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Chondrichthyes are fish with skeletons made of cartilage, such as sharks and rays.", "correct": "true" },
+      { "sentence": "Chondrichthyes are fish with skeletons made entirely of bone.", "correct": "false" },
+      { "sentence": "Chondrichthyes are cartilaginous fish that develop rigid bone structures alongside cartilage.", "correct": "false" },
+      { "sentence": "Chondrichthyes are fish that inhabit coral reefs.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Chondrichthyes have flexible skeletons made of cartilage.", "chinese": "软骨鱼类拥有由软骨组成的灵活骨骼。" }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Monotremes are egg-laying mammals, like the platypus and echidna.", "correct": "true" },
+      { "sentence": "Monotremes are mammals that give birth to live young instead of laying eggs.", "correct": "false" },
+      { "sentence": "Monotremes are mammals that lay eggs but lack mammary glands for feeding their young.", "correct": "false" },
+      { "sentence": "Monotremes are mammals that live in freshwater rivers.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Monotremes are unique among mammals because they lay eggs.", "chinese": "单孔目动物是哺乳动物中独特的一类，因为它们产卵。" }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Marsupials are mammals whose young continue developing in a pouch after birth.", "correct": "true" },
+      { "sentence": "Marsupials are mammals whose young are born fully developed and leave the pouch immediately.", "correct": "false" },
+      { "sentence": "Marsupials are mammals whose young develop inside the mother without entering a pouch.", "correct": "false" },
+      { "sentence": "Marsupials are mammals that live in burrows.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Marsupials include kangaroos, koalas, and wombats.", "chinese": "袋鼠类包括袋鼠、考拉和袋熊，幼崽出生后继续在育儿袋中发育。" }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Mollusks are invertebrates with soft bodies, often protected by a hard shell.", "correct": "true" },
+      { "sentence": "Mollusks are invertebrates with soft bodies that lack shells in all species.", "correct": "false" },
+      { "sentence": "Mollusks are invertebrates with soft bodies that possess shells but do not have specialized feeding organs.", "correct": "false" },
+      { "sentence": "Mollusks are invertebrates that live in freshwater only.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Mollusks include snails, clams, and squids.", "chinese": "软体动物包括蜗牛、蛤蛎和鱿鱼。" }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Cephalopods are mollusks like octopuses and squids, known for their tentacles and advanced nervous system.", "correct": "true" },
+      { "sentence": "Cephalopods are mollusks that have tentacles but lack complex eyes or advanced nervous systems.", "correct": "false" },
+      { "sentence": "Cephalopods are mollusks with tentacles and eyes, but their nervous system is simple compared to other mollusks.", "correct": "false" },
+      { "sentence": "Cephalopods are mollusks that live in coral reefs.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Cephalopods are highly intelligent mollusks with tentacles and complex eyes.", "chinese": "头足类是高度智能的软体动物，具有触手和复杂的眼睛。" }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Anamniotes are vertebrates whose embryos develop in water without a protective amniotic sac, while amniotes have an amniotic sac allowing development on land.", "correct": "true" },
+      { "sentence": "Anamniotes are vertebrates that develop eggs on land, while amniotes develop embryos in water.", "correct": "false" },
+      { "sentence": "Anamniotes are fish and amphibians that lay eggs in terrestrial habitats, while amniotes reproduce exclusively in water.", "correct": "false" },
+      { "sentence": "Anamniotes are vertebrates that inhabit freshwater streams only.", "correct": "false" }
+    ],
+    "explanation": [
+      { "english": "Anamniotes include fish and amphibians; amniotes include reptiles, birds, and mammals.", "chinese": "非羊膜动物包括鱼类和两栖动物；羊膜动物包括爬行动物、鸟类和哺乳动物。" }
+    ]
+  }
+]
