@@ -897,5 +897,11 @@
         "file": "jackson_b2_organisms",
         "type": "science",
         "level": "2"
+    },
+    {
+        "name":"b5_aiden_taxonomy",
+        "file": "b5_aiden_taxonomy",
+        "type": "science",
+        "level": "6"
     }
 ]
