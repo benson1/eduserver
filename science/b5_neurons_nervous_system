@@ -1,0 +1,244 @@
+[
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The central nervous system consists of the brain and spinal cord, where information is processed and coordinated.", "correct": "true" },
+      { "sentence": "The central nervous system consists mainly of sensory nerves that carry information from receptors to muscles.", "correct": "false" },
+      { "sentence": "The central nervous system is responsible only for reflex actions and not conscious thought or memory.", "correct": "false" },
+      { "sentence": "The central nervous system is formed from peripheral nerves that connect muscles directly to receptors.", "correct": "false" },
+      { "sentence": "The central nervous system contains only motor neurons that control voluntary movement throughout the body.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The central nervous system (CNS) is made up of the brain and spinal cord and is responsible for processing and coordinating information.",
+        "chinese": "中枢神经系统由大脑和脊髓组成，负责处理和协调信息。"
+      }
+    ],
+    "hint": [
+      {
+        "english": "Think of the CNS as the body's main control center, rather like the central computer of the nervous system.",
+        "chinese": "可以把中枢神经系统想象成身体的主要控制中心，就像神经系统的中央电脑。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The peripheral nervous system connects the central nervous system to organs, muscles, and sensory receptors throughout the body.", "correct": "true" },
+      { "sentence": "The peripheral nervous system is located entirely within the brain and spinal cord.", "correct": "false" },
+      { "sentence": "The peripheral nervous system processes thoughts and memories before sending signals to the body.", "correct": "false" },
+      { "sentence": "The peripheral nervous system consists only of sensory receptors found in the skin and sense organs.", "correct": "false" },
+      { "sentence": "The peripheral nervous system controls communication only between different regions of the spinal cord.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The peripheral nervous system (PNS) includes nerves outside the brain and spinal cord and links the CNS to the rest of the body.",
+        "chinese": "周围神经系统包括大脑和脊髓之外的神经，将中枢神经系统与身体其他部分连接起来。"
+      }
+    ],
+    "hint": [
+      {
+        "english": "The PNS spreads throughout the body like a network of communication cables connected to the CNS.",
+        "chinese": "周围神经系统像通信电缆网络一样遍布全身，并连接到中枢神经系统。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Neurons are specialized cells that transmit electrical and chemical signals throughout the nervous system.", "correct": "true" },
+      { "sentence": "Neurons are support cells that mainly produce protective coverings around bones and muscles.", "correct": "false" },
+      { "sentence": "Neurons are cells that store nutrients and release energy during muscle contraction.", "correct": "false" },
+      { "sentence": "Neurons are microscopic blood vessels that transport oxygen directly into nerve tissue.", "correct": "false" },
+      { "sentence": "Neurons are structures that connect tendons to muscles and coordinate body movement.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Neurons are specialized nerve cells that send and receive signals throughout the nervous system.",
+        "chinese": "神经元是专门的神经细胞，负责在神经系统中发送和接收信号。"
+      }
+    ],
+    "hint": [
+      {
+        "english": "Neurons are the communication cells of the nervous system, rather like tiny biological wires carrying messages.",
+        "chinese": "神经元是神经系统中的通信细胞，就像传递信息的微小生物电线。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Nerve impulses are electrical signals that travel along neurons to transmit information rapidly.", "correct": "true" },
+      { "sentence": "Nerve impulses are chemical nutrients transported through blood vessels into muscle tissue.", "correct": "false" },
+      { "sentence": "Nerve impulses are waves of pressure that move through bones during reflex actions.", "correct": "false" },
+      { "sentence": "Nerve impulses are electrical charges stored permanently inside sensory receptors.", "correct": "false" },
+      { "sentence": "Nerve impulses are movements of neurotransmitters through the spinal cord and brain tissue.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Nerve impulses are electrical signals that allow neurons to communicate quickly throughout the body.",
+        "chinese": "神经冲动是神经元之间快速传递信息的电信号。"
+      }
+    ],
+    "hint": [
+      {
+        "english": "A nerve impulse behaves a little like an electrical current travelling rapidly along a wire.",
+        "chinese": "神经冲动有点像沿着电线快速传播的电流。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Dendrites receive signals from other neurons and carry them toward the cell body.", "correct": "true" },
+      { "sentence": "Dendrites carry impulses away from the neuron toward muscles and glands.", "correct": "false" },
+      { "sentence": "Dendrites release neurotransmitters directly into the bloodstream during communication.", "correct": "false" },
+      { "sentence": "Dendrites form insulating layers that increase the speed of nerve impulses.", "correct": "false" },
+      { "sentence": "Dendrites connect neighboring muscle fibers together during coordinated movement.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Dendrites are branching structures that receive incoming signals from other neurons.",
+        "chinese": "树突是接收其他神经元传来信号的分支结构。"
+      }
+    ],
+    "hint": [
+      {
+        "english": "Dendrites branch out from the neuron like tiny tree branches and are responsible for receiving incoming messages.",
+        "chinese": "树突像小树枝一样从神经元伸出，负责接收传入的信息。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Motor neurons carry signals from the central nervous system to muscles or glands to produce a response.", "correct": "true" },
+      { "sentence": "Motor neurons carry sensory information from receptors toward the brain and spinal cord.", "correct": "false" },
+      { "sentence": "Motor neurons connect sensory neurons directly to each other inside sense organs.", "correct": "false" },
+      { "sentence": "Motor neurons detect environmental changes and convert them into electrical signals.", "correct": "false" },
+      { "sentence": "Motor neurons mainly process memories and learning inside the cerebral cortex.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Motor neurons transmit signals from the CNS to muscles or glands, allowing the body to respond.",
+        "chinese": "运动神经元将信号从中枢神经系统传递到肌肉或腺体，使身体能够作出反应。"
+      }
+    ],
+    "hint": [
+      {
+        "english": "Motor neurons send instructions outward from the CNS to muscles, rather like cables carrying commands to machines.",
+        "chinese": "运动神经元将指令从中枢神经系统传递到肌肉，就像向机器传送命令的电缆。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Sensory neurons carry information from sensory receptors to the central nervous system.", "correct": "true" },
+      { "sentence": "Sensory neurons transmit commands from the spinal cord directly to muscles.", "correct": "false" },
+      { "sentence": "Sensory neurons insulate axons to increase the speed of electrical conduction.", "correct": "false" },
+      { "sentence": "Sensory neurons connect neighboring interneurons inside the brain and spinal cord.", "correct": "false" },
+      { "sentence": "Sensory neurons release hormones into the bloodstream in response to stimuli.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Sensory neurons carry signals from receptors such as the eyes, skin, and ears to the CNS.",
+        "chinese": "感觉神经元将来自眼睛、皮肤和耳朵等感受器的信号传递到中枢神经系统。"
+      }
+    ],
+    "hint": [
+      {
+        "english": "Sensory neurons bring information inward from receptors, rather like messenger lines reporting back to headquarters.",
+        "chinese": "感觉神经元将来自感受器的信息向内传递，就像向总部汇报情况的通信线路。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Connector neurons link sensory and motor neurons within the central nervous system.", "correct": "true" },
+      { "sentence": "Connector neurons carry signals from muscles directly to sensory receptors in the skin.", "correct": "false" },
+      { "sentence": "Connector neurons form the protective myelin covering around peripheral nerves.", "correct": "false" },
+      { "sentence": "Connector neurons detect changes in temperature and pressure within body tissues.", "correct": "false" },
+      { "sentence": "Connector neurons transmit impulses only between muscles during coordinated movement.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Connector neurons, also called interneurons, relay information between sensory and motor neurons in the CNS.",
+        "chinese": "连接神经元（中间神经元）在中枢神经系统中连接感觉神经元和运动神经元。"
+      }
+    ],
+    "hint": [
+      {
+        "english": "Connector neurons act like relay stations inside the CNS, passing information between different neurons.",
+        "chinese": "连接神经元像中枢神经系统中的中继站，在不同神经元之间传递信息。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The axon carries nerve impulses away from the neuron's cell body toward other cells.", "correct": "true" },
+      { "sentence": "The axon receives incoming signals from neighboring neurons and transfers them to dendrites.", "correct": "false" },
+      { "sentence": "The axon contains receptors that detect stimuli such as light and temperature.", "correct": "false" },
+      { "sentence": "The axon surrounds the neuron with insulation to prevent signal loss during transmission.", "correct": "false" },
+      { "sentence": "The axon stores neurotransmitters inside the nucleus before they are released at synapses.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The axon is the long extension of a neuron that carries impulses away from the cell body.",
+        "chinese": "轴突是神经元中较长的结构，负责将神经冲动从细胞体传出。"
+      }
+    ],
+    "hint": [
+      {
+        "english": "The axon is the long cable-like part of the neuron that sends signals away from the cell body.",
+        "chinese": "轴突像一根长长的电缆，将信号从细胞体向外传递。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Axon terminals release neurotransmitters that transmit signals across synapses to other cells.", "correct": "true" },
+      { "sentence": "Axon terminals receive incoming impulses from receptors and direct them toward dendrites.", "correct": "false" },
+      { "sentence": "Axon terminals form insulating layers that increase the speed of conduction in neurons.", "correct": "false" },
+      { "sentence": "Axon terminals process sensory information before it enters the spinal cord and brain.", "correct": "false" },
+      { "sentence": "Axon terminals convert environmental stimuli into electrical impulses within receptors.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Axon terminals are the ends of axons that release neurotransmitters to communicate with other cells.",
+        "chinese": "轴突末梢位于轴突末端，通过释放神经递质与其他细胞进行通信。"
+      }
+    ],
+    "hint": [
+      {
+        "english": "Axon terminals are like tiny delivery points at the end of the neuron where chemical messages are released.",
+        "chinese": "轴突末梢像神经元末端的小型投递站，会释放化学信息。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "The myelin sheath insulates axons and increases the speed at which nerve impulses travel.", "correct": "true" },
+      { "sentence": "The myelin sheath receives incoming signals from neighboring neurons before transmission occurs.", "correct": "false" },
+      { "sentence": "The myelin sheath releases neurotransmitters across synapses during communication between neurons.", "correct": "false" },
+      { "sentence": "The myelin sheath detects environmental changes and converts them into electrical signals.", "correct": "false" },
+      { "sentence": "The myelin sheath connects sensory receptors directly to muscle fibers during reflex actions.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The myelin sheath is a protective insulating layer around axons that speeds up nerve impulse transmission.",
+        "chinese": "髓鞘是包裹在轴突周围的绝缘保护层，可加快神经冲动的传递速度。"
+      }
+    ],
+    "hint": [
+      {
+        "english": "The myelin sheath works a bit like insulation around an electrical wire, helping signals travel faster.",
+        "chinese": "髓鞘有点像电线外的绝缘层，可以帮助信号更快传播。"
+      }
+    ]
+  }
+]
