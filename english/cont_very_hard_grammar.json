@@ -1,0 +1,256 @@
+[
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "Had she studied medicine, she would now be working at the hospital.", "correct": "true" },
+      { "sentence": "Had she studied medicine, she would have now worked at the hospital.", "correct": "false" },
+      { "sentence": "Had she studied medicine, she will now be working at the hospital.", "correct": "false" },
+      { "sentence": "Had she studied medicine, she would now worked at the hospital.", "correct": "false" },
+      { "sentence": "Had she studied medicine, she would be worked at the hospital now.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Mixed conditionals combine a past unreal condition with a present consequence.",
+        "chinese": "混合虚拟条件句表示过去假设导致现在结果。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "Having completed the report, she emailed it to the manager.", "correct": "true" },
+      { "sentence": "Having completed the report, the manager received it.", "correct": "false" },
+      { "sentence": "Having complete the report, she emailed it to the manager.", "correct": "false" },
+      { "sentence": "Completed the report, she emailed it to the manager.", "correct": "false" },
+      { "sentence": "Having been completed the report, she emailed it.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Participial clauses must logically refer to the subject of the main clause.",
+        "chinese": "分词短语的逻辑主语必须与主句主语一致。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "John enjoys classical music more than his brother does.", "correct": "true" },
+      { "sentence": "John enjoys classical music more than his brother.", "correct": "false" },
+      { "sentence": "John enjoys classical music more than does his brother enjoys.", "correct": "false" },
+      { "sentence": "John enjoys classical music more than his brother do.", "correct": "false" },
+      { "sentence": "John enjoys classical music more than his brother is.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Ellipsis often omits repeated verbs, but auxiliary agreement must remain correct.",
+        "chinese": "省略结构中可省略重复成分，但助动词形式必须正确。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "There appears to have been a misunderstanding.", "correct": "true" },
+      { "sentence": "There appears having been a misunderstanding.", "correct": "false" },
+      { "sentence": "There appear to has been a misunderstanding.", "correct": "false" },
+      { "sentence": "There appears that have been a misunderstanding.", "correct": "false" },
+      { "sentence": "There appearing to have been a misunderstanding.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Existential 'there' may be followed by perfect infinitives.",
+        "chinese": "存在句 there 后可接完成不定式。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "Little information was available regarding the incident.", "correct": "true" },
+      { "sentence": "Few information was available regarding the incident.", "correct": "false" },
+      { "sentence": "Little informations were available regarding the incident.", "correct": "false" },
+      { "sentence": "Few information were available regarding the incident.", "correct": "false" },
+      { "sentence": "Little information were available regarding the incident.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'Information' is uncountable and takes 'little' and a singular verb.",
+        "chinese": "'Information' 是不可数名词，用 little 并接单数动词。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "The more carefully you read, the more easily you understand the argument.", "correct": "true" },
+      { "sentence": "The more carefully you read, more easily you understand the argument.", "correct": "false" },
+      { "sentence": "The carefully you read, the more easily you understand the argument.", "correct": "false" },
+      { "sentence": "The more carefully you read, the easier you understand the argument.", "correct": "false" },
+      { "sentence": "More carefully you read, the more easily you understand the argument.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Correlative comparative structures require 'the...the...'.",
+        "chinese": "比较关联结构必须使用 'the...the...'。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "She seems to have forgotten about the appointment.", "correct": "true" },
+      { "sentence": "She seems having forgotten about the appointment.", "correct": "false" },
+      { "sentence": "She seems to forgot about the appointment.", "correct": "false" },
+      { "sentence": "She seems have forgotten about the appointment.", "correct": "false" },
+      { "sentence": "She seems forgetting about the appointment.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Perfect infinitives indicate an action occurring before the main verb.",
+        "chinese": "完成不定式表示动作发生在主要动词之前。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "Students enrolled in the course must submit their assignments online.", "correct": "true" },
+      { "sentence": "Students enrolling in the course was submit their assignments online.", "correct": "false" },
+      { "sentence": "Students enrolled the course must submit their assignments online.", "correct": "false" },
+      { "sentence": "Students which enrolled in the course must submit their assignments online.", "correct": "false" },
+      { "sentence": "Students enrolled in the course submits their assignments online.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Past participles may reduce passive relative clauses.",
+        "chinese": "过去分词可简化被动定语从句。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "He behaved as if nothing had happened.", "correct": "true" },
+      { "sentence": "He behaved as if nothing has happened.", "correct": "false" },
+      { "sentence": "He behaved as if nothing happens.", "correct": "false" },
+      { "sentence": "He behaved as if nothing would happen.", "correct": "false" },
+      { "sentence": "He behaved as if nothing happened has.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'As if' often takes the past perfect when referring to unreal past events.",
+        "chinese": "表示与过去事实相反时，as if 后常用过去完成时。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "You should have informed us about the changes earlier.", "correct": "true" },
+      { "sentence": "You should informed us about the changes earlier.", "correct": "false" },
+      { "sentence": "You should have inform us about the changes earlier.", "correct": "false" },
+      { "sentence": "You should had informed us about the changes earlier.", "correct": "false" },
+      { "sentence": "You should to have informed us about the changes earlier.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Modal perfect constructions use 'modal + have + past participle.'",
+        "chinese": "情态动词完成式结构为 '情态动词 + have + 过去分词'。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "A colleague of my father's recommended the book.", "correct": "true" },
+      { "sentence": "A colleague of my father recommended the book.", "correct": "false" },
+      { "sentence": "A colleague from my father's recommended the book.", "correct": "false" },
+      { "sentence": "A colleague of my father's's recommended the book.", "correct": "false" },
+      { "sentence": "A colleague my father's recommended the book.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Double genitives combine 'of' with a possessive form.",
+        "chinese": "双重所有格结构由 'of + 所有格' 构成。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "So difficult was the exam that many students left early.", "correct": "true" },
+      { "sentence": "So difficult the exam was that many students left early.", "correct": "false" },
+      { "sentence": "So was difficult the exam that many students left early.", "correct": "false" },
+      { "sentence": "So difficult was the exam many students left early.", "correct": "false" },
+      { "sentence": "So difficult did the exam was that many students left early.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'So + adjective' at the beginning may trigger inversion.",
+        "chinese": "句首的 'So + 形容词' 可以引起倒装。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "The professor to whom I spoke was very helpful.", "correct": "true" },
+      { "sentence": "The professor whom I spoke to was very helpful.", "correct": "false" },
+      { "sentence": "The professor to who I spoke was very helpful.", "correct": "false" },
+      { "sentence": "The professor which I spoke to was very helpful.", "correct": "false" },
+      { "sentence": "The professor to whom I spoke to was very helpful.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Formal relative clauses may front prepositions before 'whom.'",
+        "chinese": "正式定语从句中，介词可提前放在 whom 前面。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "I do appreciate your willingness to help.", "correct": "true" },
+      { "sentence": "I do appreciates your willingness to help.", "correct": "false" },
+      { "sentence": "I does appreciate your willingness to help.", "correct": "false" },
+      { "sentence": "I appreciated do your willingness to help.", "correct": "false" },
+      { "sentence": "I do appreciating your willingness to help.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Emphatic 'do' is used with the base form of the verb.",
+        "chinese": "强调助动词 do 后接动词原形。"
+      }
+    ]
+  },
+
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      { "sentence": "The lecture was so informative that everyone stayed until the end.", "correct": "true" },
+      { "sentence": "The lecture was such informative that everyone stayed until the end.", "correct": "false" },
+      { "sentence": "The lecture was so informative everyone stayed until the end.", "correct": "false" },
+      { "sentence": "The lecture was such an informative that everyone stayed until the end.", "correct": "false" },
+      { "sentence": "The lecture was too informative that everyone stayed until the end.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "'So + adjective + that' introduces result clauses.",
+        "chinese": "'So + 形容词 + that' 用于表示结果。"
+      }
+    ]
+  }
+]
