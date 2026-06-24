@@ -909,5 +909,11 @@
         "file": "b5_neurons_nervous_system",
         "type": "science",
         "level": "6"
+    },
+    {
+        "name":"cont_very_hard_grammar.json",
+        "file": "cont_very_hard_grammar.json",
+        "type": "english",
+        "level": "6"
     }
 ]
