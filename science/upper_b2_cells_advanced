@@ -1,273 +1,342 @@
 [
   {
-    "question": "Which sentence is scientifically correct?",
+    "question": "Which statement best describes a pathogen?",
     "options": [
-      { "sentence": "A cell is the basic structural and functional unit of all living organisms.", "correct": "true" },
-      { "sentence": "A cell is an inactive particle that does not take part in any life process.", "correct": "false" },
-      { "sentence": "A cell is a large organ that performs all functions for the whole body.", "correct": "false" },
-      { "sentence": "A cell is a solid object that does not contain any living material.", "correct": "false" },
-      { "sentence": "A cell is a simple chemical substance rather than a living structure.", "correct": "false" }
+      {
+        "sentence": "A pathogen is an organism or infectious agent that can cause disease.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A pathogen is any microorganism that lives inside the human body.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A pathogen is a substance produced by the immune system to destroy microorganisms.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A pathogen is a medicine used to prevent an infection from developing.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A pathogen is a type of white blood cell that attacks infected cells.",
+        "correct": "false"
+      }
     ],
     "explanation": [
       {
-        "english": "Cells are the smallest units of life that carry out all necessary functions for an organism to live.",
-        "chinese": "细胞是生命的基本单位，能够执行生物生存所需的所有功能。"
+        "english": "A pathogen is an organism or infectious agent that can cause disease. Examples include bacteria, viruses, fungi, and some parasites.",
+        "chinese": "病原体是能够引起疾病的生物或感染性物质。例如细菌、病毒、真菌和一些寄生虫都可以成为病原体。"
       }
     ]
   },
   {
-    "question": "Which sentence is scientifically correct?",
+    "question": "What does it mean if a disease is infectious?",
     "options": [
-      { "sentence": "A plant cell contains a cell wall, chloroplasts, and a large central vacuole.", "correct": "true" },
-      { "sentence": "A plant cell has no nucleus and lacks both vacuoles and chloroplasts.", "correct": "false" },
-      { "sentence": "A plant cell moves freely because it does not have a cell wall at all.", "correct": "false" },
-      { "sentence": "A plant cell has only a soft membrane and no internal organelles.", "correct": "false" },
-      { "sentence": "A plant cell creates its food without using sunlight or any pigment.", "correct": "false" }
+      {
+        "sentence": "It means the disease is caused by a pathogen and can be transmitted between organisms.",
+        "correct": "true"
+      },
+      {
+        "sentence": "It means the disease is caused by a person's immune system attacking its own cells.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It means the disease is caused by a person's genes and cannot be transmitted.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It means the disease can only be transmitted through direct physical contact.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It means the disease is caused by an imbalance of chemicals inside the body.",
+        "correct": "false"
+      }
     ],
     "explanation": [
       {
-        "english": "Plant cells have a rigid cell wall, chloroplasts for photosynthesis, and a large vacuole for water storage.",
-        "chinese": "植物细胞具有坚硬的细胞壁、用于光合作用的叶绿体，以及用于储水的大液泡。"
+        "english": "An infectious disease is caused by a pathogen and can be transmitted from one organism to another, although the route of transmission can vary.",
+        "chinese": "传染病由病原体引起，并可以从一个生物体传播到另一个生物体，但传播途径可能不同。"
       }
     ]
   },
   {
-    "question": "Which sentence is scientifically correct?",
+    "question": "What is the main role of the immune system?",
     "options": [
-      { "sentence": "An animal cell lacks a cell wall and chloroplasts but has a flexible cell membrane.", "correct": "true" },
-      { "sentence": "An animal cell contains a thick cell wall made entirely of cellulose.", "correct": "false" },
-      { "sentence": "An animal cell performs photosynthesis using chlorophyll and sunlight.", "correct": "false" },
-      { "sentence": "An animal cell replaces mitochondria with chloroplasts to make energy.", "correct": "false" },
-      { "sentence": "An animal cell functions without a nucleus or any genetic material.", "correct": "false" }
+      {
+        "sentence": "To recognize and defend the body against pathogens and other harmful foreign substances.",
+        "correct": "true"
+      },
+      {
+        "sentence": "To prevent all microorganisms from entering the body.",
+        "correct": "false"
+      },
+      {
+        "sentence": "To destroy all bacteria found in the digestive system.",
+        "correct": "false"
+      },
+      {
+        "sentence": "To produce antibiotics whenever a person becomes infected.",
+        "correct": "false"
+      },
+      {
+        "sentence": "To replace damaged body cells whenever an infection occurs.",
+        "correct": "false"
+      }
     ],
     "explanation": [
       {
-        "english": "Animal cells do not have cell walls or chloroplasts; instead, they have flexible membranes and many mitochondria for energy.",
-        "chinese": "动物细胞没有细胞壁或叶绿体，而是具有柔软的细胞膜和大量的线粒体用于能量生产。"
+        "english": "The immune system protects the body by recognizing foreign substances and pathogens and mounting responses against them.",
+        "chinese": "免疫系统通过识别外来物质和病原体，并对它们产生免疫反应来保护人体。"
       }
     ]
   },
   {
-    "question": "Which sentence is scientifically correct?",
+    "question": "Which statement best describes a virus?",
     "options": [
-      { "sentence": "A vacuole is a membrane-bound organelle that stores water, nutrients, or waste.", "correct": "true" },
-      { "sentence": "A vacuole is a rigid structure that produces energy for cell growth.", "correct": "false" },
-      { "sentence": "A vacuole is a small part of DNA found inside the cell nucleus.", "correct": "false" },
-      { "sentence": "A vacuole is a pigment that captures sunlight for photosynthesis.", "correct": "false" },
-      { "sentence": "A vacuole is a protein complex that helps digest carbohydrates.", "correct": "false" }
+      {
+        "sentence": "A virus is an infectious agent that must enter a living cell in order to reproduce.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A virus is a single-celled organism that reproduces by dividing into two cells.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A virus is a type of bacterium that reproduces independently inside the bloodstream.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A virus is an immune cell that identifies and destroys bacteria.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A virus reproduces by absorbing nutrients directly from its surroundings.",
+        "correct": "false"
+      }
     ],
     "explanation": [
       {
-        "english": "Vacuoles store materials and help maintain internal pressure in cells, especially in plants.",
-        "chinese": "液泡用于储存物质并帮助维持细胞内的压力，尤其在植物细胞中。"
+        "english": "Viruses are infectious agents that reproduce by entering living cells and using the cells' machinery to make new viruses.",
+        "chinese": "病毒是通过进入活细胞并利用细胞内部的机制制造新的病毒来繁殖的感染性物质。"
       }
     ]
   },
   {
-    "question": "Which sentence is scientifically correct?",
+    "question": "Why is Edward Jenner important in the history of medicine?",
     "options": [
-      { "sentence": "Chloroplasts are organelles that carry out photosynthesis in plant cells.", "correct": "true" },
-      { "sentence": "Chloroplasts in animal cells produce energy directly from proteins.", "correct": "false" },
-      { "sentence": "Chloroplasts are used only for respiration and never for photosynthesis.", "correct": "false" },
-      { "sentence": "Chloroplasts are storage vesicles that collect waste and water.", "correct": "false" },
-      { "sentence": "Chloroplasts are invisible bodies that contain no pigments or enzymes.", "correct": "false" }
+      {
+        "sentence": "He developed an early vaccination method against smallpox after observing the protective effect of cowpox.",
+        "correct": "true"
+      },
+      {
+        "sentence": "He discovered penicillin after observing that mould killed bacteria.",
+        "correct": "false"
+      },
+      {
+        "sentence": "He discovered that bacteria could become resistant to antibiotics.",
+        "correct": "false"
+      },
+      {
+        "sentence": "He discovered that viruses could reproduce inside living cells.",
+        "correct": "false"
+      },
+      {
+        "sentence": "He developed the first antibiotic used to treat bacterial infections.",
+        "correct": "false"
+      }
     ],
     "explanation": [
       {
-        "english": "Chloroplasts use sunlight, carbon dioxide, and water to produce glucose and oxygen through photosynthesis.",
-        "chinese": "叶绿体利用阳光、二氧化碳和水通过光合作用产生葡萄糖和氧气。"
+        "english": "Edward Jenner developed an early successful vaccination against smallpox. He observed that people who had experienced cowpox appeared to be protected against smallpox.",
+        "chinese": "爱德华·詹纳开发了早期成功的天花疫苗。他观察到感染过牛痘的人似乎能够受到天花的保护。"
       }
     ]
   },
   {
-    "question": "Which sentence is scientifically correct?",
+    "question": "How does a vaccine help protect a person from disease?",
     "options": [
-      { "sentence": "Chlorophyll is the green pigment in plants that captures light energy for photosynthesis.", "correct": "true" },
-      { "sentence": "Chlorophyll is a stored carbohydrate that plants use as a food reserve.", "correct": "false" },
-      { "sentence": "Chlorophyll is a mineral substance that plants absorb from the soil.", "correct": "false" },
-      { "sentence": "Chlorophyll is a clear liquid that fills the inside of each cell.", "correct": "false" },
-      { "sentence": "Chlorophyll is a compound that occurs naturally only in animal tissue.", "correct": "false" }
+      {
+        "sentence": "It exposes the immune system to a safe form or component of a pathogen so that it can develop a specific immune response.",
+        "correct": "true"
+      },
+      {
+        "sentence": "It directly kills every pathogen that enters the body after vaccination.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It permanently prevents the pathogen from entering the body.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It replaces the body's immune cells with cells that are resistant to infection.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It causes the body to produce antibiotics that attack both bacteria and viruses.",
+        "correct": "false"
+      }
     ],
     "explanation": [
       {
-        "english": "Chlorophyll absorbs sunlight, mainly blue and red light, and gives plants their green color.",
-        "chinese": "叶绿素吸收阳光，主要是蓝光和红光，使植物呈现绿色。"
+        "english": "Vaccines expose the immune system to a safe form or part of a pathogen, allowing it to develop a specific response and memory against that pathogen.",
+        "chinese": "疫苗让免疫系统接触病原体的安全形式或部分，使免疫系统形成针对该病原体的特异性免疫反应和免疫记忆。"
       }
     ]
   },
   {
-    "question": "Which sentence is scientifically correct?",
+    "question": "What does immunity mean?",
     "options": [
-      { "sentence": "The cell wall provides structural support and protection for plant cells.", "correct": "true" },
-      { "sentence": "The cell wall allows all materials to enter and exit without restriction.", "correct": "false" },
-      { "sentence": "The cell wall is mostly made of proteins and fatty molecules.", "correct": "false" },
-      { "sentence": "The cell wall is found in all animal cells as an outer covering.", "correct": "false" },
-      { "sentence": "The cell wall functions as the main site for DNA replication.", "correct": "false" }
+      {
+        "sentence": "It is the ability of the immune system to recognize and respond effectively to a particular pathogen.",
+        "correct": "true"
+      },
+      {
+        "sentence": "It means that a person can never be infected by any pathogen.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It means that the pathogen has become resistant to the person's immune system.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It means that a person has antibiotics permanently stored in their bloodstream.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It means that the immune system stops responding once a pathogen has been encountered.",
+        "correct": "false"
+      }
     ],
     "explanation": [
       {
-        "english": "The plant cell wall, mainly made of cellulose, gives shape and rigidity to the cell.",
-        "chinese": "植物细胞壁主要由纤维素组成，为细胞提供形状和支撑。"
+        "english": "Immunity is the ability to recognize and defend against a particular pathogen. It can develop following infection or vaccination.",
+        "chinese": "免疫力是识别和抵抗特定病原体的能力。它可以在感染后形成，也可以通过接种疫苗获得。"
       }
     ]
   },
   {
-    "question": "Which sentence is scientifically correct?",
+    "question": "What are antibiotics used to treat?",
     "options": [
-      { "sentence": "The cell membrane controls what enters and leaves the cell.", "correct": "true" },
-      { "sentence": "The cell membrane is a rigid wall that cannot bend or move at all.", "correct": "false" },
-      { "sentence": "The cell membrane allows only water molecules to pass through freely.", "correct": "false" },
-      { "sentence": "The cell membrane generates energy instead of controlling transport.", "correct": "false" },
-      { "sentence": "The cell membrane serves as a container for storing genetic material.", "correct": "false" }
+      {
+        "sentence": "Bacterial infections.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Viral infections such as influenza and the common cold.",
+        "correct": "false"
+      },
+      {
+        "sentence": "All infectious diseases, regardless of their cause.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Diseases caused by an overactive immune system.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Inherited diseases caused by changes in DNA.",
+        "correct": "false"
+      }
     ],
     "explanation": [
       {
-        "english": "The cell membrane is selectively permeable, regulating the movement of materials into and out of the cell.",
-        "chinese": "细胞膜具有选择性通透性，调节物质进出细胞。"
+        "english": "Antibiotics are medicines that target bacteria and are used to treat bacterial infections. They do not work against viruses.",
+        "chinese": "抗生素是针对细菌的药物，用于治疗细菌感染。它们不能治疗病毒感染。"
       }
     ]
   },
   {
-    "question": "Which sentence is scientifically correct?",
+    "question": "What did Alexander Fleming discover?",
     "options": [
-      { "sentence": "The cytoplasm is the jelly-like substance that holds organelles in place inside the cell.", "correct": "true" },
-      { "sentence": "The cytoplasm is a colored pigment that helps plants absorb sunlight.", "correct": "false" },
-      { "sentence": "The cytoplasm is a structure found only inside the nucleus of a cell.", "correct": "false" },
-      { "sentence": "The cytoplasm is a solid wall that protects the outer layer of the cell.", "correct": "false" },
-      { "sentence": "The cytoplasm is the main site where the cell stores its DNA and genes.", "correct": "false" }
+      {
+        "sentence": "He discovered penicillin after observing that a mould was preventing bacteria from growing.",
+        "correct": "true"
+      },
+      {
+        "sentence": "He developed the first successful vaccine against smallpox.",
+        "correct": "false"
+      },
+      {
+        "sentence": "He discovered that viruses could reproduce without entering living cells.",
+        "correct": "false"
+      },
+      {
+        "sentence": "He discovered the immune system's ability to produce antibodies.",
+        "correct": "false"
+      },
+      {
+        "sentence": "He discovered that vaccines could be used to treat bacterial infections.",
+        "correct": "false"
+      }
     ],
     "explanation": [
       {
-        "english": "Cytoplasm provides a medium for chemical reactions and supports organelles.",
-        "chinese": "细胞质为化学反应提供介质，并支撑细胞器。"
+        "english": "In 1928, Alexander Fleming observed that a mould was producing a substance that prevented bacteria from growing. This substance was later developed into the antibiotic penicillin.",
+        "chinese": "1928年，亚历山大·弗莱明发现一种霉菌产生的物质能够抑制细菌生长。这种物质后来被开发成为抗生素青霉素。"
       }
     ]
   },
   {
-    "question": "Which sentence is scientifically correct?",
+    "question": "Which statement correctly describes penicillin?",
     "options": [
-      { "sentence": "The nucleus contains the cell’s genetic material (DNA) and controls cell activities.", "correct": "true" },
-      { "sentence": "The nucleus is a structure found only in plant roots and leaves.", "correct": "false" },
-      { "sentence": "The nucleus provides energy for the cell through the process of respiration.", "correct": "false" },
-      { "sentence": "The nucleus stores extra nutrients instead of genetic material.", "correct": "false" },
-      { "sentence": "The nucleus lies outside the cell and connects different tissues together.", "correct": "false" }
+      {
+        "sentence": "Penicillin is an antibiotic that can kill or inhibit the growth of certain bacteria.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Penicillin is a vaccine that trains the immune system to recognize viruses.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Penicillin is a type of white blood cell that attacks bacteria.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Penicillin is a virus that infects and destroys harmful bacteria.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Penicillin is produced by the human immune system during an infection.",
+        "correct": "false"
+      }
     ],
     "explanation": [
       {
-        "english": "The nucleus acts as the control center of the cell, regulating growth, reproduction, and gene expression.",
-        "chinese": "细胞核是细胞的控制中心，调节生长、繁殖和基因表达。"
+        "english": "Penicillin is an antibiotic originally discovered from Penicillium mould. It can kill or inhibit the growth of susceptible bacteria.",
+        "chinese": "青霉素是一种最初从青霉属霉菌中发现的抗生素，可以杀死或抑制某些敏感细菌的生长。"
       }
     ]
   },
   {
-    "question": "Which sentence is scientifically correct?",
+    "question": "What is antibiotic resistance?",
     "options": [
-      { "sentence": "Mitochondria are organelles that produce energy through cellular respiration.", "correct": "true" },
-      { "sentence": "Mitochondria store hereditary material instead of producing energy.", "correct": "false" },
-      { "sentence": "Mitochondria carry out photosynthesis inside animal tissue cells.", "correct": "false" },
-      { "sentence": "Mitochondria appear only in green plants and not in any animals.", "correct": "false" },
-      { "sentence": "Mitochondria contain pigments that give plants their green color.", "correct": "false" }
-    ],
-    "explanation": [
       {
-        "english": "Mitochondria convert glucose and oxygen into ATP, the cell’s main energy source.",
-        "chinese": "线粒体将葡萄糖和氧气转化为ATP，这是细胞的主要能量来源。"
+        "sentence": "It occurs when bacteria develop traits that allow them to survive an antibiotic that would normally kill them or stop their growth.",
+        "correct": "true"
+      },
+      {
+        "sentence": "It occurs when a person's immune system becomes less effective after taking antibiotics.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It occurs when antibiotics become weaker because they are stored inside the body.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It occurs when viruses become resistant to antibiotics after infecting bacteria.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It occurs when all bacteria are destroyed except for harmless bacteria in the digestive system.",
+        "correct": "false"
       }
-    ]
-  },
-  {
-    "question": "Which sentence is scientifically correct?",
-    "options": [
-      { "sentence": "Osmosis is the movement of water across a selectively permeable membrane from low solute to high solute concentration.", "correct": "true" },
-      { "sentence": "Osmosis is the random movement of all substances in every direction.", "correct": "false" },
-      { "sentence": "Osmosis is an active process that requires energy from ATP molecules.", "correct": "false" },
-      { "sentence": "Osmosis takes place only in animal cells and not in plant tissues.", "correct": "false" },
-      { "sentence": "Osmosis is a method used by cells to transport proteins actively.", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "Osmosis is a passive process where water moves to balance concentrations across membranes.",
-        "chinese": "渗透是一种被动过程，水通过膜移动以平衡溶质浓度。"
-      }
-    ]
-  },
-  {
-    "question": "Which sentence is scientifically correct?",
-    "options": [
-      { "sentence": "Cellular respiration is the process by which cells break down glucose to release energy as ATP.", "correct": "true" },
-      { "sentence": "Cellular respiration uses sunlight to build glucose molecules for plants.", "correct": "false" },
-      { "sentence": "Cellular respiration occurs only in green chloroplasts inside plant cells.", "correct": "false" },
-      { "sentence": "Cellular respiration stores oxygen instead of consuming it for energy.", "correct": "false" },
-      { "sentence": "Cellular respiration happens when the cell is completely inactive and resting.", "correct": "false" }
-    ],
-    "explanation": [
-      {
-        "english": "Cellular respiration converts food energy into ATP, usually in the mitochondria, using oxygen.",
-        "chinese": "细胞呼吸在有氧条件下将食物能量转化为ATP，通常在线粒体中进行。"
-      }
-    ]
-  },
-  {
-    "question": "Which sentence is scientifically correct?",
-    "options": [
-      { "sentence": "Glycolysis is the first stage of cellular respiration, breaking glucose into pyruvate and producing ATP.", "correct": "true" },
-      { "sentence": "Glycolysis occurs only in mitochondria and always needs oxygen to start.", "correct": "false" },
-      { "sentence": "Glycolysis changes carbon dioxide into glucose using sunlight energy.", "correct": "false" },
-      { "sentence": "Glycolysis is a photosynthetic step that takes place in green leaves.", "correct": "false" },
-      { "sentence": "Glycolysis happens after the cell completely runs out of glucose.", "correct": "false" }
-    ],
-    "explanation": [
-      {
-        "english": "Glycolysis occurs in the cytoplasm and does not require oxygen, producing small amounts of ATP and pyruvate.",
-        "chinese": "糖酵解在细胞质中进行，不需要氧气，生成少量ATP和丙酮酸。"
-      }
-    ]
-  },
-  {
-    "question": "Which sentence is scientifically correct?",
-    "options": [
-      { "sentence": "ATP (adenosine triphosphate) is the main energy currency of the cell.", "correct": "true" },
-      { "sentence": "ATP is a green pigment that gives color to leaves and stems of plants.", "correct": "false" },
-      { "sentence": "ATP is a form of DNA that carries all of an organism’s genes.", "correct": "false" },
-      { "sentence": "ATP is a waste substance formed during the process of respiration.", "correct": "false" },
-      { "sentence": "ATP is stored only inside the nucleus and nowhere else in the cell.", "correct": "false" }
-    ],
-    "explanation": [
-      {
-        "english": "ATP stores and provides energy for cellular processes like movement, growth, and transport.",
-        "chinese": "ATP为细胞的运动、生长和运输等过程提供能量。"
-      }
-    ]
-  },
-  {
-    "question": "Which sentence is scientifically correct?",
-    "options": [
-      { "sentence": "Lactic fermentation produces lactic acid and ATP when oxygen is not available.", "correct": "true" },
-      { "sentence": "Lactic fermentation forms alcohol and gas in the presence of oxygen.", "correct": "false" },
-      { "sentence": "Lactic fermentation requires sunlight and carbon dioxide to occur.", "correct": "false" },
-      { "sentence": "Lactic fermentation happens only in mitochondria during photosynthesis.", "correct": "false" },
-      { "sentence": "Lactic fermentation converts oxygen into glucose for storage in cells.", "correct": "false" }
-    ],
-    "explanation": [
-      {
-        "english": "Lactic fermentation occurs in muscles and some bacteria during anaerobic conditions, producing lactic acid and energy.",
-        "chinese": "乳酸发酵在缺氧条件下发生于肌肉或某些细菌中，产生乳酸和能量。"
-      }
-    ]
-  },
-  {
-    "question": "Which sentence is scientifically correct?",
-    "options": [
-      { "sentence": "Alcoholic fermentation produces ethanol and carbon dioxide from sugars without oxygen.", "correct": "true" },
-      { "sentence": "Alcoholic fermentation makes lactic acid and ATP inside muscle tissue.", "correct": "false" },
-      { "sentence": "Alcoholic fermentation needs oxygen to complete energy production.", "correct": "false" },
-      { "sentence": "Alcoholic fermentation takes place only in plant mitochondria.", "correct": "false" },
-      { "sentence": "Alcoholic fermentation forms glucose instead of releasing carbon dioxide.", "correct": "false" }
-    ],
-    "explanation": [
-      {
-        "english": "Yeasts use alcoholic fermentation to produce ethanol and CO₂ in anaerobic conditions.",
-        "chinese": "酵母在无氧条件下通过酒精发酵产生乙醇和二氧化碳。"
+        "english": "Antibiotic resistance occurs when bacteria acquire or develop traits that allow them to survive treatment with antibiotics. Resistant bacteria can then multiply and spread.",
+        "chinese": "抗生素耐药性是指细菌获得或形成能够抵抗抗生素的特征，使它们能够在治疗中存活。耐药细菌随后可以繁殖并传播。"
       }
     ]
   }
