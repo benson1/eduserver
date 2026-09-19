@@ -1,0 +1,622 @@
+[
+  {
+    "question": "Which statement best describes density?",
+    "options": [
+      {
+        "sentence": "Density is the mass of a substance per unit volume.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Density is the volume of a substance per unit mass.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Density is the weight of an object multiplied by its volume.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Density is the total mass of an object regardless of its size.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Density is the force exerted by a substance on a surface.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Density is defined as mass per unit volume. It is calculated using the equation: density = mass ÷ volume. The units are typically g/cm³ or kg/m³.",
+        "chinese": "密度定义为单位体积的质量。计算公式为：密度 = 质量 ÷ 体积。单位通常为 g/cm³ 或 kg/m³。"
+      }
+    ]
+  },
+  {
+    "question": "A block of metal has a mass of 540 g and a volume of 60 cm³. What is its density?",
+    "options": [
+      {
+        "sentence": "9 g/cm³",
+        "correct": "true"
+      },
+      {
+        "sentence": "0.11 g/cm³",
+        "correct": "false"
+      },
+      {
+        "sentence": "32400 g/cm³",
+        "correct": "false"
+      },
+      {
+        "sentence": "600 g/cm³",
+        "correct": "false"
+      },
+      {
+        "sentence": "90 g/cm³",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Density = mass ÷ volume = 540 g ÷ 60 cm³ = 9 g/cm³.",
+        "chinese": "密度 = 质量 ÷ 体积 = 540 g ÷ 60 cm³ = 9 g/cm³。"
+      }
+    ]
+  },
+  {
+    "question": "A liquid has a density of 0.8 g/cm³. What is the mass of 250 cm³ of this liquid?",
+    "options": [
+      {
+        "sentence": "200 g",
+        "correct": "true"
+      },
+      {
+        "sentence": "312.5 g",
+        "correct": "false"
+      },
+      {
+        "sentence": "0.0032 g",
+        "correct": "false"
+      },
+      {
+        "sentence": "250.8 g",
+        "correct": "false"
+      },
+      {
+        "sentence": "20 g",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Mass = density × volume = 0.8 g/cm³ × 250 cm³ = 200 g.",
+        "chinese": "质量 = 密度 × 体积 = 0.8 g/cm³ × 250 cm³ = 200 g。"
+      }
+    ]
+  },
+  {
+    "question": "An object has a mass of 1.2 kg and a density of 400 kg/m³. What is its volume?",
+    "options": [
+      {
+        "sentence": "0.003 m³",
+        "correct": "true"
+      },
+      {
+        "sentence": "480 m³",
+        "correct": "false"
+      },
+      {
+        "sentence": "0.3 m³",
+        "correct": "false"
+      },
+      {
+        "sentence": "3000 m³",
+        "correct": "false"
+      },
+      {
+        "sentence": "0.03 m³",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Volume = mass ÷ density = 1.2 kg ÷ 400 kg/m³ = 0.003 m³.",
+        "chinese": "体积 = 质量 ÷ 密度 = 1.2 kg ÷ 400 kg/m³ = 0.003 m³。"
+      }
+    ]
+  },
+  {
+    "question": "Which statement best describes buoyancy?",
+    "options": [
+      {
+        "sentence": "Buoyancy is the upward force exerted by a fluid on an object immersed in it.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Buoyancy is the downward force exerted by an object on a fluid.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Buoyancy is the total weight of an object when it is placed in water.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Buoyancy is the resistance of a fluid to the motion of an object through it.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Buoyancy is the force that pulls an object towards the centre of the Earth.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Buoyancy is the upward force that a fluid exerts on an object that is partially or fully immersed in it. It acts in the opposite direction to weight.",
+        "chinese": "浮力是流体对部分或完全浸入其中的物体施加的向上的力。它与重力方向相反。"
+      }
+    ]
+  },
+  {
+    "question": "What does Archimedes' principle state?",
+    "options": [
+      {
+        "sentence": "The upthrust on an object in a fluid is equal to the weight of the fluid displaced by the object.",
+        "correct": "true"
+      },
+      {
+        "sentence": "The upthrust on an object in a fluid is equal to the weight of the object itself.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The upthrust on an object in a fluid is equal to the volume of the object multiplied by its density.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The upthrust on an object in a fluid is equal to the mass of the object divided by its volume.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The upthrust on an object in a fluid is equal to the pressure of the fluid multiplied by the object's surface area.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Archimedes' principle states that the upthrust (buoyant force) on an object immersed in a fluid is equal to the weight of the fluid that the object displaces.",
+        "chinese": "阿基米德原理指出，浸入流体中的物体所受的浮力等于物体排开的流体的重力。"
+      }
+    ]
+  },
+  {
+    "question": "A stone is lowered into a measuring cylinder containing water. The water level rises from 50 cm³ to 70 cm³. What is the volume of the stone?",
+    "options": [
+      {
+        "sentence": "20 cm³",
+        "correct": "true"
+      },
+      {
+        "sentence": "70 cm³",
+        "correct": "false"
+      },
+      {
+        "sentence": "50 cm³",
+        "correct": "false"
+      },
+      {
+        "sentence": "120 cm³",
+        "correct": "false"
+      },
+      {
+        "sentence": "10 cm³",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "The volume of the stone is equal to the volume of water displaced. Volume = 70 cm³ − 50 cm³ = 20 cm³.",
+        "chinese": "石头的体积等于排开水的体积。体积 = 70 cm³ − 50 cm³ = 20 cm³。"
+      }
+    ]
+  },
+  {
+    "question": "A metal block has a volume of 40 cm³ and a density of 2.5 g/cm³. What is its mass?",
+    "options": [
+      {
+        "sentence": "100 g",
+        "correct": "true"
+      },
+      {
+        "sentence": "16 g",
+        "correct": "false"
+      },
+      {
+        "sentence": "0.0625 g",
+        "correct": "false"
+      },
+      {
+        "sentence": "42.5 g",
+        "correct": "false"
+      },
+      {
+        "sentence": "1000 g",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Mass = density × volume = 2.5 g/cm³ × 40 cm³ = 100 g.",
+        "chinese": "质量 = 密度 × 体积 = 2.5 g/cm³ × 40 cm³ = 100 g。"
+      }
+    ]
+  },
+  {
+    "question": "An object weighs 6 N in air. When fully immersed in water, it weighs 4 N. What is the upthrust on the object?",
+    "options": [
+      {
+        "sentence": "2 N",
+        "correct": "true"
+      },
+      {
+        "sentence": "10 N",
+        "correct": "false"
+      },
+      {
+        "sentence": "4 N",
+        "correct": "false"
+      },
+      {
+        "sentence": "6 N",
+        "correct": "false"
+      },
+      {
+        "sentence": "1.5 N",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Upthrust = weight in air − weight in water = 6 N − 4 N = 2 N.",
+        "chinese": "浮力 = 空气中的重力 − 水中的重力 = 6 N − 4 N = 2 N。"
+      }
+    ]
+  },
+  {
+    "question": "A block of wood floats in water. Which statement is correct?",
+    "options": [
+      {
+        "sentence": "The upthrust on the wood is equal to the weight of the wood.",
+        "correct": "true"
+      },
+      {
+        "sentence": "The upthrust on the wood is greater than the weight of the wood.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The upthrust on the wood is less than the weight of the wood.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The upthrust on the wood is equal to the volume of the wood.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The upthrust on the wood is zero because it is floating.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "When an object floats, it is in equilibrium. The upthrust acting upwards is equal to the weight of the object acting downwards.",
+        "chinese": "当物体漂浮时，它处于平衡状态。向上的浮力等于向下的重力。"
+      }
+    ]
+  },
+  {
+    "question": "A solid object has a density of 1.2 g/cm³. Will it float or sink in water (density = 1.0 g/cm³)?",
+    "options": [
+      {
+        "sentence": "It will sink because its density is greater than the density of water.",
+        "correct": "true"
+      },
+      {
+        "sentence": "It will float because its density is greater than the density of water.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It will float because its density is less than the density of water.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It will sink because its density is less than the density of water.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It will neither float nor sink; it will stay suspended at the surface.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "An object will float if its density is less than the density of the fluid. It will sink if its density is greater than the fluid's density. Here, 1.2 g/cm³ > 1.0 g/cm³, so the object sinks.",
+        "chinese": "如果物体的密度小于流体的密度，物体会漂浮。如果物体的密度大于流体的密度，物体会下沉。这里 1.2 g/cm³ > 1.0 g/cm³，所以物体会下沉。"
+      }
+    ]
+  },
+  {
+    "question": "A rectangular block measures 5 cm × 4 cm × 2 cm. It has a mass of 80 g. What is its density?",
+    "options": [
+      {
+        "sentence": "2 g/cm³",
+        "correct": "true"
+      },
+      {
+        "sentence": "0.5 g/cm³",
+        "correct": "false"
+      },
+      {
+        "sentence": "40 g/cm³",
+        "correct": "false"
+      },
+      {
+        "sentence": "4 g/cm³",
+        "correct": "false"
+      },
+      {
+        "sentence": "8 g/cm³",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Volume = 5 cm × 4 cm × 2 cm = 40 cm³. Density = mass ÷ volume = 80 g ÷ 40 cm³ = 2 g/cm³.",
+        "chinese": "体积 = 5 cm × 4 cm × 2 cm = 40 cm³。密度 = 质量 ÷ 体积 = 80 g ÷ 40 cm³ = 2 g/cm³。"
+      }
+    ]
+  },
+  {
+    "question": "A piece of metal has a volume of 25 cm³. When placed in water, it displaces 25 cm³ of water. What is the upthrust on the metal? (Density of water = 1.0 g/cm³, g = 10 N/kg)",
+    "options": [
+      {
+        "sentence": "0.25 N",
+        "correct": "true"
+      },
+      {
+        "sentence": "25 N",
+        "correct": "false"
+      },
+      {
+        "sentence": "2.5 N",
+        "correct": "false"
+      },
+      {
+        "sentence": "250 N",
+        "correct": "false"
+      },
+      {
+        "sentence": "0.025 N",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Mass of water displaced = density × volume = 1.0 g/cm³ × 25 cm³ = 25 g = 0.025 kg. Weight of water displaced = mass × g = 0.025 kg × 10 N/kg = 0.25 N. By Archimedes' principle, upthrust = 0.25 N.",
+        "chinese": "排开水的质量 = 密度 × 体积 = 1.0 g/cm³ × 25 cm³ = 25 g = 0.025 kg。排开水的重力 = 质量 × g = 0.025 kg × 10 N/kg = 0.25 N。根据阿基米德原理，浮力 = 0.25 N。"
+      }
+    ]
+  },
+  {
+    "question": "An object floats in water with 40% of its volume submerged. If the density of water is 1.0 g/cm³, what is the density of the object?",
+    "options": [
+      {
+        "sentence": "0.4 g/cm³",
+        "correct": "true"
+      },
+      {
+        "sentence": "1.0 g/cm³",
+        "correct": "false"
+      },
+      {
+        "sentence": "0.6 g/cm³",
+        "correct": "false"
+      },
+      {
+        "sentence": "2.5 g/cm³",
+        "correct": "false"
+      },
+      {
+        "sentence": "0.04 g/cm³",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "For a floating object, the fraction submerged equals the ratio of the object's density to the fluid's density. So, density of object = fraction submerged × density of water = 0.4 × 1.0 g/cm³ = 0.4 g/cm³.",
+        "chinese": "对于漂浮物体，浸入的比例等于物体密度与流体密度的比值。因此，物体密度 = 浸入比例 × 水的密度 = 0.4 × 1.0 g/cm³ = 0.4 g/cm³。"
+      }
+    ]
+  },
+  {
+    "question": "A student measures the mass of an irregular object as 84 g. She uses a displacement can to find its volume. The water displaced is collected and found to have a volume of 12 cm³. What is the density of the object?",
+    "options": [
+      {
+        "sentence": "7 g/cm³",
+        "correct": "true"
+      },
+      {
+        "sentence": "0.14 g/cm³",
+        "correct": "false"
+      },
+      {
+        "sentence": "1008 g/cm³",
+        "correct": "false"
+      },
+      {
+        "sentence": "72 g/cm³",
+        "correct": "false"
+      },
+      {
+        "sentence": "1.4 g/cm³",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "The volume of the object equals the volume of water displaced = 12 cm³. Density = mass ÷ volume = 84 g ÷ 12 cm³ = 7 g/cm³.",
+        "chinese": "物体的体积等于排开水的体积 = 12 cm³。密度 = 质量 ÷ 体积 = 84 g ÷ 12 cm³ = 7 g/cm³。"
+      }
+    ]
+  },
+  {
+    "question": "Which of the following will float on water? (Density of water = 1.0 g/cm³)",
+    "options": [
+      {
+        "sentence": "A material with a density of 0.8 g/cm³.",
+        "correct": "true"
+      },
+      {
+        "sentence": "A material with a density of 1.2 g/cm³.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A material with a density of 2.7 g/cm³.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A material with a density of 1.5 g/cm³.",
+        "correct": "false"
+      },
+      {
+        "sentence": "A material with a density of 3.0 g/cm³.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "An object floats if its density is less than the density of the fluid it is placed in. 0.8 g/cm³ < 1.0 g/cm³, so it will float. All other options have densities greater than 1.0 g/cm³ and will sink.",
+        "chinese": "如果物体的密度小于所在流体的密度，物体会漂浮。0.8 g/cm³ < 1.0 g/cm³，所以会漂浮。其他选项的密度都大于 1.0 g/cm³，会下沉。"
+      }
+    ]
+  },
+  {
+    "question": "A block of material has a mass of 300 g and a volume of 150 cm³. Will it float in a liquid with a density of 1.2 g/cm³?",
+    "options": [
+      {
+        "sentence": "Yes, because the block's density is 2 g/cm³, which is greater than the liquid's density.",
+        "correct": "false"
+      },
+      {
+        "sentence": "No, because the block's density is 2 g/cm³, which is greater than the liquid's density.",
+        "correct": "true"
+      },
+      {
+        "sentence": "Yes, because the block's density is 0.5 g/cm³, which is less than the liquid's density.",
+        "correct": "false"
+      },
+      {
+        "sentence": "No, because the block's density is 0.5 g/cm³, which is less than the liquid's density.",
+        "correct": "false"
+      },
+      {
+        "sentence": "Yes, because the block's density is 1.2 g/cm³, which is equal to the liquid's density.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Density of block = mass ÷ volume = 300 g ÷ 150 cm³ = 2 g/cm³. Since 2 g/cm³ > 1.2 g/cm³, the block is denser than the liquid and will sink. Therefore, it will not float.",
+        "chinese": "块的密度 = 质量 ÷ 体积 = 300 g ÷ 150 cm³ = 2 g/cm³。因为 2 g/cm³ > 1.2 g/cm³，块的密度大于液体，会下沉。因此，它不会漂浮。"
+      }
+    ]
+  },
+  {
+    "question": "A ship floats in water. Which statement explains why a heavy steel ship can float even though steel is denser than water?",
+    "options": [
+      {
+        "sentence": "The ship's overall density is less than the density of water because it is hollow and contains air.",
+        "correct": "true"
+      },
+      {
+        "sentence": "The ship's weight is less than the upthrust because steel is heavy.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The ship displaces a volume of water equal to its own volume, so it floats.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The ship's density is greater than water, but it floats due to its shape.",
+        "correct": "false"
+      },
+      {
+        "sentence": "The ship floats because water pressure pushes it upwards more than gravity pulls it down.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "A ship is designed to be hollow and filled with air, so its overall (average) density is less than the density of water. This allows it to float, even though the steel itself is denser than water.",
+        "chinese": "船被设计成中空并充满空气，因此它的整体（平均）密度小于水的密度。这使得它能够漂浮，即使钢本身的密度大于水。"
+      }
+    ]
+  },
+  {
+    "question": "A stone has a weight of 5 N in air. When immersed in water, it displaces 200 cm³ of water. What is the weight of the stone in water? (Density of water = 1.0 g/cm³, g = 10 N/kg)",
+    "options": [
+      {
+        "sentence": "3 N",
+        "correct": "true"
+      },
+      {
+        "sentence": "5 N",
+        "correct": "false"
+      },
+      {
+        "sentence": "7 N",
+        "correct": "false"
+      },
+      {
+        "sentence": "2 N",
+        "correct": "false"
+      },
+      {
+        "sentence": "0.2 N",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Mass of water displaced = density × volume = 1.0 g/cm³ × 200 cm³ = 200 g = 0.2 kg. Weight of water displaced (upthrust) = mass × g = 0.2 kg × 10 N/kg = 2 N. Weight in water = weight in air − upthrust = 5 N − 2 N = 3 N.",
+        "chinese": "排开水的质量 = 密度 × 体积 = 1.0 g/cm³ × 200 cm³ = 200 g = 0.2 kg。排开水的重力（浮力）= 质量 × g = 0.2 kg × 10 N/kg = 2 N。水中的重力 = 空气中的重力 − 浮力 = 5 N − 2 N = 3 N。"
+      }
+    ]
+  },
+  {
+    "question": "An object has a density of 0.9 g/cm³. It is placed in a liquid with a density of 1.1 g/cm³. What will happen to the object?",
+    "options": [
+      {
+        "sentence": "It will float, with part of it above the surface.",
+        "correct": "true"
+      },
+      {
+        "sentence": "It will sink to the bottom.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It will float completely submerged just below the surface.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It will dissolve in the liquid.",
+        "correct": "false"
+      },
+      {
+        "sentence": "It will stay suspended at the surface with none of it above the liquid.",
+        "correct": "false"
+      }
+    ],
+    "explanation": [
+      {
+        "english": "Since the object's density (0.9 g/cm³) is less than the liquid's density (1.1 g/cm³), the object will float. It will be partially submerged, with some of its volume above the liquid surface.",
+        "chinese": "因为物体的密度（0.9 g/cm³）小于液体的密度（1.1 g/cm³），物体会漂浮。它会部分浸入，一部分体积在液面以上。"
+      }
+    ]
+  }
+]
