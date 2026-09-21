@@ -206,5 +206,85 @@
         "chinese": "开关通过打开或关闭电路路径来控制电流流动。"
       }
     ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "An ampere is the unit of electric current, measuring the rate of charge flow.", "correct": "true" },
+      { "sentence": "An ampere measures the potential difference between two points in a circuit.", "correct": "false" },
+      { "sentence": "An ampere is the unit of electrical resistance in a conductor.", "correct": "false" },
+      { "sentence": "An ampere measures the total number of electrons stored in a battery.", "correct": "false" },
+      { "sentence": "An ampere is a unit of power that indicates energy consumption per second.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The ampere (symbol A) is the SI unit of electric current, defined as the flow of one coulomb of charge per second.",
+        "chinese": "安培（符号 A）是电流的国际单位，定义为每秒流过一库仑的电荷。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "One ampere equals a flow of approximately 6.24 × 10^18 electrons per second past a point.", "correct": "true" },
+      { "sentence": "One ampere is the flow of exactly one electron per second past a point.", "correct": "false" },
+      { "sentence": "One ampere represents the total charge of a single electron moving through a wire.", "correct": "false" },
+      { "sentence": "One ampere is defined as the flow of electrons that produces exactly one watt of power.", "correct": "false" },
+      { "sentence": "One ampere equals the number of protons stored in a fully charged battery.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "One ampere corresponds to one coulomb per second, and one coulomb contains about 6.24 × 10^18 elementary charges.",
+        "chinese": "一安培等于每秒一库仑，而一库仑约包含 6.24 × 10^18 个基本电荷。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "A volt is the unit of electric potential difference or electromotive force.", "correct": "true" },
+      { "sentence": "A volt measures the rate at which electric charges flow through a wire.", "correct": "false" },
+      { "sentence": "A volt is the unit of electrical resistance that opposes current flow.", "correct": "false" },
+      { "sentence": "A volt measures the total energy stored in a battery regardless of charge.", "correct": "false" },
+      { "sentence": "A volt is a unit of electric current used only in DC circuits.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "The volt (symbol V) is the SI unit of electric potential and potential difference, representing energy per unit charge.",
+        "chinese": "伏特（符号 V）是电势和电势差的国际单位，表示单位电荷的能量。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "One volt is the potential difference that imparts one joule of energy per coulomb of charge.", "correct": "true" },
+      { "sentence": "One volt is the force required to move one electron through a wire one metre long.", "correct": "false" },
+      { "sentence": "One volt equals one ampere multiplied by one second of current flow.", "correct": "false" },
+      { "sentence": "One volt is the energy needed to push one ampere through any conductor.", "correct": "false" },
+      { "sentence": "One volt is the unit that measures the number of electrons in one coulomb.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "One volt is defined as the potential difference between two points when one joule of work is done to move one coulomb of charge between them.",
+        "chinese": "一伏特定义为两点之间的电势差，当移动一库仑电荷做功一焦耳时。"
+      }
+    ]
+  },
+  {
+    "question": "Which sentence is scientifically correct?",
+    "options": [
+      { "sentence": "Voltage can be described as the electrical pressure that drives current through a circuit.", "correct": "true" },
+      { "sentence": "Voltage is the actual flow of electrons that heats a conductor.", "correct": "false" },
+      { "sentence": "Voltage measures the number of charges stored on a capacitor plate.", "correct": "false" },
+      { "sentence": "Voltage is the resistance encountered by electrons moving through a wire.", "correct": "false" },
+      { "sentence": "Voltage is a quantity that only exists when current is actively flowing.", "correct": "false" }
+    ],
+    "explanation": [
+      {
+        "english": "Voltage acts like electrical pressure or potential difference that causes current to flow, and it can exist even without current.",
+        "chinese": "电压像电压力或电势差，驱动电流流动，即使没有电流它也可以存在。"
+      }
+    ]
   }
 ]
