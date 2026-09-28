@@ -3,10 +3,10 @@
     "question": "Which sentence is scientifically correct?",
     "options": [
       { "sentence": "The scientific method is a systematic approach used to investigate questions and solve problems based on evidence.", "correct": "true" },
-      { "sentence": "The scientific method is a set of random guesses without observation or testing.", "correct": "false" },
-      { "sentence": "The scientific method only applies to chemistry experiments and not to biology or physics.", "correct": "false" },
-      { "sentence": "The scientific method relies solely on intuition and opinions rather than evidence.", "correct": "false" },
-      { "sentence": "The scientific method is a way to memorize facts instead of testing ideas.", "correct": "false" }
+      { "sentence": "The scientific method is a flexible procedure that relies primarily on expert opinion and logical deduction.", "correct": "false" },
+      { "sentence": "The scientific method is a structured technique designed mainly for chemistry, with limited use in other fields.", "correct": "false" },
+      { "sentence": "The scientific method is an evidence-based process that confirms intuitive explanations through repeated observation.", "correct": "false" },
+      { "sentence": "The scientific method is a systematic framework for organizing established facts rather than testing new ideas.", "correct": "false" }
     ],
     "explanation": [
       {
@@ -20,10 +20,10 @@
     "question": "Which sentence is scientifically correct?",
     "options": [
       { "sentence": "A hypothesis is a testable prediction or explanation for a scientific question.", "correct": "true" },
-      { "sentence": "A hypothesis is an unchangeable fact that cannot be tested or questioned.", "correct": "false" },
-      { "sentence": "A hypothesis is a personal opinion that does not require evidence.", "correct": "false" },
-      { "sentence": "A hypothesis is the final conclusion of an experiment after data analysis.", "correct": "false" },
-      { "sentence": "A hypothesis is a random guess with no relation to observation or research.", "correct": "false" }
+      { "sentence": "A hypothesis is a well-established principle that has been confirmed through extensive experimentation.", "correct": "false" },
+      { "sentence": "A hypothesis is a reasoned explanation that can be revised but does not require direct testing.", "correct": "false" },
+      { "sentence": "A hypothesis is a preliminary conclusion drawn after data analysis to summarize experimental findings.", "correct": "false" },
+      { "sentence": "A hypothesis is an informed expectation based on observation that guides the design of an investigation.", "correct": "false" }
     ],
     "explanation": [
       {
@@ -37,10 +37,10 @@
     "question": "Which sentence is scientifically correct?",
     "options": [
       { "sentence": "Data analysis involves examining the results of an experiment to find patterns or support conclusions.", "correct": "true" },
-      { "sentence": "Data analysis means ignoring all measurements and writing a guess as the result.", "correct": "false" },
-      { "sentence": "Data analysis is only needed if the experiment fails completely.", "correct": "false" },
-      { "sentence": "Data analysis is about repeating the experiment without recording results.", "correct": "false" },
-      { "sentence": "Data analysis is memorizing the steps of the experiment instead of looking at outcomes.", "correct": "false" }
+      { "sentence": "Data analysis involves recording experimental observations and organizing them for future reference.", "correct": "false" },
+      { "sentence": "Data analysis is a procedure used mainly to verify that an experiment was performed correctly.", "correct": "false" },
+      { "sentence": "Data analysis is the step in which scientists repeat measurements to ensure consistent results.", "correct": "false" },
+      { "sentence": "Data analysis is a process of summarizing experimental steps to document the methodology used.", "correct": "false" }
     ],
     "explanation": [
       {
@@ -54,10 +54,10 @@
     "question": "Which sentence is scientifically correct?",
     "options": [
       { "sentence": "A conclusion is a statement that summarizes the results of an experiment and explains whether the hypothesis was supported.", "correct": "true" },
-      { "sentence": "A conclusion is a random opinion not based on experiment results.", "correct": "false" },
-      { "sentence": "A conclusion is the first guess made before the experiment begins.", "correct": "false" },
-      { "sentence": "A conclusion is the set of tools used in an experiment.", "correct": "false" },
-      { "sentence": "A conclusion is the repetition of an experiment without comparing results.", "correct": "false" }
+      { "sentence": "A conclusion is a statement that describes the procedures followed and the materials used during an experiment.", "correct": "false" },
+      { "sentence": "A conclusion is a prediction about the expected outcome of an experiment based on prior knowledge.", "correct": "false" },
+      { "sentence": "A conclusion is a summary of the background research that explains the purpose of an investigation.", "correct": "false" },
+      { "sentence": "A conclusion is a record of all observations made during an experiment, organized by category.", "correct": "false" }
     ],
     "explanation": [
       {
@@ -71,10 +71,10 @@
     "question": "Which sentence is scientifically correct?",
     "options": [
       { "sentence": "An experiment is a controlled procedure carried out to test a hypothesis.", "correct": "true" },
-      { "sentence": "An experiment is an imaginary story used to explain a concept.", "correct": "false" },
-      { "sentence": "An experiment is repeating a task for fun without recording results.", "correct": "false" },
-      { "sentence": "An experiment is a collection of random materials without a plan.", "correct": "false" },
-      { "sentence": "An experiment is memorizing facts from a textbook.", "correct": "false" }
+      { "sentence": "An experiment is a structured activity designed to demonstrate a principle already established by science.", "correct": "false" },
+      { "sentence": "An experiment is a planned procedure that produces data which are interpreted without reference to a hypothesis.", "correct": "false" },
+      { "sentence": "An experiment is a systematic method for collecting observations to describe natural phenomena in detail.", "correct": "false" },
+      { "sentence": "An experiment is a controlled process for verifying that previously published results can be reproduced.", "correct": "false" }
     ],
     "explanation": [
       {
@@ -88,10 +88,10 @@
     "question": "Which sentence is scientifically correct?",
     "options": [
       { "sentence": "A scientific approach uses observation, experimentation, and logical reasoning to understand the world.", "correct": "true" },
-      { "sentence": "A scientific approach is guessing answers without evidence.", "correct": "false" },
-      { "sentence": "A scientific approach is memorizing textbooks without testing ideas.", "correct": "false" },
-      { "sentence": "A scientific approach relies on beliefs instead of experiments.", "correct": "false" },
-      { "sentence": "A scientific approach is ignoring patterns in nature and making up stories.", "correct": "false" }
+      { "sentence": "A scientific approach uses careful observation and logical reasoning to confirm explanations accepted by experts.", "correct": "false" },
+      { "sentence": "A scientific approach uses systematic observation and experimentation to describe natural patterns without testing explanations.", "correct": "false" },
+      { "sentence": "A scientific approach relies on observation and reasoning to develop explanations that are consistent with established beliefs.", "correct": "false" },
+      { "sentence": "A scientific approach uses experimentation and logical reasoning to demonstrate the validity of widely held theories.", "correct": "false" }
     ],
     "explanation": [
       {
@@ -105,10 +105,10 @@
     "question": "Which sentence is scientifically correct?",
     "options": [
       { "sentence": "Taxonomy is the science of naming, describing, and classifying organisms into groups.", "correct": "true" },
-      { "sentence": "Taxonomy is a way to measure the age of rocks.", "correct": "false" },
-      { "sentence": "Taxonomy is memorizing all animal names without grouping them.", "correct": "false" },
-      { "sentence": "Taxonomy is creating random labels for plants and animals without rules.", "correct": "false" },
-      { "sentence": "Taxonomy is studying chemical reactions in the laboratory.", "correct": "false" }
+      { "sentence": "Taxonomy is the science of identifying organisms and recording their observable characteristics.", "correct": "false" },
+      { "sentence": "Taxonomy is the science of organizing organisms into groups based on their ecological roles.", "correct": "false" },
+      { "sentence": "Taxonomy is the science of comparing organisms to determine which ones are most closely related.", "correct": "false" },
+      { "sentence": "Taxonomy is the science of cataloging species and documenting their geographic distributions.", "correct": "false" }
     ],
     "explanation": [
       {
@@ -122,10 +122,10 @@
     "question": "Which sentence is scientifically correct?",
     "options": [
       { "sentence": "A kingdom is a major group in taxonomy that contains related phyla, like Animalia or Plantae.", "correct": "true" },
-      { "sentence": "A kingdom is a small group containing only one species.", "correct": "false" },
-      { "sentence": "A kingdom refers to the genetic code inside a cell.", "correct": "false" },
-      { "sentence": "A kingdom is a type of chemical found in plants.", "correct": "false" },
-      { "sentence": "A kingdom is a category for classifying rocks and minerals.", "correct": "false" }
+      { "sentence": "A kingdom is a taxonomic category that groups organisms sharing a common habitat or ecosystem.", "correct": "false" },
+      { "sentence": "A kingdom is a large taxonomic group that contains related classes and is divided into phyla.", "correct": "false" },
+      { "sentence": "A kingdom is a primary taxonomic rank that separates organisms based on their method of reproduction.", "correct": "false" },
+      { "sentence": "A kingdom is a broad taxonomic category that includes organisms with similar nutritional requirements.", "correct": "false" }
     ],
     "explanation": [
       {
@@ -139,10 +139,10 @@
     "question": "Which sentence is scientifically correct?",
     "options": [
       { "sentence": "A phylum is a major taxonomic group that classifies organisms based on their basic body plan or structure.", "correct": "true" },
-      { "sentence": "A phylum is the most specific taxonomic rank containing only one species.", "correct": "false" },
-      { "sentence": "A phylum is a type of kingdom found only in plants.", "correct": "false" },
-      { "sentence": "A phylum is a method of naming individual animals or plants.", "correct": "false" },
-      { "sentence": "A phylum is a group of families with identical genetic makeup.", "correct": "false" }
+      { "sentence": "A phylum is a taxonomic rank that groups organisms according to their geographic distribution and habitat.", "correct": "false" },
+      { "sentence": "A phylum is a major taxonomic category that organizes organisms by their methods of obtaining energy.", "correct": "false" },
+      { "sentence": "A phylum is a taxonomic group that classifies organisms based on shared reproductive strategies.", "correct": "false" },
+      { "sentence": "A phylum is a broad taxonomic rank that separates organisms according to their size and complexity.", "correct": "false" }
     ],
     "explanation": [
       {
@@ -156,10 +156,10 @@
     "question": "Which sentence is scientifically correct?",
     "options": [
       { "sentence": "Class is a taxonomic rank below phylum and above order, grouping similar organisms.", "correct": "true" },
-      { "sentence": "Class is the smallest category that contains only one individual.", "correct": "false" },
-      { "sentence": "Class is a way to measure the size of a species’ population.", "correct": "false" },
-      { "sentence": "Class is a type of chemical in animals used for digestion.", "correct": "false" },
-      { "sentence": "Class is the process of labeling plants with colors for identification.", "correct": "false" }
+      { "sentence": "Class is a taxonomic rank that groups organisms based on their geographic distribution and habitat.", "correct": "false" },
+      { "sentence": "Class is a taxonomic category that organizes organisms according to their methods of reproduction.", "correct": "false" },
+      { "sentence": "Class is a taxonomic rank that classifies organisms by their ecological roles in an ecosystem.", "correct": "false" },
+      { "sentence": "Class is a taxonomic group that separates organisms based on their body size and lifespan.", "correct": "false" }
     ],
     "explanation": [
       {
@@ -173,10 +173,10 @@
     "question": "Which sentence is scientifically correct?",
     "options": [
       { "sentence": "Species is the most specific taxonomic rank, referring to a group of organisms that can interbreed and produce fertile offspring.", "correct": "true" },
-      { "sentence": "Species is a rank that contains multiple kingdoms.", "correct": "false" },
-      { "sentence": "Species is a classification for non-living objects only.", "correct": "false" },
-      { "sentence": "Species is another name for a phylum.", "correct": "false" },
-      { "sentence": "Species is a way to organize chemicals in a laboratory.", "correct": "false" }
+      { "sentence": "Species is a taxonomic rank that groups organisms sharing a common habitat and feeding strategy.", "correct": "false" },
+      { "sentence": "Species is a taxonomic category that refers to a group of organisms with identical physical characteristics.", "correct": "false" },
+      { "sentence": "Species is the basic unit of classification, defined as a group of organisms living in the same geographic area.", "correct": "false" },
+      { "sentence": "Species is a taxonomic rank that includes organisms capable of exchanging genetic material under laboratory conditions.", "correct": "false" }
     ],
     "explanation": [
       {
@@ -190,10 +190,10 @@
     "question": "Which sentence is scientifically correct?",
     "options": [
       { "sentence": "A domain is the broadest taxonomic rank, separating organisms based on fundamental cellular and genetic differences.", "correct": "true" },
-      { "sentence": "A domain is a subdivision within a kingdom used to organize species with similar traits.", "correct": "false" },
-      { "sentence": "A domain groups organisms mainly by their ecological roles rather than cell structure.", "correct": "false" },
-      { "sentence": "A domain is a classification level used only in microbiology for bacteria.", "correct": "false" },
-      { "sentence": "A domain categorizes organisms based on how complex their organ systems are.", "correct": "false" }
+      { "sentence": "A domain is a high-level taxonomic rank that separates organisms based on their modes of nutrition and energy production.", "correct": "false" },
+      { "sentence": "A domain is a primary taxonomic category that groups organisms according to their ecological roles in the biosphere.", "correct": "false" },
+      { "sentence": "A domain is the highest taxonomic rank, dividing organisms according to their methods of reproduction.", "correct": "false" },
+      { "sentence": "A domain is a broad taxonomic category that classifies organisms based on their cellular complexity and organ systems.", "correct": "false" }
     ],
     "explanation": [
       {
@@ -207,10 +207,10 @@
     "question": "Which sentence is scientifically correct?",
     "options": [
       { "sentence": "Extremophiles are organisms that thrive in conditions such as high temperature, high salinity, or extreme acidity that are normally inhospitable to most life.", "correct": "true" },
-      { "sentence": "Extremophiles can tolerate mild stress but cannot grow in harsh environments.", "correct": "false" },
-      { "sentence": "Extremophiles survive extreme habitats only when supported by other species.", "correct": "false" },
-      { "sentence": "Extremophiles endure harsh environments temporarily but cannot reproduce there.", "correct": "false" },
-      { "sentence": "Extremophiles originated in normal environments and only migrate to extremes occasionally.", "correct": "false" }
+      { "sentence": "Extremophiles are organisms that can survive brief exposure to harsh conditions but require moderate environments for growth and reproduction.", "correct": "false" },
+      { "sentence": "Extremophiles are organisms that tolerate extreme conditions through symbiotic relationships with other species that provide protection.", "correct": "false" },
+      { "sentence": "Extremophiles are organisms that have adapted to extreme environments by entering dormant states until conditions improve.", "correct": "false" },
+      { "sentence": "Extremophiles are organisms that originated in moderate environments and gradually migrated to extreme habitats over evolutionary time.", "correct": "false" }
     ],
     "explanation": [
       {
@@ -224,10 +224,10 @@
     "question": "Which sentence is scientifically correct?",
     "options": [
       { "sentence": "Eukarya is a domain of organisms whose cells contain a nucleus and membrane-bound organelles.", "correct": "true" },
-      { "sentence": "Eukarya includes organisms with a nucleus but no membrane-bound organelles.", "correct": "false" },
-      { "sentence": "Eukarya refers only to multicellular species.", "correct": "false" },
-      { "sentence": "Eukarya includes organisms that reproduce sexually but not asexually.", "correct": "false" },
-      { "sentence": "Eukarya includes species with cell structures similar to prokaryotes.", "correct": "false" }
+      { "sentence": "Eukarya is a domain of organisms whose cells contain a nucleus but lack membrane-bound organelles.", "correct": "false" },
+      { "sentence": "Eukarya is a domain that includes only multicellular organisms with specialized tissues and organs.", "correct": "false" },
+      { "sentence": "Eukarya is a domain of organisms that reproduce sexually and lack the ability to reproduce asexually.", "correct": "false" },
+      { "sentence": "Eukarya is a domain of organisms whose cells contain a nucleus and cell structures similar to those of prokaryotes.", "correct": "false" }
     ],
     "explanation": [
       {
@@ -241,10 +241,10 @@
     "question": "Which sentence is scientifically correct?",
     "options": [
       { "sentence": "Bacteria are single-celled prokaryotes lacking a nucleus, known for metabolic diversity.", "correct": "true" },
-      { "sentence": "Bacteria are single-celled organisms with a nucleus but no membrane-bound organelles.", "correct": "false" },
-      { "sentence": "Bacteria are primarily multicellular organisms found only in water.", "correct": "false" },
-      { "sentence": "Bacteria rely only on oxygen for survival.", "correct": "false" },
-      { "sentence": "Bacteria can survive only through photosynthesis.", "correct": "false" }
+      { "sentence": "Bacteria are single-celled organisms that possess a nucleus but lack membrane-bound organelles.", "correct": "false" },
+      { "sentence": "Bacteria are primarily multicellular organisms that are found exclusively in aquatic environments.", "correct": "false" },
+      { "sentence": "Bacteria are single-celled prokaryotes that rely exclusively on oxygen for their metabolic processes.", "correct": "false" },
+      { "sentence": "Bacteria are single-celled organisms that obtain energy exclusively through photosynthesis.", "correct": "false" }
     ],
     "explanation": [
       {
@@ -257,16 +257,16 @@
   {
     "question": "Which sentence is scientifically correct?",
     "options": [
-      { "sentence": "Archaea are single-celled prokaryotes that differ from bacteria in genetics and membrane composition, with many adapted to extreme environments.", "correct": "true" },
-      { "sentence": "Archaea are bacteria that evolved recently through gene exchange.", "correct": "false" },
-      { "sentence": "Archaea are microorganisms that possess a nucleus.", "correct": "false" },
-      { "sentence": "Archaea are prokaryotes mainly distinguished by their ability to cause disease.", "correct": "false" },
-      { "sentence": "Archaea require moderate environments and cannot tolerate extremes.", "correct": "false" }
+      { "sentence": "Archaea are single-celled prokaryotes that differ from bacteria in their genetics, cell membrane composition, and ribosomal structure, with many adapted to extreme environments.", "correct": "true" },
+      { "sentence": "Archaea are single-celled prokaryotes that are distinguished from bacteria primarily by their ability to cause disease in humans.", "correct": "false" },
+      { "sentence": "Archaea are single-celled organisms that possess a nucleus and are genetically more similar to eukaryotes than to bacteria.", "correct": "false" },
+      { "sentence": "Archaea are prokaryotes that evolved recently from bacteria through horizontal gene transfer and are found only in extreme environments.", "correct": "false" },
+      { "sentence": "Archaea are single-celled prokaryotes that require moderate environmental conditions and cannot tolerate extremes of temperature or salinity.", "correct": "false" }
     ],
     "explanation": [
       {
-        "english": "Archaea have unique genetic and biochemical traits.",
-        "chinese": "古菌具有独特的遗传和生化特征。"
+        "english": "Archaea have unique genetic, biochemical, and ribosomal features that distinguish them from bacteria, and many thrive in extreme habitats.",
+        "chinese": "古菌具有独特的遗传、生化和核糖体特征，使其与细菌区分开来，且许多古菌在极端环境中繁衍生息。"
       }
     ]
   },
@@ -275,10 +275,10 @@
     "question": "Which sentence is scientifically correct?",
     "options": [
       { "sentence": "An autotroph is an organism that produces its own food using energy from sunlight or chemical reactions.", "correct": "true" },
-      { "sentence": "An autotroph obtains nutrients from other organisms but can photosynthesize in emergencies.", "correct": "false" },
-      { "sentence": "An autotroph is defined by energy storage, not energy production.", "correct": "false" },
-      { "sentence": "An autotroph relies on consuming dead organic matter.", "correct": "false" },
-      { "sentence": "An autotroph uses minerals as its primary energy source.", "correct": "false" }
+      { "sentence": "An autotroph is an organism that obtains nutrients from other organisms but can photosynthesize when necessary.", "correct": "false" },
+      { "sentence": "An autotroph is an organism defined primarily by how it stores energy rather than how it produces it.", "correct": "false" },
+      { "sentence": "An autotroph is an organism that relies on consuming dead organic matter as its primary source of nutrition.", "correct": "false" },
+      { "sentence": "An autotroph is an organism that uses minerals as its primary energy source for growth and reproduction.", "correct": "false" }
     ],
     "explanation": [
       {
@@ -289,13 +289,13 @@
   },
 
   {
-    "question": "Which sentence is scientifically corrected?",
+    "question": "Which sentence is scientifically correct?",
     "options": [
       { "sentence": "A heterotroph is an organism that obtains energy by consuming other organisms or organic matter.", "correct": "true" },
-      { "sentence": "A heterotroph can produce its own food but prefers to eat other organisms.", "correct": "false" },
-      { "sentence": "A heterotroph obtains energy exclusively from inorganic chemicals.", "correct": "false" },
-      { "sentence": "A heterotroph uses sunlight for energy but cannot perform photosynthesis.", "correct": "false" },
-      { "sentence": "A heterotroph relies solely on minerals, not organic matter.", "correct": "false" }
+      { "sentence": "A heterotroph is an organism that can produce its own food but prefers to obtain energy by consuming other organisms.", "correct": "false" },
+      { "sentence": "A heterotroph is an organism that obtains energy exclusively from inorganic chemicals through chemosynthesis.", "correct": "false" },
+      { "sentence": "A heterotroph is an organism that uses sunlight for energy but lacks the ability to perform photosynthesis.", "correct": "false" },
+      { "sentence": "A heterotroph is an organism that relies solely on minerals as its source of energy and carbon.", "correct": "false" }
     ],
     "explanation": [
       {
