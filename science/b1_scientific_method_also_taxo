@@ -3,8 +3,8 @@
     "question": "Which sentence is scientifically correct?",
     "options": [
       { "sentence": "The scientific method is a systematic approach used to investigate questions and solve problems based on evidence.", "correct": "true" },
-      { "sentence": "The scientific method is a flexible procedure that relies primarily on expert opinion and logical deduction.", "correct": "false" },
-      { "sentence": "The scientific method is a structured technique designed mainly for chemistry, with limited use in other fields.", "correct": "false" },
+      { "sentence": "The scientific method is a flexible procedure that relies mainly on expert opinion and logical thinking.", "correct": "false" },
+      { "sentence": "The scientific method is a structured technique designed mostly for chemistry, with limited use in other fields.", "correct": "false" },
       { "sentence": "The scientific method is an evidence-based process that confirms intuitive explanations through repeated observation.", "correct": "false" },
       { "sentence": "The scientific method is a systematic framework for organizing established facts rather than testing new ideas.", "correct": "false" }
     ],
@@ -258,7 +258,7 @@
     "question": "Which sentence is scientifically correct?",
     "options": [
       { "sentence": "Archaea are single-celled prokaryotes that differ from bacteria in their genetics, cell membrane composition, and ribosomal structure, with many adapted to extreme environments.", "correct": "true" },
-      { "sentence": "Archaea are single-celled prokaryotes that are distinguished from bacteria primarily by their ability to cause disease in humans.", "correct": "false" },
+      { "sentence": "Archaea are single-celled prokaryotes that are distinguished from bacteria mainly by their ability to cause disease in humans.", "correct": "false" },
       { "sentence": "Archaea are single-celled organisms that possess a nucleus and are genetically more similar to eukaryotes than to bacteria.", "correct": "false" },
       { "sentence": "Archaea are prokaryotes that evolved recently from bacteria through horizontal gene transfer and are found only in extreme environments.", "correct": "false" },
       { "sentence": "Archaea are single-celled prokaryotes that require moderate environmental conditions and cannot tolerate extremes of temperature or salinity.", "correct": "false" }
@@ -276,7 +276,7 @@
     "options": [
       { "sentence": "An autotroph is an organism that produces its own food using energy from sunlight or chemical reactions.", "correct": "true" },
       { "sentence": "An autotroph is an organism that obtains nutrients from other organisms but can photosynthesize when necessary.", "correct": "false" },
-      { "sentence": "An autotroph is an organism defined primarily by how it stores energy rather than how it produces it.", "correct": "false" },
+      { "sentence": "An autotroph is an organism defined mainly by how it stores energy rather than how it produces it.", "correct": "false" },
       { "sentence": "An autotroph is an organism that relies on consuming dead organic matter as its primary source of nutrition.", "correct": "false" },
       { "sentence": "An autotroph is an organism that uses minerals as its primary energy source for growth and reproduction.", "correct": "false" }
     ],
